@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e419a94b-58b6-490e-97fd-3a34f0c56b9e" name="liangjuntu@192.168.44.111:32200" url="http:///">
+        <fileTransfer host="192.168.44.111" port="32200" privateKey="E:\Work\key\id_rsa_2048" accessType="SFTP" keyPair="true">
+          <option name="port" value="32200" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
