@@ -26,6 +26,7 @@
         <mark key="^" line="80" column="47" />
         <mark key="." line="80" column="47" />
       </file>
+      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557137531430" />
       <file name="E:/Work/client/script/entity/ClientBattle.py" timestamp="1557039987662">
         <mark key="'" line="118" column="14" />
         <mark key="[" line="115" column="91" />
@@ -110,6 +111,9 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="90" column="12" />
       </file>
+      <file name="E:/Work/modelinfoexport/ModelInfo.py" timestamp="1557137224247">
+        <mark key="'" line="59" column="13" />
+      </file>
       <file name="E:/Work/client/script/game_scene/city_choose_hero.py" timestamp="1557045044320">
         <mark key="'" line="128" column="21" />
         <mark key="[" line="115" column="44" />
@@ -171,13 +175,13 @@
         <mark key="^" line="153" column="29" />
         <mark key="." line="153" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1557129954558">
+      <file name="/Python Console" timestamp="1557137385879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1557129438434">
+      <file name="/fragment.py" timestamp="1557137548331">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1556508635258">
         <mark key="'" line="2598" column="35" />
@@ -210,7 +214,7 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557135866778">
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557137364487">
         <mark key="'" line="1796" column="26" />
         <mark key="[" line="1699" column="23" />
         <mark key="]" line="1699" column="23" />
@@ -397,7 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="801" column="21" filename="E:/Work/server/script/battle/BattleRoom.py" />
       <jump line="25" column="15" filename="E:/Work/client/script/entity/avatar_attrs/CombatData.py" />
       <jump line="57" column="13" filename="E:/Work/server/script/battle/BattleRoom.py" />
       <jump line="192" column="99" filename="E:/Work/client/script/game_scene/turbulence_team.py" />
@@ -497,13 +500,14 @@
       <jump line="1756" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1796" column="26" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="316" column="23" filename="D:/Work2/client2/script/game_scene/city_caidan.py" />
+      <jump line="59" column="13" filename="E:/Work/modelinfoexport/ModelInfo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>speed</text>
