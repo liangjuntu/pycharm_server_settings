@@ -26,9 +26,6 @@
         <mark key="^" line="80" column="47" />
         <mark key="." line="80" column="47" />
       </file>
-      <file name="E:/Work/client/script/entity/avatar_members/ShikongzhidiMember.py" timestamp="1557042631186">
-        <mark key="'" line="99" column="18" />
-      </file>
       <file name="E:/Work/client/script/entity/ClientBattle.py" timestamp="1557039987662">
         <mark key="'" line="118" column="14" />
         <mark key="[" line="115" column="91" />
@@ -159,8 +156,8 @@
         <mark key="^" line="237" column="40" />
         <mark key="." line="237" column="40" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557124306636">
-        <mark key="'" line="201" column="35" />
+      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557126141012">
+        <mark key="'" line="201" column="31" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1854.py" timestamp="1556612519858">
         <mark key="[" line="67" column="69" />
@@ -178,7 +175,7 @@
       <file name="/Python Console" timestamp="1557112457259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1557124319050">
+      <file name="/fragment.py" timestamp="1557126557931">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -214,12 +211,11 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557125387622">
-        <mark key="'" line="1750" column="21" />
-        <mark key="[" line="1751" column="57" />
-        <mark key="]" line="1752" column="33" />
-        <mark key="^" line="1752" column="33" />
-        <mark key="." line="1752" column="33" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557126150426">
+        <mark key="[" line="1698" column="13" />
+        <mark key="]" line="1698" column="8" />
+        <mark key="^" line="1698" column="8" />
+        <mark key="." line="1698" column="8" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_attrs/HeroMgrData.py" timestamp="1556624853073">
         <mark key="'" line="978" column="29" />
@@ -270,8 +266,12 @@
         <mark key="^" line="144" column="46" />
         <mark key="." line="144" column="46" />
       </file>
-      <file name="D:/Work2/client2/script/com/utils/gm_cmd.py" timestamp="1557112255386">
+      <file name="D:/Work2/client2/script/com/utils/gm_cmd.py" timestamp="1557126110066">
         <mark key="'" line="3224" column="9" />
+        <mark key="[" line="3228" column="8" />
+        <mark key="]" line="3228" column="8" />
+        <mark key="^" line="3228" column="8" />
+        <mark key="." line="3228" column="8" />
       </file>
       <file name="E:/Work/client/script/game_scene/awake_show.py" timestamp="1556624341274">
         <mark key="'" line="94" column="43" />
@@ -298,9 +298,6 @@
         <mark key="]" line="44" column="94" />
         <mark key="^" line="44" column="94" />
         <mark key="." line="44" column="94" />
-      </file>
-      <file name="E:/Work/client/script/combat/logic/logic/player_logic.py" timestamp="1557045752948">
-        <mark key="'" line="17" column="20" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/hero_herolist.py" timestamp="1557112757193" />
       <file name="E:/Work/server/script/entity/GlobalMultiTeamStub.py" timestamp="1557048586452">
@@ -372,6 +369,9 @@
         <mark key="^" line="497" column="33" />
         <mark key="." line="497" column="33" />
       </file>
+      <file name="D:/Work2/client2/script/combat/view/combat_system.py" timestamp="1557126068259">
+        <mark key="'" line="177" column="30" />
+      </file>
       <file name="E:/Work/server/script/combat/view/unit/components/SkillMgrComp.py" timestamp="1556632649352">
         <mark key="[" line="327" column="54" />
         <mark key="]" line="327" column="64" />
@@ -394,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="42" filename="E:/Work/server/script/entity/GlobalTeamStub.py" />
       <jump line="25" column="13" filename="E:/Work/server/script/entity/avatar_attrs/TeamData.py" />
       <jump line="223" column="8" filename="E:/Work/client/script/game_scene/turbulence_team.py" />
       <jump line="413" column="163" filename="E:/Work/client/script/cocos/panels/spacetime_team.py" />
@@ -493,7 +492,8 @@
       <jump line="1751" column="31" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="43" column="4" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1750" column="21" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="201" column="35" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
+      <jump line="177" column="30" filename="D:/Work2/client2/script/combat/view/combat_system.py" />
+      <jump line="201" column="31" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
