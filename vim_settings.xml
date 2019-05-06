@@ -159,8 +159,8 @@
         <mark key="^" line="237" column="40" />
         <mark key="." line="237" column="40" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557114215009">
-        <mark key="'" line="201" column="54" />
+      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557123376885">
+        <mark key="'" line="201" column="31" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1854.py" timestamp="1556612519858">
         <mark key="[" line="67" column="69" />
@@ -177,6 +177,11 @@
       </file>
       <file name="/Python Console" timestamp="1557112457259">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1557123467589">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1556508635258">
         <mark key="'" line="2598" column="35" />
@@ -209,8 +214,12 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557114654333">
-        <mark key="'" line="1426" column="19" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557123477792">
+        <mark key="'" line="1751" column="31" />
+        <mark key="[" line="1751" column="57" />
+        <mark key="]" line="1752" column="33" />
+        <mark key="^" line="1752" column="33" />
+        <mark key="." line="1752" column="33" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_attrs/HeroMgrData.py" timestamp="1556624853073">
         <mark key="'" line="978" column="29" />
@@ -385,11 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="23" filename="E:/Work/client/script/entity/avatar_attrs/TeamData.py" />
-      <jump line="22" column="21" filename="E:/Work/client/script/entity/avatar_attrs/TeamData.py" />
-      <jump line="285" column="23" filename="E:/Work/client/script/game_scene/turbulence_team.py" />
-      <jump line="61" column="8" filename="E:/Work/client/script/game_scene/city_model.py" />
-      <jump line="176" column="14" filename="E:/Work/server/script/entity/avatar_members/PveTeamMember.py" />
       <jump line="152" column="42" filename="E:/Work/server/script/entity/GlobalTeamStub.py" />
       <jump line="25" column="13" filename="E:/Work/server/script/entity/avatar_attrs/TeamData.py" />
       <jump line="223" column="8" filename="E:/Work/client/script/game_scene/turbulence_team.py" />
@@ -484,20 +488,25 @@
       <jump line="1369" column="85" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1303" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1426" column="19" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="201" column="54" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
+      <jump line="1750" column="23" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="201" column="31" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
+      <jump line="1699" column="25" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1709" column="22" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1751" column="31" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="43" column="4" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXJ0aWZhY3RfaW5mbyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJc2VsZi5fc2V0X2FuaW1zKGFuaW1zLCBhbmltY2IpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJ0aWZhY3RfaW5mbyA=</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>speed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzZWxmLmFydGlmYWN0X2luZm8gPSBpbml0RGljdC5nZXQoJ2FpJywgKEZhbHNlLCAwKSkK</text>
+        <text encoding="base64">CQkJc2VsZi5fc2V0X2FuaW1zKGFuaW1zLCBhbmltY2IpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCSMgVE9ETyDQ3rjECg==</text>
@@ -527,7 +536,7 @@
         <text encoding="base64">CTMyNgo=</text>
       </register>
       <register name=":" type="4">
-        <text>22</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -578,9 +587,9 @@
         <entry>453</entry>
         <entry>1780</entry>
         <entry>127</entry>
-        <entry>w</entry>
         <entry>401</entry>
         <entry>22</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
