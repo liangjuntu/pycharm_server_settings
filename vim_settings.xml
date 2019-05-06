@@ -159,8 +159,8 @@
         <mark key="^" line="237" column="40" />
         <mark key="." line="237" column="40" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557123376885">
-        <mark key="'" line="201" column="31" />
+      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557124306636">
+        <mark key="'" line="201" column="35" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1854.py" timestamp="1556612519858">
         <mark key="[" line="67" column="69" />
@@ -178,7 +178,7 @@
       <file name="/Python Console" timestamp="1557112457259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1557123467589">
+      <file name="/fragment.py" timestamp="1557124319050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -214,8 +214,8 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557123477792">
-        <mark key="'" line="1751" column="31" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557124316789">
+        <mark key="'" line="1750" column="21" />
         <mark key="[" line="1751" column="57" />
         <mark key="]" line="1752" column="33" />
         <mark key="^" line="1752" column="33" />
@@ -488,12 +488,12 @@
       <jump line="1369" column="85" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1303" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1426" column="19" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="1750" column="23" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="201" column="31" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
       <jump line="1699" column="25" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1709" column="22" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1751" column="31" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="43" column="4" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1750" column="21" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="201" column="35" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
