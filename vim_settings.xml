@@ -82,9 +82,9 @@
         <mark key="^" line="458" column="33" />
         <mark key="." line="458" column="33" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1557132922446">
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1557133333223">
         <mark key="'" line="1761" column="24" />
-        <mark key="[" line="1709" column="23" />
+        <mark key="[" line="1709" column="25" />
         <mark key="]" line="1709" column="23" />
         <mark key="." line="1709" column="23" />
         <mark key="^" line="1709" column="23" />
@@ -210,12 +210,12 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557132735457">
-        <mark key="'" line="1367" column="73" />
-        <mark key="[" line="1699" column="24" />
-        <mark key="]" line="1699" column="22" />
-        <mark key="^" line="1699" column="22" />
-        <mark key="." line="1699" column="22" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557133967109">
+        <mark key="'" line="1796" column="26" />
+        <mark key="[" line="1699" column="23" />
+        <mark key="]" line="1699" column="23" />
+        <mark key="^" line="1699" column="23" />
+        <mark key="." line="1699" column="23" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_attrs/HeroMgrData.py" timestamp="1556624853073">
         <mark key="'" line="978" column="29" />
@@ -396,11 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="54" filename="E:/Work/client/script/cocos/panels/spacetime_team.py" />
-      <jump line="667" column="19" filename="E:/Work/server/script/battle/BattleRoom.py" />
-      <jump line="690" column="29" filename="E:/Work/server/script/battle/BattleRoom.py" />
-      <jump line="785" column="23" filename="E:/Work/server/script/battle/BattleRoom.py" />
-      <jump line="60" column="27" filename="E:/Work/server/script/battle/BattleRoom.py" />
       <jump line="801" column="21" filename="E:/Work/server/script/battle/BattleRoom.py" />
       <jump line="25" column="15" filename="E:/Work/client/script/entity/avatar_attrs/CombatData.py" />
       <jump line="57" column="13" filename="E:/Work/server/script/battle/BattleRoom.py" />
@@ -496,6 +491,11 @@
       <jump line="17" column="27" filename="D:/Work2/client2/script/res_mgr/model_mgr.py" />
       <jump line="1367" column="73" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="136" column="34" filename="D:/Work2/client2/script/game_scene/city_hero_skin.py" />
+      <jump line="1636" column="13" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1715" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1756" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1796" column="26" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="316" column="23" filename="D:/Work2/client2/script/game_scene/city_caidan.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
