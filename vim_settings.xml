@@ -16,12 +16,11 @@
       <file name="D:/Work2/client2/script/logic/logic_event.py" timestamp="1557112235357">
         <mark key="'" line="19" column="26" />
       </file>
-      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557151329815">
-        <mark key="'" line="224" column="18" />
-        <mark key="[" line="201" column="43" />
-        <mark key="]" line="202" column="13" />
-        <mark key="." line="202" column="13" />
-        <mark key="^" line="202" column="13" />
+      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557153549537">
+        <mark key="'" line="223" column="18" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/script/init.py" timestamp="1557148953967">
         <mark key="'" line="29" column="78" />
@@ -200,7 +199,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CW1vZGVsRmlsZVBhdGhzID0gW21vZGVsRmlsZVBhdGhzWzBdLF0K</text>
+        <text encoding="base64">CXByaW50KHBhdGgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>ObjectFileID</text>
@@ -212,31 +211,31 @@
         <text encoding="base64">CQlwcmludChuYW1lX2xpc3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1vZGVsRmlsZVBhdGhzID0gW21vZGVsRmlsZVBhdGhzWzBdLF0K</text>
+        <text encoding="base64">CXByaW50KHBhdGgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXBhc2VfZ2ltKCkK</text>
+        <text encoding="base64">CW1vZGVsRmlsZVBhdGhzID0gW21vZGVsRmlsZVBhdGhzWzBdLF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXBhc2VfZ2ltKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcmludCAiKioqKip0cmlnZ2VyKioqKioiCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwcmludCAiKioqKip0cmlnZ2VyKioqKioiCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWltcG9ydCBvcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpbXBvcnQgb3MK</text>
+        <text encoding="base64">CWltcG9ydCBvcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl4bWxmaWxlcGF0aCA9IG9zLnBhdGguYWJzcGF0aCgiRTovL3Jlc19vdXRzb3VyY2UvL2hlcm8vLzEwMTA4Ly8xMDEwOC5naW0iKQo=</text>
+        <text encoding="base64">CQlpbXBvcnQgb3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
