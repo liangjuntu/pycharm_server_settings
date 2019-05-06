@@ -47,7 +47,6 @@
         <mark key="^" line="1698" column="9" />
         <mark key="." line="1698" column="9" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/panels/hero_model.py" timestamp="1557113550630" />
       <file name="E:/Work/client/script/game_scene/turbulence.py" timestamp="1556625019537">
         <mark key="'" line="440" column="33" />
         <mark key="[" line="409" column="75" />
@@ -211,7 +210,8 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557126150426">
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557128740224">
+        <mark key="'" line="1700" column="13" />
         <mark key="[" line="1698" column="13" />
         <mark key="]" line="1698" column="8" />
         <mark key="^" line="1698" column="8" />
@@ -299,7 +299,6 @@
         <mark key="^" line="44" column="94" />
         <mark key="." line="44" column="94" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/panels/hero_herolist.py" timestamp="1557112757193" />
       <file name="E:/Work/server/script/entity/GlobalMultiTeamStub.py" timestamp="1557048586452">
         <mark key="'" line="409" column="43" />
         <mark key="[" line="1254" column="40" />
@@ -333,7 +332,6 @@
         <mark key="." line="302" column="75" />
         <mark key="^" line="302" column="75" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/comps/common_model/model.py" timestamp="1557113324633" />
       <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1556617208969">
         <mark key="'" line="880" column="38" />
         <mark key="[" line="1347" column="59" />
@@ -394,7 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="E:/Work/server/script/entity/avatar_attrs/TeamData.py" />
       <jump line="223" column="8" filename="E:/Work/client/script/game_scene/turbulence_team.py" />
       <jump line="413" column="163" filename="E:/Work/client/script/cocos/panels/spacetime_team.py" />
       <jump line="422" column="157" filename="E:/Work/client/script/cocos/panels/spacetime_team.py" />
@@ -494,6 +491,7 @@
       <jump line="1750" column="21" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="177" column="30" filename="D:/Work2/client2/script/combat/view/combat_system.py" />
       <jump line="201" column="31" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
+      <jump line="1700" column="13" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
