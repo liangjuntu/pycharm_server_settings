@@ -30,8 +30,9 @@
       <file name="D:/Work2/client2/script/logic/logic_event.py" timestamp="1557112235357">
         <mark key="'" line="19" column="26" />
       </file>
-      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557148987629">
-        <mark key="'" line="193" column="21" />
+      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557149442807">
+        <mark key="'" line="217" column="28" />
+        <mark key="[" line="217" column="64" />
       </file>
       <file name="E:/Work/client/script/entity/ClientBattle.py" timestamp="1557039987662">
         <mark key="'" line="118" column="14" />
@@ -130,6 +131,7 @@
         <mark key="^" line="90" column="31" />
         <mark key="." line="90" column="31" />
       </file>
+      <file name="E:/Work/modelinfoexport/run_model.bat" timestamp="1557149452519" />
       <file name="E:/Work/client/script/game_scene/city_choose_hero.py" timestamp="1557045044320">
         <mark key="'" line="128" column="21" />
         <mark key="[" line="115" column="44" />
@@ -185,7 +187,7 @@
         <mark key="^" line="153" column="29" />
         <mark key="." line="153" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1557144375963">
+      <file name="/Python Console" timestamp="1557149463349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1557144623078">
@@ -303,7 +305,7 @@
       <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1557143660438">
         <mark key="'" line="459" column="34" />
       </file>
-      <file name="E:/Work/modelinfoexport/modelinfoexport.py" timestamp="1557148611452">
+      <file name="E:/Work/modelinfoexport/modelinfoexport.py" timestamp="1557149459167">
         <mark key="'" line="67" column="31" />
         <mark key="[" line="84" column="4" />
         <mark key="]" line="84" column="5" />
@@ -459,7 +461,6 @@
       <jump line="59" column="13" filename="E:/Work/modelinfoexport/ModelInfo.py" />
       <jump line="157" column="15" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="199" column="15" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
-      <jump line="217" column="37" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="83" column="38" filename="D:/Work2/client2/script/liangjuntu.py" />
       <jump line="595" column="33" filename="D:/Work2/client2/script/game_scene/city_caidan.py" />
       <jump line="570" column="44" filename="D:/Work2/client2/script/game_scene/city_caidan.py" />
@@ -479,7 +480,6 @@
       <jump line="86" column="26" filename="E:/Work/modelinfoexport/modelinfoexport.py" />
       <jump line="79" column="22" filename="E:/Work/modelinfoexport/modelinfoexport.py" />
       <jump line="9" column="0" filename="E:/Work/modelinfoexport/path.py" />
-      <jump line="85" column="22" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="214" column="19" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="20" column="6" filename="E:/Work/modelinfoexport/script/init.py" />
       <jump line="232" column="4" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
@@ -490,6 +490,8 @@
       <jump line="221" column="19" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="211" column="46" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="193" column="21" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
+      <jump line="217" column="28" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
+      <jump line="85" column="4" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
