@@ -16,12 +16,21 @@
       <file name="D:/Work2/client2/script/logic/logic_event.py" timestamp="1557112235357">
         <mark key="'" line="19" column="26" />
       </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557210288289">
         <mark key="'" line="214" column="37" />
         <mark key="[" line="229" column="5" />
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
         <mark key="^" line="229" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10102.py" timestamp="1557213311021">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10106.py" timestamp="1557223731399">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1873.py" timestamp="1557223157407">
         <mark key="[" line="30" column="51" />
@@ -94,6 +103,9 @@
         <mark key="^" line="21" column="54" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1852.py" timestamp="1557219515605" />
+      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
+        <mark key="[" line="118" column="75" />
+      </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_6579.py" timestamp="1557227906222" />
       <file name="D:/Work2/client2/script/com/data/cdata/hero.py" timestamp="1557229543119">
         <mark key="[" line="99" column="694" />
@@ -116,13 +128,21 @@
       <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557144628099">
         <mark key="'" line="150" column="36" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1557221133677" />
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1557230961587" />
+      <file name="/Python Console" timestamp="1557230590742">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557214520658">
         <mark key="'" line="22" column="33" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="60" column="26" />
         <mark key="." line="60" column="26" />
         <mark key="^" line="60" column="26" />
+      </file>
+      <file name="/fragment.py" timestamp="1557230651435">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/SkillCompNormalAttack.py" timestamp="1557229743415" />
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557201090701">
@@ -133,6 +153,11 @@
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/SkillComp.py" timestamp="1557221144637" />
       <file name="E:/Work/modelinfoexport/model_data.py" timestamp="1557211753218" />
+      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10104.py" timestamp="1557218336907">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/BuffComp.py" timestamp="1557215997854">
         <mark key="'" line="150" column="31" />
       </file>
@@ -153,12 +178,12 @@
         <mark key="^" line="184" column="24" />
         <mark key="." line="184" column="24" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557229241893">
-        <mark key="'" line="1325" column="15" />
-        <mark key="[" line="1386" column="100" />
-        <mark key="]" line="1311" column="37" />
-        <mark key="^" line="1311" column="37" />
-        <mark key="." line="1311" column="37" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557231473820">
+        <mark key="'" line="1307" column="21" />
+        <mark key="[" line="1387" column="0" />
+        <mark key="]" line="1387" column="0" />
+        <mark key="^" line="1381" column="115" />
+        <mark key="." line="1387" column="0" />
       </file>
       <file name="D:/Work2/client2/script/com/base/game_object.py" timestamp="1557220613140" />
       <file name="D:/Work2/client2/script/cocos/panels/hero_common.py" timestamp="1557113386730">
@@ -204,6 +229,9 @@
         <mark key="^" line="117" column="24" />
         <mark key="." line="117" column="24" />
       </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10103.py" timestamp="1557213342950">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1854.py" timestamp="1557219133963" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/AIComp.py" timestamp="1557222668893" />
       <file name="D:/Work2/client2/script/combat/view/combat_system.py" timestamp="1557126068259">
@@ -218,8 +246,6 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1850.py" timestamp="1557213526064" />
     </filemarks>
     <jumps>
-      <jump line="159" column="73" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
-      <jump line="1426" column="19" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1699" column="25" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1709" column="22" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1751" column="31" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
@@ -318,10 +344,12 @@
       <jump line="1323" column="15" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="16" column="60" filename="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1871.py" />
       <jump line="155" column="59" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
+      <jump line="2336" column="63" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1307" column="21" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>False</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>False</text>
@@ -334,39 +362,35 @@
 		self.unit.ModelComp.remap_anim('idle', 'skill_10003')</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gTW9kZWxTY2VuZURhdGEuZ2V0X21vZGVsX3ByZWxvYWRfc2Z4cyhtb2RlbF9uYW1lKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQlzZWxmLmlzX21lbmd5b3UgPSBGYWxzZQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text># 替换 跑步，待机
 		self.unit.ModelComp.remap_anim('run', 'skill_10002')
 		self.unit.ModelComp.remap_anim('idle', 'skill_10003')</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkjIFRPRE8gxdyyvaOstP27+go=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlwYXNzCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlzZWxmLm1lbmd5b3VfdG1pZCA9IE5vbmUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>if self.update_tmid:
 			ptimer.CancelTimer(self.unit.combat.tmid, self.update_tmid)
 			self.update_tmid = None</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlzZWxmLm1lbmd5b3VfdG1pZCA9IE5vbmUK</text>
-      </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;&quot;
-宝妮 W 睡吧睡吧
-使用枕头散播催眠花粉，使得周身半径40范围内目标受到XXX点伤害，同时触发敌方身上的困倦buff，每有一层buff则被眩晕0.5s。
-（触发眩晕时清除被动DEBUFF，期间可以再叠加DEBUFF，若敌人免疫控制，也不会清除被动DEBUFF）
-（眩晕</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
