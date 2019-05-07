@@ -6,7 +6,7 @@
       <file name="/Python Console" timestamp="1557209700705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557213262285">
+      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557214520658">
         <mark key="'" line="22" column="33" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="60" column="26" />
@@ -35,6 +35,12 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10104.py" timestamp="1557214553406">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/BuffComp.py" timestamp="1557214579434" />
       <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557210288289">
         <mark key="'" line="214" column="37" />
         <mark key="[" line="229" column="5" />
@@ -214,7 +220,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSdmeC9oZXJvX3BhdGljbGUvYmFvbmkvYmFvbmlfc2tpbGxfMDAwMDUuc2Z4JywK</text>
       </register>
       <register name="-" type="4">
         <text>9801</text>
@@ -226,12 +232,27 @@
         <text encoding="base64">CWlmIHNlbGYuc2Z4OgoJCQlnZy5zZnhfbWdyLmRlc3Ryb3lfc2Z4KHNmeCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSdmeC9oZXJvX3BhdGljbGUvYmFvbmkvYmFvbmlfc2tpbGxfMDAwMDUuc2Z4JywK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CSdmeC9oZXJvX3BhdGljbGUvYmFvbmkvYmFvbmlfc2tpbGxfMDAwMDQuc2Z4JywK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSdmeC9oZXJvX3BhdGljbGUvYmFvbmkvYmFvbmlfc2tpbGxfMDAwMDMuc2Z4JywK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSdmeC9oZXJvX3BhdGljbGUvYmFvbmkvYmFvbmlfc2tpbGxfMDAwMDIuc2Z4JywK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWZ4L2hlcm9fcGF0aWNsZS9iYW9uaS9iYW9uaV9za2lsbF8xMDAwMi5zZngnLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>if not skill_calc_result.penetrate:
 			return
 
@@ -239,23 +260,8 @@
 		normal_skill = self.unit.SkillMgrComp.get_normal_skill()
 		normal_skill.change_attack(True)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXBhc3MK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZngvaGVyb19wYXRpY2xlL2Jhb25pL2Jhb25pX3NraWxsXzAwMDA1LnNmeAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZngvaGVyb19wYXRpY2xlL2Jhb25pL2Jhb25pX3NraWxsXzAwMDA0LnNmeAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
