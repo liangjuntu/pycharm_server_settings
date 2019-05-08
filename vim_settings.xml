@@ -22,12 +22,12 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557281144633">
-        <mark key="'" line="214" column="37" />
-        <mark key="[" line="229" column="5" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-        <mark key="^" line="229" column="0" />
+      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557284574239">
+        <mark key="'" line="195" column="41" />
+        <mark key="[" line="232" column="4" />
+        <mark key="]" line="232" column="4" />
+        <mark key="." line="232" column="4" />
+        <mark key="^" line="232" column="4" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10102.py" timestamp="1557213311021">
         <mark key="[" line="0" column="0" />
@@ -69,9 +69,9 @@
         <mark key="^" line="0" column="70" />
         <mark key="." line="0" column="70" />
       </file>
-      <file name="E:/Work/modelinfoexport/ModelInfo.py" timestamp="1557200995077">
+      <file name="E:/Work/modelinfoexport/ModelInfo.py" timestamp="1557284417294">
         <mark key="'" line="93" column="70" />
-        <mark key="[" line="98" column="44" />
+        <mark key="[" line="181" column="13" />
         <mark key="]" line="98" column="76" />
         <mark key="." line="98" column="76" />
         <mark key="^" line="98" column="76" />
@@ -123,7 +123,7 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1557278795440">
         <mark key="'" line="286" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1557277025376">
+      <file name="/Python Console" timestamp="1557283765014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557214520658">
@@ -169,12 +169,12 @@
         <mark key="^" line="184" column="24" />
         <mark key="." line="184" column="24" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557281893983">
-        <mark key="'" line="1393" column="91" />
-        <mark key="[" line="1393" column="104" />
-        <mark key="]" line="1393" column="108" />
-        <mark key="^" line="1393" column="108" />
-        <mark key="." line="1393" column="108" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557284935210">
+        <mark key="'" line="1392" column="90" />
+        <mark key="[" line="1314" column="12" />
+        <mark key="]" line="1314" column="12" />
+        <mark key="^" line="1314" column="12" />
+        <mark key="." line="1314" column="12" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/hero_common.py" timestamp="1557113386730">
         <mark key="'" line="492" column="26" />
@@ -227,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1367" column="73" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="136" column="34" filename="D:/Work2/client2/script/game_scene/city_hero_skin.py" />
       <jump line="1636" column="13" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1715" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1756" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
@@ -326,53 +324,52 @@
       <jump line="1319" column="23" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1453" column="22" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1472" column="8" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="1393" column="91" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1393" column="86" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="195" column="41" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
+      <jump line="1392" column="90" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>iteritems</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSNtb2RlbEZpbGVQYXRocyA9IFsnRTpcXFdvcmtcXGNsaWVudFxccmVzXFxtb2RlbFxcMTAxMDZcXDEwMTA2LmdpbScsXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>iteritems</text>
+        <text>ModelSceneData.get_model_preload_sfxs(model_name)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>for name, sfx in self._artifact_sfx.iteritems():
-			if sfx and sfx.valid:
-				sfx.remove_from_parent()
-				sfx.destroy()
-		self._artifact_sfx = {}</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSNtb2RlbEZpbGVQYXRocyA9IFsnRTpcXFdvcmtcXGNsaWVudFxccmVzXFxtb2RlbFxcMTAxMDZcXDEwMTA2LmdpbScsXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzZWxmLl90YXNrX3ByZWxvYWRzLnJlbW92ZSh0YXNrKQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>#sfx.remove_from_parent()
+			#sfx.destroy()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gTW9kZWxTY2VuZURhdGEuZ2V0X21vZGVsX3ByZWxvYWRfc2Z4cyhtb2RlbF9uYW1lKQo=</text>
+        <text encoding="base64">CQlzZWxmLl90YXNrX3ByZWxvYWRzLnJlbW92ZSh0YXNrKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gTW9kZWxTY2VuZURhdGEuZ2V0X21vZGVsX3ByZWxvYWRfc2Z4cyhtb2RlbF9uYW1lKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlzZWxmLmlzX21lbmd5b3UgPSBGYWxzZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text># 替换 跑步，待机
 		self.unit.ModelComp.remap_anim('run', 'skill_10002')
 		self.unit.ModelComp.remap_anim('idle', 'skill_10003')</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkjIFRPRE8gxdyyvaOstP27+go=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlzZWxmLm1lbmd5b3VfdG1pZCA9IE5vbmUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
