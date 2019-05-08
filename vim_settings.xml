@@ -22,8 +22,11 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557284574239">
-        <mark key="'" line="195" column="41" />
+      <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557290705526">
+        <mark key="'" line="196" column="41" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10102.py" timestamp="1557213311021">
         <mark key="[" line="0" column="0" />
@@ -199,6 +202,9 @@
       <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1557143660438">
         <mark key="'" line="459" column="34" />
       </file>
+      <file name="E:/Work/modelinfoexport/modelinfoexport.py" timestamp="1557290698543">
+        <mark key="'" line="44" column="63" />
+      </file>
       <file name="E:/Work/modelinfoexport/PreloadSfx.py" timestamp="1557196432205">
         <mark key="'" line="111" column="8" />
         <mark key="[" line="117" column="22" />
@@ -220,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1636" column="13" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1715" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1756" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1796" column="26" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
@@ -320,6 +325,7 @@
       <jump line="1393" column="86" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="195" column="41" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="1392" column="90" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="44" column="63" filename="E:/Work/modelinfoexport/modelinfoexport.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
