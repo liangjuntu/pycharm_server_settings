@@ -6,7 +6,7 @@
       <file name="/Python Console" timestamp="1557315757726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557315740621">
+      <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557319790484">
         <mark key="'" line="22" column="33" />
         <mark key="[" line="47" column="50" />
         <mark key="]" line="47" column="53" />
@@ -230,11 +230,11 @@
       <jump line="326" column="8" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlzdXBlcihTa2lsbENvbXBfMTg3MSwgc2VsZikuX2RvX3Nob3J0X3JhbmdlX2h1cnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>ROOT</text>
       </register>
       <register name="-" type="4">
-        <text>on_init</text>
+        <text>ROOT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
