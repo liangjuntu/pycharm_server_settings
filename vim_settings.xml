@@ -169,12 +169,12 @@
         <mark key="^" line="184" column="24" />
         <mark key="." line="184" column="24" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557284935210">
-        <mark key="'" line="1392" column="90" />
-        <mark key="[" line="1314" column="12" />
-        <mark key="]" line="1314" column="12" />
-        <mark key="^" line="1314" column="12" />
-        <mark key="." line="1314" column="12" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557285730968">
+        <mark key="'" line="1389" column="90" />
+        <mark key="[" line="1312" column="12" />
+        <mark key="]" line="1312" column="12" />
+        <mark key="." line="1312" column="12" />
+        <mark key="^" line="1312" column="12" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/hero_common.py" timestamp="1557113386730">
         <mark key="'" line="492" column="26" />
@@ -330,7 +330,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSNtb2RlbEZpbGVQYXRocyA9IFsnRTpcXFdvcmtcXGNsaWVudFxccmVzXFxtb2RlbFxcMTAxMDZcXDEwMTA2LmdpbScsXQo=</text>
+        <text encoding="base64">CQkJI3NmeC5wb3NpdGlvbiA9IGRlZmF1bHRfcG9zCg==</text>
       </register>
       <register name="-" type="4">
         <text>ModelSceneData.get_model_preload_sfxs(model_name)</text>
@@ -342,34 +342,32 @@
         <text encoding="base64">CSNtb2RlbEZpbGVQYXRocyA9IFsnRTpcXFdvcmtcXGNsaWVudFxccmVzXFxtb2RlbFxcMTAxMDZcXDEwMTA2LmdpbScsXQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJI3NmeC5wb3NpdGlvbiA9IGRlZmF1bHRfcG9zCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJI3NlbGYuc2NlbmUuYWRkX29iamVjdChzZngpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJI3NmeC52aXNpYmxlID0gRmFsc2UK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>#sfx.remove_from_parent()
 			#sfx.destroy()</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlzZWxmLl90YXNrX3ByZWxvYWRzLnJlbW92ZSh0YXNrKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gTW9kZWxTY2VuZURhdGEuZ2V0X21vZGVsX3ByZWxvYWRfc2Z4cyhtb2RlbF9uYW1lKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlzZWxmLmlzX21lbmd5b3UgPSBGYWxzZQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text># 替换 跑步，待机
-		self.unit.ModelComp.remap_anim('run', 'skill_10002')
-		self.unit.ModelComp.remap_anim('idle', 'skill_10003')</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkjIFRPRE8gxdyyvaOstP27+go=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
+        <text encoding="base64">CQlzZWxmLmlzX21lbmd5b3UgPSBGYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
