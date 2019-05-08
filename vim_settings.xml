@@ -22,6 +22,7 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Work2/client2/script/com/utils/state_machine.py" timestamp="1557277990921" />
       <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557210288289">
         <mark key="'" line="214" column="37" />
         <mark key="[" line="229" column="5" />
@@ -35,7 +36,8 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10106.py" timestamp="1557223731399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1873.py" timestamp="1557223157407">
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1873.py" timestamp="1557276887137">
+        <mark key="'" line="16" column="38" />
         <mark key="[" line="30" column="51" />
         <mark key="]" line="30" column="51" />
         <mark key="." line="30" column="51" />
@@ -44,8 +46,8 @@
       <file name="E:/Work/modelinfoexport/script/init.py" timestamp="1557148953967">
         <mark key="'" line="29" column="78" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" timestamp="1557275579253">
-        <mark key="'" line="155" column="59" />
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" timestamp="1557278878258">
+        <mark key="'" line="111" column="55" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1557227726039">
         <mark key="'" line="1084" column="28" />
@@ -113,10 +115,16 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_6575.py" timestamp="1557227951350">
         <mark key="'" line="40" column="34" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillMgrComp.py" timestamp="1557278239430">
+        <mark key="'" line="159" column="69" />
+      </file>
       <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557144628099">
         <mark key="'" line="150" column="36" />
       </file>
-      <file name="/Python Console" timestamp="1557275585501">
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1557278795440">
+        <mark key="'" line="286" column="18" />
+      </file>
+      <file name="/Python Console" timestamp="1557277025376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557214520658">
@@ -126,7 +134,7 @@
         <mark key="." line="60" column="26" />
         <mark key="^" line="60" column="26" />
       </file>
-      <file name="/fragment.py" timestamp="1557230651435">
+      <file name="/fragment.py" timestamp="1557278012730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -148,12 +156,12 @@
       <file name="D:/Work2/client2/script/game_scene/city_base.py" timestamp="1557112820552">
         <mark key="'" line="162" column="19" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1871.py" timestamp="1557275530877">
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1871.py" timestamp="1557278820889">
         <mark key="'" line="11" column="52" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="52" />
+        <mark key="^" line="17" column="52" />
+        <mark key="." line="17" column="52" />
       </file>
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1557200920276">
         <mark key="'" line="40" column="28" />
@@ -162,12 +170,12 @@
         <mark key="^" line="184" column="24" />
         <mark key="." line="184" column="24" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557231473820">
-        <mark key="'" line="1307" column="21" />
-        <mark key="[" line="1387" column="0" />
-        <mark key="]" line="1387" column="0" />
-        <mark key="^" line="1381" column="115" />
-        <mark key="." line="1387" column="0" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557280110281">
+        <mark key="'" line="1381" column="57" />
+        <mark key="[" line="1310" column="29" />
+        <mark key="]" line="1311" column="30" />
+        <mark key="^" line="1311" column="30" />
+        <mark key="." line="1311" column="30" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/hero_common.py" timestamp="1557113386730">
         <mark key="'" line="492" column="26" />
@@ -209,25 +217,19 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10103.py" timestamp="1557213342950">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttackMonster.py" timestamp="1557277504297" />
       <file name="D:/Work2/client2/script/combat/view/combat_system.py" timestamp="1557126068259">
         <mark key="'" line="177" column="30" />
       </file>
+      <file name="D:/Work2/client2/script/com/const.py" timestamp="1557278259600" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1557227875911">
         <mark key="'" line="470" column="24" />
       </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1873.py" timestamp="1557276907633">
+        <mark key="'" line="16" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1751" column="31" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="43" column="4" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="1750" column="21" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="177" column="30" filename="D:/Work2/client2/script/combat/view/combat_system.py" />
-      <jump line="201" column="31" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
-      <jump line="1700" column="13" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="1646" column="17" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="305" column="25" filename="E:/Work/client/script/game_scene/city_home.py" />
-      <jump line="1312" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="1449" column="8" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="1371" column="76" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1430" column="24" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="203" column="31" filename="E:/Work/client/script/game_scene/city_heroshow.py" />
       <jump line="1720" column="21" filename="E:/Work/client/script/cocos/ui_utils.py" />
@@ -317,20 +319,30 @@
       <jump line="1307" column="21" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="2486" column="21" filename="E:/G58SVN/trunk/client/script/cocos/ui_utils.py" />
       <jump line="11" column="52" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1871.py" />
+      <jump line="16" column="38" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1873.py" />
+      <jump line="16" column="34" filename="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1873.py" />
+      <jump line="166" column="15" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
+      <jump line="179" column="13" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
+      <jump line="248" column="72" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
+      <jump line="159" column="69" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillMgrComp.py" />
+      <jump line="111" column="55" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
+      <jump line="359" column="30" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
+      <jump line="286" column="18" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
+      <jump line="1379" column="57" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="181" column="4" filename="D:/Work2/client2/script/combat/base/model_scene_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>on_init</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>on_init</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>self.unit.ModelComp.remap_anim('run', 'skill_10002')
-		self.unit.ModelComp.remap_anim('idle', 'skill_10003')</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlzdXBlcihTa2lsbENvbXBfMTg3MSwgc2VsZikub25faW5pdCgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -398,8 +410,6 @@
         <entry encoding="base64">XDxwcmludFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>62</entry>
-        <entry>87</entry>
         <entry>410</entry>
         <entry>244</entry>
         <entry>352</entry>
@@ -417,6 +427,8 @@
         <entry>14</entry>
         <entry>1508</entry>
         <entry>66</entry>
+        <entry>212</entry>
+        <entry>211</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
