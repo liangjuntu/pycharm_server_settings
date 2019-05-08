@@ -62,6 +62,13 @@
       <file name="D:/Work2/client2/script/game_scene/city_caidan.py" timestamp="1557143623775">
         <mark key="'" line="570" column="44" />
       </file>
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1557299743318">
+        <mark key="'" line="1393" column="94" />
+        <mark key="[" line="1317" column="30" />
+        <mark key="]" line="1317" column="32" />
+        <mark key="^" line="1317" column="32" />
+        <mark key="." line="1317" column="32" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10101.py" timestamp="1557213294062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="70" />
@@ -113,9 +120,6 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_6575.py" timestamp="1557227951350">
         <mark key="'" line="40" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillMgrComp.py" timestamp="1557278239430">
-        <mark key="'" line="159" column="69" />
-      </file>
       <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557144628099">
         <mark key="'" line="150" column="36" />
       </file>
@@ -164,13 +168,6 @@
         <mark key="]" line="184" column="24" />
         <mark key="^" line="184" column="24" />
         <mark key="." line="184" column="24" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557286466890">
-        <mark key="'" line="1380" column="90" />
-        <mark key="[" line="1310" column="12" />
-        <mark key="]" line="1310" column="4" />
-        <mark key="." line="1310" column="4" />
-        <mark key="^" line="1310" column="4" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/hero_common.py" timestamp="1557113386730">
         <mark key="'" line="492" column="26" />
@@ -226,10 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1715" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="1756" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="1796" column="26" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="316" column="23" filename="D:/Work2/client2/script/game_scene/city_caidan.py" />
       <jump line="59" column="13" filename="E:/Work/modelinfoexport/ModelInfo.py" />
       <jump line="199" column="15" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="83" column="38" filename="D:/Work2/client2/script/liangjuntu.py" />
@@ -326,13 +319,17 @@
       <jump line="195" column="41" filename="E:/Work/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="1392" column="90" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="44" column="63" filename="E:/Work/modelinfoexport/modelinfoexport.py" />
+      <jump line="1320" column="19" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="1417" column="15" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="1312" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="1389" column="94" filename="E:/Work/client/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiBzZnggYW5kIHNmeC52YWxpZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ModelSceneData.get_model_preload_sfxs(model_name)</text>
+        <text>_awake_sfx.iteritems():</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
@@ -341,40 +338,35 @@
         <text encoding="base64">CSNtb2RlbEZpbGVQYXRocyA9IFsnRTpcXFdvcmtcXGNsaWVudFxccmVzXFxtb2RlbFxcMTAxMDZcXDEwMTA2LmdpbScsXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiBzZnggYW5kIHNmeC52YWxpZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJI3NlbGYuX3ByZWxvYWRfc2Z4cy5hcHBlbmQoc2Z4KQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQlzZWxmLl9wcmVsb2FkX3NmeHMgPSBbXQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlpZiBzZnggYW5kIHNmeC52YWxpZDoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJI3NlbGYuX3ByZWxvYWRfc2Z4cy5hcHBlbmQoc2Z4KQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQlzZWxmLl9wcmVsb2FkX3NmeHMgPSBbXQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="4">
         <text>for sfx in self._preload_sfxs:
 			if sfx and sfx.valid:
 				sfx.remove_from_parent()
 				sfx.destroy()
 		self._preload_sfxs = []</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IFtdCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>for sfx in self._preload_sfxs:
-				if sfx and sfx.valid:
-					sfx.remove_from_parent()
-					sfx.destroy()
-
-			self._preload_sfxs = []</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJI3NmeC5wb3NpdGlvbiA9IGRlZmF1bHRfcG9zCg==</text>
+        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
