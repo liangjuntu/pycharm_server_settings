@@ -24,10 +24,10 @@
       </file>
       <file name="E:/Work/modelinfoexport/ModelInfoExtractor.py" timestamp="1557284574239">
         <mark key="'" line="195" column="41" />
-        <mark key="[" line="232" column="4" />
-        <mark key="]" line="232" column="4" />
-        <mark key="." line="232" column="4" />
-        <mark key="^" line="232" column="4" />
+        <mark key="[" line="231" column="4" />
+        <mark key="]" line="231" column="4" />
+        <mark key="." line="231" column="4" />
+        <mark key="^" line="231" column="4" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10102.py" timestamp="1557213311021">
         <mark key="[" line="0" column="0" />
@@ -69,12 +69,12 @@
         <mark key="^" line="0" column="70" />
         <mark key="." line="0" column="70" />
       </file>
-      <file name="E:/Work/modelinfoexport/ModelInfo.py" timestamp="1557284417294">
-        <mark key="'" line="93" column="70" />
-        <mark key="[" line="181" column="13" />
-        <mark key="]" line="98" column="76" />
-        <mark key="." line="98" column="76" />
-        <mark key="^" line="98" column="76" />
+      <file name="E:/Work/modelinfoexport/ModelInfo.py" timestamp="1557287022969">
+        <mark key="'" line="94" column="70" />
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="90" column="16" />
+        <mark key="." line="90" column="16" />
+        <mark key="^" line="90" column="16" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10105.py" timestamp="1557223815263">
         <mark key="[" line="14" column="49" />
@@ -169,12 +169,12 @@
         <mark key="^" line="184" column="24" />
         <mark key="." line="184" column="24" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557285730968">
-        <mark key="'" line="1389" column="90" />
-        <mark key="[" line="1312" column="12" />
-        <mark key="]" line="1312" column="12" />
-        <mark key="." line="1312" column="12" />
-        <mark key="^" line="1312" column="12" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1557286466890">
+        <mark key="'" line="1380" column="90" />
+        <mark key="[" line="1310" column="12" />
+        <mark key="]" line="1310" column="4" />
+        <mark key="." line="1310" column="4" />
+        <mark key="^" line="1310" column="4" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/hero_common.py" timestamp="1557113386730">
         <mark key="'" line="492" column="26" />
@@ -330,7 +330,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJI3NmeC5wb3NpdGlvbiA9IGRlZmF1bHRfcG9zCg==</text>
+        <text encoding="base64">CQlpZiBzZnggYW5kIHNmeC52YWxpZDoK</text>
       </register>
       <register name="-" type="4">
         <text>ModelSceneData.get_model_preload_sfxs(model_name)</text>
@@ -342,32 +342,40 @@
         <text encoding="base64">CSNtb2RlbEZpbGVQYXRocyA9IFsnRTpcXFdvcmtcXGNsaWVudFxccmVzXFxtb2RlbFxcMTAxMDZcXDEwMTA2LmdpbScsXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJI3NmeC5wb3NpdGlvbiA9IGRlZmF1bHRfcG9zCg==</text>
+        <text encoding="base64">CQlpZiBzZnggYW5kIHNmeC52YWxpZDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJI3NlbGYuc2NlbmUuYWRkX29iamVjdChzZngpCg==</text>
+        <text encoding="base64">CQkJI3NlbGYuX3ByZWxvYWRfc2Z4cy5hcHBlbmQoc2Z4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJI3NmeC52aXNpYmxlID0gRmFsc2UK</text>
+        <text encoding="base64">CQlzZWxmLl9wcmVsb2FkX3NmeHMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="4">
-        <text>#sfx.remove_from_parent()
-			#sfx.destroy()</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlzZWxmLl90YXNrX3ByZWxvYWRzLnJlbW92ZSh0YXNrKQo=</text>
+      <register name="6" type="4">
+        <text>for sfx in self._preload_sfxs:
+			if sfx and sfx.valid:
+				sfx.remove_from_parent()
+				sfx.destroy()
+		self._preload_sfxs = []</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IFtdCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gTW9kZWxTY2VuZURhdGEuZ2V0X21vZGVsX3ByZWxvYWRfc2Z4cyhtb2RlbF9uYW1lKQo=</text>
+      <register name="8" type="4">
+        <text>for sfx in self._preload_sfxs:
+				if sfx and sfx.valid:
+					sfx.remove_from_parent()
+					sfx.destroy()
+
+			self._preload_sfxs = []</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZWxmLmlzX21lbmd5b3UgPSBGYWxzZQo=</text>
+        <text encoding="base64">CQkJI3NmeC5wb3NpdGlvbiA9IGRlZmF1bHRfcG9zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
