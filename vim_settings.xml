@@ -48,7 +48,6 @@
         <mark key="." line="76" column="14" />
         <mark key="^" line="76" column="14" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_66.py" timestamp="1557373625801" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" timestamp="1557319074195">
         <mark key="'" line="158" column="28" />
         <mark key="[" line="344" column="48" />
@@ -56,7 +55,6 @@
         <mark key="^" line="344" column="47" />
         <mark key="." line="344" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/BuffComp.py" timestamp="1557369790298" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_595.py" timestamp="1557370847977">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -82,7 +80,7 @@
         <mark key="." line="52" column="90" />
         <mark key="^" line="52" column="90" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_56.py" timestamp="1557374488544" />
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_56.py" timestamp="1557384435887" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10103.py" timestamp="1557322082918">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="22" />
@@ -131,15 +129,12 @@
         <mark key="^" line="18" column="55" />
         <mark key="." line="18" column="55" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_596.py" timestamp="1557374511800">
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_596.py" timestamp="1557384361107">
         <mark key="'" line="29" column="65" />
-        <mark key="[" line="21" column="64" />
-        <mark key="]" line="21" column="80" />
-        <mark key="^" line="21" column="80" />
-        <mark key="." line="21" column="80" />
-      </file>
-      <file name="D:/Work2/client2/script/com/const.py" timestamp="1557373615034">
-        <mark key="'" line="854" column="4" />
+        <mark key="[" line="30" column="84" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1557315775446">
         <mark key="'" line="325" column="78" />
@@ -147,7 +142,6 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillMgrComp.py" timestamp="1557309641151">
         <mark key="'" line="160" column="42" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_74.py" timestamp="1557368631035" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1557316536379">
         <mark key="'" line="698" column="33" />
       </file>
