@@ -13,6 +13,9 @@
         <mark key="^" line="59" column="48" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_95.py" timestamp="1557370271300">
+        <mark key="'" line="12" column="40" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/SkillCompNormalAttack.py" timestamp="1557399859366" />
       <file name="/fragment.py" timestamp="1557400070043">
         <mark key="[" line="0" column="0" />
@@ -20,8 +23,12 @@
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/logic/misc_logic.py" timestamp="1557402364440" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/com/utils/state_machine.py" timestamp="1557309471057">
+        <mark key="'" line="174" column="39" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10102.py" timestamp="1557213311021">
         <mark key="[" line="0" column="0" />
@@ -50,6 +57,9 @@
         <mark key="]" line="344" column="47" />
         <mark key="^" line="344" column="47" />
         <mark key="." line="344" column="47" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1506.py" timestamp="1557402525902">
+        <mark key="'" line="23" column="84" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_595.py" timestamp="1557396849295">
         <mark key="[" line="1" column="42" />
@@ -91,6 +101,9 @@
         <mark key="^" line="0" column="70" />
         <mark key="." line="0" column="70" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_61.py" timestamp="1557373613626">
+        <mark key="'" line="20" column="67" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10105.py" timestamp="1557321101473">
         <mark key="[" line="22" column="47" />
         <mark key="]" line="22" column="46" />
@@ -121,6 +134,9 @@
       <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
         <mark key="[" line="118" column="75" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1172.py" timestamp="1557317943228">
+        <mark key="'" line="116" column="50" />
+      </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_594.py" timestamp="1557394696595">
         <mark key="[" line="17" column="97" />
         <mark key="]" line="17" column="107" />
@@ -133,12 +149,19 @@
         <mark key="^" line="99" column="694" />
         <mark key="." line="99" column="694" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_596.py" timestamp="1557384361107">
-        <mark key="'" line="29" column="65" />
-        <mark key="[" line="30" column="84" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="28" />
+      <file name="D:/Work2/client2/script/combat/logic/logic/events/event_binggongchang.py" timestamp="1557402422439">
+        <mark key="'" line="44" column="78" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_596.py" timestamp="1557402540783">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="91" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1557315775446">
+        <mark key="'" line="325" column="78" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillMgrComp.py" timestamp="1557309641151">
+        <mark key="'" line="160" column="42" />
       </file>
       <file name="E:/Work/server/script/battle/BattleAvatar.py" timestamp="1557397670856">
         <mark key="'" line="98" column="24" />
@@ -153,9 +176,6 @@
       <file name="D:/Work2/client2/script/entity/ClientBattle.py" timestamp="1557397476144" />
     </filemarks>
     <jumps>
-      <jump line="20" column="18" filename="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1873.py" />
-      <jump line="1084" column="28" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="40" column="34" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_6575.py" />
       <jump line="578" column="14" filename="D:/Work2/client2/script/combat/view/unit/components/ModelComp.py" />
       <jump line="1375" column="80" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="77" column="35" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1872.py" />
@@ -253,13 +273,16 @@
       <jump line="126" column="37" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1872.py" />
       <jump line="8" column="36" filename="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" />
       <jump line="49" column="30" filename="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" />
+      <jump line="39" column="18" filename="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_596.py" />
+      <jump line="44" column="78" filename="D:/Work2/client2/script/combat/logic/logic/events/event_binggongchang.py" />
+      <jump line="23" column="84" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1506.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlzZWxmLnVuaXQuY29tYmF0LmRlbF9jb21iYXRfaGFuZGxlcihjb25zdC5HYW1lRXZlbnQuVU5JVF9ERUFELCBzZWxmLm9uX3VuaXRfa2lsbGVkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>super(BuffComp_10100, self).update()</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
@@ -268,32 +291,32 @@
         <text encoding="base64">CQlzdXBlcihCdWZmQ29tcF8xMDEwMCwgc2VsZikudXBkYXRlKCkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQlzZWxmLnVuaXQuY29tYmF0LmRlbF9jb21iYXRfaGFuZGxlcihjb25zdC5HYW1lRXZlbnQuVU5JVF9ERUFELCBzZWxmLm9uX3VuaXRfa2lsbGVkKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlzZWxmLnVuaXQuZGVsX3VuaXRfaGFuZGxlcihjb25zdC5Vbml0RXZlbnQuS0lMTF9TVUZGRVIsIHNlbGYub25fa2lsbF9zdWZmZXIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlzZWxmLnVuaXQuYWRkX3VuaXRfaGFuZGxlcihjb25zdC5Vbml0RXZlbnQuS0lMTF9TVUZGRVIsIHNlbGYub25fa2lsbF9zdWZmZXIpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">CWRlZiBvbl91bml0X2tpbGxlZChzZWxmLCBza2lsbF9jYWxjX3Jlc3VsdCk6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlzZWxmLnVwZGF0ZV90cmlja19idWZmKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="4">
         <text>def update(self):
 		super(BuffComp_10103, self).update()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkjILj5vt2yu82stcS1yLy2udKyu82stcTM2NCnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS51dGlscy5oZWxwZXJzIGFzIGhlbHBlcnMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgzZAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYXNlLmNvbXBvbmVudCBhcyBjb21wb25lbnQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkjILj5vt2yu82stcS1yLy2udKyu82stcTM2NCnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
