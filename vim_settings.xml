@@ -88,6 +88,9 @@
       <file name="D:/Work2/client2/script/res_mgr/res_mgr_base.py" timestamp="1557459067758">
         <mark key="'" line="79" column="28" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/treasure_upgrade.py" timestamp="1557482814957">
+        <mark key="'" line="51" column="63" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/ModelComp.py" timestamp="1557312917415">
         <mark key="[" line="475" column="30" />
         <mark key="]" line="478" column="4" />
@@ -206,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="18" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
       <jump line="1379" column="57" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="181" column="4" filename="D:/Work2/client2/script/combat/base/model_scene_data.py" />
       <jump line="1385" column="81" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
@@ -306,6 +308,7 @@
       <jump line="538" column="24" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="572" column="25" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="1186" column="34" filename="D:/Work2/client2/script/entity/avatar_attrs/HeroMgrData.py" />
+      <jump line="51" column="63" filename="D:/Work2/client2/script/cocos/panels/treasure_upgrade.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
