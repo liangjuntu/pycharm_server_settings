@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Work2/client2/script/com/utils/helpers.py" timestamp="1557720029599" />
-      <file name="E:/Work/client/script/cocos/comps/common_model/model.py" timestamp="1557731359024" />
+      <file name="E:/Work/client/script/cocos/comps/common_model/model.py" timestamp="1557734706811" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,7 +43,7 @@
         <mark key="'" line="148" column="29" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1557717499891" />
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1557731535834" />
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1557734542412" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10101.py" timestamp="1557722306011">
         <mark key="'" line="1" column="69" />
         <mark key="[" line="1" column="14" />
@@ -70,8 +70,8 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1557395254636">
         <mark key="'" line="698" column="33" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1557732560390">
-        <mark key="'" line="77" column="42" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1557734524931">
+        <mark key="'" line="77" column="40" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen.py" timestamp="1557716986512">
         <mark key="'" line="322" column="29" />
@@ -126,11 +126,11 @@
       <file name="E:/Work/client/script/game_scene/awake_show.py" timestamp="1557732052985">
         <mark key="'" line="196" column="59" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1557732196016" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1557734861186" />
       <file name="D:/Work2/client2/script/game_scene/components/ResComp.py" timestamp="1557459115751">
         <mark key="'" line="202" column="45" />
       </file>
-      <file name="E:/Work/client/script/combat/view/unit/components/ModelComp.py" timestamp="1557732575198" />
+      <file name="E:/Work/client/script/combat/view/unit/components/ModelComp.py" timestamp="1557734254620" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1172.py" timestamp="1557317943228">
         <mark key="'" line="116" column="50" />
       </file>
@@ -244,7 +244,7 @@
       <jump line="196" column="59" filename="E:/Work/client/script/game_scene/awake_show.py" />
       <jump line="18" column="24" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" />
       <jump line="127" column="36" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" />
-      <jump line="77" column="42" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" />
+      <jump line="77" column="40" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
