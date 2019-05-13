@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Work2/client2/script/com/utils/helpers.py" timestamp="1557720029599" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,6 +68,9 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_tab.py" timestamp="1557719355034">
+        <mark key="'" line="42" column="44" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1557717499891" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10101.py" timestamp="1557314263802">
         <mark key="'" line="1" column="70" />
@@ -129,7 +133,7 @@
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen.py" timestamp="1557716986512">
         <mark key="'" line="322" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1557714483003">
+      <file name="/Python Console" timestamp="1557719233643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10100.py" timestamp="1557401635509">
@@ -169,6 +173,9 @@
       </file>
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1557717207115">
         <mark key="'" line="192" column="38" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_danchi_base.py" timestamp="1557720000086">
+        <mark key="'" line="44" column="34" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/SkillComp_1874.py" timestamp="1557315306891">
         <mark key="[" line="31" column="9" />
@@ -213,10 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1417" column="15" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="1312" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="1389" column="94" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="159" column="72" filename="D:/Work2/client2/script/cocos/panels/combat_buff.py" />
       <jump line="21" column="4" filename="D:/Work2/client2/script/combat/view/unit/components/SkillComp.py" />
       <jump line="207" column="78" filename="D:/Work2/client2/script/combat/view/unit/components/SkillComp.py" />
       <jump line="22" column="6" filename="D:/Work2/client2/script/combat/view/unit/components/SkillComp.py" />
@@ -313,6 +316,10 @@
       <jump line="3610" column="8" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="192" column="38" filename="D:/Work2/client2/script/game_scene/awake_show.py" />
       <jump line="100" column="13" filename="D:/Work2/client2/script/game_scene/city_hero_skin.py" />
+      <jump line="42" column="44" filename="D:/Work2/client2/script/cocos/panels/activity_tab.py" />
+      <jump line="20" column="66" filename="D:/Work2/client2/script/cocos/panels/activity_danchi_base.py" />
+      <jump line="44" column="34" filename="D:/Work2/client2/script/cocos/panels/activity_danchi_base.py" />
+      <jump line="946" column="48" filename="D:/Work2/client2/script/com/utils/helpers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
