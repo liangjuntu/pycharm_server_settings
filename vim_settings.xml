@@ -30,6 +30,9 @@
       <file name="D:/Work2/client2/script/cocos/panels/activity_tab.py" timestamp="1557719355034">
         <mark key="'" line="42" column="44" />
       </file>
+      <file name="D:/Work2/client2/script/com/utils/SkinData.py" timestamp="1557729848034">
+        <mark key="'" line="148" column="29" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1557717499891" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_10101.py" timestamp="1557722306011">
         <mark key="'" line="1" column="69" />
@@ -42,8 +45,8 @@
         <mark key="[" line="118" column="75" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/city_model.py" timestamp="1557716544702" />
-      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557727953652">
-        <mark key="'" line="212" column="20" />
+      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1557729229860">
+        <mark key="'" line="213" column="26" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen.py" timestamp="1557716986512">
         <mark key="'" line="322" column="29" />
@@ -84,10 +87,9 @@
       <file name="D:/Work2/client2/script/cocos/panels/activity_danchi_base.py" timestamp="1557720000086">
         <mark key="'" line="44" column="34" />
       </file>
+      <file name="D:/Work2/client2/script/cutils/chelpers.py" timestamp="1557729785945" />
     </filemarks>
     <jumps>
-      <jump line="108" column="131" filename="D:/Work2/client2/script/combat/view/unit/components/BuffComp.py" />
-      <jump line="346" column="113" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
       <jump line="629" column="87" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
       <jump line="258" column="44" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
       <jump line="53" column="53" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
@@ -186,6 +188,8 @@
       <jump line="1517" column="14" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="212" column="20" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
       <jump line="243" column="75" filename="D:/Work2/client2/script/cocos/panels/hero_model.py" />
+      <jump line="213" column="26" filename="D:/Work2/client2/script/game_scene/city_heroshow.py" />
+      <jump line="148" column="29" filename="D:/Work2/client2/script/com/utils/SkinData.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
