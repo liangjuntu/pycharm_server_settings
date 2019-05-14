@@ -28,11 +28,10 @@
       <file name="D:/Work2/client2/script/cocos/panels/hero_model.py" timestamp="1557728112832">
         <mark key="'" line="243" column="75" />
       </file>
-      <file name="D:/Rust/hello_world/src/main.rs" timestamp="1557837123419">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="5" column="5" />
-        <mark key="^" line="5" column="5" />
+      <file name="D:/Rust/hello_world/src/main.rs" timestamp="1557840576794">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/activity_tab.py" timestamp="1557719355034">
         <mark key="'" line="42" column="44" />
@@ -72,6 +71,7 @@
         <mark key="'" line="322" column="29" />
       </file>
       <file name="D:/Work2/client2/script/logic/logic_init.py" timestamp="1557817705056" />
+      <file name="D:/Rust/hello_world/src/mir_dump/rustc.main.-------.nll.0.mir" timestamp="1557840522150" />
       <file name="/Python Console" timestamp="1557826966527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,6 +84,7 @@
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
       </file>
+      <file name="D:/Rust/hello_world/src/mir_dump/rustc.main.001-002.UniformArrayMoveOut.after.mir" timestamp="1557839049633" />
       <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1557828172276">
         <mark key="'" line="636" column="8" />
         <mark key="[" line="270" column="36" />
@@ -91,6 +92,7 @@
         <mark key="^" line="246" column="26" />
         <mark key="." line="246" column="26" />
       </file>
+      <file name="D:/Rust/hello_world/src/mir_dump/rustc.main.001-000.SimplifyCfg-initial.before.mir" timestamp="1557838956958" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1794.py" timestamp="1557800271354" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1506.py" timestamp="1557402525902">
         <mark key="'" line="23" column="84" />
@@ -240,8 +242,8 @@
       <jump line="636" column="8" filename="D:/Work2/client2/script/game_scene/city.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bXV0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bXV0IA==</text>
@@ -253,31 +255,31 @@
         <text encoding="base64">CQkJCXByaW50KCIxIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjM2OTA5OAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlzbG90ID0gMgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgkJaWYgaW5kZXggPT0gMzoKCQkJIyDEs9CpyrG85LbOsru05tTatdrI/b3Xts4KCQkJc2xvdF9zZnhzID0gU1VNTUVSX1NGWFNbc2VsZi5zdW1tZXJfc2xvdCAtIDFdCgkJCWlmIGxlbihzbG90X3NmeHMpIDwgaW5kZXg6CgkJCQlpbmRleCA9IDE=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxldCBjID0gJiBhOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxldCBiID0gJm11dCBhOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAucjM2OTA5OAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlpbmRleCA9IDEK</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSMgxLPQqcqxvOS2zrK7tObU2rXayP2917bOCg==</text>
+        <text encoding="base64">CQlzbG90ID0gMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
