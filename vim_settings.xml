@@ -10,13 +10,13 @@
         <mark key="'" line="322" column="29" />
       </file>
       <file name="D:/Work2/client2/script/logic/logic_init.py" timestamp="1557817705056" />
-      <file name="/Python Console" timestamp="1557815860326">
+      <file name="/Python Console" timestamp="1557826966527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/trick/TrickComp_95.py" timestamp="1557370271300">
         <mark key="'" line="12" column="40" />
       </file>
-      <file name="/fragment.py" timestamp="1557748994858">
+      <file name="/fragment.py" timestamp="1557826969543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
@@ -28,12 +28,12 @@
       <file name="D:/Work2/client2/script/com/utils/state_machine.py" timestamp="1557309471057">
         <mark key="'" line="174" column="39" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1557819985821">
-        <mark key="'" line="779" column="24" />
-        <mark key="[" line="697" column="0" />
-        <mark key="]" line="697" column="0" />
-        <mark key="^" line="779" column="29" />
-        <mark key="." line="697" column="0" />
+      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1557828172276">
+        <mark key="'" line="636" column="8" />
+        <mark key="[" line="270" column="36" />
+        <mark key="]" line="246" column="26" />
+        <mark key="^" line="246" column="26" />
+        <mark key="." line="246" column="26" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1873.py" timestamp="1557800693270" />
       <file name="D:/Work2/client2/script/cocos/panels/hero_artifact.py" timestamp="1557714419750">
@@ -70,12 +70,12 @@
       <file name="D:/Work2/client2/script/cocos/panels/activity_tab.py" timestamp="1557719355034">
         <mark key="'" line="42" column="44" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1557819711426">
-        <mark key="'" line="147" column="28" />
-        <mark key="[" line="1237" column="28" />
-        <mark key="]" line="1237" column="31" />
-        <mark key="." line="1237" column="31" />
-        <mark key="^" line="1237" column="31" />
+      <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1557826757215">
+        <mark key="'" line="465" column="30" />
+        <mark key="[" line="31" column="114" />
+        <mark key="]" line="31" column="118" />
+        <mark key="^" line="31" column="118" />
+        <mark key="." line="31" column="118" />
       </file>
       <file name="D:/Work2/client2/script/com/utils/SkinData.py" timestamp="1557729848034">
         <mark key="'" line="148" column="29" />
@@ -134,17 +134,6 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1604.py" timestamp="1557800325940" />
     </filemarks>
     <jumps>
-      <jump line="119" column="52" filename="D:/Work2/client2/script/res_mgr/scene_mgr.py" />
-      <jump line="182" column="24" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="488" column="54" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="14" column="13" filename="D:/Work2/client2/script/res_mgr/effects/hsv_adjust.py" />
-      <jump line="153" column="36" filename="D:/Work2/client2/script/game_scene/components/ResComp.py" />
-      <jump line="220" column="21" filename="D:/Work2/client2/script/game_scene/components/ResComp.py" />
-      <jump line="202" column="45" filename="D:/Work2/client2/script/game_scene/components/ResComp.py" />
-      <jump line="69" column="25" filename="D:/Work2/client2/script/res_mgr/res_mgr_base.py" />
-      <jump line="10" column="8" filename="D:/Work2/client2/script/res_mgr/res_mgr_base.py" />
-      <jump line="77" column="32" filename="D:/Work2/client2/script/res_mgr/res_mgr_base.py" />
-      <jump line="79" column="28" filename="D:/Work2/client2/script/res_mgr/res_mgr_base.py" />
       <jump line="958" column="19" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="538" column="24" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="572" column="25" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -204,13 +193,11 @@
       <jump line="208" column="21" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="617" column="34" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="568" column="0" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="618" column="39" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="253" column="26" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="604" column="43" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="622" column="8" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="601" column="31" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="608" column="39" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="747" column="24" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="605" column="35" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="1135" column="22" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="712" column="23" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -234,61 +221,73 @@
       <jump line="210" column="8" filename="D:/Work2/client2/script/game_scene/components/ResComp.py" />
       <jump line="696" column="21" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="780" column="24" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="1236" column="27" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
+      <jump line="614" column="31" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="1170" column="22" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="743" column="25" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="747" column="21" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="625" column="35" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="465" column="30" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
+      <jump line="626" column="18" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="618" column="42" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="629" column="27" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="272" column="29" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="912" column="60" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="636" column="8" filename="D:/Work2/client2/script/game_scene/city.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>SUMMER_5_MINUTES</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFw+</text>
+        <text encoding="base64">XDxzbG90XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiBnZy5jaXR5Ogo=</text>
+        <text encoding="base64">CQkJCXByaW50KCIxIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzbG90ID0gMgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzZWxmLnVwZGF0ZV9zdW1tZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkjc2VsZi51cGRhdGVfc3VtbWVyKCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgkJaWYgaW5kZXggPT0gMzoKCQkJIyDEs9CpyrG85LbOsru05tTatdrI/b3Xts4KCQkJc2xvdF9zZnhzID0gU1VNTUVSX1NGWFNbc2VsZi5zdW1tZXJfc2xvdCAtIDFdCgkJCWlmIGxlbihzbG90X3NmeHMpIDwgaW5kZXg6CgkJCQlpbmRleCA9IDE=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+        <text encoding="base64">CQkJCQlpbmRleCA9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiBub3QgZ2cuY2l0eToK</text>
+        <text encoding="base64">CQkJCSMgxLPQqcqxvOS2zrK7tObU2rXayP2917bOCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlzdW1tZXJfaW5kZXggPSAK</text>
+        <text encoding="base64">CQkJaWYgaW5kZXggPT0gMzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzZWxmLnN0YXJ0X3N1bW1lcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiBpc19zbG90X2NoYW5nZWQgb3IgaXNfaW5kZXhfY2hhbmdlZCBvciBub3Qgc2VsZi5zdW1tZXJfc2Z4czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-search encoding="base64">XDxzbG90XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzbG90XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jX3dhaXRfcHljaGFybV9kZWJ1Z1w+</entry>
         <entry>init</entry>
         <entry>create_game_service</entry>
         <entry>GlobalEventCallback</entry>
@@ -308,9 +307,9 @@
         <entry>to_pers</entry>
         <entry>speed</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDxzbG90XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>453</entry>
         <entry>1780</entry>
         <entry>127</entry>
         <entry>401</entry>
@@ -329,6 +328,7 @@
         <entry>w\</entry>
         <entry>610</entry>
         <entry>213</entry>
+        <entry>1244</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
