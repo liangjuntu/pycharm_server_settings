@@ -120,12 +120,12 @@
         <mark key="[" line="11" column="40" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/card_clothes.py" timestamp="1557901480320" />
-      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1557915148835">
+      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1557916874625">
         <mark key="'" line="638" column="42" />
-        <mark key="[" line="601" column="26" />
-        <mark key="]" line="601" column="26" />
-        <mark key="^" line="601" column="26" />
-        <mark key="." line="601" column="26" />
+        <mark key="[" line="603" column="13" />
+        <mark key="]" line="603" column="8" />
+        <mark key="^" line="603" column="8" />
+        <mark key="." line="603" column="8" />
       </file>
       <file name="E:/Work/client/script/cocos/comps/common_info/title_artifact.py" timestamp="1557910980425" />
       <file name="E:/Work/client/script/cocos/comps/card_common/suipian.py" timestamp="1557908598129" />
@@ -133,8 +133,12 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1506.py" timestamp="1557402525902">
         <mark key="'" line="23" column="84" />
       </file>
-      <file name="D:/Work2/client2/script/gg.py" timestamp="1557913214824">
+      <file name="D:/Work2/client2/script/gg.py" timestamp="1557917053977">
         <mark key="'" line="99" column="6" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="202" column="20" />
+        <mark key="^" line="202" column="20" />
+        <mark key="." line="202" column="20" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1557717207115">
         <mark key="'" line="192" column="38" />
@@ -283,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlwcmludCgic2V0X3N1bW1lcl9zbG90Ont9LCB0aW1lOnt9Ii5mb3JtYXQoc2xvdCwgKGludCkoZ2cuZ2FtZV90aW1lLzEwMDApKSkK</text>
+        <text encoding="base64">CQkJIyBUT0RPILLiytS94cr4yKHP+9eiys0K</text>
       </register>
       <register name="-" type="4">
         <text>changed at</text>
@@ -295,31 +299,31 @@
         <text encoding="base64">CVRZUEVfTkVXRlJJRU5EX0NBTEwgPSAzNCAjINPRx+mz6Qo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwcmludCgic2V0X3N1bW1lcl9zbG90Ont9LCB0aW1lOnt9Ii5mb3JtYXQoc2xvdCwgKGludCkoZ2cuZ2FtZV90aW1lLzEwMDApKSkK</text>
+        <text encoding="base64">CQkJIyBUT0RPILLiytS94cr4yKHP+9eiys0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwcmludCgic2V0X3N1bW1lcl9zbG90Ont9LCB0aW1lOnt9Ii5mb3JtYXQoc2xvdCwgKGludCkoZ2cuZ2FtZV90aW1lLzEwMDApKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzbG90ID0gMwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlzbG90ID0gMwoJCWluZGV4ID0gc2VsZi5jYWxjX3N1bW1lcl9pbmRleChzbG90KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJc2VsZi5yZXNfY29tcC5hdWRpby51bmxvYWRfdGFyZ2V0X2ZldihTVU1NRVJfRkVWKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJc2VsZi5yZXNfY29tcC5hdWRpby5zdG9wX211c2ljKFNVTU1FUl9NVVNJQ18zXzEpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlzbG90ID0gMwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlzbG90ID0gMwoJCWluZGV4ID0gc2VsZi5jYWxjX3N1bW1lcl9pbmRleChzbG90KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJc2VsZi5yZXNfY29tcC5hdWRpby51bmxvYWRfdGFyZ2V0X2ZldihTVU1NRVJfRkVWKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJc2VsZi5yZXNfY29tcC5hdWRpby5zdG9wX211c2ljKFNVTU1FUl9NVVNJQ18zXzEpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBjID0gJiBhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
