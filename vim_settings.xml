@@ -7,11 +7,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1557900704249" />
-      <file name="D:/Rust/hello_world/src/main.rs" timestamp="1557840576794">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1557891768443" />
       <file name="E:/Work/client/script/cocos/comps/hero_herolist_common/wardrobe.py" timestamp="1557901195605" />
       <file name="E:/Work/client/script/gg.py" timestamp="1557890404007" />
@@ -19,6 +14,7 @@
         <mark key="'" line="1053" column="19" />
       </file>
       <file name="E:/Work/client/script/cocos/comps/activity_common_12/task_a126.py" timestamp="1557890857155" />
+      <file name="E:/Work/client/script/cocos/panels/city.py" timestamp="1557903352573" />
       <file name="E:/Work/client/script/cocos/comps/activity_common_12/clowcard_a123.py" timestamp="1557891194131" />
       <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1557892549540">
         <mark key="[" line="818" column="61" />
@@ -34,17 +30,17 @@
       </file>
       <file name="D:/Work2/client2/script/res_mgr/audio_mgr.py" timestamp="1557888058073" />
       <file name="E:/Work/client/script/cocos/comps/activity_common_12/a128_gonglue.py" timestamp="1557890532224" />
-      <file name="E:/Work/client/script/com/utils/helpers.py" timestamp="1557892574884">
+      <file name="E:/Work/client/script/com/utils/helpers.py" timestamp="1557903397118">
         <mark key="'" line="1080" column="41" />
         <mark key="[" line="1080" column="94" />
         <mark key="]" line="1080" column="94" />
         <mark key="^" line="1080" column="99" />
         <mark key="." line="1080" column="94" />
       </file>
-      <file name="/Python Console" timestamp="1557899802731">
+      <file name="/Python Console" timestamp="1557903099795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1557892898291">
+      <file name="/fragment.py" timestamp="1557903949113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
@@ -57,11 +53,8 @@
         <mark key="^" line="701" column="36" />
         <mark key="." line="701" column="36" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1557887434531">
-        <mark key="'" line="171" column="36" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="E:/Work/client/script/cocos/panels/activity_121.py" timestamp="1557903284987">
+        <mark key="'" line="38" column="66" />
       </file>
       <file name="E:/Work/client/script/com/const.py" timestamp="1557889945785">
         <mark key="[" line="4484" column="31" />
@@ -71,7 +64,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="36" filename="D:/Work2/client2/script/game_scene/awake_show.py" />
       <jump line="3610" column="8" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="192" column="38" filename="D:/Work2/client2/script/game_scene/awake_show.py" />
       <jump line="100" column="13" filename="D:/Work2/client2/script/game_scene/city_hero_skin.py" />
@@ -171,6 +163,7 @@
       <jump line="1053" column="19" filename="E:/Work/client/script/cocos/panels/bbs_home.py" />
       <jump line="259" column="8" filename="E:/Work/client/script/cocos/ui_tree.py" />
       <jump line="429" column="39" filename="E:/Work/client/script/cocos/panels/hero_common.py" />
+      <jump line="38" column="66" filename="E:/Work/client/script/cocos/panels/activity_121.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
