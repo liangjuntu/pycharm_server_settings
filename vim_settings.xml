@@ -9,12 +9,12 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1557977316656">
-        <mark key="'" line="1703" column="26" />
-        <mark key="[" line="1235" column="45" />
-        <mark key="]" line="1235" column="43" />
-        <mark key="." line="1235" column="43" />
-        <mark key="^" line="1235" column="43" />
+      <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1557979269289">
+        <mark key="'" line="1549" column="20" />
+        <mark key="[" line="1708" column="73" />
+        <mark key="]" line="1708" column="71" />
+        <mark key="." line="1708" column="71" />
+        <mark key="^" line="1708" column="71" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/LuckyDrawMember.py" timestamp="1557905365906">
         <mark key="'" line="774" column="53" />
@@ -134,8 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="617" column="34" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="568" column="0" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="253" column="26" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="604" column="43" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="622" column="8" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -234,10 +232,12 @@
       <jump line="1698" column="23" filename="D:/Work2/client2/script/cocos/panels/hero_wardrobe.py" />
       <jump line="10" column="36" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
       <jump line="1703" column="26" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
+      <jump line="1925" column="20" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
+      <jump line="1549" column="20" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getattr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getattr</text>
@@ -245,38 +245,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzbG90XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>@ui_utils.checkMultiClick
-	def on_sell_click(self, sender, event):
-		if event != cc.ccui.TOUCH_EVENT_ENDED:
-			return</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCXNlbGYuYnRuX3BsYXkxLnNldFZpc2libGUoaXNfcGxheSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzZWxmLmJ0bl9wbGF5ID0gc2VsZlsncGFnZTEuYnRuX3BsYXknXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgc2VsZi5za2luX2lkOgo=</text>
+        <text encoding="base64">CQkJCWlzX3BsYXkgPSBkYXRhLmdldCgiaXNfcGxheSIsIDApID09IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSIiIiIiIgo=</text>
+        <text encoding="base64">CQlzZWxmLmJ0bl9wbGF5ID0gc2VsZlsncGFnZTEuYnRuX3BsYXknXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgc2VsZi5za2luX2lkOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICpiID0gNTsK</text>
+        <text encoding="base64">CSIiIiIiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICpiID0gNTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICpiID0gNTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc2VsZi5zdGFydF9zdW1tZXIoKQo=</text>
+        <text encoding="base64">ICAgICpiID0gNTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJIyBUT0RPILLiytS94cr4yKHP+9eiys0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
