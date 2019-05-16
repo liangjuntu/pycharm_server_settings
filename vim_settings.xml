@@ -9,8 +9,12 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1557976497160">
-        <mark key="'" line="10" column="36" />
+      <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1557977316656">
+        <mark key="'" line="1703" column="26" />
+        <mark key="[" line="1235" column="45" />
+        <mark key="]" line="1235" column="43" />
+        <mark key="." line="1235" column="43" />
+        <mark key="^" line="1235" column="43" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/LuckyDrawMember.py" timestamp="1557905365906">
         <mark key="'" line="774" column="53" />
@@ -66,10 +70,10 @@
         <mark key="^" line="459" column="36" />
         <mark key="." line="460" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1557919598463">
+      <file name="/Python Console" timestamp="1557977131836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1557919647227">
+      <file name="/fragment.py" timestamp="1557976879111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
@@ -130,7 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="21" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="617" column="34" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="568" column="0" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="253" column="26" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -230,13 +233,14 @@
       <jump line="1857" column="22" filename="D:/Work2/client2/script/cocos/panels/hero_wardrobe.py" />
       <jump line="1698" column="23" filename="D:/Work2/client2/script/cocos/panels/hero_wardrobe.py" />
       <jump line="10" column="36" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
+      <jump line="1703" column="26" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>getattr</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>getattr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbG90XD4=</text>
@@ -248,31 +252,31 @@
 			return</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYgc2VsZi5za2luX2lkOgo=</text>
+        <text encoding="base64">CQlzZWxmLmJ0bl9wbGF5ID0gc2VsZlsncGFnZTEuYnRuX3BsYXknXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSIiIiIiIgo=</text>
+        <text encoding="base64">CQkJaWYgc2VsZi5za2luX2lkOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSIiIiIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICpiID0gNTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICpiID0gNTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICpiID0gNTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJc2VsZi5zdGFydF9zdW1tZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJIyBUT0RPILLiytS94cr4yKHP+9eiys0K</text>
+        <text encoding="base64">CQkJc2VsZi5zdGFydF9zdW1tZXIoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludCgic2V0X3N1bW1lcl9zbG90Ont9LCB0aW1lOnt9Ii5mb3JtYXQoc2xvdCwgKGludCkoZ2cuZ2FtZV90aW1lLzEwMDApKSkK</text>
+        <text encoding="base64">CQkJIyBUT0RPILLiytS94cr4yKHP+9eiys0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
