@@ -57,6 +57,9 @@
         <mark key="^" line="202" column="20" />
         <mark key="." line="202" column="20" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/hero_wardrobe.py" timestamp="1557974236504">
+        <mark key="'" line="1805" column="20" />
+      </file>
       <file name="D:/Rust/hello_world/src/main.rs" timestamp="1557921189816">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="4" column="5" />
@@ -120,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1111" column="24" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="602" column="34" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="562" column="8" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="600" column="33" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -220,6 +222,7 @@
       <jump line="254" column="19" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="720" column="11" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="1391" column="53" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1805" column="20" filename="D:/Work2/client2/script/cocos/panels/hero_wardrobe.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
