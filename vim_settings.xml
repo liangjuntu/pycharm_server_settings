@@ -24,7 +24,7 @@
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
       </file>
-      <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1558338150898">
+      <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1558352051600">
         <mark key="'" line="1672" column="21" />
         <mark key="[" line="1700" column="45" />
         <mark key="]" line="1700" column="60" />
@@ -53,6 +53,9 @@
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1558341620787">
         <mark key="'" line="1740" column="42" />
+      </file>
+      <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1558352025984">
+        <mark key="'" line="1754" column="42" />
       </file>
       <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558339477800">
         <mark key="[" line="28" column="19" />
@@ -150,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="E:/Work/client/script/cocos/comps/common_model/model.py" />
       <jump line="83" column="23" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="252" column="25" filename="E:/Work/client/script/cocos/ui_panel.py" />
       <jump line="100" column="17" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
@@ -250,6 +252,7 @@
       <jump line="90" column="88" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="3900" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1799" column="23" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1754" column="42" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
