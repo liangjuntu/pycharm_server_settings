@@ -3,6 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Work/client/script/game_scene/scene_play_scene.py" timestamp="1558077390154">
+        <mark key="'" line="89" column="23" />
+        <mark key="[" line="140" column="36" />
+        <mark key="]" line="133" column="52" />
+        <mark key="." line="133" column="52" />
+        <mark key="^" line="133" column="52" />
+      </file>
+      <file name="/Python Console" timestamp="1558085199171">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1558080125677">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
+        <mark key="[" line="11" column="40" />
+      </file>
       <file name="E:/Work/client/script/cocos/comps/common_model/model.py" timestamp="1558074709446">
         <mark key="'" line="533" column="69" />
         <mark key="[" line="389" column="112" />
@@ -22,11 +38,24 @@
       <file name="D:/Work2/client2/script/cocos/panels/hero_model.py" timestamp="1558075714295">
         <mark key="'" line="244" column="25" />
       </file>
+      <file name="E:/Work/client/script/game_scene/awake_show.py" timestamp="1558077322601">
+        <mark key="'" line="129" column="37" />
+      </file>
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1558084882469">
+        <mark key="'" line="183" column="18" />
+        <mark key="[" line="65" column="132" />
+        <mark key="]" line="65" column="143" />
+        <mark key="^" line="65" column="143" />
+        <mark key="." line="65" column="143" />
+      </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_info.py" timestamp="1558084703788">
         <mark key="'" line="111" column="22" />
+      </file>
+      <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
+        <mark key="[" line="160" column="14" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558087886070">
         <mark key="'" line="110" column="16" />
@@ -42,6 +71,18 @@
         <mark key="^" line="837" column="22" />
         <mark key="." line="837" column="22" />
       </file>
+      <file name="E:/Work/client/script/com/const.py" timestamp="1558079153469">
+        <mark key="[" line="7010" column="0" />
+        <mark key="]" line="7010" column="0" />
+        <mark key="^" line="7010" column="1" />
+        <mark key="." line="7010" column="0" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558087835358">
+        <mark key="'" line="134" column="54" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1558082930354">
         <mark key="'" line="822" column="60" />
         <mark key="[" line="822" column="71" />
@@ -55,53 +96,6 @@
       <file name="E:/Work/client/script/entity/avatar_members/AchievementMember.py" timestamp="1558082063469">
         <mark key="'" line="23" column="46" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1558087685134">
-        <mark key="'" line="127" column="31" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/scene_play_scene.py" timestamp="1558077390154">
-        <mark key="'" line="89" column="23" />
-        <mark key="[" line="140" column="36" />
-        <mark key="]" line="133" column="52" />
-        <mark key="." line="133" column="52" />
-        <mark key="^" line="133" column="52" />
-      </file>
-      <file name="D:/Rust/hello_world/src/mir_dump/rustc.main.-------.nll.0.mir" timestamp="1558098106866" />
-      <file name="/Python Console" timestamp="1558085199171">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1558080125677">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
-        <mark key="[" line="11" column="40" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/awake_show.py" timestamp="1558077322601">
-        <mark key="'" line="129" column="37" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1558084882469">
-        <mark key="'" line="183" column="18" />
-        <mark key="[" line="65" column="132" />
-        <mark key="]" line="65" column="143" />
-        <mark key="^" line="65" column="143" />
-        <mark key="." line="65" column="143" />
-      </file>
-      <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
-        <mark key="[" line="160" column="14" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1558081873709" />
-      <file name="E:/Work/client/script/com/const.py" timestamp="1558079153469">
-        <mark key="[" line="7006" column="0" />
-        <mark key="]" line="7006" column="0" />
-        <mark key="^" line="7006" column="1" />
-        <mark key="." line="7006" column="0" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558087835358">
-        <mark key="'" line="134" column="54" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1558074663973" />
       <file name="E:/Work/client/script/cocos/panels/settlement_info_2.py" timestamp="1558087280685">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="36" column="38" />
