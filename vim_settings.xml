@@ -93,12 +93,12 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
         <mark key="[" line="160" column="14" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558430387415">
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558431044417">
         <mark key="'" line="40" column="23" />
-        <mark key="[" line="153" column="8" />
-        <mark key="]" line="153" column="8" />
-        <mark key="." line="153" column="8" />
-        <mark key="^" line="153" column="8" />
+        <mark key="[" line="154" column="30" />
+        <mark key="]" line="154" column="34" />
+        <mark key="." line="154" column="34" />
+        <mark key="^" line="154" column="34" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" timestamp="1558409748537">
         <mark key="'" line="2576" column="53" />
@@ -248,17 +248,17 @@
       <jump line="40" column="23" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJI3NlbGYubW9kZWwuX25vZGUuYWRkVG91Y2hFdmVudExpc3RlbmVyKHNlbGYub25fbW9kZWxfY2xpY2spCg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>.data</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>self.model._node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJI3NlbGYubW9kZWwuX25vZGUuYWRkVG91Y2hFdmVudExpc3RlbmVyKHNlbGYub25fbW9kZWxfY2xpY2spCg==</text>
+        <text encoding="base64">CQkjc2VsZi5tb2RlbC5fbm9kZS5zZXRWaXNpYmxlKFRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJcGFzcwo=</text>
