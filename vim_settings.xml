@@ -49,6 +49,9 @@
       <file name="E:/Work/client/script/entity/avatar_members/LuckyDrawMember.py" timestamp="1558409487905">
         <mark key="'" line="776" column="59" />
       </file>
+      <file name="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1558432634302">
+        <mark key="'" line="2135" column="40" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1558341620787">
         <mark key="'" line="1740" column="42" />
       </file>
@@ -146,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3256" column="53" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="3236" column="41" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="383" column="34" filename="E:/Work/client/script/cocos/comps/common_model/model.py" />
       <jump line="390" column="45" filename="E:/Work/client/script/cocos/comps/common_model/model.py" />
@@ -246,6 +248,7 @@
       <jump line="87" column="57" filename="E:/Work/client/script/cocos/comps/common_model/model.py" />
       <jump line="28" column="57" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="40" column="23" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
+      <jump line="2135" column="40" filename="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
