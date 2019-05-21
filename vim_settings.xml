@@ -3,20 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1558409770849">
-        <mark key="'" line="120" column="29" />
-      </file>
-      <file name="/Python Console" timestamp="1558424639796">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1558426027255">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
-        <mark key="[" line="11" column="40" />
-      </file>
       <file name="E:/Work/client/script/cocos/comps/common_model/model.py" timestamp="1558426360403">
         <mark key="'" line="87" column="57" />
       </file>
@@ -29,6 +15,79 @@
         <mark key="]" line="1913" column="114" />
         <mark key="^" line="1913" column="114" />
         <mark key="." line="1913" column="114" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1558441896737">
+        <mark key="'" line="2166" column="36" />
+      </file>
+      <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558423950370">
+        <mark key="[" line="140" column="22" />
+        <mark key="]" line="140" column="21" />
+        <mark key="^" line="140" column="21" />
+        <mark key="." line="140" column="21" />
+      </file>
+      <file name="E:/Work/client/res/shader/common_gl.ps" timestamp="1558439759940">
+        <mark key="[" line="211" column="23" />
+        <mark key="]" line="211" column="30" />
+        <mark key="." line="211" column="30" />
+        <mark key="^" line="211" column="30" />
+      </file>
+      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1558406338807">
+        <mark key="'" line="163" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/我的POPO/xxxx.txt" timestamp="1558439019278" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_info.py" timestamp="1558420266217">
+        <mark key="'" line="111" column="22" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558431044417">
+        <mark key="'" line="40" column="23" />
+        <mark key="[" line="154" column="30" />
+        <mark key="]" line="154" column="34" />
+        <mark key="." line="154" column="34" />
+        <mark key="^" line="154" column="34" />
+      </file>
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1558424733126">
+        <mark key="'" line="1412" column="23" />
+        <mark key="[" line="834" column="19" />
+        <mark key="]" line="834" column="22" />
+        <mark key="^" line="834" column="22" />
+        <mark key="." line="834" column="22" />
+      </file>
+      <file name="E:/Work/client/res/shader/common_metal.ps" timestamp="1558438662964">
+        <mark key="[" line="343" column="45" />
+        <mark key="]" line="344" column="34" />
+        <mark key="." line="344" column="34" />
+        <mark key="^" line="344" column="34" />
+      </file>
+      <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1558406022053">
+        <mark key="'" line="822" column="57" />
+        <mark key="[" line="823" column="75" />
+        <mark key="]" line="823" column="90" />
+        <mark key="^" line="823" column="90" />
+        <mark key="." line="823" column="90" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
+        <mark key="[" line="118" column="75" />
+      </file>
+      <file name="E:/Work/client/res/shader/shaderlib/lighting.vs" timestamp="1558440917551" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1558409770849">
+        <mark key="'" line="120" column="29" />
+      </file>
+      <file name="/Python Console" timestamp="1558440700399">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1558441774590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
+        <mark key="[" line="11" column="40" />
+      </file>
+      <file name="E:/Work/client/res/shader/common_gl.vs" timestamp="1558441107626">
+        <mark key="'" line="191" column="27" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_model.py" timestamp="1558425263845">
         <mark key="'" line="246" column="24" />
@@ -46,25 +105,11 @@
         <mark key="^" line="686" column="74" />
         <mark key="." line="686" column="74" />
       </file>
-      <file name="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1558435797489">
-        <mark key="'" line="2166" column="36" />
-      </file>
-      <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558423950370">
-        <mark key="[" line="140" column="22" />
-        <mark key="]" line="140" column="21" />
-        <mark key="^" line="140" column="21" />
-        <mark key="." line="140" column="21" />
-      </file>
+      <file name="E:/Work/client/res/shader/common_metal.vs" timestamp="1558441225520" />
       <file name="E:/Work/client/script/com/data/cdata/furniture_visibility.py" timestamp="1558433908201" />
       <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1558406622340" />
       <file name="E:/Work/client/script/game_scene/awake_show.py" timestamp="1558424462562">
         <mark key="'" line="234" column="23" />
-      </file>
-      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1558406338807">
-        <mark key="'" line="163" column="73" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1558423695559">
         <mark key="'" line="292" column="64" />
@@ -73,18 +118,8 @@
         <mark key="." line="294" column="70" />
         <mark key="^" line="294" column="70" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_info.py" timestamp="1558420266217">
-        <mark key="'" line="111" column="22" />
-      </file>
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
         <mark key="[" line="160" column="14" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558431044417">
-        <mark key="'" line="40" column="23" />
-        <mark key="[" line="154" column="30" />
-        <mark key="]" line="154" column="34" />
-        <mark key="." line="154" column="34" />
-        <mark key="^" line="154" column="34" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" timestamp="1558409748537">
         <mark key="'" line="2576" column="53" />
@@ -92,13 +127,6 @@
         <mark key="]" line="2554" column="134" />
         <mark key="^" line="2554" column="134" />
         <mark key="." line="2554" column="134" />
-      </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1558424733126">
-        <mark key="'" line="1412" column="23" />
-        <mark key="[" line="834" column="19" />
-        <mark key="]" line="834" column="22" />
-        <mark key="^" line="834" column="22" />
-        <mark key="." line="834" column="22" />
       </file>
       <file name="E:/Work/client/res/shader/shaderlib/pixellit.tml" timestamp="1558436148880" />
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558424081357">
@@ -108,16 +136,7 @@
         <mark key="." line="194" column="45" />
         <mark key="^" line="194" column="45" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1558406022053">
-        <mark key="'" line="822" column="57" />
-        <mark key="[" line="823" column="75" />
-        <mark key="]" line="823" column="90" />
-        <mark key="^" line="823" column="90" />
-        <mark key="." line="823" column="90" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
-        <mark key="[" line="118" column="75" />
-      </file>
+      <file name="E:/Work/client/res/shader/lightmap.nfx" timestamp="1558437147786" />
       <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1558424594585" />
       <file name="E:/Work/client/script/cocos/panels/settlement_info_2.py" timestamp="1558422784470">
         <mark key="[" line="20" column="51" />
@@ -127,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3356" column="43" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="3265" column="25" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="21" column="24" filename="E:/Work/client/script/game_scene/awake_show.py" />
       <jump line="416" column="19" filename="E:/Work/client/script/game_scene/city.py" />
@@ -227,46 +245,47 @@
       <jump line="2146" column="23" filename="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" />
       <jump line="2166" column="36" filename="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" />
       <jump line="13" column="13" filename="E:/Work/client/script/cocos/comps/hero_herolist_common/get_light.py" />
+      <jump line="191" column="27" filename="E:/Work/client/res/shader/common_gl.vs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>SceneColor</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>SceneColor</text>
       </register>
       <register name="/" type="4">
         <text>self.model._node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkjc2VsZi5tb2RlbC5fbm9kZS5zZXRWaXNpYmxlKFRydWUpCg==</text>
+        <text encoding="base64">CWdsX0ZyYWdDb2xvci5yZ2IgPSBTY2VuZUNvbG9yLnh5ejsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcGFzcwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzZWxmLm1vZGVsLl9ub2RlLmFkZFRvdWNoRXZlbnRMaXN0ZW5lcihzZWxmLm9uX21vZGVsX2NsaWNrKQo=</text>
+        <text encoding="base64">CS8vZ2xfRnJhZ0NvbG9yLnJnYiA9IHRleENvbG9yMS54eXoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXBlbmRhbnQgPSBoZXJvLndlYXJQZW5kYW50SW5mbwo=</text>
+        <text encoding="base64">CWZpbmFsX2NvbG9yLnJnYiA9IHRleENvbG9yMS54eXoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYgZHllX3NjaGVtZSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXZpZXcgPSBGYWxzZQo=</text>
+        <text encoding="base64">CQkJcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJYXJ0aWZhY3RfbGV2ZWwgPSBpdGVtLnRyZWFzdXJlRXhwRGljdC5nZXQoJ3N0YWdlJywgMCkK</text>
+        <text encoding="base64">CQlzZWxmLm1vZGVsLl9ub2RlLmFkZFRvdWNoRXZlbnRMaXN0ZW5lcihzZWxmLm9uX21vZGVsX2NsaWNrKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJX29wZW4gPSBUcnVlCg==</text>
+        <text encoding="base64">CQkJCXBlbmRhbnQgPSBoZXJvLndlYXJQZW5kYW50SW5mbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWhlcm8gPSBnZy5hdmF0YXIuaGVyb01nckRhdGEuZ2V0SGVybyhoZXJvX2lkKQo=</text>
+        <text encoding="base64">CQkJaWYgZHllX3NjaGVtZSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWhlcm9faWQgPSBza2luX2RhdGFbJ2hlcm8nXQo=</text>
+        <text encoding="base64">CQlyZXZpZXcgPSBGYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
