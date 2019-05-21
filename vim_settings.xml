@@ -93,12 +93,12 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
         <mark key="[" line="160" column="14" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558426229437">
-        <mark key="'" line="28" column="57" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
-        <mark key="^" line="206" column="8" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558430387415">
+        <mark key="'" line="40" column="23" />
+        <mark key="[" line="153" column="8" />
+        <mark key="]" line="153" column="8" />
+        <mark key="." line="153" column="8" />
+        <mark key="^" line="153" column="8" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" timestamp="1558409748537">
         <mark key="'" line="2576" column="53" />
@@ -146,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3248" column="17" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="3256" column="53" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="3236" column="41" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="383" column="34" filename="E:/Work/client/script/cocos/comps/common_model/model.py" />
@@ -246,19 +245,20 @@
       <jump line="234" column="23" filename="E:/Work/client/script/game_scene/awake_show.py" />
       <jump line="87" column="57" filename="E:/Work/client/script/cocos/comps/common_model/model.py" />
       <jump line="28" column="57" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
+      <jump line="40" column="23" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcGFzcwo=</text>
+        <text encoding="base64">CQkJI3NlbGYubW9kZWwuX25vZGUuYWRkVG91Y2hFdmVudExpc3RlbmVyKHNlbGYub25fbW9kZWxfY2xpY2spCg==</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>.data</text>
       </register>
       <register name="/" type="4">
-        <text>hero_id</text>
+        <text>self.model._node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWRlZiBvbl9wYW5lbF9jbGljayhzZWxmLCBzZW5kZXIsIGV2ZW50KToK</text>
+        <text encoding="base64">CQkJI3NlbGYubW9kZWwuX25vZGUuYWRkVG91Y2hFdmVudExpc3RlbmVyKHNlbGYub25fbW9kZWxfY2xpY2spCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJcGFzcwo=</text>
@@ -292,15 +292,14 @@
       </register>
     </registers>
     <search>
-      <last-search>hero_id</last-search>
+      <last-search>self.model._node</last-search>
       <last-offset />
-      <last-pattern>hero_id</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>self.model._node</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GlobalEventCallback</entry>
         <entry encoding="base64">XDx1bml2ZXJzYWxMaXN0XD4=</entry>
         <entry>gameserverclient2</entry>
         <entry>gameserver</entry>
@@ -320,6 +319,7 @@
         <entry encoding="base64">XDxzbG90XD4=</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>hero_id</entry>
+        <entry>self.model._node</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
