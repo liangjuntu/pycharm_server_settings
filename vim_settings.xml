@@ -79,8 +79,8 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
         <mark key="[" line="160" column="14" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/cinematic_mgr.py" timestamp="1558499973610">
-        <mark key="'" line="118" column="45" />
+      <file name="E:/Work/client/script/res_mgr/cinematic_mgr.py" timestamp="1558504528418">
+        <mark key="'" line="22" column="32" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558494002017">
         <mark key="'" line="39" column="23" />
@@ -127,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="8" filename="E:/Work/client/script/cocos/ui_tree.py" />
       <jump line="107" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1559" column="6" filename="E:/Work/client/script/cutils/chelpers.py" />
       <jump line="1697" column="55" filename="E:/Work/client/script/cutils/chelpers.py" />
@@ -227,6 +226,7 @@
       <jump line="1068" column="25" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1069" column="25" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="982" column="74" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="22" column="32" filename="E:/Work/client/script/res_mgr/cinematic_mgr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
