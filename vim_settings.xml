@@ -3,84 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1558409770849">
-        <mark key="'" line="120" column="29" />
-      </file>
-      <file name="/Python Console" timestamp="1558496344183">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1558441774590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="E:/Work/client/script/logic/logic_init.py" timestamp="1558493185502" />
-      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
-        <mark key="[" line="11" column="40" />
-      </file>
-      <file name="E:/Work/client/script/res_mgr/cinematic/resdata.py" timestamp="1558495590131">
-        <mark key="'" line="670" column="67" />
-      </file>
-      <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1558496094658">
-        <mark key="'" line="1687" column="21" />
-      </file>
-      <file name="E:/Work/client/script/cocos/comps/common_model/model.py" timestamp="1558426360403">
-        <mark key="'" line="87" column="57" />
-      </file>
-      <file name="E:/Work/client/res/shader/common_gl.vs" timestamp="1558441107626">
-        <mark key="'" line="191" column="27" />
-      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/hero_model.py" timestamp="1558425263845">
-        <mark key="'" line="246" column="24" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1558511700142">
+        <mark key="'" line="1097" column="43" />
+        <mark key="[" line="932" column="0" />
+        <mark key="]" line="932" column="0" />
+        <mark key="^" line="933" column="95" />
+        <mark key="." line="932" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_chouka_skin.py" timestamp="1558423542576">
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="56" column="68" />
-        <mark key="^" line="56" column="68" />
-        <mark key="." line="56" column="68" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/components/ResComp.py" timestamp="1558493089109" />
-      <file name="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1558441896737">
-        <mark key="'" line="2185" column="36" />
-      </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1558497031426">
-        <mark key="'" line="982" column="74" />
-      </file>
-      <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558423950370">
-        <mark key="[" line="140" column="22" />
-        <mark key="]" line="140" column="21" />
-        <mark key="^" line="140" column="21" />
-        <mark key="." line="140" column="21" />
-      </file>
-      <file name="E:/Work/client/res/shader/common_gl.ps" timestamp="1558439759940">
-        <mark key="[" line="211" column="23" />
-        <mark key="]" line="211" column="30" />
-        <mark key="." line="211" column="30" />
-        <mark key="^" line="211" column="30" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/awake_show.py" timestamp="1558424462562">
-        <mark key="'" line="234" column="23" />
-      </file>
+      <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1558509015025" />
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1558406338807">
-        <mark key="'" line="163" column="73" />
+      <file name="E:/Work/client/script/res_mgr/cinematic/datadefines.py" timestamp="1558506851056">
+        <mark key="'" line="456" column="63" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/cinematic/datadefines.py" timestamp="1558494892669">
-        <mark key="'" line="780" column="29" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_info.py" timestamp="1558420266217">
-        <mark key="'" line="111" column="22" />
-      </file>
-      <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
-        <mark key="[" line="160" column="14" />
-      </file>
-      <file name="E:/Work/client/script/res_mgr/cinematic_mgr.py" timestamp="1558504528418">
-        <mark key="'" line="22" column="32" />
+      <file name="E:/Work/client/script/res_mgr/cinematic_mgr.py" timestamp="1558505850375">
+        <mark key="'" line="75" column="50" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558494002017">
         <mark key="'" line="39" column="23" />
@@ -96,85 +38,57 @@
         <mark key="^" line="834" column="22" />
         <mark key="." line="834" column="22" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558496185458">
-        <mark key="'" line="117" column="39" />
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="8" />
-        <mark key="." line="71" column="8" />
-        <mark key="^" line="71" column="8" />
+      <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1558511693877">
+        <mark key="'" line="822" column="57" />
+        <mark key="[" line="823" column="75" />
+        <mark key="]" line="823" column="90" />
+        <mark key="^" line="823" column="90" />
+        <mark key="." line="823" column="90" />
       </file>
-      <file name="E:/Work/client/res/shader/common_metal.ps" timestamp="1558438662964">
-        <mark key="[" line="343" column="45" />
-        <mark key="]" line="344" column="34" />
-        <mark key="." line="344" column="34" />
-        <mark key="^" line="344" column="34" />
+      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
+        <mark key="[" line="118" column="75" />
+      </file>
+      <file name="/Python Console" timestamp="1558508035516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1558509144431">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
+        <mark key="[" line="11" column="40" />
+      </file>
+      <file name="E:/Work/client/script/res_mgr/cinematic/resdata.py" timestamp="1558507157626">
+        <mark key="'" line="587" column="64" />
+      </file>
+      <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1558496094658">
+        <mark key="'" line="1687" column="21" />
+      </file>
+      <file name="E:/Work/client/script/res_mgr/cinematic/datacommon.py" timestamp="1558506832697" />
+      <file name="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" timestamp="1558510087396" />
+      <file name="E:/Work/client/script/game_scene/components/ResComp.py" timestamp="1558493089109" />
+      <file name="E:/Work/client/script/cocos/panels/combat_result.py" timestamp="1558511235101" />
+      <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
+        <mark key="[" line="160" column="14" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558506051678">
+        <mark key="'" line="117" column="39" />
+        <mark key="[" line="71" column="9" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
+        <mark key="^" line="71" column="4" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" timestamp="1558496335756" />
       <file name="E:/Work/client/script/combat/view/unit/components/ModelComp.py" timestamp="1558496766411">
         <mark key="'" line="506" column="35" />
       </file>
-      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
-        <mark key="[" line="118" column="75" />
+      <file name="E:/Work/client/script/combat/view/unit/HeroUnit.py" timestamp="1558508710785">
+        <mark key="'" line="10" column="21" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1558491560627">
-        <mark key="'" line="124" column="27" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_info_2.py" timestamp="1558422784470">
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="55" />
-        <mark key="." line="20" column="55" />
-        <mark key="^" line="20" column="55" />
-      </file>
+      <file name="E:/Work/client/script/res_mgr/cinematic/cinecallback.py" timestamp="1558505362171" />
     </filemarks>
     <jumps>
-      <jump line="107" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="1559" column="6" filename="E:/Work/client/script/cutils/chelpers.py" />
-      <jump line="1697" column="55" filename="E:/Work/client/script/cutils/chelpers.py" />
-      <jump line="245" column="8" filename="E:/Work/client/script/res_mgr/cinematic/spline.py" />
-      <jump line="1696" column="33" filename="E:/Work/client/script/cutils/chelpers.py" />
-      <jump line="1672" column="21" filename="E:/Work/client/script/cutils/chelpers.py" />
-      <jump line="119" column="31" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="99" column="2" filename="E:/Work/client/script/gg.py" />
-      <jump line="156" column="31" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="109" column="44" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="1634" column="6" filename="E:/Work/client/script/cutils/chelpers.py" />
-      <jump line="134" column="53" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="113" column="28" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="128" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="1801" column="87" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="1798" column="19" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="129" column="26" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="1757" column="17" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="1412" column="23" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="822" column="57" filename="E:/Work/client/script/cocos/ui_manager.py" />
-      <jump line="82" column="8" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
-      <jump line="2574" column="53" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
-      <jump line="2542" column="25" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
-      <jump line="1237" column="62" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
-      <jump line="1919" column="57" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
-      <jump line="1740" column="42" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="2617" column="30" filename="D:/Work2/client2/script/cutils/chelpers.py" />
-      <jump line="1070" column="17" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
-      <jump line="229" column="27" filename="D:/Work2/client2/script/cocos/panels/settlement_fullscreen.py" />
-      <jump line="2576" column="49" filename="D:/Work2/client2/script/entity/avatar_members/HeroMgrMember.py" />
-      <jump line="120" column="29" filename="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_hero.py" />
-      <jump line="139" column="118" filename="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_hero.py" />
-      <jump line="2578" column="52" filename="D:/Work2/client2/script/entity/avatar_members/HeroMgrMember.py" />
-      <jump line="276" column="57" filename="D:/Work2/client2/script/cocos/panels/settlement_fullscreen.py" />
-      <jump line="97" column="32" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="196" column="48" filename="E:/Work/client/script/game_scene/city_model.py" />
-      <jump line="92" column="19" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="61" column="8" filename="E:/Work/client/script/game_scene/city_model.py" />
-      <jump line="81" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="82" column="53" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="83" column="61" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="84" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="85" column="49" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="86" column="44" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="87" column="53" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="88" column="53" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="89" column="88" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="90" column="88" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="3900" column="20" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1799" column="23" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1754" column="42" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
@@ -210,8 +124,6 @@
       <jump line="707" column="26" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
       <jump line="37" column="29" filename="E:/Work/client/script/res_mgr/cinematic_mgr.py" />
       <jump line="780" column="29" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
-      <jump line="670" column="67" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
-      <jump line="75" column="54" filename="E:/Work/client/script/res_mgr/cinematic_mgr.py" />
       <jump line="142" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="121" column="28" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1692" column="27" filename="E:/Work/client/script/cutils/chelpers.py" />
@@ -224,16 +136,66 @@
       <jump line="506" column="35" filename="E:/Work/client/script/combat/view/unit/components/ModelComp.py" />
       <jump line="1087" column="28" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
       <jump line="1068" column="25" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="1069" column="25" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="982" column="74" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="22" column="32" filename="E:/Work/client/script/res_mgr/cinematic_mgr.py" />
+      <jump line="359" column="6" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="488" column="25" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
+      <jump line="513" column="25" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
+      <jump line="369" column="18" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="575" column="8" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="607" column="49" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="583" column="15" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="2" column="0" filename="E:/Work/client/script/res_mgr/cinematic/cine_const.py" />
+      <jump line="591" column="49" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="3050" column="8" filename="E:/Work/client/script/game_scene/city_chouka.py" />
+      <jump line="586" column="54" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="655" column="97" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="38" column="8" filename="E:/Work/client/script/combat/view/logic/misc_logic.py" />
+      <jump line="670" column="58" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="9" column="0" filename="E:/Work/client/script/res_mgr/cinematic/cinecallback.py" />
+      <jump line="115" column="29" filename="E:/Work/client/script/res_mgr/cinematic_mgr.py" />
+      <jump line="75" column="50" filename="E:/Work/client/script/res_mgr/cinematic_mgr.py" />
+      <jump line="664" column="41" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
+      <jump line="1741" column="52" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="456" column="63" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
+      <jump line="1748" column="35" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="508" column="8" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="16" column="8" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
+      <jump line="587" column="64" filename="E:/Work/client/script/res_mgr/cinematic/resdata.py" />
+      <jump line="1022" column="42" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1689" column="8" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
+      <jump line="686" column="24" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="144" column="8" filename="E:/Work/client/script/cocos/nui_manager.py" />
+      <jump line="688" column="23" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="727" column="25" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="751" column="38" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="169" column="8" filename="E:/Work/client/script/combat/logic/logic/misc_logic.py" />
+      <jump line="752" column="63" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="42" column="24" filename="E:/Work/client/script/combat/view/unit/HeroUnit.py" />
+      <jump line="125" column="20" filename="E:/Work/client/script/combat/view/unit/HeroUnit.py" />
+      <jump line="982" column="18" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
+      <jump line="77" column="8" filename="E:/Work/client/script/combat/view/logic/misc_logic.py" />
+      <jump line="112" column="37" filename="E:/Work/client/script/combat/view/unit/HeroUnit.py" />
+      <jump line="50" column="8" filename="E:/Work/client/script/combat/view/logic/events/event_leitaizhanchunjie.py" />
+      <jump line="10" column="21" filename="E:/Work/client/script/combat/view/unit/HeroUnit.py" />
+      <jump line="801" column="66" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="922" column="17" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1075" column="57" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1078" column="59" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="928" column="29" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="586" column="8" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
+      <jump line="924" column="8" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1069" column="24" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1007" column="76" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1087" column="22" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1097" column="43" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJIyBnZy51aS5wYW5lbHMuc2V0dGxlbWVudF9mdWxsc2NyZWVuX2Zhc2hpb24ubm90aWZ5X3Nob3coc2tpbl9pZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>判断是否</text>
       </register>
       <register name="/" type="4">
         <text>self.model._node</text>
@@ -242,31 +204,31 @@
         <text encoding="base64">CWdsX0ZyYWdDb2xvci5yZ2IgPSBTY2VuZUNvbG9yLnh5ejsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJIyBnZy51aS5wYW5lbHMuc2V0dGxlbWVudF9mdWxsc2NyZWVuX2Zhc2hpb24ubm90aWZ5X3Nob3coc2tpbl9pZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlnZy5jaW5lLnN0YXJ0KCdcY2luZW1hdGljXGc1OF95aXNoYWtlX2NodWNoYW5nXzAyLnhtbCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJI3NlbGYubW9kZWwuX25vZGUuYWRkVG91Y2hFdmVudExpc3RlbmVyKHNlbGYub25fbW9kZWxfY2xpY2spCg==</text>
+        <text encoding="base64">CQlnZy5jaW5lLnN0YXJ0KCdcY2luZW1hdGljXGc1OF95aXNoYWtlX2NodWNoYW5nXzAyLnhtbCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJI3NlbGYubW9kZWwuX25vZGUuYWRkVG91Y2hFdmVudExpc3RlbmVyKHNlbGYub25fbW9kZWxfY2xpY2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vZ2xfRnJhZ0NvbG9yLnJnYiA9IHRleENvbG9yMS54eXoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWZpbmFsX2NvbG9yLnJnYiA9IHRleENvbG9yMS54eXoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vZ2xfRnJhZ0NvbG9yLnJnYiA9IHRleENvbG9yMS54eXoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWZpbmFsX2NvbG9yLnJnYiA9IHRleENvbG9yMS54eXoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcGFzcwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZWxmLm1vZGVsLl9ub2RlLmFkZFRvdWNoRXZlbnRMaXN0ZW5lcihzZWxmLm9uX21vZGVsX2NsaWNrKQo=</text>
+        <text encoding="base64">CQkJcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
