@@ -3,16 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Work/server/script/entity/avatar_members/MultiTeamMember.py" timestamp="1558519131800" />
       <file name="E:/Work/client/script/logic/logic_init.py" timestamp="1558493185502" />
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1558516558004">
+      <file name="E:/Work/server/script/entity/avatar_attrs/TeamData.py" timestamp="1558519153690" />
+      <file name="E:/Work/client/script/entity/avatar_members/ShikongzhidiMember.py" timestamp="1558519336161" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1558519999369">
         <mark key="'" line="931" column="34" />
-        <mark key="[" line="1380" column="15" />
-        <mark key="]" line="1380" column="18" />
-        <mark key="^" line="1380" column="18" />
-        <mark key="." line="1380" column="18" />
+        <mark key="[" line="1389" column="68" />
+        <mark key="]" line="1390" column="4" />
+        <mark key="^" line="1390" column="4" />
+        <mark key="." line="1390" column="4" />
       </file>
       <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1558509015025" />
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
@@ -24,12 +27,12 @@
       <file name="E:/Work/client/script/res_mgr/cinematic_mgr.py" timestamp="1558505850375">
         <mark key="'" line="75" column="50" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558513649488">
-        <mark key="'" line="114" column="20" />
-        <mark key="[" line="123" column="10" />
-        <mark key="]" line="124" column="40" />
-        <mark key="." line="124" column="40" />
-        <mark key="^" line="124" column="40" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558518606386">
+        <mark key="'" line="124" column="21" />
+        <mark key="[" line="124" column="14" />
+        <mark key="]" line="124" column="27" />
+        <mark key="." line="124" column="27" />
+        <mark key="^" line="124" column="27" />
       </file>
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1558491481142">
         <mark key="'" line="1412" column="23" />
@@ -48,13 +51,13 @@
       <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
         <mark key="[" line="118" column="75" />
       </file>
-      <file name="/Python Console" timestamp="1558516403596">
+      <file name="/Python Console" timestamp="1558520096851">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1558509144431">
+      <file name="/fragment.py" timestamp="1558519356049">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
@@ -66,8 +69,8 @@
         <mark key="'" line="1687" column="21" />
       </file>
       <file name="E:/Work/client/script/res_mgr/cinematic/datacommon.py" timestamp="1558506832697" />
-      <file name="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" timestamp="1558515730073">
-        <mark key="'" line="137" column="21" />
+      <file name="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" timestamp="1558519645568">
+        <mark key="'" line="84" column="39" />
       </file>
       <file name="E:/Work/client/script/game_scene/components/ResComp.py" timestamp="1558493089109" />
       <file name="E:/Work/client/script/cocos/panels/combat_result.py" timestamp="1558515649816">
@@ -76,7 +79,7 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
         <mark key="[" line="160" column="14" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558513453825">
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558518595450">
         <mark key="'" line="169" column="21" />
         <mark key="[" line="170" column="17" />
         <mark key="]" line="170" column="19" />
@@ -93,8 +96,6 @@
       <file name="E:/Work/client/script/res_mgr/cinematic/cinecallback.py" timestamp="1558505362171" />
     </filemarks>
     <jumps>
-      <jump line="194" column="27" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="99" column="60" filename="E:/Work/client/script/cocos/panels/card_clothes.py" />
       <jump line="234" column="23" filename="E:/Work/client/script/game_scene/awake_show.py" />
       <jump line="87" column="57" filename="E:/Work/client/script/cocos/comps/common_model/model.py" />
       <jump line="28" column="57" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
@@ -193,46 +194,56 @@
       <jump line="752" column="33" filename="E:/Work/client/script/cocos/panels/combat_result.py" />
       <jump line="1109" column="37" filename="E:/Work/client/script/cocos/panels/combat_result.py" />
       <jump line="137" column="21" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
+      <jump line="124" column="21" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
+      <jump line="84" column="39" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJI2dnLnVpLnBhbmVscy5zZXR0bGVtZW50X2Z1bGxzY3JlZW5fZmFzaGlvbi5ub3RpZnlfc2tpbl9wbGF5KHNraW5faWQsIGF1dG9faW5pdD1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cb_show_ui</text>
+        <text>.team_member_cache</text>
       </register>
       <register name="/" type="4">
         <text>self.model._node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWdsX0ZyYWdDb2xvci5yZ2IgPSBTY2VuZUNvbG9yLnh5ejsK</text>
+        <text encoding="base64">CQlmb3IgaGVybyBpbiBzZWxmLmNvbWJhdC5nZXRfdW5pdHNfYnl0eXBlKGNvbnN0LlVuaXRUeXBlLkhFUk8pOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJI2dnLnVpLnBhbmVscy5zZXR0bGVtZW50X2Z1bGxzY3JlZW5fZmFzaGlvbi5ub3RpZnlfc2tpbl9wbGF5KHNraW5faWQsIGF1dG9faW5pdD1UcnVlKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJc2tpbl9pZCA9IDIwMDI0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlza2luX2lkID0gCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJIyBnZy51aS5wYW5lbHMuc2V0dGxlbWVudF9mdWxsc2NyZWVuX2Zhc2hpb24ubm90aWZ5X3Nob3coc2tpbl9pZCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="4" type="4">
+        <text>for hero in self.combat.get_units_bytype(const.UnitType.HERO):
+			#判断当前英雄
+			if not hero.BuffMgrComp.has_buff(7642):
+				print(&quot;curr_skin_id:{}&quot;.format(1))</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="6" type="4">
+        <text>mvp = gg.avatar.shikongzhidiData.result_cache.get('mvp', '')
+		print(&quot;show_skin_play, mvp:{}&quot;.format(mvp))
+		if mvp != '':
+			mvp_id = IdManager.str2id(mvp)
+		else:
+			mvp_id = None</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJI2dnLnVpLnBhbmVscy5zZXR0bGVtZW50X2Z1bGxzY3JlZW5fZmFzaGlvbi5ub3RpZnlfc2tpbl9wbGF5KHNraW5faWQsIGF1dG9faW5pdD1UcnVlKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlnZy5jaW5lLnN0YXJ0KCdcY2luZW1hdGljXGc1OF95aXNoYWtlX2NodWNoYW5nXzAyLnhtbCcpCg==</text>
+        <text encoding="base64">CQkJc2tpbl9pZCA9IDIwMDI0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
