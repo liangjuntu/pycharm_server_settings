@@ -3,75 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Work/client/script/cocos/comps/common_model/model.py" timestamp="1558426360403">
-        <mark key="'" line="87" column="57" />
-      </file>
-      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1558423338136">
-        <mark key="'" line="1913" column="64" />
-        <mark key="[" line="1913" column="99" />
-        <mark key="]" line="1913" column="114" />
-        <mark key="^" line="1913" column="114" />
-        <mark key="." line="1913" column="114" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1558441896737">
-        <mark key="'" line="2166" column="36" />
-      </file>
-      <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558423950370">
-        <mark key="[" line="140" column="22" />
-        <mark key="]" line="140" column="21" />
-        <mark key="^" line="140" column="21" />
-        <mark key="." line="140" column="21" />
-      </file>
-      <file name="E:/Work/client/res/shader/common_gl.ps" timestamp="1558439759940">
-        <mark key="[" line="211" column="23" />
-        <mark key="]" line="211" column="30" />
-        <mark key="." line="211" column="30" />
-        <mark key="^" line="211" column="30" />
-      </file>
-      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1558406338807">
-        <mark key="'" line="163" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/我的POPO/xxxx.txt" timestamp="1558439019278" />
-      <file name="E:/Work/client/script/cocos/panels/settlement_info.py" timestamp="1558420266217">
-        <mark key="'" line="111" column="22" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558431044417">
-        <mark key="'" line="40" column="23" />
-        <mark key="[" line="154" column="30" />
-        <mark key="]" line="154" column="34" />
-        <mark key="." line="154" column="34" />
-        <mark key="^" line="154" column="34" />
-      </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1558424733126">
-        <mark key="'" line="1412" column="23" />
-        <mark key="[" line="834" column="19" />
-        <mark key="]" line="834" column="22" />
-        <mark key="^" line="834" column="22" />
-        <mark key="." line="834" column="22" />
-      </file>
-      <file name="E:/Work/client/res/shader/common_metal.ps" timestamp="1558438662964">
-        <mark key="[" line="343" column="45" />
-        <mark key="]" line="344" column="34" />
-        <mark key="." line="344" column="34" />
-        <mark key="^" line="344" column="34" />
-      </file>
-      <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1558406022053">
-        <mark key="'" line="822" column="57" />
-        <mark key="[" line="823" column="75" />
-        <mark key="]" line="823" column="90" />
-        <mark key="^" line="823" column="90" />
-        <mark key="." line="823" column="90" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
-        <mark key="[" line="118" column="75" />
-      </file>
-      <file name="E:/Work/client/res/shader/shaderlib/lighting.vs" timestamp="1558440917551" />
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1558409770849">
         <mark key="'" line="120" column="29" />
       </file>
@@ -86,8 +17,21 @@
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
       </file>
+      <file name="E:/Work/client/script/cocos/comps/common_model/model.py" timestamp="1558426360403">
+        <mark key="'" line="87" column="57" />
+      </file>
       <file name="E:/Work/client/res/shader/common_gl.vs" timestamp="1558441107626">
         <mark key="'" line="191" column="27" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1558423338136">
+        <mark key="'" line="1913" column="64" />
+        <mark key="[" line="1913" column="99" />
+        <mark key="]" line="1913" column="114" />
+        <mark key="^" line="1913" column="114" />
+        <mark key="." line="1913" column="114" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_model.py" timestamp="1558425263845">
         <mark key="'" line="246" column="24" />
@@ -105,11 +49,29 @@
         <mark key="^" line="686" column="74" />
         <mark key="." line="686" column="74" />
       </file>
-      <file name="E:/Work/client/res/shader/common_metal.vs" timestamp="1558441225520" />
-      <file name="E:/Work/client/script/com/data/cdata/furniture_visibility.py" timestamp="1558433908201" />
-      <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1558406622340" />
+      <file name="E:/Work/client/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1558441896737">
+        <mark key="'" line="2185" column="36" />
+      </file>
+      <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558423950370">
+        <mark key="[" line="140" column="22" />
+        <mark key="]" line="140" column="21" />
+        <mark key="^" line="140" column="21" />
+        <mark key="." line="140" column="21" />
+      </file>
+      <file name="E:/Work/client/res/shader/common_gl.ps" timestamp="1558439759940">
+        <mark key="[" line="211" column="23" />
+        <mark key="]" line="211" column="30" />
+        <mark key="." line="211" column="30" />
+        <mark key="^" line="211" column="30" />
+      </file>
       <file name="E:/Work/client/script/game_scene/awake_show.py" timestamp="1558424462562">
         <mark key="'" line="234" column="23" />
+      </file>
+      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1558406338807">
+        <mark key="'" line="163" column="73" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1558423695559">
         <mark key="'" line="292" column="64" />
@@ -118,8 +80,18 @@
         <mark key="." line="294" column="70" />
         <mark key="^" line="294" column="70" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_info.py" timestamp="1558420266217">
+        <mark key="'" line="111" column="22" />
+      </file>
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
         <mark key="[" line="160" column="14" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1558431044417">
+        <mark key="'" line="40" column="23" />
+        <mark key="[" line="154" column="30" />
+        <mark key="]" line="154" column="34" />
+        <mark key="." line="154" column="34" />
+        <mark key="^" line="154" column="34" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" timestamp="1558409748537">
         <mark key="'" line="2576" column="53" />
@@ -128,7 +100,13 @@
         <mark key="^" line="2554" column="134" />
         <mark key="." line="2554" column="134" />
       </file>
-      <file name="E:/Work/client/res/shader/shaderlib/pixellit.tml" timestamp="1558436148880" />
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1558424733126">
+        <mark key="'" line="1412" column="23" />
+        <mark key="[" line="834" column="19" />
+        <mark key="]" line="834" column="22" />
+        <mark key="^" line="834" column="22" />
+        <mark key="." line="834" column="22" />
+      </file>
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558424081357">
         <mark key="'" line="169" column="37" />
         <mark key="[" line="177" column="0" />
@@ -136,8 +114,22 @@
         <mark key="." line="194" column="45" />
         <mark key="^" line="194" column="45" />
       </file>
-      <file name="E:/Work/client/res/shader/lightmap.nfx" timestamp="1558437147786" />
-      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1558424594585" />
+      <file name="E:/Work/client/res/shader/common_metal.ps" timestamp="1558438662964">
+        <mark key="[" line="343" column="45" />
+        <mark key="]" line="344" column="34" />
+        <mark key="." line="344" column="34" />
+        <mark key="^" line="344" column="34" />
+      </file>
+      <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1558406022053">
+        <mark key="'" line="822" column="57" />
+        <mark key="[" line="823" column="75" />
+        <mark key="]" line="823" column="90" />
+        <mark key="^" line="823" column="90" />
+        <mark key="." line="823" column="90" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
+        <mark key="[" line="118" column="75" />
+      </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_info_2.py" timestamp="1558422784470">
         <mark key="[" line="20" column="51" />
         <mark key="]" line="20" column="55" />
