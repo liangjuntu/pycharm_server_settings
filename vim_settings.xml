@@ -89,7 +89,7 @@
         <mark key="^" line="99" column="694" />
         <mark key="." line="99" column="694" />
       </file>
-      <file name="/Python Console" timestamp="1558605126207">
+      <file name="/Python Console" timestamp="1558611108151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1558605251439">
@@ -113,6 +113,7 @@
         <mark key="^" line="56" column="68" />
         <mark key="." line="56" column="68" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1558611092150" />
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1558523253624">
         <mark key="'" line="292" column="64" />
         <mark key="[" line="294" column="58" />
@@ -310,7 +311,7 @@
         <text encoding="base64">U0NFTkVfU0tJTl9QTEFZID0gJ3NjZW5lL2hkL2c1OF9nZXRtYW5wby5zY24nCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>421</text>
       </register>
     </registers>
     <search>
@@ -344,8 +345,6 @@
         <entry>self.model._node</entry>
       </history-search>
       <history-cmd>
-        <entry>1586</entry>
-        <entry>162</entry>
         <entry>69</entry>
         <entry>99</entry>
         <entry>610</entry>
@@ -364,6 +363,8 @@
         <entry>125</entry>
         <entry>2585</entry>
         <entry>w</entry>
+        <entry>289</entry>
+        <entry>421</entry>
       </history-cmd>
       <history-expr />
       <history-input />
