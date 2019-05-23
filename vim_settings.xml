@@ -151,11 +151,12 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1557976293582">
         <mark key="[" line="160" column="14" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558583129867">
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558584281245">
         <mark key="'" line="194" column="34" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="79" />
-        <mark key="." line="184" column="0" />
+        <mark key="[" line="204" column="32" />
+        <mark key="]" line="205" column="18" />
+        <mark key="." line="205" column="18" />
+        <mark key="^" line="205" column="18" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" timestamp="1558582540875">
         <mark key="'" line="218" column="22" />
@@ -283,7 +284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlwcmludCgnW3NraW5fcGxheV9zY2VuZV0ocGxheV9za2luX3BsYXlfYW5pbXMpIGFuaW1zOnt9Jy5mb3JtYXQoYW5pbXMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>play_index</text>
@@ -295,36 +296,31 @@
         <text encoding="base64">CQkjYW5pbXNfcG9zID0gc2VsZi5hbmltc19wb3MycGxheQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwcmludCgnW3NraW5fcGxheV9zY2VuZV0ocGxheV9za2luX3BsYXlfYW5pbXMpIGFuaW1zOnt9Jy5mb3JtYXQoYW5pbXMpKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlwYXNzCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmludCgnW3NraW5fcGxheV9zY2VuZV0ocGxheV9za2luX3BsYXlfYW5pbXMpIGFuaW1zOnt9Jy5mb3JtYXQoYW5pbXMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZWxmLnRyaXMycGxheSA9IFtdCg==</text>
+        <text encoding="base64">CQlzY2VuZV9tb2RlbC5fc2V0X2FuaW1zKGFuaW1zLCBhbmltY2I9bGFtYmRhIGtleT1zZWxmLmRlZmF1bHRfa2V5OiBzZWxmLl9vbl9hbmltKGtleSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdG90YWwgKz0gCg==</text>
+        <text encoding="base64">CQlhbmltcyA9IFtzZWxmLmFuaW1zMnBsYXlbc2VsZi5wbGF5X2luZGV4XSxdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTW9kZWxTY2VuZURhdGEuZ2V0X2FuaW1fbGVuZ3RoKHNlbGYubW9kZWxfaWQsIGFuaW1fbmFtZSkK</text>
+        <text encoding="base64">CWRlZiBwbGF5X2FuaW1fYnlfaW5kZXgoc2VsZiwgc2NlbmVfbW9kZWwpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text># self.model_cam = chelpers.CameraAnimation(None, self.scene_cam)
-		# eye_pos = scene_model.model.get_socket_matrix('eye', world.SPACE_TYPE_WORLD).translation
-		# self.model_cam.add_track('manpo_01')
-		# self.model_cam.add_track('manpo_02', center=eye_pos)
-		# self.model_cam.add_track('manpo')
-		# self.model_cam.start()</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZWxmLmFuaW1zX3BvczJwbGF5ID0gW10K</text>
+        <text encoding="base64">CQkjc2VsZi5hbmltc19wb3MycGxheSA9IFsoLTMzNy42MiwgMCwgMTQwLjc0MSksICgyMjMuMTY5LCAwLCAtODg0LjExMyldCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
