@@ -172,12 +172,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558693875375">
-        <mark key="'" line="211" column="25" />
-        <mark key="[" line="85" column="58" />
-        <mark key="]" line="86" column="82" />
-        <mark key="^" line="86" column="82" />
-        <mark key="." line="86" column="82" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558697535323">
+        <mark key="'" line="85" column="12" />
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="33" />
+        <mark key="^" line="86" column="33" />
+        <mark key="." line="86" column="33" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" timestamp="1558605345247">
         <mark key="'" line="221" column="44" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="21" filename="E:/Work/client/script/game_scene/turbulence_team.py" />
       <jump line="934" column="34" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="759" column="81" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
       <jump line="573" column="8" filename="E:/Work/client/script/combat/view/unit/Unit.py" />
@@ -312,16 +311,17 @@
       <jump line="211" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1760" column="21" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1796" column="29" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="85" column="12" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scene_model</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>scene_model</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>ext_model2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJc2VsZi5tb2RlbF9jYW0uYWRkX3RyYWNrKHRyaywgZm92PWZvdiwgY2VudGVyPWNlbnRlcl9wb3MpCg==</text>
@@ -358,15 +358,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>ext_model2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>ext_model2</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bml2ZXJzYWxMaXN0XD4=</entry>
         <entry>gameserverclient2</entry>
         <entry>gameserver</entry>
         <entry>gameserverclient</entry>
@@ -386,6 +385,7 @@
         <entry>hero_id</entry>
         <entry>self.model._node</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>ext_model2</entry>
       </history-search>
       <history-cmd>
         <entry>213</entry>
