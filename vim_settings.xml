@@ -40,11 +40,11 @@
       <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1558526445749">
         <mark key="'" line="581" column="30" />
       </file>
-      <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558678996737">
-        <mark key="[" line="153" column="426" />
-        <mark key="]" line="153" column="427" />
-        <mark key="^" line="153" column="427" />
-        <mark key="." line="153" column="427" />
+      <file name="E:/Work/client/script/com/data/cdata/skin.py" timestamp="1558699979898">
+        <mark key="[" line="153" column="623" />
+        <mark key="]" line="153" column="711" />
+        <mark key="^" line="153" column="711" />
+        <mark key="." line="153" column="711" />
       </file>
       <file name="E:/Work/client/script/com/data/cdata/hero.py" timestamp="1558598399633">
         <mark key="[" line="99" column="693" />
@@ -59,6 +59,12 @@
         <mark key="^" line="211" column="30" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1558693040716" />
+      <file name="E:/Work/G58SVN/tool/export_table_tool/csv2py.py" timestamp="1558699458806">
+        <mark key="[" line="103" column="18" />
+        <mark key="]" line="103" column="21" />
+        <mark key="^" line="103" column="21" />
+        <mark key="." line="103" column="21" />
+      </file>
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,7 +90,7 @@
       <file name="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" timestamp="1558599003790">
         <mark key="'" line="300" column="63" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1558693939532">
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1558700364762">
         <mark key="'" line="1760" column="21" />
         <mark key="[" line="1802" column="46" />
         <mark key="]" line="1802" column="52" />
@@ -109,7 +115,7 @@
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_hero.py" timestamp="1558409770849">
         <mark key="'" line="120" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1558679555338">
+      <file name="/Python Console" timestamp="1558698406823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1558679816964">
@@ -172,12 +178,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558697535323">
-        <mark key="'" line="85" column="12" />
-        <mark key="[" line="86" column="32" />
-        <mark key="]" line="86" column="33" />
-        <mark key="^" line="86" column="33" />
-        <mark key="." line="86" column="33" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558700693627">
+        <mark key="'" line="87" column="12" />
+        <mark key="[" line="122" column="14" />
+        <mark key="]" line="122" column="14" />
+        <mark key="." line="122" column="14" />
+        <mark key="^" line="122" column="28" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" timestamp="1558605345247">
         <mark key="'" line="221" column="44" />
@@ -203,6 +209,12 @@
         <mark key="]" line="183" column="66" />
         <mark key="." line="183" column="66" />
         <mark key="^" line="183" column="66" />
+      </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/export.py" timestamp="1558699333587">
+        <mark key="[" line="209" column="42" />
+        <mark key="]" line="214" column="31" />
+        <mark key="." line="214" column="31" />
+        <mark key="^" line="214" column="31" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_info_2.py" timestamp="1558422784470">
         <mark key="[" line="20" column="51" />
@@ -315,43 +327,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>setVisible</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>setVisible</text>
       </register>
       <register name="/" type="4">
         <text>ext_model2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJc2VsZi5tb2RlbF9jYW0uYWRkX3RyYWNrKHRyaywgZm92PWZvdiwgY2VudGVyPWNlbnRlcl9wb3MpCg==</text>
+        <text encoding="base64">CQkJcmV0ID0gb3Muc3lzdGVtKCdweXRob24gJXMvY3N2MnB5LnB5ICVzLyVzICVzLyVzICVzICVzICVzLyVzICVkICVkJyAlIChleHBvcnRfcm9vdCwgZGVmX3BhdGgsIGRlZl9maWxlLCBzcmNfcGF0aCwgZXhjZWxfZmlsZSwgZXhjZWxfZmlsZXMsIGV4Y2VsX3NoZWV0LCBkc3RfcGF0aCwgZHN0X2ZpbGUsIGV4cG9ydENsaWVudCwgZXhwb3J0U2VydmVyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwb3MgPSBzZWxmLmFuaW1zX3BvczJwbGF5W2ldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQltb2RlbC53b3JsZF9wb3NpdGlvbiA9IG1hdGgzZChwb3NbMF0sIHBvc1sxXSwgcG9zWzJdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlza2luX3BsYXlfYXR0YWNoID0gWygnJywpLCAoJ21vZGVsX3NjZW5lL3NsZm0vZzU4X3lpc2hha2V5b25nemh1YW5fY2h1Y2hhbmcuZ2ltJyldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzY2VuZV9tb2RlbF9pbmZvID0gc2VsZi5zY2VuZV9tb2RlbF9kaWN0LmdldChrZXksIE5vbmUpCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiBub3Qgc2NlbmVfbW9kZWxfaW5mbzoK</text>
+        <text encoding="base64">CQkjZ2cuY2luZS5zdGFydCgnXGNpbmVtYXRpY1xnNThfeWlzaGFrZV9jaHVjaGFuZ18wMi54bWwnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc2VsZi5zY2VuZV9saWdodCA9IGtleQo=</text>
+        <text encoding="base64">CQlpZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJc2NlbmVfbW9kZWwuZW5hYmxlX2xpZ2h0KFRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
