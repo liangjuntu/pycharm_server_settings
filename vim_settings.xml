@@ -171,12 +171,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558681149942">
-        <mark key="'" line="217" column="15" />
-        <mark key="[" line="233" column="23" />
-        <mark key="]" line="233" column="20" />
-        <mark key="." line="233" column="20" />
-        <mark key="^" line="233" column="20" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558691395060">
+        <mark key="'" line="194" column="15" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="^" line="184" column="98" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" timestamp="1558605345247">
         <mark key="'" line="221" column="44" />
@@ -196,12 +196,12 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1558680735057">
+      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1558691366442">
         <mark key="'" line="167" column="24" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="^" line="181" column="4" />
-        <mark key="." line="181" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="181" column="14" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_info_2.py" timestamp="1558422784470">
         <mark key="[" line="20" column="51" />
@@ -313,8 +313,8 @@
       <jump line="217" column="15" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>scene_model</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>scene_model</text>
@@ -326,32 +326,31 @@
         <text encoding="base64">CQkJc2VsZi5tb2RlbF9jYW0uYWRkX3RyYWNrKHRyaywgZm92PWZvdiwgY2VudGVyPWNlbnRlcl9wb3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJc2VsZi5tb2RlbF9jYW0uYWRkX3RyYWNrKHRyaywgZm92PWZvdikK</text>
+        <text encoding="base64">CQlzY2VuZV9tb2RlbF9pbmZvID0gc2VsZi5zY2VuZV9tb2RlbF9kaWN0LmdldChrZXksIE5vbmUpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text># 来个镜头动画
-		self.play_trk(scene_model)</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlpZiBub3Qgc2NlbmVfbW9kZWxfaW5mbzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZWxmLmFuaW1zX3BvczJwbGF5ID0gWygwLDAsMCksICgwLDAsMCldCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+        <text encoding="base64">CQkJc2VsZi5zY2VuZV9saWdodCA9IGtleQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiBub3Qgc2NlbmVfbW9kZWw6Cg==</text>
+        <text encoding="base64">CQkJc2NlbmVfbW9kZWwuZW5hYmxlX2xpZ2h0KFRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzY2VuZV9tb2RlbCA9IHNlbGYuZ2V0X3NjZW5lX21vZGVsX2J5X2tleShrZXkpCg==</text>
+        <text encoding="base64">CQlpZiBub3Qgc2VsZi5zY2VuZV9saWdodDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzY2VuZV9tb2RlbC5lbmFibGVfc2hhZG93KFRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
