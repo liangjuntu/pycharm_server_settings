@@ -124,12 +124,12 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
         <mark key="[" line="153" column="14" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558704781993">
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558705428511">
         <mark key="'" line="102" column="21" />
-        <mark key="[" line="115" column="28" />
-        <mark key="]" line="118" column="17" />
-        <mark key="." line="118" column="17" />
-        <mark key="^" line="118" column="17" />
+        <mark key="[" line="287" column="16" />
+        <mark key="]" line="287" column="16" />
+        <mark key="." line="287" column="16" />
+        <mark key="^" line="287" column="16" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" timestamp="1558605345247">
         <mark key="'" line="221" column="44" />
@@ -261,8 +261,8 @@
       <jump line="102" column="21" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJI21vZGVsLnBsYXlfYW5pbWF0aW9uKGFuaW0sIC0xLCB3b3JsZC5UUkFOU0lUX1RZUEVfREVGQVVMVCwgMCwgMiwgMSkK</text>
       </register>
       <register name="-" type="4">
         <text>2000</text>
@@ -274,31 +274,31 @@
         <text encoding="base64">CQkJbW9kZWwucGxheV9hbmltYXRpb24oYW5pbSwgLTEsIHdvcmxkLlRSQU5TSVRfVFlQRV9ERUZBVUxULCAwLCAyLCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJI21vZGVsLnBsYXlfYW5pbWF0aW9uKGFuaW0sIC0xLCB3b3JsZC5UUkFOU0lUX1RZUEVfREVGQVVMVCwgMCwgMiwgMSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcCA9IHNlbGYuYW5pbXNfcG9zMnBsYXlbaV0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJdnAgPSBtYXRoM2QudmVjdG9yCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlzY2VuZV9tb2RlbC5jYW5jZWxfYW5pbXQoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJcCA9IHNlbGYuYW5pbXNfcG9zMnBsYXlbaV0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJdnAgPSBtYXRoM2QudmVjdG9yCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlzY2VuZV9tb2RlbC5jYW5jZWxfYW5pbXQoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWRlZiBhbmltX2NiKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -335,7 +335,6 @@
         <entry>ext_model2</entry>
       </history-search>
       <history-cmd>
-        <entry>71</entry>
         <entry>1408</entry>
         <entry>117</entry>
         <entry>125</entry>
@@ -354,6 +353,7 @@
         <entry>235</entry>
         <entry>325</entry>
         <entry>330</entry>
+        <entry>282</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
