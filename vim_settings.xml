@@ -124,6 +124,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1558952998711">
+        <mark key="[" line="594" column="45" />
+        <mark key="]" line="597" column="4" />
+        <mark key="^" line="597" column="4" />
+        <mark key="." line="597" column="4" />
+      </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
       </file>
@@ -183,11 +189,11 @@
         <mark key="'" line="139" column="48" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1558943378246" />
-      <file name="E:/Work/client/script/com/const.py" timestamp="1558940359711">
-        <mark key="[" line="7027" column="0" />
-        <mark key="]" line="7028" column="30" />
-        <mark key="^" line="7028" column="30" />
-        <mark key="." line="7028" column="30" />
+      <file name="E:/Work/client/script/com/const.py" timestamp="1558952823727">
+        <mark key="[" line="7027" column="2" />
+        <mark key="]" line="7027" column="0" />
+        <mark key="^" line="7027" column="0" />
+        <mark key="." line="7027" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1558943522214">
         <mark key="'" line="102" column="21" />
