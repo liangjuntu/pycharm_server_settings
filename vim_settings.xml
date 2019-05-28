@@ -74,8 +74,8 @@
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/scene_mgr.py" timestamp="1559029583755">
-        <mark key="'" line="110" column="21" />
+      <file name="E:/Work/client/script/res_mgr/scene_mgr.py" timestamp="1559030839435">
+        <mark key="'" line="62" column="27" />
         <mark key="[" line="115" column="26" />
         <mark key="]" line="115" column="29" />
         <mark key="^" line="115" column="29" />
@@ -90,8 +90,8 @@
       <file name="E:/Work/client/script/res_mgr/cinematic_mgr.py" timestamp="1558505850375">
         <mark key="'" line="75" column="50" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1559027989098">
-        <mark key="'" line="118" column="21" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1559030753036">
+        <mark key="'" line="128" column="44" />
         <mark key="[" line="118" column="19" />
         <mark key="]" line="118" column="28" />
         <mark key="^" line="118" column="28" />
@@ -162,8 +162,12 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="93" column="29" />
       </file>
-      <file name="E:/Work/client/script/game_scene/components/ResComp.py" timestamp="1559029145495">
-        <mark key="'" line="39" column="31" />
+      <file name="E:/Work/client/script/game_scene/components/ResComp.py" timestamp="1559030801988">
+        <mark key="'" line="233" column="26" />
+        <mark key="[" line="233" column="37" />
+        <mark key="]" line="233" column="49" />
+        <mark key="^" line="233" column="49" />
+        <mark key="." line="233" column="49" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/debug_ui.py" timestamp="1558614267512">
         <mark key="'" line="716" column="22" />
@@ -186,14 +190,15 @@
       <file name="E:/Work/client/script/combat/logic/unit/components/skill/PskillComp_1510.py" timestamp="1558949482284">
         <mark key="'" line="139" column="48" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1559015723465">
+      <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1559030757578">
         <mark key="'" line="223" column="50" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1559029811220">
-        <mark key="'" line="21" column="26" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1559030496908">
+        <mark key="'" line="76" column="28" />
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="112" column="8" />
+        <mark key="." line="112" column="8" />
+        <mark key="^" line="112" column="8" />
       </file>
       <file name="E:/Work/client/script/res_mgr/posteffect_mgr.py" timestamp="1559027610128">
         <mark key="'" line="92" column="30" />
@@ -213,8 +218,8 @@
       <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1872.py" timestamp="1558949292418">
         <mark key="'" line="76" column="37" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1559029114551">
-        <mark key="'" line="42" column="27" />
+      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1559030768290">
+        <mark key="'" line="42" column="26" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
@@ -228,12 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1079" column="27" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="924" column="8" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="1085" column="20" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="69" column="42" filename="E:/Work/client/script/game_scene/city_model.py" />
-      <jump line="3561" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="1398" column="73" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1441" column="38" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1000" column="38" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="301" column="8" filename="E:/Work/client/script/res_mgr/posteffect_mgr.py" />
@@ -274,7 +273,6 @@
       <jump line="127" column="42" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="390" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="77" column="17" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="128" column="70" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="1443" column="23" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="219" column="43" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="1444" column="37" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
@@ -319,22 +317,29 @@
       <jump line="603" column="32" filename="E:/Work/client/script/game_scene/city_base.py" />
       <jump line="333" column="29" filename="E:/Work/client/script/game_scene/components/ResComp.py" />
       <jump line="107" column="21" filename="E:/Work/client/script/game_scene/city_base.py" />
-      <jump line="42" column="27" filename="E:/Work/client/script/game_scene/city_model.py" />
       <jump line="116" column="24" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
       <jump line="135" column="8" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
       <jump line="39" column="31" filename="E:/Work/client/script/game_scene/components/ResComp.py" />
-      <jump line="21" column="26" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="62" column="27" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
       <jump line="94" column="8" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
-      <jump line="65" column="26" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
       <jump line="110" column="21" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
+      <jump line="108" column="38" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="21" column="26" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="37" column="9" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
+      <jump line="53" column="30" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
+      <jump line="76" column="28" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="210" column="8" filename="E:/Work/client/script/game_scene/components/ResComp.py" />
+      <jump line="65" column="23" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
+      <jump line="128" column="44" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
+      <jump line="42" column="26" filename="E:/Work/client/script/game_scene/city_model.py" />
+      <jump line="233" column="26" filename="E:/Work/client/script/game_scene/components/ResComp.py" />
+      <jump line="62" column="27" filename="E:/Work/client/script/res_mgr/scene_mgr.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>(), (), (),)</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>(), (), (),)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
