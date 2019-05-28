@@ -10,7 +10,7 @@
         <mark key="^" line="3835" column="39" />
         <mark key="." line="3836" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/player_home_scene.py" timestamp="1559049029163">
+      <file name="E:/Work/client/script/game_scene/player_home_scene.py" timestamp="1559051346764">
         <mark key="'" line="1267" column="57" />
         <mark key="[" line="34" column="78" />
         <mark key="]" line="34" column="77" />
@@ -20,22 +20,25 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/entity/avatar_members/ShikongzhidiMember.py" timestamp="1559049220811">
-        <mark key="'" line="207" column="8" />
-        <mark key="[" line="207" column="131" />
-        <mark key="]" line="207" column="147" />
-        <mark key="." line="207" column="147" />
-        <mark key="^" line="207" column="147" />
+      <file name="E:/Work/client/script/entity/avatar_members/ShikongzhidiMember.py" timestamp="1559051327837">
+        <mark key="'" line="155" column="19" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="200" column="18" />
+        <mark key="." line="200" column="18" />
+        <mark key="^" line="200" column="18" />
+      </file>
+      <file name="E:/Work/client/script/combat/view/combat_system.py" timestamp="1559051097811">
+        <mark key="'" line="192" column="20" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1559029718977">
         <mark key="'" line="107" column="21" />
       </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559040432656">
-        <mark key="'" line="1443" column="37" />
-        <mark key="[" line="1443" column="0" />
-        <mark key="]" line="1443" column="0" />
-        <mark key="." line="1443" column="0" />
-        <mark key="^" line="1442" column="34" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559051766075">
+        <mark key="'" line="59" column="78" />
+        <mark key="[" line="932" column="23" />
+        <mark key="]" line="932" column="63" />
+        <mark key="." line="932" column="63" />
+        <mark key="^" line="932" column="63" />
       </file>
       <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1558924708477">
         <mark key="'" line="581" column="30" />
@@ -106,10 +109,10 @@
         <mark key="^" line="81" column="88" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1559049072172">
+      <file name="/Python Console" timestamp="1559050301859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1559046078429">
+      <file name="/fragment.py" timestamp="1559051392271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -147,7 +150,7 @@
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1559044584731">
         <mark key="'" line="294" column="49" />
       </file>
-      <file name="E:/Work/client/script/com/const.py" timestamp="1559044164348">
+      <file name="E:/Work/client/script/com/const.py" timestamp="1559051464635">
         <mark key="[" line="7027" column="2" />
         <mark key="]" line="7027" column="0" />
         <mark key="^" line="7027" column="0" />
@@ -179,11 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="655" column="31" filename="E:/Work/client/script/game_scene/city.py" />
-      <jump line="1235" column="28" filename="E:/Work/client/script/game_scene/player_home_scene.py" />
-      <jump line="28" column="53" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
-      <jump line="142" column="18" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
-      <jump line="79" column="18" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="258" column="66" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="314" column="8" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="388" column="22" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -279,13 +277,18 @@
       <jump line="1695" column="17" filename="E:/Work/client/script/cutils/chelpers.py" />
       <jump line="277" column="18" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="84" column="35" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
+      <jump line="169" column="33" filename="E:/Work/client/script/entity/avatar_members/ShikongzhidiMember.py" />
+      <jump line="155" column="19" filename="E:/Work/client/script/entity/avatar_members/ShikongzhidiMember.py" />
+      <jump line="59" column="78" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="192" column="20" filename="E:/Work/client/script/combat/view/combat_system.py" />
+      <jump line="24" column="8" filename="E:/Work/client/script/combat/view/logic/event_logic.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>81</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJaWYgcGxheV91bml0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>81</text>
+        <text>SUMMER_IS_OPEN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -294,33 +297,33 @@
         <text encoding="base64">CQkJKCdmeC9zY2VuZS96aHVqaWVtaWFuL3Jvb20vOV8xN19yYWluYm93X3Jvb20uc2Z4JywgKDE0Ny43NSwgLTE1LjcyLCAxMi44MSksIDAuMjgsIE5vbmUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkjWygnZngvc2NlbmUvemh1amllbWlhbi9yb29tLzlfMTdfcmFpbl9yb29tLnNmeCcsICg4NS43OSwgMCwgMjkuMjEpLCBOb25lLCAoMCwgMjcwLCAwKSksIF0sCg==</text>
+        <text encoding="base64">CQkJaWYgcGxheV91bml0Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZWxzZToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWdnLnBvc3RlZmZlY3RfbWdyLmVuYWJsZV9zY3JlZW5fZ3JheShGYWxzZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkjWygnZngvc2NlbmUvemh1amllbWlhbi9yb29tLzlfMTdfcmFpbl9yb29tLnNmeCcsICg4NS43OSwgMCwgMjkuMjEpLCBOb25lLCAoMCwgMjcwLCAwKSksIF0sCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>if self.model_cam:
 			self.model_cam.destroy()
 		self.model_cam = None</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlzZWxmLm1vZGVsX2NhbSA9IE5vbmUK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkjcHJpbnQoImxlYXZlIHA6e30sIHI6e30iLmZvcm1hdChzZWxmLnNjZW5lX2NhbS53b3JsZF9wb3NpdGlvbiwgbWF0aDNkLm1hdHJpeF90b19yb3RhdGlvbihzZWxmLnNjZW5lX2NhbS53b3JsZF9yb3RhdGlvbl9tYXRyaXgpKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkjcHJpbnQoInA6e30sIHI6e30iLmZvcm1hdChzZWxmLnNjZW5lX2NhbS53b3JsZF9wb3NpdGlvbiwgbWF0aDNkLm1hdHJpeF90b19yb3RhdGlvbihzZWxmLnNjZW5lX2NhbS53b3JsZF9yb3RhdGlvbl9tYXRyaXgpKSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCSNtb2RlbC5wbGF5X2FuaW1hdGlvbihhbmltLCBpbml0X3RpbWU9MTAwMDApCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSNtb2RlbC52aXNpYmxlID0gRmFsc2UK</text>
+        <text encoding="base64">CQkjcHJpbnQoImxlYXZlIHA6e30sIHI6e30iLmZvcm1hdChzZWxmLnNjZW5lX2NhbS53b3JsZF9wb3NpdGlvbiwgbWF0aDNkLm1hdHJpeF90b19yb3RhdGlvbihzZWxmLnNjZW5lX2NhbS53b3JsZF9yb3RhdGlvbl9tYXRyaXgpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
