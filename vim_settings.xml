@@ -59,11 +59,12 @@
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1559029718977">
         <mark key="'" line="107" column="21" />
       </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559111065944">
-        <mark key="[" line="1482" column="0" />
-        <mark key="]" line="1482" column="0" />
-        <mark key="^" line="1480" column="23" />
-        <mark key="." line="1482" column="0" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559113017636">
+        <mark key="'" line="924" column="17" />
+        <mark key="[" line="1065" column="25" />
+        <mark key="]" line="1065" column="23" />
+        <mark key="." line="1065" column="23" />
+        <mark key="^" line="1065" column="23" />
       </file>
       <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1558924708477">
         <mark key="'" line="581" column="30" />
@@ -157,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1443" column="23" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="219" column="43" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="1444" column="37" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="163" column="26" filename="E:/Work/client/script/game_scene/city_base.py" />
@@ -257,13 +257,14 @@
       <jump line="140" column="56" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
       <jump line="930" column="35" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1378" column="50" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="924" column="17" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>player</text>
       </register>
       <register name="-" type="4">
-        <text>play_unit</text>
+        <text>player</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -272,12 +273,21 @@
         <text encoding="base64">CQlpZiBtb2RlID09IGNvbnN0LkJhdHRsZU1vZGUuUFZFX1NISUtPTkdaSElESSBhbmQgaGVyby5jYW1wID09IHdpbl9jYW1wIDoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQltb2RlID0gZ2cuYXZhdGFyLmdhbWVSZWNvcmREYXRhLmxhc3RDb21iYXRNb2RlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>def show_skin_play_SHIKONGZHIDI(self):
 
 
@@ -293,16 +303,6 @@
 		#self._track_end()
 		return True, None</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="4">
-        <text>if not play_unit:
-			play_unit = hero</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -310,11 +310,8 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="4">
-        <text>if hero.camp == win_camp:
-			# 是否改用皮肤展示的结算
-				gg.sfx_mgr.clear()
-				# TODO
-				return</text>
+        <text>if not play_unit:
+			play_unit = hero</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
