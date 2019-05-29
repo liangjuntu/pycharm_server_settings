@@ -46,8 +46,8 @@
         <mark key="." line="200" column="18" />
         <mark key="^" line="200" column="18" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" timestamp="1559049052499">
-        <mark key="'" line="84" column="35" />
+      <file name="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" timestamp="1559104073969">
+        <mark key="'" line="96" column="18" />
         <mark key="[" line="336" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
@@ -65,13 +65,6 @@
       </file>
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1559029718977">
         <mark key="'" line="107" column="21" />
-      </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559102498118">
-        <mark key="'" line="930" column="32" />
-        <mark key="[" line="935" column="0" />
-        <mark key="]" line="935" column="0" />
-        <mark key="^" line="928" column="106" />
-        <mark key="." line="935" column="0" />
       </file>
       <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1558924708477">
         <mark key="'" line="581" column="30" />
@@ -165,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="22" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="72" column="15" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="390" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="77" column="17" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1443" column="23" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
@@ -265,6 +256,8 @@
       <jump line="24" column="8" filename="E:/Work/client/script/combat/view/logic/event_logic.py" />
       <jump line="930" column="32" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="864" column="25" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="96" column="18" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
+      <jump line="126" column="8" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
