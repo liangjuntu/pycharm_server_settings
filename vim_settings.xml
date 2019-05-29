@@ -44,8 +44,12 @@
         <mark key="^" line="122" column="29" />
         <mark key="." line="122" column="29" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1559121697918">
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1559125495887">
         <mark key="'" line="1973" column="49" />
+        <mark key="[" line="1850" column="0" />
+        <mark key="]" line="1850" column="0" />
+        <mark key="^" line="1850" column="26" />
+        <mark key="." line="1850" column="0" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/city.py" timestamp="1559118547608">
         <mark key="'" line="135" column="30" />
@@ -231,7 +235,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -243,31 +247,31 @@
         <text encoding="base64">CQkJZ2cuZXhlY19jYW5jZWwoc2VsZi5kZWxheV9pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhbmltID0gJ2lkbGVfMDVfc3M0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzY2VuZV9tb2RlbC5wbGF5X2JpYW9xaW5nKCdzaG9jazInKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkjc2NlbmVfbW9kZWwucGxheV9iaWFvcWluZygnc21pbGUnKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlzY2VuZV9tb2RlbC5wbGF5X2JpYW9xaW5nKCdzaG9jazInKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkjc2NlbmVfbW9kZWwucGxheV9iaWFvcWluZygnc21pbGUnKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkjILj6w8DK9bXEseC8rcb30dOz2bbUsrvJz6Os1eLA77K50rvPwgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
