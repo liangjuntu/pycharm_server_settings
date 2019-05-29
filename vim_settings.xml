@@ -11,12 +11,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559096892130">
-        <mark key="'" line="653" column="28" />
-        <mark key="[" line="697" column="121" />
-        <mark key="]" line="697" column="119" />
-        <mark key="^" line="697" column="119" />
-        <mark key="." line="697" column="119" />
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559101229407">
+        <mark key="'" line="865" column="25" />
+        <mark key="[" line="910" column="0" />
+        <mark key="]" line="910" column="0" />
+        <mark key="^" line="167" column="33" />
+        <mark key="." line="910" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
@@ -179,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="8" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="388" column="22" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="72" column="15" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="390" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -279,6 +278,7 @@
       <jump line="192" column="20" filename="E:/Work/client/script/combat/view/combat_system.py" />
       <jump line="24" column="8" filename="E:/Work/client/script/combat/view/logic/event_logic.py" />
       <jump line="930" column="32" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="864" column="25" filename="E:/Work/client/script/game_scene/city.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,10 +296,16 @@
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">aWYgZ2cuZWZmZWN0X21nci5zd2l0Y2g6CgkJCWlmIG5vdCBzZWxmLmlzX2xhc3RfZGF5OgoJCQkJbGFuZF9kYXRhID0gYWRqdXN0X2NvbG9yKCdoc3ZfYWRqdXN0Jywgc2VsZi5kYXluaWdodF9jb2xvcnMpCgkJCQkjIHRvZG8g1+6688i3tqjPwsC0wcuw0b+qudjIpbP9CgkJCQl3YXRlcl9kYXRhID0gYWRqdXN0X2NvbG9yKCd3YXRlcl9hZGp1c3RfbmV3Jywgc2VsZi53YXRlcl9jb2xvcnMpCgkJCQlpZiBsYW5kX2RhdGEgYW5kIHdhdGVyX2RhdGE6CgkJCQkJc2VsZi5jdXJfc2NuX2VmZmVjdF9kYXRhLnVwZGF0ZShsYW5kX2RhdGEpCgkJCQkJc2VsZi5jdXJfc2NuX2VmZmVjdF9kYXRhLnVwZGF0ZSh3YXRlcl9kYXRhKQoJCQkJCXNlbGYuX3VwZGF0ZV9saWdodHNmeChob3VyKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text># 判断是否时空之地
 		play_unit = None
 		# 时空之地的结算为播mvp的动画
@@ -312,26 +318,20 @@
 				# TODO
 				return</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlyZXR1cm4gRmFsc2UsIE5vbmUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlub3QgZ2V0YXR0cihjb25zdCwgIlNISUtPTkdaSElESV9NVlBfSVNfT1BFTiIsIEZhbHNlKToK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlmCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQltb2RlID0gZ2cuYXZhdGFyLmdhbWVSZWNvcmREYXRhLmxhc3RDb21iYXRNb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>915</text>
       </register>
     </registers>
     <search>
@@ -365,9 +365,6 @@
         <entry encoding="base64">XDxzZWxmXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>1328</entry>
-        <entry>1500</entry>
-        <entry>204</entry>
         <entry>1595</entry>
         <entry>w\</entry>
         <entry>86</entry>
@@ -384,7 +381,10 @@
         <entry>254</entry>
         <entry>118</entry>
         <entry>505</entry>
+        <entry>865</entry>
         <entry>w</entry>
+        <entry>875</entry>
+        <entry>915</entry>
       </history-cmd>
       <history-expr />
       <history-input />
