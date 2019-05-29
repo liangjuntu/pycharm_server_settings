@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1559050301859">
+      <file name="/Python Console" timestamp="1559102140557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1559051392271">
@@ -12,11 +12,9 @@
         <mark key="." line="0" column="15" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559101229407">
-        <mark key="'" line="865" column="25" />
-        <mark key="[" line="910" column="0" />
-        <mark key="]" line="910" column="0" />
-        <mark key="^" line="167" column="33" />
-        <mark key="." line="910" column="0" />
+        <mark key="[" line="919" column="0" />
+        <mark key="]" line="919" column="0" />
+        <mark key="." line="919" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
@@ -68,7 +66,7 @@
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1559029718977">
         <mark key="'" line="107" column="21" />
       </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559099078109">
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559102498118">
         <mark key="'" line="930" column="32" />
         <mark key="[" line="935" column="0" />
         <mark key="]" line="935" column="0" />
@@ -88,12 +86,6 @@
         <mark key="]" line="171" column="0" />
         <mark key="." line="171" column="0" />
         <mark key="^" line="171" column="46" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/turbulence.py" timestamp="1559010691697">
-        <mark key="[" line="638" column="5" />
-        <mark key="]" line="638" column="0" />
-        <mark key="." line="638" column="0" />
-        <mark key="^" line="638" column="0" />
       </file>
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
@@ -125,23 +117,17 @@
         <mark key="^" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="E:/Work/client/script/combat/view/unit/components/skill/SkillComp_1874.py" timestamp="1559037159312">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-      </file>
       <file name="E:/Work/client/script/cocos/panels/activity_94.py" timestamp="1559044129956">
         <mark key="'" line="282" column="65" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1559044584731">
         <mark key="'" line="294" column="49" />
       </file>
-      <file name="E:/Work/client/script/com/const.py" timestamp="1559099814980">
-        <mark key="[" line="7043" column="32" />
-        <mark key="]" line="7043" column="30" />
-        <mark key="^" line="7043" column="30" />
-        <mark key="." line="7043" column="30" />
+      <file name="E:/Work/client/script/com/const.py" timestamp="1559102512445">
+        <mark key="[" line="7043" column="27" />
+        <mark key="]" line="7043" column="31" />
+        <mark key="^" line="7043" column="31" />
+        <mark key="." line="7043" column="31" />
       </file>
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1559048345373">
         <mark key="'" line="257" column="18" />
@@ -281,11 +267,11 @@
       <jump line="864" column="25" filename="E:/Work/client/script/game_scene/city.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>and hero.camp == win_camp :</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -331,7 +317,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>915</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -382,9 +368,9 @@
         <entry>118</entry>
         <entry>505</entry>
         <entry>865</entry>
-        <entry>w</entry>
         <entry>875</entry>
         <entry>915</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
