@@ -103,16 +103,12 @@
       <file name="/Python Console" timestamp="1559218514696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1559214425886">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559186858870">
-        <mark key="[" line="68" column="77" />
-        <mark key="]" line="68" column="72" />
-        <mark key="^" line="68" column="72" />
-        <mark key="." line="68" column="72" />
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559222231917">
+        <mark key="'" line="610" column="8" />
+        <mark key="[" line="606" column="25" />
+        <mark key="]" line="606" column="25" />
+        <mark key="^" line="606" column="25" />
+        <mark key="." line="606" column="25" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
@@ -188,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="8" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
-      <jump line="96" column="18" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
-      <jump line="140" column="56" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
       <jump line="930" column="35" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1378" column="50" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="924" column="17" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
@@ -288,82 +281,63 @@
       <jump line="29" column="4" filename="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1876.py" />
       <jump line="1814" column="20" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="128" column="32" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="776" column="21" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="659" column="30" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="601" column="8" filename="E:/Work/client/script/game_scene/city.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhdWRpby51bmxvYWRfZXZlbnRzKGZldikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r_skill_id</text>
+        <text>是否存在特效3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyX3NraWxsX2NvbXAgPSBzZWxmLnVuaXQuU2tpbGxNZ3JDb21wLmdldF9za2lsbF9ieV9pZChyX3NraWxsX2lkKQo=</text>
+        <text encoding="base64">CWRlZiBjYWxjX3N1bW1lcl9pbmRleChzZWxmLCBzdW1tZXJfc2xvdCk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhdWRpby51bmxvYWRfZXZlbnRzKGZldikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VtbWVyX2luZGV4Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb25zdCBhcyBjb25zdAo=</text>
+        <text encoding="base64">CQlpZiBsZW4oc2xvdF9zZnhzKSA8IHN1bW1lcl9pbmRleDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYXNlLmNvbXBvbmVudCBhcyBjb21wb25lbnQK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlzbG90X3NmeHMgPSBTVU1NRVJfU0ZYU1tzdW1tZXJfc2xvdCAtIDFdCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>def on_init(self):
-		super(SkillComp_1874, self).on_init()
-		self.hit_sfx_info = (SFXFILE[0], const.ModelSocket.HIT_POINT, 5, 0)
-
-	@component.call_by_server()
-	def start_baozou(self):
-		pass
-
-	@component.call_by_server()
-	def stop_baozou(self):
-		self.unit.attach_sfx_once(SFXFILE[1], self.unit, const.ModelSocket.ROOT)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>SFXFILE = [
-	'fx/hero_paticle/baoni/baoni_skill_30003.sfx',  	# 0 受击特效
-	'fx/hero_paticle/baoni/baoni_skill_30006_01.sfx',		# 1 暴走状态结束切换正常形态时的特效（表现一个遮掩效果）
-]
-
-&quot;&quot;&quot;
-惊醒，立即对周围圆形范围内敌人造成伤害和击退，并进入暴走形态：
-暴走形态持续3s，暴走形态中，受到的伤害减半，普攻变成一段的向下拍击攻击，会造成范围伤害，攻速降低，伤害增加，且会将攻击到的敌人击退。
-如果在梦游状态下使用，则暴走持续8s。
-（暴走状态时无法使用技能）
-（暴走状态时的普攻附带击退）
-&quot;&quot;&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>summer_slot</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>summer_slot</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gameserverclient2</entry>
         <entry>gameserver</entry>
         <entry>gameserverclient</entry>
         <entry>battle</entry>
@@ -383,10 +357,9 @@
         <entry>self.model._node</entry>
         <entry>ext_model2</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>summer_slot</entry>
       </history-search>
       <history-cmd>
-        <entry>332</entry>
-        <entry>424</entry>
         <entry>149</entry>
         <entry>254</entry>
         <entry>118</entry>
@@ -404,6 +377,8 @@
         <entry>453</entry>
         <entry>101</entry>
         <entry>148</entry>
+        <entry>777</entry>
+        <entry>661</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
