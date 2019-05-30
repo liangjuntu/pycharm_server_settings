@@ -66,12 +66,12 @@
       <file name="E:/Work/client/script/combat/logic/unit/components/pet/PetComp_4051.py" timestamp="1559215618448">
         <mark key="'" line="56" column="44" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1559218631713">
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1559220037204">
         <mark key="'" line="1814" column="20" />
-        <mark key="[" line="1850" column="0" />
-        <mark key="]" line="1850" column="0" />
-        <mark key="^" line="1850" column="26" />
-        <mark key="." line="1850" column="0" />
+        <mark key="[" line="1852" column="27" />
+        <mark key="]" line="1852" column="25" />
+        <mark key="." line="1852" column="25" />
+        <mark key="^" line="1852" column="25" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1052.py" timestamp="1559216530881" />
       <file name="E:/Work/client/script/combat/logic/unit/components/SkillMgrComp.py" timestamp="1559215626657">
@@ -155,8 +155,8 @@
         <mark key="." line="148" column="0" />
       </file>
       <file name="E:/Work/client/script/com/const.py" timestamp="1559184297754" />
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1559187029623">
-        <mark key="'" line="386" column="39" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1559219790340">
+        <mark key="'" line="128" column="32" />
         <mark key="[" line="126" column="53" />
         <mark key="]" line="126" column="70" />
         <mark key="." line="126" column="70" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="864" column="25" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="126" column="8" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
       <jump line="96" column="18" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
       <jump line="140" column="56" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
@@ -288,10 +287,11 @@
       <jump line="780" column="48" filename="E:/Work/client/script/combat/view/unit/components/SkillComp.py" />
       <jump line="29" column="4" filename="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1876.py" />
       <jump line="1814" column="20" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="128" column="32" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhdWRpby51bmxvYWRfZXZlbnRzKGZldikK</text>
       </register>
       <register name="-" type="4">
         <text>r_skill_id</text>
@@ -303,7 +303,7 @@
         <text encoding="base64">CQlyX3NraWxsX2NvbXAgPSBzZWxmLnVuaXQuU2tpbGxNZ3JDb21wLmdldF9za2lsbF9ieV9pZChyX3NraWxsX2lkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhdWRpby51bmxvYWRfZXZlbnRzKGZldikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -312,15 +312,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb25zdCBhcyBjb25zdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYXNlLmNvbXBvbmVudCBhcyBjb21wb25lbnQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb25zdCBhcyBjb25zdAo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5iYXNlLmNvbXBvbmVudCBhcyBjb21wb25lbnQK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>def on_init(self):
 		super(SkillComp_1874, self).on_init()
 		self.hit_sfx_info = (SFXFILE[0], const.ModelSocket.HIT_POINT, 5, 0)
@@ -333,7 +336,7 @@
 	def stop_baozou(self):
 		self.unit.attach_sfx_once(SFXFILE[1], self.unit, const.ModelSocket.ROOT)</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>SFXFILE = [
 	'fx/hero_paticle/baoni/baoni_skill_30003.sfx',  	# 0 受击特效
 	'fx/hero_paticle/baoni/baoni_skill_30006_01.sfx',		# 1 暴走状态结束切换正常形态时的特效（表现一个遮掩效果）
@@ -346,9 +349,6 @@
 （暴走状态时无法使用技能）
 （暴走状态时的普攻附带击退）
 &quot;&quot;&quot;</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CXNlbGYuYW5pbV9uYW1lID0gJ3NraWxsXzMwMDAxJwoJCXNlbGYuaXNfbWVuZ3lvdSA9IEZhbHNlCgkJc2VsZi5pc19iYW96b3UgPSBGYWxzZQoJCXNlbGYuYmFvem91X3RtaWQgPSBOb25lCgkJc2VsZi5iYW96b3VfZHVyYXRpb24gPSAwCgkJI3NlbGYuZW5kc2tpbGxfYWZ0ZXJfaW50ZXJydXB0ID0gRmFsc2UKCglkZWYgX2RvX2Nhc3Rfc2tpbGwoc2VsZiwgKiprd2FyZ3MpOgoJCXFfc2tpbGxfaWQgPSAxODcyCgkJc2tpbGxfY29tcCA9IHNlbGYudW5pdC5Ta2lsbE1nckNvbXAuZ2V0X3NraWxsX2J5X2lkKHFfc2tpbGxfaWQpCgkJc2VsZi5pc19tZW5neW91ID0gc2tpbGxfY29tcC5pc19tZW5neW91IGlmIHNraWxsX2NvbXAgZWxzZSBGYWxzZQoJCWlmIHNlbGYuaXNfbWVuZ3lvdToKCQkJIyDI57n71NrDztPO1tC3xbTz1dDU8tbV1rnDztPOCgkJCXNraWxsX2NvbXAuY3NfcHJveHkuc3RvcF9tZW5neW91KGNvbnN0LkNzVHlwZS5TRVJWRVJfQ0xJRU5UKQoJCXNlbGYuYW5pbV9uYW1lID0gJ3NraWxsXzMwMDAyJyBpZiBzZWxmLmlzX21lbmd5b3UgZWxzZSAnc2tpbGxfMzAwMDEnCgkJc2VsZi5jYWxjX2V2ZW50X3RpbWUoKQoJCXNlbGYudW5pdC5Nb2RlbENvbXAucGxheV9za2lsbF9hbmltKHNlbGYuYW5pbV9uYW1lLCBmb3JjZT0yKQoJCSMgcHJpbnQoIjE4NzQgaXNfbWVuZ3lvdSIsIHNlbGYuaXNfbWVuZ3lvdSkKCglkZWYgX2RvX2Nhc3RfaGl0KHNlbGYpOgoKCQkjIMPO087W0LfFtPPV0LXEsanX37PW0PgxMsPro6y38dTyNsPrCgkJc2VsZi5iYW96b3VfZHVyYXRpb24gPSAxMjAwMCBpZiBzZWxmLmlzX21lbmd5b3UgZWxzZSA2MDAwCgoJCSMgzOa7u7av1/cKCQlzZWxmLnVuaXQuTW9kZWxDb21wLnJlbWFwX2FuaW0oJ3J1bicsICdza2lsbF8zMDAwMycpCgkJc2VsZi51bml0Lk1vZGVsQ29tcC5yZW1hcF9hbmltKCdydW5fc3RhcnQnLCAncnVuX3N0YXJ0X3NraWxsXzMwMDAzJykKCQlzZWxmLnVuaXQuTW9kZWxDb21wLnJlbWFwX2FuaW0oJ3J1bl9lbmQnLCAncnVuX2VuZF9za2lsbF8zMDAwMycpCgkJc2VsZi51bml0Lk1vZGVsQ29tcC5yZW1hcF9hbmltKCdpZGxlJywgJ3NraWxsXzMwMDA1JykKCQlzZWxmLnVuaXQuTW9kZWxDb21wLnJlbWFwX2FuaW0oJ2lkbGVfMDInLCAnc2tpbGxfMzAwMDUnKQoKCQlzZWxmLmNzX3Byb3h5LnN0YXJ0X2Jhb3pvdShjb25zdC5Dc1R5cGUuU0VSVkVSX0NMSUVOVCkKCgkJIyC0psDtycu6pgoJCXgsIHosIG8gPSBzZWxmLnVuaXQucGZfcG9zCgkJdW5pdHMgPSBtYXBwZXIucHlBZ2dyZWdhdGVVbml0KAoJCQlzZWxmLnVuaXQuY29tYmF0LCB4LCB6LCBzZWxmLnJhbmdlLCAwLCAwLCAwLAoJCQlzZWxmLnVuaXQudWlkLCBjb25zdC5QZkFnZ3JlZ2F0ZS5BR0dSRUdBVEVfQ0lSQ0xFIHwgc2VsZi5hZ2dyZWdhdGVfdHlwZV9mbGFnLAoJCQlzZWxmLnVuaXRfdHlwZV9mbGFnLCBjb25zdC5Vbml0U3RhdGUuU0VUX0FMSVZFX05PVF9JTU1BR0lDLCB0cnVlX3NpZ2h0PXNlbGYudHJ1ZV9zaWdodCkKCgkJdWlkX2xpc3QgPSBbXQoJCWlmIHVuaXRzOgoJCQlmb3IgdGFyZ2V0X3VuaXQgaW4gdW5pdHM6CgkJCQl1aWRfbGlzdC5hcHBlbmQodGFyZ2V0X3VuaXQudWlkKQoJCQkJZm9ybXVsYS5za2lsbF9jYWxjKHNlbGYudW5pdCwgdGFyZ2V0X3VuaXQsIHNlbGYuc2tpbGxfaWQsIHNlbGYuc2tpbGxfbGV2ZWwsIHNlbGYuYWRkaXRpb25hbF9kYXRhKQoJCQkJIyC0psDtu/fNywoJCQkJaWYgdGFyZ2V0X3VuaXQuY2hlY2tfZm9yY2VfdHJhbnNfYWJsZSgpOgoJCQkJCXRhcmdldF91bml0LkZvcmNlVHJhbnNDb21wLmhpdF9iYWNrX3dpdGhfYXJncygxMDAsIDEwMDAsIDI1MCwgbykgICMgu/fNyzUwCgoJCWlmIHVpZF9saXN0OgoJCQlzZWxmLmNzX3Byb3h5LmNhc3RfaGl0X3RhcmdldF9saXN0X3NmeChjb25zdC5Dc1R5cGUuQ0xJRU5ULCBvLCB1aWRfbGlzdCkKCgkJIyCzyb7No6zU2sPO087XtMysz8LA27zGMTAwtM6xqdffCgkJaWYgc2VsZi5pc19tZW5neW91OgoJCQlzZWxmLnNhdmVBY2hpZXZlbWVudEZpbmlzaCg0NDAsIDEpCgoJZGVmIF9kb19jYXN0X2VuZChzZWxmKToKCQkjILzTsanX38zY0KdCdWZmCgkJYnVmZl9pZCA9IDEwMTIwCgkJYnVmZl9sZXZlbCA9IHNlbGYuc2tpbGxfbGV2ZWwKCQlidWZmX2R1cmF0aW9uID0gc2VsZi5iYW96b3VfZHVyYXRpb24KCQlzZWxmLnVuaXQuQnVmZk1nckNvbXAuYWRkX2J1ZmYoc2VsZi51bml0LnVpZCwgYnVmZl9pZCwgYnVmZl9sZXZlbCwgYnVmZl9kdXJhdGlvbikKCglkZWYgZ2V0X3NoZW5xaV90cmljayhzZWxmKToKCQl0cmlja19jb21wID0gc2VsZi51bml0LlRyaWNrTWdyQ29tcC5nZXRfdHJpY2soNTk2KQoJCXJldHVybiB0cmlja19jb21wCgoJQGNvbXBvbmVudC5zeW5jX3RvX2NsaWVudCgpCglkZWYgc3RhcnRfYmFvem91KHNlbGYpOgoJCSMgcHJpbnQoIjE4NzQgc3RhcnRfYmFvem91IikKCQlzZWxmLmlzX2Jhb3pvdSA9IFRydWUKCQlzZWxmLmxvY2tfY2QoKQoKCQlpZiBzZWxmLmJhb3pvdV90bWlkOgoJCQlwdGltZXIuQ2FuY2VsVGltZXIoc2VsZi51bml0LmNvbWJhdC50bWlkLCBzZWxmLmJhb3pvdV90bWlkKQoJCQlzZWxmLmJhb3pvdV90bWlkID0gTm9uZQoKCQl0bWlkID0gcHRpbWVyLkFkZFRpbWVyKAoJCQlzZWxmLnVuaXQuY29tYmF0LnRtaWQsIHNlbGYuYmFvem91X2R1cmF0aW9uLCBsYW1iZGE6IHNlbGYuY3NfcHJveHkuc3RvcF9iYW96b3UoY29uc3QuQ3NUeXBlLlNFUlZFUl9DTElFTlQpKQoJCXNlbGYuYmFvem91X3RtaWQgPSB0bWlkCgoJCSMgzajWqsnxxve8vAoJCXNxX3RyaWNrX2NvbXAgPSBzZWxmLmdldF9zaGVucWlfdHJpY2soKQoJCWlmIHNxX3RyaWNrX2NvbXA6CgkJCXNxX3RyaWNrX2NvbXAudXBkYXRlX3RyaWNrX2J1ZmYoKQoKCQkjILzTsanX30J1ZmYKCgkJYnVmZl9pZCA9IDEwMTA2CgkJYnVmZl9sZXZlbCA9IHNlbGYuc2tpbGxfbGV2ZWwKCQlidWZmX2R1cmF0aW9uID0gc2VsZi5iYW96b3VfZHVyYXRpb24KCQkjc2VsZi51bml0LkJ1ZmZNZ3JDb21wLmFkZF9idWZmKHNlbGYudW5pdC51aWQsIGJ1ZmZfaWQsIGJ1ZmZfbGV2ZWwsIGJ1ZmZfZHVyYXRpb24pCgoJCSMgvfvTw7y8xNwKCgkJcV9za2lsbF9pZCA9IDE4NzIKCQl3X3NraWxsX2lkID0gMTg3MwoJCXNlbGYuc2V0X3NraWxsX2lzX2VuYWJsZShxX3NraWxsX2lkLCBGYWxzZSkKCQlzZWxmLnNldF9za2lsbF9pc19lbmFibGUod19za2lsbF9pZCwgRmFsc2UpCgoJZGVmIHNldF9za2lsbF9pc19lbmFibGUoc2VsZiwgc2tpbGxfaWQsIGlzX2VuYWJsZSk6CgkJc2tpbGxfY29tcCA9IHNlbGYudW5pdC5Ta2lsbE1nckNvbXAuZ2V0X3NraWxsX2J5X2lkKHNraWxsX2lkKQoJCWlmIHNraWxsX2NvbXA6CgkJCXNraWxsX2NvbXAuaXNfZW5hYmxlID0gaXNfZW5hYmxlCgkJaWYgbm90IGlzX2VuYWJsZToKCQkJc2VsZi51bml0LlNraWxsTWdyQ29tcC5zcGVjaWFsX3NraWxsX2VuYWJsZShza2lsbF9pZCwgRmFsc2UpCgkJZWxzZToKCQkJc2VsZi51bml0LlNraWxsTWdyQ29tcC5zcGVjaWFsX3NraWxsX2NhbmNlbChza2lsbF9pZCkKCglAY29tcG9uZW50LnN5bmNfdG9fY2xpZW50KCkKCWRlZiBzdG9wX2Jhb3pvdShzZWxmKToKCQkjIHByaW50KCIxODc0IHN0b3BfYmFvem91IikKCQlzZWxmLmlzX2Jhb3pvdSA9IEZhbHNlCgoJCSMgu9a4tLav1/cKCQlzZWxmLnVuaXQuTW9kZWxDb21wLnJlc2V0X2FuaW0oJ3J1bicpCgkJc2VsZi51bml0Lk1vZGVsQ29tcC5yZXNldF9hbmltKCdydW5fc3RhcnQnKQoJCXNlbGYudW5pdC5Nb2RlbENvbXAucmVzZXRfYW5pbSgncnVuX2VuZCcpCgkJc2VsZi51bml0Lk1vZGVsQ29tcC5yZXNldF9hbmltKCdpZGxlJykKCQlzZWxmLnVuaXQuTW9kZWxDb21wLnJlc2V0X2FuaW0oJ2lkbGVfMDInKQoKCQlzZWxmLnVubG9ja19jZCgpCgoJCWlmIHNlbGYuYmFvem91X3RtaWQ6CgkJCXB0aW1lci5DYW5jZWxUaW1lcihzZWxmLnVuaXQuY29tYmF0LnRtaWQsIHNlbGYuYmFvem91X3RtaWQpCgkJCXNlbGYuYmFvem91X3RtaWQgPSBOb25lCgoJCSMgx+Wz/bGp199CdWZmCgkJYnVmZl9pZCA9IDEwMTA2CgkJYnVmZl9jb21wID0gc2VsZi51bml0LkJ1ZmZNZ3JDb21wLmdldF9idWZmKGJ1ZmZfaWQsIHNlbGYudW5pdC51aWQpCgkJaWYgYnVmZl9jb21wOgoJCQlidWZmX2NvbXAucmVtb3ZlX2J1ZmYoKQoKCQkjIMfls/2xqdffzNjQp0J1ZmYKCQlidWZmX2lkMiA9IDEwMTIwCgkJYnVmZl9jb21wMiA9IHNlbGYudW5pdC5CdWZmTWdyQ29tcC5nZXRfYnVmZihidWZmX2lkMiwgc2VsZi51bml0LnVpZCkKCQlpZiBidWZmX2NvbXAyOgoJCQlidWZmX2NvbXAyLnJlbW92ZV9idWZmKCkKCgkJIyDNqNaqyfHG97y8CgkJc3FfdHJpY2tfY29tcCA9IHNlbGYuZ2V0X3NoZW5xaV90cmljaygpCgkJaWYgc3FfdHJpY2tfY29tcDoKCQkJc3FfdHJpY2tfY29tcC51cGRhdGVfdHJpY2tfYnVmZigpCgoJCSMgzajWqsbVuaUKCQlza2lsbF9jb21wID0gc2VsZi51bml0LlNraWxsTWdyQ29tcC5nZXRfbm9ybWFsX3NraWxsKCkKCQlpZiBza2lsbF9jb21wOgoJCQlza2lsbF9jb21wLm9uX3N0b3BfYmFvem91KCkKCgkJIyC71ri0vLzE3AoJCXFfc2tpbGxfaWQgPSAxODcyCgkJd19za2lsbF9pZCA9IDE4NzMKCQlzZWxmLnNldF9za2lsbF9pc19lbmFibGUocV9za2lsbF9pZCwgVHJ1ZSkKCQlzZWxmLnNldF9za2lsbF9pc19lbmFibGUod19za2lsbF9pZCwgVHJ1ZSk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
