@@ -31,12 +31,6 @@
         <mark key="." line="1571" column="28" />
         <mark key="^" line="1571" column="28" />
       </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1871.py" timestamp="1559197318809">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-      </file>
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,18 +41,21 @@
         <mark key="^" line="122" column="29" />
         <mark key="." line="122" column="29" />
       </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" timestamp="1559211945820">
+      <file name="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" timestamp="1559212892622">
         <mark key="'" line="633" column="17" />
+      </file>
+      <file name="E:/Work/client/script/combat/logic/unit/components/SkillMgrComp.py" timestamp="1559212708372">
+        <mark key="'" line="246" column="56" />
       </file>
       <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
         <mark key="[" line="118" column="75" />
       </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1874.py" timestamp="1559211505366">
+      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1874.py" timestamp="1559213124268">
         <mark key="'" line="18" column="36" />
-        <mark key="[" line="79" column="17" />
-        <mark key="]" line="79" column="18" />
-        <mark key="." line="79" column="18" />
-        <mark key="^" line="79" column="18" />
+        <mark key="[" line="112" column="44" />
+        <mark key="]" line="113" column="68" />
+        <mark key="." line="113" column="68" />
+        <mark key="^" line="113" column="68" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1559209024436">
         <mark key="'" line="711" column="34" />
@@ -70,7 +67,7 @@
       <file name="/Python Console" timestamp="1559211447613">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1559211953621">
+      <file name="/fragment.py" timestamp="1559213119451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -98,6 +95,7 @@
         <mark key="^" line="172" column="59" />
         <mark key="." line="172" column="59" />
       </file>
+      <file name="E:/Work/client/script/combat/logic/unit/components/BuffComp.py" timestamp="1559212698597" />
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
         <mark key="[" line="98" column="14" />
       </file>
@@ -244,44 +242,44 @@
       <jump line="633" column="17" filename="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJYnVmZl9jb21wLnJlbW92ZV9idWZmKCkK</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJYnVmZl9jb21wLnJlbW92ZV9idWZmKCkK</text>
+        <text encoding="base64">CQlzZWxmLmVuZHNraWxsX2FmdGVyX2ludGVycnVwdCA9IFRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcGFzcwo=</text>
+        <text encoding="base64">CQlzZWxmLmFkZGluZ18xMDEwNiA9IEZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmludCgiMTg3NCwgX2RvX3NraWxsX2VuZCIpCg==</text>
+        <text encoding="base64">CQkJcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcmludCgiMTg3NCwgX2RvX2Nhc3RfZW5kIikK</text>
+        <text encoding="base64">CQlwcmludCgiMTg3NCwgX2RvX3NraWxsX2VuZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcmludCgiMTg3MywgX2RvX3NraWxsX2VuZCIpCg==</text>
+        <text encoding="base64">CQlwcmludCgiMTg3NCwgX2RvX2Nhc3RfZW5kIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwcmludCgiMTg3MywgX2RvX2Nhc3RfZW5kIikK</text>
+        <text encoding="base64">CQlwcmludCgiMTg3MywgX2RvX3NraWxsX2VuZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludCgiMTg3MSwgX2RvX3NraWxsX2VuZCIpCg==</text>
+        <text encoding="base64">CQlwcmludCgiMTg3MywgX2RvX2Nhc3RfZW5kIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwcmludCgiMTg3MSwgX2RvX2Nhc3RfZW5kIikK</text>
+        <text encoding="base64">CQlwcmludCgiMTg3MSwgX2RvX3NraWxsX2VuZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludCgiMTg3MSwgX2RvX2Nhc3RfaGl0IikK</text>
+        <text encoding="base64">CQlwcmludCgiMTg3MSwgX2RvX2Nhc3RfZW5kIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
