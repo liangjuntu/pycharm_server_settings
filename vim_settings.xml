@@ -23,12 +23,12 @@
       <file name="E:/Work/client/script/cocos/panels/combat_ctrl.py" timestamp="1559214720104">
         <mark key="'" line="372" column="29" />
       </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559299331463">
-        <mark key="'" line="1137" column="48" />
-        <mark key="[" line="1526" column="0" />
-        <mark key="]" line="1526" column="0" />
-        <mark key="." line="1526" column="0" />
-        <mark key="^" line="1525" column="22" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559301319322">
+        <mark key="'" line="1075" column="32" />
+        <mark key="[" line="1064" column="0" />
+        <mark key="]" line="1064" column="0" />
+        <mark key="." line="1064" column="0" />
+        <mark key="^" line="1062" column="53" />
       </file>
       <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1559295541729">
         <mark key="'" line="595" column="27" />
@@ -85,7 +85,7 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1559299089058">
+      <file name="/Python Console" timestamp="1559301379060">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559298493518">
@@ -95,7 +95,7 @@
         <mark key="^" line="589" column="51" />
         <mark key="." line="589" column="51" />
       </file>
-      <file name="/fragment.py" timestamp="1559295375548">
+      <file name="/fragment.py" timestamp="1559301381736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
@@ -160,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="22" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="116" column="36" filename="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1872.py" />
       <jump line="266" column="12" filename="E:/Work/client/script/combat/view/unit/components/ModelComp.py" />
       <jump line="49" column="49" filename="E:/Work/client/script/combat/logic/unit/components/skill/PskillComp_1180.py" />
       <jump line="198" column="48" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -260,46 +258,48 @@
       <jump line="1500" column="73" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1131" column="27" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1137" column="48" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1122" column="60" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1075" column="32" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlzZWxmLnNoaWtvbmd6aGlkaURhdGEuZGVsYXlfdGltZXNbJ2F1dG9fZXhpdF9yZXN1bHQnXSA9IGdnLmV4ZWNfZGVsYXkoc2VsZi5zaGlrb25nemhpZGlEYXRhLmRlbGF5X2NvdW50X3RpbWUsIGxhbWJkYTogc2VsZi50aW1lb3V0QXV0b0V4aXQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>model_id</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkjIHNlbGYuc2hpa29uZ3poaWRpRGF0YS5kZWxheV90aW1lc1snYXV0b19leGl0X3Jlc3VsdCddID0gZ2cuZXhlY19kZWxheShzZWxmLnNoaWtvbmd6aGlkaURhdGEuZGVsYXlfY291bnRfdGltZSwgbGFtYmRhOiBzZWxmLmF1dG9FeGl0U2hpa29uZ3poaWRpUmVzdWx0KCkpCg==</text>
+        <text encoding="base64">CQkJCQkJdW5pdC5tb2RlbC52aXNpYmxlID0gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzZWxmLnNoaWtvbmd6aGlkaURhdGEuZGVsYXlfdGltZXNbJ2F1dG9fZXhpdF9yZXN1bHQnXSA9IGdnLmV4ZWNfZGVsYXkoc2VsZi5zaGlrb25nemhpZGlEYXRhLmRlbGF5X2NvdW50X3RpbWUsIGxhbWJkYTogc2VsZi50aW1lb3V0QXV0b0V4aXQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJc2VsZi5zaGlrb25nemhpZGlEYXRhLmRlbGF5X2NvdW50X3RpbWUgPSAzMDAwCg==</text>
+        <text encoding="base64">CQkJCQkjdW5pdC5hdXRvX3NldF92aXNpYmxlID0gRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkjIMnPw+bRrbu3tffTw8HLo6zNy7P2uvO958Pmu+Gx5MSjuv0K</text>
+        <text encoding="base64">CQlzZWxmLnNoaWtvbmd6aGlkaURhdGEuZGVsYXlfdGltZXNbJ2F1dG9fZXhpdF9yZXN1bHQnXSA9IGdnLmV4ZWNfZGVsYXkoc2VsZi5zaGlrb25nemhpZGlEYXRhLmRlbGF5X2NvdW50X3RpbWUsIGxhbWJkYTogc2VsZi50aW1lb3V0QXV0b0V4aXQoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAxCg==</text>
+        <text encoding="base64">CQkJc2VsZi5zaGlrb25nemhpZGlEYXRhLmRlbGF5X2NvdW50X3RpbWUgPSAzMDAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZWxzZToK</text>
+        <text encoding="base64">CQkjIMnPw+bRrbu3tffTw8HLo6zNy7P2uvO958Pmu+Gx5MSjuv0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSMgu/HIobK7tb3Ksbzko6zRobXa0ru49sqxvOS2zgo=</text>
+        <text encoding="base64">CQkJCXJldHVybiAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZWxzZQo=</text>
+        <text encoding="base64">CQkJZWxzZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiBnZy5hZ2cuYXZhdGFyLmNpdHlEYXRhLgo=</text>
+        <text encoding="base64">CQkJCSMgu/HIobK7tb3Ksbzko6zRobXa0ru49sqxvOS2zgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
