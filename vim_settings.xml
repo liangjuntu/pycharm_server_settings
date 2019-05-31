@@ -53,13 +53,6 @@
         <mark key="'" line="405" column="38" />
       </file>
       <file name="E:/Work/client/script/combat/logic/logic/events/event_base.py" timestamp="1559272275835" />
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1559187023525">
-        <mark key="'" line="120" column="57" />
-        <mark key="[" line="122" column="23" />
-        <mark key="]" line="122" column="29" />
-        <mark key="^" line="122" column="29" />
-        <mark key="." line="122" column="29" />
-      </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" timestamp="1559216270913">
         <mark key="'" line="1342" column="28" />
       </file>
@@ -79,13 +72,6 @@
       <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
         <mark key="[" line="118" column="75" />
       </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1874.py" timestamp="1559217630493">
-        <mark key="'" line="100" column="84" />
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
-      </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/MonsterAiComp_2.py" timestamp="1559269524313">
         <mark key="'" line="291" column="30" />
       </file>
@@ -98,8 +84,8 @@
       <file name="/Python Console" timestamp="1559272796679">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559222231917">
-        <mark key="'" line="610" column="8" />
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1559275114782">
+        <mark key="'" line="729" column="30" />
         <mark key="[" line="606" column="25" />
         <mark key="]" line="606" column="25" />
         <mark key="^" line="606" column="25" />
@@ -121,13 +107,6 @@
       </file>
       <file name="E:/Work/client/script/res_mgr/audio_mgr.py" timestamp="1559271422718">
         <mark key="'" line="277" column="30" />
-      </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1873.py" timestamp="1559216628209">
-        <mark key="'" line="15" column="36" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
       </file>
       <file name="E:/Work/client/script/combat/view/unit/components/buff/BuffComp_7547.py" timestamp="1559215641009">
         <mark key="'" line="76" column="39" />
@@ -161,34 +140,11 @@
         <mark key="." line="514" column="62" />
         <mark key="^" line="514" column="62" />
       </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" timestamp="1559189114786">
-        <mark key="'" line="252" column="34" />
-        <mark key="[" line="260" column="49" />
-        <mark key="]" line="260" column="71" />
-        <mark key="^" line="260" column="71" />
-        <mark key="." line="260" column="71" />
-      </file>
-      <file name="E:/Work/client/script/combat/view/unit/components/ModelComp.py" timestamp="1559189076610">
-        <mark key="'" line="433" column="36" />
-        <mark key="[" line="507" column="30" />
-        <mark key="]" line="508" column="21" />
-        <mark key="." line="508" column="21" />
-        <mark key="^" line="508" column="21" />
-      </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1872.py" timestamp="1559216605385">
-        <mark key="'" line="15" column="35" />
-        <mark key="[" line="152" column="79" />
-        <mark key="]" line="152" column="79" />
-        <mark key="." line="152" column="79" />
-        <mark key="^" line="152" column="79" />
-      </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1559208026412">
         <mark key="'" line="337" column="48" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="34" filename="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" />
-      <jump line="612" column="21" filename="E:/Work/client/script/combat/view/unit/components/ModelComp.py" />
       <jump line="114" column="31" filename="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1874.py" />
       <jump line="221" column="45" filename="E:/Work/client/script/combat/view/unit/components/ModelComp.py" />
       <jump line="70" column="28" filename="E:/Work/client/script/combat/view/unit/components/ModelComp.py" />
@@ -287,6 +243,8 @@
       <jump line="1374" column="28" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="277" column="30" filename="E:/Work/client/script/res_mgr/audio_mgr.py" />
       <jump line="84" column="22" filename="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" />
+      <jump line="660" column="28" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="729" column="30" filename="E:/Work/client/script/game_scene/city.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
