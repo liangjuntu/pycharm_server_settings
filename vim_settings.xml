@@ -22,8 +22,8 @@
       <file name="E:/Work/client/script/combat/logic/unit/components/SkillCompNormalAttack.py" timestamp="1559197265404">
         <mark key="'" line="12" column="42" />
       </file>
-      <file name="E:/Work/client/script/com/base/game_object.py" timestamp="1559550368940">
-        <mark key="'" line="148" column="31" />
+      <file name="E:/Work/client/script/com/base/game_object.py" timestamp="1559551548653">
+        <mark key="'" line="172" column="25" />
         <mark key="[" line="46" column="35" />
         <mark key="]" line="49" column="50" />
         <mark key="^" line="49" column="50" />
@@ -111,8 +111,8 @@
       <file name="E:/Work/client/script/res_mgr/audio_mgr.py" timestamp="1559545318774">
         <mark key="'" line="277" column="30" />
       </file>
-      <file name="E:/Work/client/script/game_scene/components/CameraComp.py" timestamp="1559546356817">
-        <mark key="'" line="351" column="34" />
+      <file name="E:/Work/client/script/game_scene/components/CameraComp.py" timestamp="1559551579349">
+        <mark key="'" line="351" column="33" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_skin_play.py" timestamp="1559293242787">
         <mark key="[" line="18" column="10" />
@@ -241,9 +241,6 @@
       <jump line="15" column="21" filename="E:/Work/client/script/com/base/update_mgr.py" />
       <jump line="18" column="12" filename="E:/Work/client/script/com/base/update_mgr.py" />
       <jump line="2301" column="8" filename="$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1895941070/__builtin__.py" />
-      <jump line="486" column="25" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
-      <jump line="351" column="34" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
-      <jump line="172" column="27" filename="E:/Work/client/script/com/base/game_object.py" />
       <jump line="109" column="24" filename="E:/Work/client/script/com/base/game_object.py" />
       <jump line="4" column="38" filename="E:/Work/client/script/com/base/singleton_member.py" />
       <jump line="190" column="26" filename="E:/Work/client/script/lib/reload_mgr.py" />
@@ -262,6 +259,9 @@
       <jump line="148" column="31" filename="E:/Work/client/script/com/base/game_object.py" />
       <jump line="62" column="33" filename="E:/Work/client/script/com/base/update_mgr.py" />
       <jump line="23" column="0" filename="E:/Work/client/script/com/base/update_mgr.py" />
+      <jump line="486" column="27" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
+      <jump line="351" column="33" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
+      <jump line="172" column="25" filename="E:/Work/client/script/com/base/game_object.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
