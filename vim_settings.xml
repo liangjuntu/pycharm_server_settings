@@ -22,7 +22,7 @@
         <mark key="^" line="49" column="50" />
         <mark key="." line="49" column="50" />
       </file>
-      <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1559636504991">
+      <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1559642637613">
         <mark key="[" line="191" column="4" />
         <mark key="]" line="191" column="4" />
         <mark key="^" line="191" column="4" />
@@ -40,7 +40,12 @@
         <mark key="]" line="1402" column="0" />
         <mark key="." line="1402" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/modelinfoexport/ModelInfo.py" timestamp="1559640601408" />
+      <file name="E:/Work/G58SVN/tool/modelinfoexport/ModelInfo.py" timestamp="1559642604054">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="240" column="18" />
+        <mark key="." line="240" column="18" />
+        <mark key="^" line="240" column="18" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1559634898246">
         <mark key="'" line="1422" column="22" />
       </file>
@@ -90,8 +95,8 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="E:/Work/G58SVN/tool/modelinfoexport/ModelInfoExtractor.py" timestamp="1559634605246">
-        <mark key="'" line="195" column="35" />
+      <file name="E:/Work/G58SVN/tool/modelinfoexport/ModelInfoExtractor.py" timestamp="1559640890001">
+        <mark key="'" line="195" column="39" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1559635005948">
         <mark key="'" line="223" column="50" />
@@ -193,7 +198,6 @@
       <jump line="147" column="8" filename="E:/Work/client/script/cocos/ui_tree.py" />
       <jump line="23" column="21" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_mvp.py" />
       <jump line="149" column="35" filename="E:/Work/client/script/cocos/ui_tree.py" />
-      <jump line="195" column="35" filename="E:/Work/G58SVN/tool/modelinfoexport/ModelInfoExtractor.py" />
       <jump line="14" column="26" filename="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_38404.py" />
       <jump line="1422" column="22" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
       <jump line="223" column="50" filename="D:/Work2/client2/script/game_scene/city_container.py" />
@@ -214,43 +218,44 @@
       <jump line="1407" column="88" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1401" column="51" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="183" column="4" filename="D:/Work2/client2/script/combat/base/model_scene_data.py" />
+      <jump line="195" column="39" filename="E:/Work/G58SVN/tool/modelinfoexport/ModelInfoExtractor.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
+      <register name="&quot;" type="4">
+        <text>parse_gim(filepath, anim_name)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IAk=</text>
+        <text>parse_gim(filepath, anim_name)</text>
       </register>
       <register name="/" type="4">
         <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZ2cudWkucGFuZWxzLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9za2luX3BsYXkuZGVzdHJveV9zZWxmX2xheWVyKCkK</text>
+        <text encoding="base64">CW1vZGVsX3NmeF9zZXQgPSBwYXJzZV9naW0oZmlsZV9wYXRoLCBhbmltX25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
+        <text encoding="base64">CWltcG9ydCBvcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IFsnZngvaGVyb19wYXRpY2xlL2dlbGVpbXUvZ2VsZWltdV9pZGxlXzA1XzA0LnNmeCcsXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IHByZWxvYWRfc2Z4c1sxOjRdCg==</text>
+        <text encoding="base64">CQlnaW1fcGF0aCA9IHRtcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IFsnZngvaGVyb19wYXRpY2xlL2dlbGVpbXUvZ2VsZWltdV9pZGxlXzA1XzA0LnNmeCcsXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IHByZWxvYWRfc2Z4c1sxOjRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlnZy51aS5hY3Rpb25zLnNldHRsZW1lbnRfaW5mb18yLnRvcHNpZGVfb3Blbi5zdGFydCgpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkK</text>
