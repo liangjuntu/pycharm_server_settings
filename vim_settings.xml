@@ -9,7 +9,7 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_38404.py" timestamp="1559634875573">
         <mark key="'" line="14" column="26" />
       </file>
-      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1559706773722">
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1559714957410">
         <mark key="'" line="52" column="27" />
       </file>
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1559642637613">
@@ -76,6 +76,8 @@
       <file name="E:/Work/client/script/cocos/panels/activity_55.py" timestamp="1559703994551">
         <mark key="'" line="369" column="24" />
       </file>
+      <file name="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" timestamp="1559715217284" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/DebugMember.py" timestamp="1559715097844" />
       <file name="D:/Work2/client2/script/res_mgr/sfx_mgr.py" timestamp="1559638732899">
         <mark key="'" line="56" column="47" />
       </file>
