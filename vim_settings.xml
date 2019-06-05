@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559706073003">
-        <mark key="'" line="305" column="53" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559721245868">
+        <mark key="'" line="303" column="50" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_38404.py" timestamp="1559634875573">
         <mark key="'" line="14" column="26" />
       </file>
-      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1559714957410">
-        <mark key="'" line="52" column="27" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1559721144956">
+        <mark key="'" line="155" column="69" />
       </file>
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1559642637613">
         <mark key="[" line="191" column="4" />
@@ -52,7 +52,7 @@
       <file name="E:/Work/client/script/cocos/panels/combat_result.py" timestamp="1559631403802">
         <mark key="'" line="715" column="20" />
       </file>
-      <file name="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" timestamp="1559716861428">
+      <file name="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" timestamp="1559719677015">
         <mark key="'" line="1986" column="36" />
       </file>
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ChatMember.py" timestamp="1559715850598" />
@@ -83,8 +83,8 @@
       <file name="E:/Work/client/script/cocos/panels/activity_55.py" timestamp="1559703994551">
         <mark key="'" line="369" column="24" />
       </file>
-      <file name="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" timestamp="1559717510182">
-        <mark key="'" line="1348" column="26" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" timestamp="1559720782596">
+        <mark key="'" line="2426" column="32" />
       </file>
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/DebugMember.py" timestamp="1559716025382" />
       <file name="D:/Work2/client2/script/res_mgr/sfx_mgr.py" timestamp="1559638732899">
@@ -98,12 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="20" filename="E:/Work/client/script/com/base/game_object.py" />
-      <jump line="1228" column="39" filename="E:/Work/client/script/cocos/panels/dialogue.py" />
-      <jump line="468" column="20" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
-      <jump line="487" column="24" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
-      <jump line="4" column="20" filename="E:/Work/client/script/res_mgr/cinematic_mgr.py" />
-      <jump line="806" column="31" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
       <jump line="821" column="33" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
       <jump line="306" column="34" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1117" column="28" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
@@ -171,7 +165,6 @@
       <jump line="315" column="40" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
       <jump line="305" column="53" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
       <jump line="2026" column="64" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/CommonMember.py" />
-      <jump line="52" column="27" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
       <jump line="151" column="8" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
       <jump line="123" column="55" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/RefreshMember.py" />
       <jump line="1023" column="73" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
@@ -198,6 +191,13 @@
       <jump line="1953" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
       <jump line="1004" column="22" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
       <jump line="1348" column="26" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1043" column="48" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="299" column="86" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
+      <jump line="301" column="68" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
+      <jump line="303" column="50" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
+      <jump line="2426" column="32" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="52" column="30" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
+      <jump line="155" column="69" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
