@@ -30,14 +30,15 @@
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1559736935043">
         <mark key="'" line="865" column="30" />
       </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559737258549">
-        <mark key="'" line="1570" column="27" />
-        <mark key="[" line="1050" column="0" />
-        <mark key="]" line="1050" column="0" />
-        <mark key="." line="1050" column="0" />
-        <mark key="^" line="1571" column="71" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559738491798">
+        <mark key="'" line="1054" column="47" />
+        <mark key="[" line="1058" column="20" />
+        <mark key="]" line="1058" column="18" />
+        <mark key="." line="1058" column="18" />
+        <mark key="^" line="1058" column="18" />
       </file>
       <file name="E:/Work/client/script/com/data/cdata/huodong_main.py" timestamp="1559703286326" />
+      <file name="E:/Work/client/script/combat/view/unit/Unit.py" timestamp="1559738507979" />
       <file name="D:/Work2/client2/script/res_mgr/res_mgr_base.py" timestamp="1559638877117">
         <mark key="'" line="79" column="26" />
       </file>
@@ -169,12 +170,11 @@
       <file name="E:/Work/client/script/cocos/panels/activity_55.py" timestamp="1559703994551">
         <mark key="'" line="369" column="24" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1559629982203">
-        <mark key="'" line="147" column="18" />
-        <mark key="[" line="174" column="86" />
-        <mark key="]" line="174" column="103" />
-        <mark key="." line="174" column="103" />
-        <mark key="^" line="174" column="103" />
+      <file name="E:/Work/client/script/com/const.py" timestamp="1559738069292">
+        <mark key="[" line="7098" column="31" />
+        <mark key="]" line="7098" column="31" />
+        <mark key="^" line="7098" column="31" />
+        <mark key="." line="7098" column="31" />
       </file>
       <file name="E:/Work/client/script/com/utils/hacker.py" timestamp="1559725195243">
         <mark key="'" line="16" column="69" />
@@ -197,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="11" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="669" column="36" filename="E:/Work/client/script/res_mgr/cinematic/datadefines.py" />
       <jump line="59" column="56" filename="E:/Work/client/script/res_mgr/cinematic/eventdata.py" />
       <jump line="313" column="65" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="521" column="19" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -297,19 +295,21 @@
       <jump line="1080" column="33" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
       <jump line="1054" column="40" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
       <jump line="1052" column="25" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
+      <jump line="1051" column="25" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1054" column="47" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>unit.type != const.UnitType.BUILDING and</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>unit.type != const.UnitType.BUILDING and</text>
       </register>
       <register name="/" type="4">
         <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCSMJY2xzLl9VUERBVEVSX0tFWVMgPSBzZXQoKQo=</text>
+        <text encoding="base64">CQkJCWlmIHVuaXQudHlwZSAhPSBjb25zdC5Vbml0VHlwZS5CVUlMRElORyBhbmQgdW5pdCBpcyBub3QgbXZwX3VuaXQ6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
