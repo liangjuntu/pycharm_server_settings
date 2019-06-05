@@ -30,12 +30,12 @@
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1559736935043">
         <mark key="'" line="865" column="30" />
       </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559734158582">
-        <mark key="'" line="1571" column="27" />
-        <mark key="[" line="1572" column="69" />
-        <mark key="]" line="1572" column="71" />
-        <mark key="." line="1572" column="71" />
-        <mark key="^" line="1572" column="71" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559737258549">
+        <mark key="'" line="1570" column="27" />
+        <mark key="[" line="1050" column="0" />
+        <mark key="]" line="1050" column="0" />
+        <mark key="." line="1050" column="0" />
+        <mark key="^" line="1571" column="71" />
       </file>
       <file name="E:/Work/client/script/com/data/cdata/huodong_main.py" timestamp="1559703286326" />
       <file name="D:/Work2/client2/script/res_mgr/res_mgr_base.py" timestamp="1559638877117">
@@ -168,6 +168,13 @@
       <file name="E:/Work/client/script/cocos/panels/activity_38.py" timestamp="1559703247711" />
       <file name="E:/Work/client/script/cocos/panels/activity_55.py" timestamp="1559703994551">
         <mark key="'" line="369" column="24" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1559629982203">
+        <mark key="'" line="147" column="18" />
+        <mark key="[" line="174" column="86" />
+        <mark key="]" line="174" column="103" />
+        <mark key="." line="174" column="103" />
+        <mark key="^" line="174" column="103" />
       </file>
       <file name="E:/Work/client/script/com/utils/hacker.py" timestamp="1559725195243">
         <mark key="'" line="16" column="69" />
@@ -308,28 +315,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgbXZwX3VuaXQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJI2lmIG12cF91bml0ICE9IGdnLnBsYXllcjoK</text>
+        <text encoding="base64">CQkJaWYgbXZwX3VuaXQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJIwlnZy5wbGF5ZXIuc2V0X3BhbmVsc2hhZG93X2VuYWJsZWQoRmFsc2UpCg==</text>
+        <text encoding="base64">CQkJI2lmIG12cF91bml0ICE9IGdnLnBsYXllcjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJI2lmIGdnLnBsYXllciBhbmQgZ2cucGxheWVyLm1vZGVsLnZhbGlkOgo=</text>
+        <text encoding="base64">CQkJIwlnZy5wbGF5ZXIuc2V0X3BhbmVsc2hhZG93X2VuYWJsZWQoRmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJI2lmIGdnLnBsYXllciBhbmQgZ2cucGxheWVyLm1vZGVsLnZhbGlkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJIyDQ6NKq1tjQwsno0rvPwsnjz/G7+rXExL+x6go=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJIyDQ6NKq1tjQwsno0rvPwsnjz/G7+rXExL+x6go=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJI2dnLmJhdHRsZS5jYW1lcmFfY29tcC50YXJnZXRfdW5pdCA9IG12cF91bml0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
