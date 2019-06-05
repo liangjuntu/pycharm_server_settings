@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Work/client/script/lib/reload_mgr.py" timestamp="1559723231167" />
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559721245868">
         <mark key="'" line="303" column="50" />
       </file>
@@ -12,11 +13,12 @@
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1559721144956">
         <mark key="'" line="155" column="69" />
       </file>
-      <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1559642637613">
-        <mark key="[" line="191" column="4" />
-        <mark key="]" line="191" column="4" />
-        <mark key="^" line="191" column="4" />
-        <mark key="." line="191" column="4" />
+      <file name="E:/Work/client/script/com/base/game_object.py" timestamp="1559723578311">
+        <mark key="'" line="105" column="20" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="60" column="12" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" timestamp="1559630942955">
         <mark key="'" line="17" column="32" />
@@ -33,19 +35,26 @@
         <mark key="]" line="1402" column="0" />
         <mark key="." line="1402" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/modelinfoexport/ModelInfo.py" timestamp="1559642604054">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="240" column="18" />
-        <mark key="." line="240" column="18" />
-        <mark key="^" line="240" column="18" />
-      </file>
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/RefreshMember.py" timestamp="1559715916430">
         <mark key="'" line="123" column="55" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1559634898246">
         <mark key="'" line="1422" column="22" />
       </file>
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1559723328510">
+        <mark key="'" line="1570" column="27" />
+        <mark key="[" line="1571" column="69" />
+        <mark key="]" line="1571" column="71" />
+        <mark key="." line="1571" column="71" />
+        <mark key="^" line="1571" column="71" />
+      </file>
       <file name="E:/Work/client/script/com/data/cdata/huodong_main.py" timestamp="1559703286326" />
+      <file name="E:/Work/client/script/game_scene/components/CameraComp.py" timestamp="1559723084749">
+        <mark key="'" line="486" column="26" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
+      </file>
       <file name="D:/Work2/client2/script/res_mgr/res_mgr_base.py" timestamp="1559638877117">
         <mark key="'" line="79" column="26" />
       </file>
@@ -60,7 +69,7 @@
         <mark key="'" line="187" column="28" />
       </file>
       <file name="E:/G58Trunk/trunk/server/script/com/const.py" timestamp="1559706736501" />
-      <file name="E:/Work/client/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559704612729">
+      <file name="E:/Work/client/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559722833657">
         <mark key="'" line="164" column="38" />
       </file>
       <file name="E:/Work/client/script/res_mgr/cinematic/datadefines.py" timestamp="1559615243386">
@@ -72,7 +81,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1559635005948">
         <mark key="'" line="223" column="50" />
       </file>
-      <file name="E:/Work/client/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1559704079567" />
+      <file name="E:/Work/client/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1559722861645" />
       <file name="E:/Work/client/script/cocos/panels/activity_55_add.py" timestamp="1559704044200">
         <mark key="'" line="53" column="32" />
       </file>
@@ -89,12 +98,6 @@
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/DebugMember.py" timestamp="1559716025382" />
       <file name="D:/Work2/client2/script/res_mgr/sfx_mgr.py" timestamp="1559638732899">
         <mark key="'" line="56" column="47" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_info_2.py" timestamp="1559702884198">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="19" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -200,8 +203,8 @@
       <jump line="155" column="69" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>parse_gim(filepath, anim_name)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>parse_gim(filepath, anim_name)</text>
@@ -210,34 +213,34 @@
         <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CW1vZGVsX3NmeF9zZXQgPSBwYXJzZV9naW0oZmlsZV9wYXRoLCBhbmltX25hbWUpCg==</text>
+        <text encoding="base64">CQkJCSMJY2xzLl9VUERBVEVSX0tFWVMgPSBzZXQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWltcG9ydCBvcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlnaW1fcGF0aCA9IHRtcAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">QHVwZGF0ZV9tZ3IudXBkYXRlcigpCglkZWYgdGVzdF91cGRhdGUoc2VsZiwgZWxhcHNlKToKCQlwcmludCgidGVzdF91cGRhdGUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
+        <text encoding="base64">CWltcG9ydCBvcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IFsnZngvaGVyb19wYXRpY2xlL2dlbGVpbXUvZ2VsZWltdV9pZGxlXzA1XzA0LnNmeCcsXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJI3ByZWxvYWRfc2Z4cyA9IHByZWxvYWRfc2Z4c1sxOjRdCg==</text>
+        <text encoding="base64">CQlnaW1fcGF0aCA9IHRtcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
