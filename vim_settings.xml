@@ -3,20 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1559635783298">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
-        <mark key="[" line="11" column="40" />
-      </file>
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559706073003">
         <mark key="'" line="305" column="53" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/unit/components/buff/BuffComp_38404.py" timestamp="1559634875573">
         <mark key="'" line="14" column="26" />
       </file>
-      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1559706773722">
+        <mark key="'" line="52" column="27" />
       </file>
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1559642637613">
         <mark key="[" line="191" column="4" />
@@ -26,6 +20,9 @@
       </file>
       <file name="E:/Work/client/script/cocos/panels/spacetime_pve_reward.py" timestamp="1559630942955">
         <mark key="'" line="17" column="32" />
+      </file>
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/CommonMember.py" timestamp="1559706682828">
+        <mark key="'" line="2026" column="64" />
       </file>
       <file name="E:/Work/client/script/cocos/ui_tree.py" timestamp="1559631453348">
         <mark key="'" line="149" column="35" />
@@ -52,20 +49,15 @@
       <file name="E:/Work/client/script/cocos/panels/combat_result.py" timestamp="1559631403802">
         <mark key="'" line="715" column="20" />
       </file>
-      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Work2/client2/script/game_scene/components/ResComp.py" timestamp="1559638947665">
         <mark key="'" line="187" column="28" />
       </file>
+      <file name="E:/G58Trunk/trunk/server/script/com/const.py" timestamp="1559706736501" />
       <file name="E:/Work/client/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559704612729">
         <mark key="'" line="164" column="38" />
       </file>
       <file name="E:/Work/client/script/res_mgr/cinematic/datadefines.py" timestamp="1559615243386">
         <mark key="'" line="669" column="36" />
-      </file>
-      <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
-        <mark key="[" line="98" column="14" />
       </file>
       <file name="E:/Work/G58SVN/tool/modelinfoexport/ModelInfoExtractor.py" timestamp="1559640890001">
         <mark key="'" line="195" column="39" />
@@ -84,9 +76,6 @@
       <file name="E:/Work/client/script/cocos/panels/activity_55.py" timestamp="1559703994551">
         <mark key="'" line="369" column="24" />
       </file>
-      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
-        <mark key="[" line="118" column="75" />
-      </file>
       <file name="D:/Work2/client2/script/res_mgr/sfx_mgr.py" timestamp="1559638732899">
         <mark key="'" line="56" column="47" />
       </file>
@@ -98,9 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="12" filename="E:/Work/client/script/com/base/update_mgr.py" />
-      <jump line="2301" column="8" filename="$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1895941070/__builtin__.py" />
-      <jump line="109" column="24" filename="E:/Work/client/script/com/base/game_object.py" />
       <jump line="4" column="38" filename="E:/Work/client/script/com/base/singleton_member.py" />
       <jump line="190" column="26" filename="E:/Work/client/script/lib/reload_mgr.py" />
       <jump line="975" column="31" filename="E:/Work/client/script/game_scene/city.py" />
@@ -198,6 +184,9 @@
       <jump line="306" column="48" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
       <jump line="315" column="40" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
       <jump line="305" column="53" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
+      <jump line="2026" column="64" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/CommonMember.py" />
+      <jump line="52" column="27" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
+      <jump line="151" column="8" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
