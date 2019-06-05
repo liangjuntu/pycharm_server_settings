@@ -39,6 +39,9 @@
         <mark key="." line="240" column="18" />
         <mark key="^" line="240" column="18" />
       </file>
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/RefreshMember.py" timestamp="1559715916430">
+        <mark key="'" line="123" column="55" />
+      </file>
       <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1559634898246">
         <mark key="'" line="1422" column="22" />
       </file>
@@ -49,6 +52,10 @@
       <file name="E:/Work/client/script/cocos/panels/combat_result.py" timestamp="1559631403802">
         <mark key="'" line="715" column="20" />
       </file>
+      <file name="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" timestamp="1559716861428">
+        <mark key="'" line="1986" column="36" />
+      </file>
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ChatMember.py" timestamp="1559715850598" />
       <file name="D:/Work2/client2/script/game_scene/components/ResComp.py" timestamp="1559638947665">
         <mark key="'" line="187" column="28" />
       </file>
@@ -76,8 +83,10 @@
       <file name="E:/Work/client/script/cocos/panels/activity_55.py" timestamp="1559703994551">
         <mark key="'" line="369" column="24" />
       </file>
-      <file name="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" timestamp="1559715217284" />
-      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/DebugMember.py" timestamp="1559715097844" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" timestamp="1559717510182">
+        <mark key="'" line="1348" column="26" />
+      </file>
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/DebugMember.py" timestamp="1559716025382" />
       <file name="D:/Work2/client2/script/res_mgr/sfx_mgr.py" timestamp="1559638732899">
         <mark key="'" line="56" column="47" />
       </file>
@@ -89,31 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="38" filename="E:/Work/client/script/com/base/singleton_member.py" />
-      <jump line="190" column="26" filename="E:/Work/client/script/lib/reload_mgr.py" />
-      <jump line="975" column="31" filename="E:/Work/client/script/game_scene/city.py" />
-      <jump line="982" column="43" filename="E:/Work/client/script/game_scene/city.py" />
-      <jump line="33" column="26" filename="E:/Work/client/script/res_mgr/audio_mgr.py" />
-      <jump line="1184" column="113" filename="E:/Work/client/script/game_scene/city.py" />
-      <jump line="225" column="69" filename="E:/Work/client/script/lib/reload_mgr.py" />
-      <jump line="92" column="33" filename="E:/Work/client/script/lib/reload_mgr.py" />
-      <jump line="84" column="34" filename="E:/Work/client/script/lib/reload_mgr.py" />
-      <jump line="70" column="26" filename="E:/Work/client/script/lib/reload_mgr.py" />
-      <jump line="39" column="24" filename="E:/Work/client/script/lib/importer.py" />
-      <jump line="15" column="36" filename="E:/Work/client/script/lib/dbx/dbx_import_hook.py" />
-      <jump line="148" column="31" filename="E:/Work/client/script/com/base/game_object.py" />
-      <jump line="62" column="33" filename="E:/Work/client/script/com/base/update_mgr.py" />
-      <jump line="23" column="0" filename="E:/Work/client/script/com/base/update_mgr.py" />
-      <jump line="486" column="27" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
-      <jump line="351" column="33" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
-      <jump line="172" column="25" filename="E:/Work/client/script/com/base/game_object.py" />
-      <jump line="224" column="25" filename="E:/Work/client/script/lib/reload_mgr.py" />
-      <jump line="137" column="24" filename="E:/Work/client/script/lib/reload_mgr.py" />
-      <jump line="51" column="44" filename="E:/Work/client/script/com/base/game_object.py" />
-      <jump line="249" column="16" filename="C:/Python27amd64/Lib/inspect.py" />
-      <jump line="160" column="4" filename="$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1895941070/__builtin__.py" />
-      <jump line="40" column="49" filename="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1873.py" />
-      <jump line="74" column="52" filename="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1873.py" />
       <jump line="102" column="20" filename="E:/Work/client/script/com/base/game_object.py" />
       <jump line="1228" column="39" filename="E:/Work/client/script/cocos/panels/dialogue.py" />
       <jump line="468" column="20" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
@@ -189,6 +173,31 @@
       <jump line="2026" column="64" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/CommonMember.py" />
       <jump line="52" column="27" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
       <jump line="151" column="8" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
+      <jump line="123" column="55" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/RefreshMember.py" />
+      <jump line="1023" column="73" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1423" column="47" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1028" column="31" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="2368" column="8" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="6" column="4" filename="E:/G58Trunk/trunk/server/MobileServer/servercommon/persistentdecorator.py" />
+      <jump line="2374" column="18" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1007" column="35" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1639" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1013" column="44" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1652" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1943" column="43" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1949" column="18" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1014" column="35" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1992" column="26" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1663" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1015" column="54" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="2123" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1017" column="30" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1020" column="32" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1986" column="36" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1072" column="44" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1953" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
+      <jump line="1004" column="22" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1348" column="26" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
