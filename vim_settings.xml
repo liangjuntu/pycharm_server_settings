@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1559789236558">
+      <file name="E:/Work/G58SVN/tool/export_table_tool/types/TableDefDecorator.py" timestamp="1560148531909" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560150663759">
         <mark key="'" line="303" column="50" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1135.py" timestamp="1559809398723">
@@ -16,9 +17,6 @@
       <file name="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1559789342775">
         <mark key="'" line="155" column="69" />
       </file>
-      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1559804666471">
         <mark key="'" line="1914" column="61" />
       </file>
@@ -29,15 +27,22 @@
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/example_def.py" timestamp="1560148458181">
+        <mark key="'" line="286" column="5" />
+      </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/a129_floor_data_def.py" timestamp="1560147946551" />
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_area_info.py" timestamp="1560150034036">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="33" column="16" />
+        <mark key="^" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+      </file>
       <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1559807430418">
         <mark key="'" line="193" column="58" />
         <mark key="[" line="143" column="82" />
         <mark key="]" line="143" column="81" />
         <mark key="." line="143" column="81" />
         <mark key="^" line="143" column="81" />
-      </file>
-      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1132.py" timestamp="1559802579484">
         <mark key="'" line="99" column="34" />
@@ -68,6 +73,8 @@
         <mark key="^" line="36" column="56" />
         <mark key="." line="36" column="56" />
       </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/export_files.py" timestamp="1560149000623" />
+      <file name="E:/G58Trunk/trunk/server/script/com/utils/BeachArea.py" timestamp="1560150386118" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/buff/BuffComp_6130.py" timestamp="1559812341549">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="14" column="61" />
@@ -84,29 +91,12 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1852.py" timestamp="1559814759460">
         <mark key="'" line="44" column="41" />
       </file>
-      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
-        <mark key="[" line="118" column="75" />
+      <file name="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" timestamp="1560150440886">
+        <mark key="'" line="1046" column="49" />
       </file>
-      <file name="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" timestamp="1559790225365">
-        <mark key="'" line="1064" column="32" />
-      </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_infos.py" timestamp="1560149018294" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" timestamp="1559814531476">
         <mark key="'" line="1368" column="27" />
-      </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1133.py" timestamp="1559810473452">
-        <mark key="'" line="146" column="17" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1559811085344">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1559809007129">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
-        <mark key="[" line="11" column="40" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/buff/BuffComp_31400.py" timestamp="1559812414259">
         <mark key="[" line="17" column="56" />
@@ -143,6 +133,7 @@
       <file name="E:/Work/client/script/cocos/ui_tree.py" timestamp="1559807104026">
         <mark key="'" line="149" column="35" />
       </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/battle_event_def.py" timestamp="1560147767031" />
       <file name="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" timestamp="1559789648498">
         <mark key="'" line="73" column="23" />
       </file>
@@ -165,9 +156,7 @@
         <mark key="^" line="95" column="51" />
         <mark key="." line="95" column="51" />
       </file>
-      <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
-        <mark key="[" line="98" column="14" />
-      </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/longzhou_yingyuan_def.py" timestamp="1560148578982" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1113.py" timestamp="1559790851606">
         <mark key="'" line="32" column="26" />
       </file>
@@ -205,11 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="40" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
-      <jump line="305" column="53" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
-      <jump line="2026" column="64" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/CommonMember.py" />
-      <jump line="151" column="8" filename="E:/G58Trunk/trunk/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
-      <jump line="123" column="55" filename="E:/G58Trunk/trunk/server/script/entity/avatar_members/RefreshMember.py" />
       <jump line="1023" column="73" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
       <jump line="1423" column="47" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
       <jump line="1028" column="31" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
@@ -305,46 +289,60 @@
       <jump line="31" column="54" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1284.py" />
       <jump line="24" column="76" filename="D:/Work2/client2/script/combat/logic/unit/components/HeroComp.py" />
       <jump line="127" column="8" filename="D:/Work2/client2/script/combat/logic/unit/components/HeroComp.py" />
+      <jump line="286" column="5" filename="E:/Work/G58SVN/tool/export_table_tool/def/example_def.py" />
+      <jump line="1047" column="38" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="13" column="29" filename="E:/G58Trunk/trunk/server/script/com/utils/BeachArea.py" />
+      <jump line="1046" column="49" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
+      <jump line="0" column="0" filename="E:/G58Trunk/trunk/server/script/com/data/cdata/beach_battle_area_infos.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>FS_SFX_DATA.data[model.filename]</text>
+        <text>for area_</text>
       </register>
       <register name="/" type="4">
         <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiBzZWxmLmRhemhhb19idWZmIGluIHNlbGYudW5pdC5CdWZmTWdyQ29tcC5fYnVmZnM6ICAjILWxx7C05tTaYnVmZsqxo6yxu7jD06LQ28mxy8AK</text>
+        <text encoding="base64">CQkJCXByaW50ICe12nt9xtq05tTa1ti4tLXEx/jT8klEOnt9Jy5mb3JtYXQocGVyb2lkX2lkLCBhcmVhX2lkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlpZiBzZWxmLmRhemhhb19idWZmIGluIHNlbGYudW5pdC5CdWZmTWdyQ29tcC5fYnVmZnM6ICAjILWxx7C05tTaYnVmZsqxo6yxu7jD06LQ28mxy8AK</text>
+      <register name="3" type="4">
+        <text>if len(table_obj.table) == 0:
+		return table_obj
+
+	new_rows = []
+	for row in table_obj.table:
+		if not getattr(row, 'is_release'):
+			continue
+		delattr(row, 'is_release')
+		new_rows.append(row)
+	table_obj.table =new_rows</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiBub3Qgc2VsZi5kYXpoYW9fYnVmZiBpbiBzZWxmLnVuaXQuQnVmZk1nckNvbXAuX2J1ZmZzOiAgIyC1scewtObU2mJ1ZmbKsaOssbu4w9Oi0NvJscvACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZGQK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
