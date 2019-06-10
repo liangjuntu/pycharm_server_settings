@@ -20,7 +20,9 @@
         <mark key="^" line="33" column="16" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/sfx_mgr.py" timestamp="1560154916091" />
+      <file name="E:/Work/client/script/res_mgr/sfx_mgr.py" timestamp="1560162046710">
+        <mark key="'" line="193" column="25" />
+      </file>
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,7 +54,7 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="23" />
       </file>
-      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1973.py" timestamp="1560156646083">
+      <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1973.py" timestamp="1560157531073">
         <mark key="'" line="70" column="103" />
       </file>
       <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
@@ -62,11 +64,12 @@
         <mark key="'" line="1046" column="49" />
       </file>
       <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_infos.py" timestamp="1560149018294" />
-      <file name="E:/Work/client/script/com/data/cdata/fs_sfx.py" timestamp="1560155403538" />
-      <file name="/Python Console" timestamp="1560153732092">
+      <file name="E:/Work/client/script/com/data/cdata/fs_sfx.py" timestamp="1560160433503" />
+      <file name="E:/Work/client/script/combat/logic/unit/components/skill/PskillComp_1970.py" timestamp="1560158544054" />
+      <file name="/Python Console" timestamp="1560160782982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1559809007129">
+      <file name="/fragment.py" timestamp="1560160928104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
@@ -97,12 +100,12 @@
         <mark key="^" line="29" column="20" />
       </file>
       <file name="E:/Work/G58SVN/tool/export_table_tool/def/battle_event_def.py" timestamp="1560147767031" />
-      <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1560156259955">
-        <mark key="'" line="58" column="43" />
-        <mark key="[" line="68" column="21" />
-        <mark key="]" line="68" column="24" />
-        <mark key="^" line="68" column="24" />
-        <mark key="." line="68" column="24" />
+      <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1560162012957">
+        <mark key="'" line="62" column="41" />
+        <mark key="[" line="62" column="54" />
+        <mark key="]" line="62" column="54" />
+        <mark key="^" line="62" column="54" />
+        <mark key="." line="62" column="54" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1134.py" timestamp="1559809392708">
         <mark key="[" line="118" column="38" />
@@ -114,11 +117,19 @@
         <mark key="[" line="98" column="14" />
       </file>
       <file name="E:/Work/G58SVN/tool/export_table_tool/def/longzhou_yingyuan_def.py" timestamp="1560148578982" />
+      <file name="E:/Work/client/script/com/const.py" timestamp="1560157911927" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/buff/BuffComp_7165.py" timestamp="1559811370505">
         <mark key="[" line="24" column="55" />
         <mark key="]" line="25" column="4" />
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1560161993688">
+        <mark key="'" line="432" column="27" />
+        <mark key="[" line="448" column="37" />
+        <mark key="]" line="449" column="17" />
+        <mark key="." line="449" column="17" />
+        <mark key="^" line="449" column="17" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1281.py" timestamp="1559815494429">
         <mark key="[" line="31" column="0" />
@@ -134,11 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="4" filename="E:/G58Trunk/trunk/server/MobileServer/servercommon/persistentdecorator.py" />
-      <jump line="2374" column="18" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="1007" column="35" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="1639" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
-      <jump line="1013" column="44" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
       <jump line="1652" column="4" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
       <jump line="1943" column="43" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
       <jump line="1949" column="18" filename="E:/G58Trunk/trunk/server/script/com/utils/helpers.py" />
@@ -234,10 +240,15 @@
       <jump line="1407" column="75" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="58" column="43" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="70" column="103" filename="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1973.py" />
+      <jump line="546" column="29" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="431" column="27" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="62" column="41" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
+      <jump line="220" column="25" filename="E:/Work/client/script/res_mgr/sfx_mgr.py" />
+      <jump line="193" column="25" filename="E:/Work/client/script/res_mgr/sfx_mgr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWV2ZW50ID0gJ2Z4X3BpbmdtdV8yJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ModelMgr</text>
@@ -246,34 +257,42 @@
         <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWV2ZW50ID0gJ2Z4X3BpbmdtdV8yJwo=</text>
+        <text encoding="base64">CQkJZ2cuc2Z4X21nci5wbGF5X3NmeF9hdF9tb2RlbF9zb2NrZXQoY2Jfc2Z4LCBOb25lLCBjYl9tb2RlbCwgY2Jfc29ja2V0LCBsaWZlX3NwYW49KC0xIGlmIGNiX2xvb3AgZWxzZSAwKSwgY2I9X29uX2FueV9zZnhfbG9hZGVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYgJ2Z4X3BpbmdtdV8xJyA9PSBjYl9ldmVudDoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCWNiX2FuaW0gPSAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZGVmIF9jYigqYXJncyk6CgkJCQlnZy5zZnhfbWdyLnBsYXlfc2Z4X2F0X21vZGVsX3NvY2tldChzZngsIE5vbmUsIG1vZGVsLCBzb2NrZXQsIGxpZmVfc3Bhbj0oLTEgaWYgbG9vcCBlbHNlIDApKQoJCQkJcHJpbnQoImZzX3NmeC0+YW5pbTp7fSwgZXZlbnQ6e30sIHNmeDp7fSIuZm9ybWF0KGFuaW0sIGV2ZW50LCBzZngpKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlpZiBub3Qgc2NlbmVfbW9kZWw6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlzY2VuZV9tb2RlbCA9IHNlbGYuZ2V0X3NjZW5lX21vZGVsX2J5X2tleShzZWxmLmRlZmF1bHRfa2V5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWV2ZW50W10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc19tZ3IubW9kZWxfbWdyLk1vZGVsTWdyIGFzIE1vZGVsTWdyCg==</text>
+      <register name="8" type="4">
+        <text>if anim == 'idle_cs_01':
+				continue
+
+			if 'fx_pingmu_1' == event:
+				event = 'fx_pingmu_2'
+			elif 'fx_pingmu_2' == event:
+				event = 'fx_pingmu_1'
+
+			socket = 'root'</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpbXBvcnQgcmVzX21nci5tb2RlbF9tZ3IuTW9kZWxNZ3IgYXMgTW9kZWxNZ3IK</text>
+        <text encoding="base64">CQkJaWYgJ2Z4X3BpbmdtdV8xJyA9PSBjYl9ldmVudDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -310,8 +329,6 @@
         <entry>summer_slot</entry>
       </history-search>
       <history-cmd>
-        <entry>453</entry>
-        <entry>101</entry>
         <entry>148</entry>
         <entry>661</entry>
         <entry>620</entry>
@@ -329,6 +346,8 @@
         <entry>187</entry>
         <entry>634</entry>
         <entry>65</entry>
+        <entry>181</entry>
+        <entry>81</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
