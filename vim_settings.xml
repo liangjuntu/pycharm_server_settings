@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1560225284242">
+      <file name="/Python Console" timestamp="1560227566372">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1560160928104">
+      <file name="/fragment.py" timestamp="1560227980776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
@@ -70,8 +70,8 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
         <mark key="[" line="98" column="14" />
       </file>
-      <file name="E:/Work/server/script/entity/GlobalActivityStub.py" timestamp="1560225864775">
-        <mark key="'" line="1065" column="39" />
+      <file name="E:/Work/server/script/entity/GlobalActivityStub.py" timestamp="1560227983014">
+        <mark key="'" line="1038" column="61" />
         <mark key="[" line="944" column="38" />
         <mark key="]" line="944" column="37" />
         <mark key="." line="944" column="37" />
@@ -127,8 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
-      <jump line="294" column="68" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" />
       <jump line="1914" column="61" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
       <jump line="7" column="33" filename="D:/Work2/client2/script/combat/logic/unit/components/buff/BuffComp_6130.py" />
       <jump line="196" column="76" filename="D:/Work2/client2/script/com/utils/formula.py" />
@@ -227,6 +225,8 @@
       <jump line="1395" column="25" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
       <jump line="1193" column="25" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
       <jump line="1065" column="39" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1038" column="61" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="5704" column="4" filename="E:/Work/server/script/com/const.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
