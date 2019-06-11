@@ -3,78 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Work2/client2/script/com/utils/helpers.py" timestamp="1560171988881">
-        <mark key="'" line="1179" column="52" />
-        <mark key="[" line="1189" column="16" />
-        <mark key="]" line="1189" column="16" />
-        <mark key="." line="1189" column="16" />
-        <mark key="^" line="1188" column="8" />
-      </file>
-      <file name="E:/Work/server/script/entity/avatar_attrs/RankListData.py" timestamp="1560168686359" />
-      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_area_info.py" timestamp="1560166750728">
-        <mark key="'" line="46" column="45" />
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="78" column="76" />
-        <mark key="^" line="78" column="76" />
-        <mark key="." line="78" column="76" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/panels/activity_55_map.py" timestamp="1560169903584">
-        <mark key="'" line="58" column="76" />
-        <mark key="[" line="196" column="134" />
-        <mark key="]" line="197" column="20" />
-        <mark key="^" line="197" column="20" />
-        <mark key="." line="197" column="20" />
-      </file>
-      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_buff_infos.py" timestamp="1560166932303">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="43" />
-        <mark key="^" line="34" column="43" />
-        <mark key="." line="34" column="43" />
-      </file>
-      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/panels/activity_tab.py" timestamp="1560170864715">
-        <mark key="'" line="303" column="41" />
-      </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1287.py" timestamp="1559813110459">
-        <mark key="[" line="43" column="40" />
-        <mark key="]" line="43" column="58" />
-        <mark key="." line="43" column="58" />
-        <mark key="^" line="43" column="58" />
-      </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1283.py" timestamp="1559813365731">
-        <mark key="[" line="33" column="85" />
-        <mark key="]" line="36" column="56" />
-        <mark key="^" line="36" column="56" />
-        <mark key="." line="36" column="56" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/panels/activity_55.py" timestamp="1560173020155">
-        <mark key="'" line="179" column="32" />
-      </file>
-      <file name="E:/Work/server/script/com/utils/helpers.py" timestamp="1560173066450">
-        <mark key="[" line="1977" column="8" />
-        <mark key="]" line="1977" column="8" />
-        <mark key="." line="1977" column="8" />
-        <mark key="^" line="1977" column="8" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
-        <mark key="[" line="118" column="75" />
-      </file>
-      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_infos.py" timestamp="1560166179468">
-        <mark key="[" line="43" column="18" />
-      </file>
-      <file name="D:/Work2/client2/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1560170477172">
-        <mark key="'" line="61" column="28" />
-        <mark key="[" line="60" column="43" />
-        <mark key="]" line="60" column="48" />
-        <mark key="." line="60" column="48" />
-        <mark key="^" line="60" column="48" />
-      </file>
-      <file name="/Python Console" timestamp="1560173146420">
+      <file name="/Python Console" timestamp="1560220441759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/activity_55_battleinfo.py" timestamp="1560171075248">
@@ -102,24 +31,49 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="D:/Work2/client2/script/com/data/cdata/huodong_main.py" timestamp="1560171418905" />
+      <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_mvp.py" timestamp="1559808528530">
         <mark key="[" line="33" column="41" />
         <mark key="]" line="33" column="43" />
         <mark key="." line="33" column="43" />
         <mark key="^" line="33" column="43" />
       </file>
-      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560173162737">
-        <mark key="'" line="47" column="79" />
-        <mark key="[" line="243" column="51" />
-        <mark key="]" line="243" column="58" />
-        <mark key="." line="243" column="58" />
-        <mark key="^" line="243" column="58" />
+      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560222584955">
+        <mark key="'" line="47" column="71" />
+        <mark key="[" line="576" column="80" />
+        <mark key="]" line="575" column="119" />
+        <mark key="." line="575" column="119" />
+        <mark key="^" line="575" column="119" />
+      </file>
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_area_info.py" timestamp="1560166750728">
+        <mark key="'" line="46" column="45" />
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="78" column="76" />
+        <mark key="^" line="78" column="76" />
+        <mark key="." line="78" column="76" />
+      </file>
+      <file name="E:/Work/server/MobileServer/Lib/Timer.py" timestamp="1560221653684">
+        <mark key="'" line="80" column="53" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_55_map.py" timestamp="1560220501238">
+        <mark key="'" line="208" column="76" />
+        <mark key="[" line="196" column="134" />
+        <mark key="]" line="197" column="20" />
+        <mark key="^" line="197" column="20" />
+        <mark key="." line="197" column="20" />
       </file>
       <file name="E:/Work/server/script/entity/GlobalRankListStub.py" timestamp="1560168704183">
         <mark key="'" line="1777" column="39" />
       </file>
-      <file name="E:/Work/server/script/com/utils/BeachArea.py" timestamp="1560167460432">
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_buff_infos.py" timestamp="1560166932303">
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="43" />
+        <mark key="^" line="34" column="43" />
+        <mark key="." line="34" column="43" />
+      </file>
+      <file name="E:/Work/server/script/com/utils/BeachArea.py" timestamp="1560220642469">
         <mark key="[" line="45" column="37" />
         <mark key="]" line="46" column="46" />
         <mark key="^" line="46" column="46" />
@@ -132,11 +86,30 @@
         <mark key="^" line="148" column="63" />
         <mark key="." line="148" column="63" />
       </file>
+      <file name="E:/Work/server/script/com/data/cdata/beach_battle_infos.py" timestamp="1560219937611">
+        <mark key="[" line="16" column="354" />
+        <mark key="]" line="16" column="352" />
+        <mark key="^" line="16" column="352" />
+        <mark key="." line="16" column="352" />
+      </file>
       <file name="E:/Work/server/MobileServer/distserver/game/GameServer.py" timestamp="1560173199433">
         <mark key="[" line="337" column="5" />
         <mark key="]" line="337" column="0" />
         <mark key="^" line="337" column="0" />
         <mark key="." line="337" column="0" />
+      </file>
+      <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_tab.py" timestamp="1560170864715">
+        <mark key="'" line="303" column="41" />
+      </file>
+      <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1560223211805">
+        <mark key="'" line="159" column="77" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="9" />
+        <mark key="^" line="55" column="9" />
+        <mark key="." line="55" column="9" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1134.py" timestamp="1559809392708">
         <mark key="[" line="118" column="38" />
@@ -144,29 +117,60 @@
         <mark key="^" line="118" column="38" />
         <mark key="." line="118" column="38" />
       </file>
-      <file name="E:/Work/server/script/entity/LocalSmallThingStub.py" timestamp="1560167593375">
+      <file name="E:/Work/server/script/entity/LocalSmallThingStub.py" timestamp="1560220930344">
+        <mark key="'" line="948" column="41" />
         <mark key="[" line="902" column="47" />
         <mark key="]" line="902" column="52" />
         <mark key="^" line="902" column="52" />
         <mark key="." line="902" column="52" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1287.py" timestamp="1559813110459">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="58" />
+        <mark key="." line="43" column="58" />
+        <mark key="^" line="43" column="58" />
+      </file>
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
         <mark key="[" line="98" column="14" />
       </file>
-      <file name="E:/Work/server/script/entity/GlobalActivityStub.py" timestamp="1560169040090">
-        <mark key="'" line="986" column="47" />
-        <mark key="[" line="933" column="24" />
-        <mark key="]" line="933" column="23" />
-        <mark key="." line="933" column="23" />
-        <mark key="^" line="933" column="23" />
+      <file name="E:/Work/server/script/entity/GlobalActivityStub.py" timestamp="1560222690387">
+        <mark key="'" line="1376" column="73" />
+        <mark key="[" line="944" column="38" />
+        <mark key="]" line="944" column="37" />
+        <mark key="." line="944" column="37" />
+        <mark key="^" line="944" column="37" />
       </file>
-      <file name="E:/Work/server/script/com/data/cdata/beach_battle_area_infos.py" timestamp="1560168301095" />
-      <file name="E:/Work/G58SVN/tool/export_table_tool/def/hero_star_skill_def.py" timestamp="1560165671059" />
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1283.py" timestamp="1559813365731">
+        <mark key="[" line="33" column="85" />
+        <mark key="]" line="36" column="56" />
+        <mark key="^" line="36" column="56" />
+        <mark key="." line="36" column="56" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_55.py" timestamp="1560220219112">
+        <mark key="'" line="179" column="32" />
+        <mark key="[" line="299" column="104" />
+        <mark key="]" line="299" column="99" />
+        <mark key="." line="299" column="99" />
+        <mark key="^" line="299" column="99" />
+      </file>
+      <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560223218366" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/buff/BuffComp_7165.py" timestamp="1559811370505">
         <mark key="[" line="24" column="55" />
         <mark key="]" line="25" column="4" />
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
+      </file>
+      <file name="E:/Work/server/script/com/utils/helpers.py" timestamp="1560219962202">
+        <mark key="'" line="1988" column="44" />
+        <mark key="[" line="1978" column="9" />
+        <mark key="]" line="1978" column="4" />
+        <mark key="." line="1978" column="4" />
+        <mark key="^" line="1978" column="4" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/comps/activity_common_4/a55_battle.py" timestamp="1560220433644" />
+      <file name="E:/Work/server/script/entity/avatar_members/DebugMember.py" timestamp="1560219581459" />
+      <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
+        <mark key="[" line="118" column="75" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1281.py" timestamp="1559815494429">
         <mark key="[" line="31" column="0" />
@@ -174,45 +178,35 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="E:/Work/server/script/com/data/cdata/beach_battle_buff_infos.py" timestamp="1560172204441" />
+      <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_infos.py" timestamp="1560166179468">
+        <mark key="[" line="43" column="18" />
+      </file>
+      <file name="E:/Work/server/script/com/data/cdata/beach_battle_buff_infos.py" timestamp="1560222618475" />
       <file name="D:/Work2/client2/script/com/const.py" timestamp="1559815268695">
         <mark key="[" line="7124" column="32" />
         <mark key="]" line="7119" column="20" />
         <mark key="^" line="7119" column="20" />
         <mark key="." line="7119" column="20" />
       </file>
+      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/SmallActivityMember.py" timestamp="1560223340485">
+        <mark key="'" line="217" column="29" />
+        <mark key="[" line="217" column="12" />
+        <mark key="]" line="217" column="4" />
+        <mark key="^" line="217" column="4" />
+        <mark key="." line="217" column="4" />
+      </file>
+      <file name="E:/Work/server/script/entity/ServerEntities.py" timestamp="1560221847987">
+        <mark key="'" line="518" column="37" />
+      </file>
+      <file name="D:/Work2/client2/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1560223460462">
+        <mark key="'" line="60" column="37" />
+        <mark key="[" line="60" column="43" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="48" />
+        <mark key="^" line="60" column="48" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="21" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
-      <jump line="156" column="12" filename="E:/Work/client/script/cocos/ui_tree.py" />
-      <jump line="231" column="24" filename="E:/Work/client/script/res_mgr/effects/scene_adjust.py" />
-      <jump line="1049" column="33" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
-      <jump line="865" column="30" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="1080" column="33" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
-      <jump line="1054" column="40" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
-      <jump line="1052" column="25" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
-      <jump line="1051" column="25" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="1054" column="47" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="76" column="37" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1973.py" />
-      <jump line="458" column="8" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillMgrComp.py" />
-      <jump line="49" column="38" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1975.py" />
-      <jump line="36" column="87" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1970.py" />
-      <jump line="46" column="77" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1970.py" />
-      <jump line="85" column="39" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1970.py" />
-      <jump line="83" column="91" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1972.py" />
-      <jump line="77" column="64" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1973.py" />
-      <jump line="1014" column="43" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="1015" column="46" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="1020" column="34" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="1072" column="50" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="1058" column="74" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="5658" column="4" filename="E:/G58Trunk/trunk/server/script/com/const.py" />
-      <jump line="1064" column="32" filename="E:/G58Trunk/trunk/server/script/entity/GlobalActivityStub.py" />
-      <jump line="93" column="65" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1132.py" />
-      <jump line="24" column="13" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1132.py" />
-      <jump line="32" column="26" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1113.py" />
-      <jump line="81" column="47" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1133.py" />
-      <jump line="368" column="4" filename="D:/Work2/client2/script/com/utils/helpers.py" />
       <jump line="95" column="34" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1132.py" />
       <jump line="142" column="17" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1133.py" />
       <jump line="41" column="16" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1252.py" />
@@ -264,7 +258,6 @@
       <jump line="46" column="45" filename="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_area_info.py" />
       <jump line="990" column="38" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
       <jump line="989" column="49" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
-      <jump line="986" column="47" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
       <jump line="1985" column="4" filename="E:/Work/server/script/com/utils/helpers.py" />
       <jump line="1777" column="39" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
       <jump line="131" column="65" filename="D:/Work2/client2/script/cocos/panels/activity_55_battleinfo.py" />
@@ -278,54 +271,85 @@
       <jump line="188" column="37" filename="D:/Work2/client2/script/cocos/panels/activity_tab.py" />
       <jump line="303" column="41" filename="D:/Work2/client2/script/cocos/panels/activity_tab.py" />
       <jump line="1179" column="52" filename="D:/Work2/client2/script/com/utils/helpers.py" />
-      <jump line="47" column="79" filename="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
       <jump line="66" column="66" filename="D:/Work2/client2/script/cocos/panels/activity_55.py" />
       <jump line="46" column="71" filename="D:/Work2/client2/script/cocos/panels/activity_55.py" />
       <jump line="179" column="32" filename="D:/Work2/client2/script/cocos/panels/activity_55.py" />
       <jump line="16" column="64" filename="D:/Work2/client2/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
+      <jump line="47" column="71" filename="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
+      <jump line="2160" column="10" filename="E:/Work/server/script/com/utils/helpers.py" />
+      <jump line="1119" column="133" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="956" column="44" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1970" column="4" filename="E:/Work/server/script/com/utils/helpers.py" />
+      <jump line="950" column="32" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="2585" column="35" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1151" column="8" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1118" column="36" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="986" column="50" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1988" column="44" filename="E:/Work/server/script/com/utils/helpers.py" />
+      <jump line="208" column="76" filename="D:/Work2/client2/script/cocos/panels/activity_55_map.py" />
+      <jump line="948" column="41" filename="E:/Work/server/script/entity/LocalSmallThingStub.py" />
+      <jump line="1318" column="37" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="77" column="46" filename="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
+      <jump line="2593" column="37" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1389" column="26" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1365" column="45" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1385" column="66" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="80" column="53" filename="E:/Work/server/MobileServer/Lib/Timer.py" />
+      <jump line="968" column="78" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1192" column="30" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="966" column="72" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1375" column="71" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="518" column="37" filename="E:/Work/server/script/entity/ServerEntities.py" />
+      <jump line="1376" column="73" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="52" column="23" filename="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
+      <jump line="155" column="77" filename="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
+      <jump line="430" column="8" filename="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
+      <jump line="214" column="22" filename="E:/Work/server/script/entity/avatar_members/ActivityMembers/SmallActivityMember.py" />
+      <jump line="217" column="29" filename="E:/Work/server/script/entity/avatar_members/ActivityMembers/SmallActivityMember.py" />
+      <jump line="60" column="37" filename="D:/Work2/client2/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>today_tips</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>today_tips</text>
       </register>
       <register name="/" type="4">
         <text>summer_slot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZ2cudWkuX3RyZWUucHJvY19ldmVudCgncmVwbHlfcmVxdWVzdEJlYWNoQmF0dGxlQmF0dGxlJywgRmFsc2UsIHsncnNuJzogMn0sIF9jaGlsZHJlbj1UcnVlKQo=</text>
+        <text encoding="base64">CQkJJ3R0Jzogc2VsZi50b2RheV90aXBzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYgayAhPSA3ODoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWltcG9ydCBjb20uZGF0YS5jZGF0YS5iZWFjaF9iYXR0bGVfYnVmZl9pbmZvcyBhcyBCZWFjaEJhdHRsZUJ1ZmZJbmZvc01vZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgayAhPSA3ODoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWdnLnVpLl90cmVlLnByb2NfZXZlbnQoJ3JlcGx5X3JlcXVlc3RCZWFjaEJhdHRsZUJhdHRsZScsIEZhbHNlLCB7J3Jzbic6IDR9LCBfY2hpbGRyZW49VHJ1ZSkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZXdhcmRzID0gQmVhY2hCYXR0bGVBcmVhSW5mb3NNb2QuZGF0YS5nZXQoY3Vycl9iYXR0bGVfYXJlYV9pZCwge30pLmdldCgncmV3YXJkcycsIDApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJc2VsZi5jYWxsQ2xpZW50TWV0aG9kKCdyZXBseVJlcXVlc3RCZWFjaEJhdHRsZUJhdHRsZScsIHsncnMnOiBGYWxzZSwgJ2knOiB7J3Jzbic6IDR9fSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJaXNfc2VydmVyPVRydWUpICAjILj80MLPwnBlcmlvZF9pZAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWdnLnVpLl90cmVlLnByb2NfZXZlbnQoJ3JlcGx5X3JlcXVlc3RCZWFjaEJhdHRsZUJhdHRsZScsIEZhbHNlLCB7J3Jzbic6IDR9LCBfY2hpbGRyZW49VHJ1ZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlyZXdhcmRzID0gQmVhY2hCYXR0bGVBcmVhSW5mb3NNb2QuZGF0YS5nZXQoY3Vycl9iYXR0bGVfYXJlYV9pZCwge30pLmdldCgncmV3YXJkcycsIDApCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJc2VsZi5jYWxsQ2xpZW50TWV0aG9kKCdyZXBseVJlcXVlc3RCZWFjaEJhdHRsZUJhdHRsZScsIHsncnMnOiBGYWxzZSwgJ2knOiB7J3Jzbic6IDR9fSkK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>61</text>
       </register>
     </registers>
     <search>
@@ -359,8 +383,6 @@
         <entry>summer_slot</entry>
       </history-search>
       <history-cmd>
-        <entry>148</entry>
-        <entry>661</entry>
         <entry>620</entry>
         <entry>602</entry>
         <entry>1553</entry>
@@ -378,7 +400,9 @@
         <entry>65</entry>
         <entry>181</entry>
         <entry>81</entry>
+        <entry>272</entry>
         <entry>w</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -428,6 +452,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
