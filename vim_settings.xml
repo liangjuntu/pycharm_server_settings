@@ -231,8 +231,8 @@
         <mark key="." line="5012" column="42" />
         <mark key="^" line="5012" column="42" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1560427103569">
-        <mark key="'" line="441" column="27" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1560428412311">
+        <mark key="'" line="532" column="31" />
         <mark key="[" line="510" column="25" />
         <mark key="]" line="510" column="25" />
         <mark key="^" line="510" column="25" />
@@ -259,10 +259,11 @@
       <file name="E:/Work/server/script/entity/ServerEntities.py" timestamp="1560233677132">
         <mark key="'" line="350" column="28" />
       </file>
+      <file name="E:/Work/client/script/cutils/model_util.py" timestamp="1560429073380">
+        <mark key="'" line="229" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="32" filename="D:/Work2/client2/script/cocos/panels/activity_55_supply.py" />
-      <jump line="71" column="65" filename="D:/Work2/client2/script/cocos/panels/activity_55_battleinfo.py" />
       <jump line="165" column="53" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1970.py" />
       <jump line="144" column="31" filename="D:/Work2/client2/script/cocos/panels/activity_55_battleinfo.py" />
       <jump line="89" column="41" filename="D:/Work2/client2/script/cocos/panels/activity_55_supply.py" />
@@ -361,6 +362,8 @@
       <jump line="482" column="26" filename="E:/Work/client/script/combat/logic/unit/components/BuffComp.py" />
       <jump line="26" column="31" filename="E:/Work/client/script/cocos/panels/activity_139.py" />
       <jump line="38" column="60" filename="E:/Work/client/script/cocos/panels/activity_148.py" />
+      <jump line="532" column="31" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="229" column="22" filename="E:/Work/client/script/cutils/model_util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
