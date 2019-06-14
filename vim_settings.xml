@@ -46,6 +46,7 @@
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1560502297564" />
       <file name="E:/Work/client/script/combat/logic/unit/components/skill/SkillComp_1281.py" timestamp="1560433277811">
         <mark key="[" line="29" column="11" />
         <mark key="]" line="29" column="26" />
@@ -76,7 +77,7 @@
       <file name="E:/Work/client/script/game_scene/city_chouka.py" timestamp="1560327736812">
         <mark key="'" line="495" column="65" />
       </file>
-      <file name="/Python Console" timestamp="1560483845689">
+      <file name="/Python Console" timestamp="1560502966276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1560426950089">
@@ -101,18 +102,28 @@
         <mark key="." line="52" column="44" />
         <mark key="^" line="52" column="44" />
       </file>
+      <file name="E:/Work/client/script/game_scene/components/SoundComp.py" timestamp="1560504516034">
+        <mark key="'" line="126" column="87" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/panels/activity_48.py" timestamp="1560248201064">
         <mark key="'" line="56" column="76" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/buff/BuffComp_38003.py" timestamp="1560236133521">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/audio_mgr.py" timestamp="1560504274134" />
       <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/A148Data.py" timestamp="1560426289081">
         <mark key="'" line="6" column="24" />
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_skin_play.py" timestamp="1560501911767">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/activity_141.py" timestamp="1560340967847">
         <mark key="'" line="23" column="33" />
@@ -180,6 +191,13 @@
       </file>
       <file name="E:/Work/server/MobileServer/Lib/Timer.py" timestamp="1560221653684">
         <mark key="'" line="80" column="53" />
+      </file>
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1560504521862">
+        <mark key="'" line="1517" column="32" />
+        <mark key="[" line="1078" column="46" />
+        <mark key="]" line="1078" column="47" />
+        <mark key="^" line="1078" column="47" />
+        <mark key="." line="1078" column="47" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/dialogue.py" timestamp="1560254839196">
         <mark key="'" line="2310" column="32" />
@@ -280,6 +298,9 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1284.py" timestamp="1560239487229">
         <mark key="'" line="46" column="77" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/hero_model.py" timestamp="1560502143497">
+        <mark key="'" line="246" column="25" />
+      </file>
       <file name="D:/Work2/client2/script/res_mgr/model_mgr.py" timestamp="1560479165592">
         <mark key="'" line="53" column="37" />
       </file>
@@ -308,18 +329,18 @@
       <file name="E:/Work/client/script/cocos/panels/activity_tab.py" timestamp="1560412864163">
         <mark key="'" line="68" column="20" />
       </file>
-      <file name="E:/Work/client/script/com/const.py" timestamp="1560431804044">
-        <mark key="[" line="5012" column="41" />
-        <mark key="]" line="5012" column="42" />
-        <mark key="." line="5012" column="42" />
-        <mark key="^" line="5012" column="42" />
+      <file name="E:/Work/client/script/com/const.py" timestamp="1560502911845">
+        <mark key="[" line="7162" column="32" />
+        <mark key="]" line="7162" column="30" />
+        <mark key="." line="7162" column="30" />
+        <mark key="^" line="7162" column="30" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1560431155083">
-        <mark key="'" line="593" column="24" />
-        <mark key="[" line="533" column="32" />
-        <mark key="]" line="533" column="30" />
-        <mark key="^" line="533" column="30" />
-        <mark key="." line="533" column="30" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1560502586965">
+        <mark key="'" line="595" column="23" />
+        <mark key="[" line="558" column="61" />
+        <mark key="]" line="558" column="60" />
+        <mark key="." line="558" column="60" />
+        <mark key="^" line="558" column="60" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/activity_15_wall.py" timestamp="1560406670409">
         <mark key="'" line="34" column="35" />
@@ -332,15 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="26" filename="D:/Work2/client2/script/cocos/panels/activity_55_map.py" />
-      <jump line="287" column="16" filename="D:/Work2/client2/script/cocos/panels/activity_55_map.py" />
-      <jump line="581" column="48" filename="D:/Work2/client2/script/entity/avatar_members/ChatMember.py" />
-      <jump line="699" column="24" filename="E:/Work/server/script/entity/GlobalChatStub.py" />
-      <jump line="491" column="44" filename="E:/Work/server/script/entity/GlobalChatStub.py" />
-      <jump line="698" column="24" filename="E:/Work/server/script/entity/GlobalChatStub.py" />
-      <jump line="495" column="65" filename="E:/Work/client/script/game_scene/city_chouka.py" />
-      <jump line="127" column="53" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="186" column="40" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1257" column="44" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="150" column="27" filename="D:/Work2/client2/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="78" column="44" filename="D:/Work2/client2/script/res_mgr/scene_mgr.py" />
@@ -432,51 +444,55 @@
       <jump line="679" column="0" filename="D:/Work2/client2/script/com/const.py" />
       <jump line="1804" column="47" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
       <jump line="2696" column="29" filename="D:/Work2/client2/script/cutils/chelpers.py" />
+      <jump line="246" column="25" filename="E:/Work/client/script/cocos/panels/hero_model.py" />
+      <jump line="593" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="931" column="28" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1234" column="39" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="126" column="87" filename="E:/Work/client/script/game_scene/components/SoundComp.py" />
+      <jump line="1484" column="42" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1076" column="39" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="595" column="40" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1513" column="32" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJ2ExNDYnOiBzZWxmLkExNDZEYXRhLmdldFBlcnNpc3RlbnREaWN0KCksCg==</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5X3NvdW5kKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>and hero.camp == win_camp:</text>
       </register>
       <register name="/" type="4">
         <text>set_tme</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlhdHRhY2hfbW9kZWwucGxheV9hbmltYXRpb24oYXR0YWNoX2FuaW0sIC0xLCB3b3JsZC5UUkFOU0lUX1RZUEVfREVGQVVMVCwgYXR0YWNoX2luaXRfdGltZSwgMiwgMSkK</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9zb3VuZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJ2ExNDYnOiBzZWxmLkExNDZEYXRhLmdldFBlcnNpc3RlbnREaWN0KCksCg==</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5X3NvdW5kKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U1VNTUVSX01VU0lDXzNfMSA9ICdtdXNpY18xODA2MDhfd3VsdS9tdXNfc2NlbmUvZmFtaWx5X2RheScK</text>
+        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U1VNTUVSX0ZFViA9ICdtdXNpYy9tdXNpY18xODA2MDhfd3VsdScK</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9tdXNpYygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzZWxmLnN0b3Bfc3VtbWVyX211c2ljcygpCg==</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9zb3VuZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkjIHNlbGYuc3RvcF9zdW1tZXJfbXVzaWNzKCkK</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5ZXJfc291bmQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc3RvcF9zY2VuZV9zb3VuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>def play_summer_musics(self):
-		if not self.scene_inited:
-			return
-
-		self.res_comp.audio.fev_load(SUMMER_FEV)
-		self.res_comp.audio.play_music(SUMMER_MUSIC_3_1)</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlzZXR0bGVtZW50X2Z1bGxzY3JlZW5fc2tpbl9wbGF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -513,9 +529,6 @@
         <entry>set_tme</entry>
       </history-search>
       <history-cmd>
-        <entry>163</entry>
-        <entry>74</entry>
-        <entry>w\</entry>
         <entry>187</entry>
         <entry>634</entry>
         <entry>65</entry>
@@ -532,6 +545,9 @@
         <entry>511</entry>
         <entry>1811</entry>
         <entry>220</entry>
+        <entry>247</entry>
+        <entry>159</entry>
+        <entry>312</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
