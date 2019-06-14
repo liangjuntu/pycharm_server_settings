@@ -167,6 +167,9 @@
         <mark key="^" line="356" column="53" />
         <mark key="." line="356" column="53" />
       </file>
+      <file name="D:/Work2/client2/script/res_mgr/sfx_mgr.py" timestamp="1560479247895">
+        <mark key="'" line="300" column="58" />
+      </file>
       <file name="E:/Work/client/script/com/utils/helpers.py" timestamp="1560418120140">
         <mark key="'" line="1068" column="42" />
       </file>
@@ -209,6 +212,10 @@
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1284.py" timestamp="1560239487229">
         <mark key="'" line="46" column="77" />
+      </file>
+      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1560479291638" />
+      <file name="D:/Work2/client2/script/res_mgr/model_mgr.py" timestamp="1560479165592">
+        <mark key="'" line="53" column="37" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/BuffComp.py" timestamp="1560427502055">
         <mark key="'" line="482" column="26" />
@@ -308,11 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="71" filename="D:/Work2/client2/script/cocos/panels/activity_55_supply.py" />
-      <jump line="103" column="55" filename="D:/Work2/client2/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" />
-      <jump line="109" column="31" filename="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
-      <jump line="16" column="35" filename="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" />
-      <jump line="345" column="43" filename="D:/Work2/client2/script/cocos/panels/common_tips.py" />
       <jump line="181" column="25" filename="D:/Work2/client2/script/cocos/panels/activity_55_battleinfo.py" />
       <jump line="6" column="50" filename="D:/Work2/client2/script/com/data/cdata/activity_power.py" />
       <jump line="186" column="26" filename="D:/Work2/client2/script/cocos/panels/activity_55_map.py" />
@@ -408,6 +410,11 @@
       <jump line="495" column="38" filename="E:/Work/client/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
       <jump line="53" column="43" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="220" column="26" filename="E:/Work/client/script/res_mgr/sfx_mgr.py" />
+      <jump line="53" column="37" filename="D:/Work2/client2/script/res_mgr/model_mgr.py" />
+      <jump line="220" column="27" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
+      <jump line="193" column="67" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
+      <jump line="300" column="58" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
+      <jump line="679" column="0" filename="D:/Work2/client2/script/com/const.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
