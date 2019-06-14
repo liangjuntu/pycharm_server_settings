@@ -145,7 +145,12 @@
       <file name="D:/Work2/client2/script/cocos/panels/common_tips.py" timestamp="1560310827787">
         <mark key="'" line="345" column="43" />
       </file>
-      <file name="D:/Work2/client2/script/entity/ClientAvatar.py" timestamp="1560496533375" />
+      <file name="D:/Work2/client2/script/entity/ClientAvatar.py" timestamp="1560498368033">
+        <mark key="[" line="215" column="37" />
+        <mark key="]" line="215" column="35" />
+        <mark key="." line="215" column="35" />
+        <mark key="^" line="215" column="35" />
+      </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1560251928588">
         <mark key="'" line="353" column="20" />
       </file>
@@ -189,10 +194,10 @@
         <mark key="'" line="86" column="66" />
       </file>
       <file name="E:/Work/server/script/com/const.py" timestamp="1560418763422">
-        <mark key="[" line="5012" column="8" />
-        <mark key="]" line="5012" column="7" />
-        <mark key="." line="5012" column="7" />
-        <mark key="^" line="5012" column="7" />
+        <mark key="[" line="5015" column="8" />
+        <mark key="]" line="5015" column="7" />
+        <mark key="." line="5015" column="7" />
+        <mark key="^" line="5015" column="7" />
       </file>
       <file name="E:/Work/client/script/cocos/comps/hero_herolist_common/wardrobe.py" timestamp="1560341540361">
         <mark key="'" line="111" column="20" />
@@ -214,7 +219,7 @@
         <mark key="^" line="58" column="103" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560309541405">
+      <file name="D:/Work2/client2/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560498571002">
         <mark key="'" line="103" column="55" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560418004459">
@@ -229,12 +234,12 @@
       <file name="E:/Work/client/script/cocos/panels/activity_123_book.py" timestamp="1560420127822">
         <mark key="'" line="47" column="64" />
       </file>
-      <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560417506243">
+      <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560498716554">
         <mark key="'" line="170" column="36" />
-        <mark key="[" line="424" column="29" />
-        <mark key="]" line="424" column="28" />
-        <mark key="." line="424" column="28" />
-        <mark key="^" line="424" column="28" />
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="0" />
+        <mark key="." line="424" column="0" />
+        <mark key="^" line="424" column="53" />
       </file>
       <file name="E:/Work/server/script/entity/avatar_members/DebugMember.py" timestamp="1560426407817">
         <mark key="[" line="1788" column="57" />
@@ -428,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ2ExNDYnOiBzZWxmLkExNDZEYXRhLmdldFBlcnNpc3RlbnREaWN0KCksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>setVisible</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>set_tme</text>
@@ -440,27 +445,30 @@
         <text encoding="base64">CQkJCQlhdHRhY2hfbW9kZWwucGxheV9hbmltYXRpb24oYXR0YWNoX2FuaW0sIC0xLCB3b3JsZC5UUkFOU0lUX1RZUEVfREVGQVVMVCwgYXR0YWNoX2luaXRfdGltZSwgMiwgMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ2ExNDYnOiBzZWxmLkExNDZEYXRhLmdldFBlcnNpc3RlbnREaWN0KCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U1VNTUVSX01VU0lDXzNfMSA9ICdtdXNpY18xODA2MDhfd3VsdS9tdXNfc2NlbmUvZmFtaWx5X2RheScK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">U1VNTUVSX0ZFViA9ICdtdXNpYy9tdXNpY18xODA2MDhfd3VsdScK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlzZWxmLnN0b3Bfc3VtbWVyX211c2ljcygpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkjIHNlbGYuc3RvcF9zdW1tZXJfbXVzaWNzKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">U1VNTUVSX01VU0lDXzNfMSA9ICdtdXNpY18xODA2MDhfd3VsdS9tdXNfc2NlbmUvZmFtaWx5X2RheScK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">U1VNTUVSX0ZFViA9ICdtdXNpYy9tdXNpY18xODA2MDhfd3VsdScK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlzZWxmLnN0b3Bfc3VtbWVyX211c2ljcygpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkjIHNlbGYuc3RvcF9zdW1tZXJfbXVzaWNzKCkK</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>def play_summer_musics(self):
 		if not self.scene_inited:
 			return
@@ -468,11 +476,8 @@
 		self.res_comp.audio.fev_load(SUMMER_FEV)
 		self.res_comp.audio.play_music(SUMMER_MUSIC_3_1)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>220</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -524,8 +529,8 @@
         <entry>22</entry>
         <entry>511</entry>
         <entry>1811</entry>
-        <entry>w</entry>
         <entry>220</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
