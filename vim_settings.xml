@@ -23,6 +23,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1560502297564" />
+      <file name="E:/Work/client/script/cocos/panels/activity_104_settlement.py" timestamp="1560512229525">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+        <mark key="^" line="31" column="38" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_mvp.py" timestamp="1560512443021" />
       <file name="E:/Work/client/script/combat/logic/interface/combat_input.py" timestamp="1560506502573">
         <mark key="'" line="20" column="52" />
       </file>
@@ -86,12 +93,12 @@
         <mark key="^" line="215" column="35" />
       </file>
       <file name="E:/Work/client/script/combat/view/unit/components/SkillComp.py" timestamp="1560506852309" />
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1560504521862">
-        <mark key="'" line="1517" column="32" />
-        <mark key="[" line="1078" column="46" />
-        <mark key="]" line="1078" column="47" />
-        <mark key="^" line="1078" column="47" />
-        <mark key="." line="1078" column="47" />
+      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1560512639623">
+        <mark key="'" line="1585" column="26" />
+        <mark key="[" line="1146" column="0" />
+        <mark key="]" line="1146" column="0" />
+        <mark key="^" line="1145" column="70" />
+        <mark key="." line="1146" column="0" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/combat_play.py" timestamp="1560505313913" />
       <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1560427728422">
@@ -147,6 +154,12 @@
       <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/A146Data.py" timestamp="1560417240972">
         <mark key="[" line="10" column="48" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/combat_result.py" timestamp="1560512296643">
+        <mark key="[" line="717" column="25" />
+        <mark key="]" line="717" column="27" />
+        <mark key="." line="717" column="27" />
+        <mark key="^" line="717" column="27" />
+      </file>
       <file name="D:/Work2/client2/script/cutils/chelpers.py" timestamp="1560482407882">
         <mark key="'" line="2696" column="29" />
       </file>
@@ -172,13 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="868" column="30" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="183" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="468" column="37" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="591" column="32" filename="E:/Work/client/script/game_scene/components/CameraComp.py" />
-      <jump line="211" column="16" filename="E:/Work/client/script/logic/logic_main.py" />
-      <jump line="30" column="32" filename="E:/Work/client/script/cocos/panels/activity_146.py" />
-      <jump line="23" column="33" filename="E:/Work/client/script/cocos/panels/activity_141.py" />
       <jump line="1909" column="25" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
       <jump line="111" column="20" filename="E:/Work/client/script/cocos/comps/hero_herolist_common/wardrobe.py" />
       <jump line="126" column="28" filename="E:/Work/client/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" />
@@ -272,13 +278,20 @@
       <jump line="20" column="52" filename="E:/Work/client/script/combat/logic/interface/combat_input.py" />
       <jump line="45" column="67" filename="E:/Work/client/script/cocos/panels/combat_options.py" />
       <jump line="1079" column="37" filename="E:/Work/client/script/cocos/panels/combat.py" />
+      <jump line="1579" column="31" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="31" column="36" filename="E:/Work/client/script/cocos/panels/activity_104_settlement.py" />
+      <jump line="1147" column="44" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1488" column="76" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1581" column="27" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1492" column="77" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
+      <jump line="1585" column="26" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5X3NvdW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>and hero.camp == win_camp:</text>
+        <text>skin_play</text>
       </register>
       <register name="/" type="4">
         <text>set_tme</text>
@@ -287,31 +300,31 @@
         <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9zb3VuZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5X3NvdW5kKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9tdXNpYygpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9zb3VuZCgpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5ZXJfc291bmQoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJc3RvcF9zY2VuZV9zb3VuZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJc2VsZi5sb2dnZXIuaW5mbygibXZwIGJhdHRsZSBmaW5pc2ggdHJhY2sgZW5kIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJc2VsZi5zaG93X2JhdHRsZV9yZXN1bHQoc2VsZi53aW5fZmxhZywgaXNfbXZwPVRydWUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5X3NvdW5kKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9tdXNpYygpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZXR0bGVtZW50X2Z1bGxzY3JlZW5fc2tpbl9wbGF5Cg==</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9zb3VuZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
