@@ -145,6 +145,7 @@
       <file name="D:/Work2/client2/script/cocos/panels/common_tips.py" timestamp="1560310827787">
         <mark key="'" line="345" column="43" />
       </file>
+      <file name="D:/Work2/client2/script/entity/ClientAvatar.py" timestamp="1560496533375" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1560251928588">
         <mark key="'" line="353" column="20" />
       </file>
@@ -471,7 +472,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>220</text>
       </register>
     </registers>
     <search>
@@ -505,7 +506,6 @@
         <entry>set_tme</entry>
       </history-search>
       <history-cmd>
-        <entry>777</entry>
         <entry>163</entry>
         <entry>74</entry>
         <entry>w\</entry>
@@ -525,6 +525,7 @@
         <entry>511</entry>
         <entry>1811</entry>
         <entry>w</entry>
+        <entry>220</entry>
       </history-cmd>
       <history-expr />
       <history-input />
