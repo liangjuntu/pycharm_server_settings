@@ -72,7 +72,7 @@
       <file name="E:/Work/client/script/combat/logic/unit/components/trick/TrickComp_596.py" timestamp="1560754149450">
         <mark key="'" line="76" column="38" />
       </file>
-      <file name="/Python Console" timestamp="1560761317460">
+      <file name="/Python Console" timestamp="1560762988168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/activity_55_battleinfo.py" timestamp="1560759421076">
@@ -91,12 +91,12 @@
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1560762018343">
+      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1560763036929">
         <mark key="'" line="699" column="25" />
-        <mark key="[" line="663" column="19" />
-        <mark key="]" line="663" column="27" />
-        <mark key="." line="663" column="27" />
-        <mark key="^" line="663" column="27" />
+        <mark key="[" line="665" column="125" />
+        <mark key="]" line="665" column="124" />
+        <mark key="." line="665" column="124" />
+        <mark key="^" line="665" column="124" />
       </file>
       <file name="D:/Work2/client2/script/com/data/cdata/skill_tbreaker/1133_5.py" timestamp="1560761465973" />
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1560756794607" />
@@ -144,6 +144,7 @@
         <mark key="." line="968" column="73" />
         <mark key="^" line="968" column="73" />
       </file>
+      <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/BeachBattleData.py" timestamp="1560762953061" />
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
         <mark key="[" line="98" column="14" />
       </file>
