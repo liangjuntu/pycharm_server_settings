@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1560518230201">
+      <file name="/Python Console" timestamp="1560740551642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1560517854624">
+      <file name="/fragment.py" timestamp="1560740588923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
@@ -68,8 +68,8 @@
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1560738936940">
-        <mark key="'" line="1079" column="37" />
+      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1560740799112">
+        <mark key="'" line="1079" column="83" />
       </file>
       <file name="D:/Work2/client2/script/logic/logic_main.py" timestamp="1560739502066">
         <mark key="'" line="108" column="49" />
@@ -210,7 +210,6 @@
       <jump line="67" column="52" filename="E:/Work/client/script/combat/logic/interface/comp_input.py" />
       <jump line="20" column="52" filename="E:/Work/client/script/combat/logic/interface/combat_input.py" />
       <jump line="45" column="67" filename="E:/Work/client/script/cocos/panels/combat_options.py" />
-      <jump line="1079" column="37" filename="E:/Work/client/script/cocos/panels/combat.py" />
       <jump line="1579" column="31" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="31" column="36" filename="E:/Work/client/script/cocos/panels/activity_104_settlement.py" />
       <jump line="1147" column="44" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
@@ -222,6 +221,7 @@
       <jump line="835" column="21" filename="E:/Work/client/script/debug/battle_test/battle_test.py" />
       <jump line="215" column="23" filename="D:/Work2/client2/script/entity/ClientAvatar.py" />
       <jump line="108" column="49" filename="D:/Work2/client2/script/logic/logic_main.py" />
+      <jump line="1079" column="83" filename="E:/Work/client/script/cocos/panels/combat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
