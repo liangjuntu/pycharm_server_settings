@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Work/client/script/combat/logic/unit/components/trick/TrickComp_596.py" timestamp="1560754149450">
+        <mark key="'" line="76" column="38" />
+      </file>
       <file name="/Python Console" timestamp="1560740551642">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,6 +58,9 @@
         <mark key="]" line="19" column="33" />
         <mark key="." line="19" column="33" />
         <mark key="^" line="19" column="33" />
+      </file>
+      <file name="E:/Work/client/script/combat/logic/unit/components/TrickComp.py" timestamp="1560754777235">
+        <mark key="'" line="26" column="20" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/combat_result.py" timestamp="1560512296643">
         <mark key="[" line="717" column="25" />
@@ -126,9 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="782" column="22" filename="E:/Work/client/script/game_scene/city.py" />
-      <jump line="1258" column="32" filename="E:/Work/client/script/game_scene/city.py" />
-      <jump line="661" column="79" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="41" column="76" filename="E:/Work/client/script/cocos/panels/activity_146.py" />
       <jump line="72" column="35" filename="E:/Work/server/script/entity/avatar_members/CommonMember.py" />
       <jump line="85" column="30" filename="E:/Work/server/script/entity/avatar_members/CommonMember.py" />
@@ -226,6 +229,9 @@
       <jump line="108" column="49" filename="D:/Work2/client2/script/logic/logic_main.py" />
       <jump line="1079" column="83" filename="E:/Work/client/script/cocos/panels/combat.py" />
       <jump line="747" column="48" filename="E:/Work/client/script/cocos/panels/combat.py" />
+      <jump line="76" column="38" filename="E:/Work/client/script/combat/logic/unit/components/trick/TrickComp_596.py" />
+      <jump line="63" column="59" filename="E:/Work/client/script/combat/logic/unit/components/TrickComp.py" />
+      <jump line="26" column="20" filename="E:/Work/client/script/combat/logic/unit/components/TrickComp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
