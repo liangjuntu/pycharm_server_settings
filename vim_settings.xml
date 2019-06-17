@@ -24,6 +24,9 @@
         <mark key="^" line="1494" column="65" />
         <mark key="." line="1494" column="65" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1282.py" timestamp="1560775561159">
+        <mark key="'" line="153" column="45" />
+      </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/TrickComp.py" timestamp="1560754777235">
         <mark key="'" line="26" column="20" />
       </file>
@@ -56,6 +59,13 @@
         <mark key="]" line="424" column="0" />
         <mark key="." line="424" column="0" />
         <mark key="^" line="424" column="53" />
+      </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1280.py" timestamp="1560776087265">
+        <mark key="'" line="46" column="113" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="E:/Work/client/script/game_scene/turbulence_crusade.py" timestamp="1556631014843">
         <mark key="[" line="118" column="75" />
@@ -92,7 +102,7 @@
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1560774322346">
+      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1560775836375">
         <mark key="'" line="665" column="110" />
         <mark key="[" line="702" column="29" />
         <mark key="]" line="703" column="17" />
@@ -193,8 +203,6 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skill_tbreaker/1287_5.py" timestamp="1560770144434" />
     </filemarks>
     <jumps>
-      <jump line="68" column="20" filename="E:/Work/client/script/cocos/panels/activity_tab.py" />
-      <jump line="168" column="8" filename="E:/Work/client/script/cocos/panels/activity_tab.py" />
       <jump line="1973" column="40" filename="E:/Work/client/script/cocos/panels/city.py" />
       <jump line="103" column="30" filename="E:/Work/client/script/cocos/panels/activity_148.py" />
       <jump line="1068" column="42" filename="E:/Work/client/script/com/utils/helpers.py" />
@@ -293,6 +301,8 @@
       <jump line="670" column="19" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="660" column="26" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="665" column="110" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="153" column="45" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1282.py" />
+      <jump line="46" column="113" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1280.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
