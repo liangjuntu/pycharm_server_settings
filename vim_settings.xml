@@ -199,6 +199,9 @@
         <mark key="." line="558" column="60" />
         <mark key="^" line="558" column="60" />
       </file>
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1281.py" timestamp="1560758365548">
+        <mark key="'" line="24" column="56" />
+      </file>
       <file name="D:/Work2/client2/script/entity/ClientAvatar.py" timestamp="1560739494725">
         <mark key="'" line="215" column="23" />
         <mark key="[" line="215" column="37" />
@@ -211,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="32" filename="E:/Work/client/script/cocos/panels/activity_tab.py" />
-      <jump line="298" column="24" filename="E:/Work/client/script/cocos/panels/activity_tab.py" />
       <jump line="1675" column="4" filename="E:/Work/client/script/com/utils/helpers.py" />
       <jump line="25" column="22" filename="E:/Work/client/script/entity/avatar_attrs/ActivityDatas/ActivityUtils/ActivityData.py" />
       <jump line="113" column="4" filename="$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1895941070/time.py" />
@@ -311,6 +312,8 @@
       <jump line="33" column="67" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1970.py" />
       <jump line="1257" column="20" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
       <jump line="1281" column="24" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
+      <jump line="24" column="56" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1281.py" />
+      <jump line="1876" column="4" filename="D:/Work2/client2/script/com/const.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
