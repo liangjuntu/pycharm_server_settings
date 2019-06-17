@@ -68,8 +68,12 @@
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1560740799112">
-        <mark key="'" line="1079" column="83" />
+      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1560741659958">
+        <mark key="'" line="747" column="48" />
+        <mark key="[" line="747" column="137" />
+        <mark key="]" line="748" column="20" />
+        <mark key="^" line="748" column="20" />
+        <mark key="." line="748" column="20" />
       </file>
       <file name="D:/Work2/client2/script/logic/logic_main.py" timestamp="1560739502066">
         <mark key="'" line="108" column="49" />
@@ -122,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="656" column="23" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="782" column="22" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="1258" column="32" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="661" column="79" filename="E:/Work/client/script/game_scene/city.py" />
@@ -222,6 +225,7 @@
       <jump line="215" column="23" filename="D:/Work2/client2/script/entity/ClientAvatar.py" />
       <jump line="108" column="49" filename="D:/Work2/client2/script/logic/logic_main.py" />
       <jump line="1079" column="83" filename="E:/Work/client/script/cocos/panels/combat.py" />
+      <jump line="747" column="48" filename="E:/Work/client/script/cocos/panels/combat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -234,37 +238,37 @@
         <text>set_tme</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9zb3VuZCgpCg==</text>
+        <text encoding="base64">CQkJCXByaW50KCJbY29tYmF0XShub3RpZnlfaGVyb19jdHJsKSB7fSBub3QgZXhpc3RzISIuZm9ybWF0KFBhbmVsLkRBWkhBT19QQVRIICUgU0tJTl9EQVRBLmRhdGFbZ2cucGxheWVyLnNraW5dWydwYWludGluZyddKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJc2VsZi5sb2dnZXIuaW5mbygibXZwIGJhdHRsZSBmaW5pc2ggdHJhY2sgZW5kIikK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJc2VsZi5zaG93X2JhdHRsZV9yZXN1bHQoc2VsZi53aW5fZmxhZywgaXNfbXZwPVRydWUpCg==</text>
+        <text encoding="base64">CQkJc2VsZi5sb2dnZXIuaW5mbygibXZwIGJhdHRsZSBmaW5pc2ggdHJhY2sgZW5kIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5X3NvdW5kKCkK</text>
+        <text encoding="base64">CQkJc2VsZi5zaG93X2JhdHRsZV9yZXN1bHQoc2VsZi53aW5fZmxhZywgaXNfbXZwPVRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9wbGF5X3NvdW5kKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9tdXNpYygpCg==</text>
+        <text encoding="base64">CQkJZ2cuYXVkaW9fbWdyLnN0b3BfYWxsX211c2ljKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9zb3VuZCgpCg==</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAuc3RvcF9zY2VuZV9tdXNpYygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>216</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -316,8 +320,8 @@
         <entry>159</entry>
         <entry>312</entry>
         <entry>1080</entry>
-        <entry>w</entry>
         <entry>216</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
