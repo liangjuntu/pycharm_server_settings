@@ -111,7 +111,7 @@
       </file>
       <file name="D:/Work2/client2/script/com/data/cdata/skill_tbreaker/1133_5.py" timestamp="1560761465973" />
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1560756794607" />
-      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560760514526">
+      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560777706706">
         <mark key="[" line="258" column="99" />
         <mark key="]" line="258" column="104" />
         <mark key="^" line="258" column="104" />
@@ -120,8 +120,8 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/buff/BuffComp_38003.py" timestamp="1560236133521">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/server/script/entity/GlobalRankListStub.py" timestamp="1560773325159">
-        <mark key="'" line="1925" column="58" />
+      <file name="E:/Work/server/script/entity/GlobalRankListStub.py" timestamp="1560777646106">
+        <mark key="'" line="1925" column="55" />
       </file>
       <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/A148Data.py" timestamp="1560426289081">
         <mark key="'" line="6" column="24" />
@@ -295,7 +295,6 @@
       <jump line="1927" column="67" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
       <jump line="1928" column="59" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
       <jump line="4595" column="4" filename="E:/Work/server/script/com/const.py" />
-      <jump line="1925" column="58" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
       <jump line="5779" column="0" filename="E:/Work/server/script/com/const.py" />
       <jump line="757" column="23" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="670" column="19" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -303,6 +302,7 @@
       <jump line="665" column="110" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="153" column="45" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1282.py" />
       <jump line="46" column="113" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1280.py" />
+      <jump line="1925" column="55" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
