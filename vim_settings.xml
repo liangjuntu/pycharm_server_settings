@@ -59,6 +59,7 @@
         <mark key="." line="424" column="0" />
         <mark key="^" line="424" column="53" />
       </file>
+      <file name="E:/Work/server/script/com/utils/helpers.py" timestamp="1560843790868" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1280.py" timestamp="1560776087265">
         <mark key="'" line="46" column="113" />
         <mark key="[" line="8" column="14" />
@@ -121,7 +122,7 @@
       <file name="D:/Work2/client2/script/com/base/game_object.py" timestamp="1560841944420">
         <mark key="'" line="7" column="13" />
       </file>
-      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560777706706">
+      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560843854486">
         <mark key="[" line="258" column="99" />
         <mark key="]" line="258" column="104" />
         <mark key="^" line="258" column="104" />
@@ -176,6 +177,13 @@
       <file name="D:/Work2/client2/script/com/data/cdata/skin.py" timestamp="1558600820169">
         <mark key="[" line="98" column="14" />
       </file>
+      <file name="E:/Work/server/script/entity/GlobalActivityStub.py" timestamp="1560844048222">
+        <mark key="'" line="1184" column="36" />
+        <mark key="[" line="1208" column="77" />
+        <mark key="]" line="1208" column="93" />
+        <mark key="^" line="1208" column="93" />
+        <mark key="." line="1208" column="93" />
+      </file>
       <file name="E:/Work/client/script/entity/avatar_attrs/ActivityDatas/A148Data.py" timestamp="1560420062782">
         <mark key="'" line="10" column="38" />
         <mark key="[" line="14" column="48" />
@@ -208,19 +216,8 @@
         <mark key="." line="215" column="35" />
         <mark key="^" line="215" column="35" />
       </file>
-      <file name="D:/Work2/client2/script/com/const.py" timestamp="1560759972788">
-        <mark key="[" line="6907" column="36" />
-        <mark key="]" line="6907" column="36" />
-        <mark key="^" line="6907" column="36" />
-        <mark key="." line="6907" column="36" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="36" filename="E:/Work/client/script/combat/logic/unit/components/MonsterAiComp_2.py" />
-      <jump line="495" column="38" filename="E:/Work/client/script/combat/logic/unit/components/SkillCompNormalAttack.py" />
-      <jump line="53" column="43" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
-      <jump line="220" column="26" filename="E:/Work/client/script/res_mgr/sfx_mgr.py" />
-      <jump line="53" column="37" filename="D:/Work2/client2/script/res_mgr/model_mgr.py" />
       <jump line="220" column="27" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
       <jump line="193" column="67" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
       <jump line="300" column="58" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
@@ -316,13 +313,18 @@
       <jump line="203" column="75" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
       <jump line="682" column="19" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="659" column="15" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="1172" column="44" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1173" column="36" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1194" column="77" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1201" column="118" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="1184" column="36" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
+      <register name="&quot;" type="4">
+        <text>change</text>
       </register>
       <register name="-" type="4">
-        <text>update_summer</text>
+        <text>change</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
@@ -392,8 +394,6 @@
         <entry>300</entry>
       </history-search>
       <history-cmd>
-        <entry>65</entry>
-        <entry>181</entry>
         <entry>81</entry>
         <entry>272</entry>
         <entry>61</entry>
@@ -411,6 +411,8 @@
         <entry>312</entry>
         <entry>1080</entry>
         <entry>216</entry>
+        <entry>1202</entry>
+        <entry>1185</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
