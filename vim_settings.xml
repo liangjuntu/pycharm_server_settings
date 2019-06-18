@@ -6,22 +6,8 @@
       <file name="D:/Work2/client2/script/combat/view/unit/components/skill/PskillComp_1870.py" timestamp="1557213784088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1560431444205">
-        <mark key="'" line="1928" column="58" />
-        <mark key="[" line="1928" column="101" />
-        <mark key="]" line="1928" column="100" />
-        <mark key="^" line="1928" column="100" />
-        <mark key="." line="1928" column="100" />
-      </file>
       <file name="D:/Work2/client2/script/entity/avatar_members/BattleStageMember.py" timestamp="1560759686316">
         <mark key="'" line="448" column="51" />
-      </file>
-      <file name="E:/Work/client/script/combat/view/logic/events/event_base.py" timestamp="1560737997893">
-        <mark key="'" line="1585" column="26" />
-        <mark key="[" line="1494" column="66" />
-        <mark key="]" line="1494" column="65" />
-        <mark key="^" line="1494" column="65" />
-        <mark key="." line="1494" column="65" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1282.py" timestamp="1560775561159">
         <mark key="'" line="153" column="45" />
@@ -29,8 +15,21 @@
       <file name="D:/Work2/client2/script/cocos/panels/dialogue.py" timestamp="1560831046332">
         <mark key="'" line="2790" column="24" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_23.py" timestamp="1560861859092">
+        <mark key="'" line="28" column="60" />
+      </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/TrickComp.py" timestamp="1560754777235">
         <mark key="'" line="26" column="20" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_148.py" timestamp="1560861979604">
+        <mark key="'" line="72" column="62" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="72" column="66" />
+        <mark key="^" line="72" column="66" />
+        <mark key="." line="72" column="66" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_65.py" timestamp="1560861835060">
+        <mark key="'" line="34" column="63" />
       </file>
       <file name="D:/Rust/hello_world/src/test_move_0.rs" timestamp="1557921768228">
         <mark key="[" line="0" column="0" />
@@ -38,37 +37,9 @@
       <file name="D:/Work2/client2/script/logic/logic_main.py" timestamp="1560739502066">
         <mark key="'" line="108" column="49" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1560427728422">
-        <mark key="'" line="38" column="60" />
-        <mark key="[" line="208" column="44" />
-        <mark key="]" line="208" column="46" />
-        <mark key="^" line="208" column="46" />
-        <mark key="." line="208" column="46" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1560506038604">
-        <mark key="'" line="15" column="24" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="58" column="103" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="D:/Work2/client2/script/game_scene/city_chouka.py" timestamp="1560857380303" />
-      <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560498716554">
-        <mark key="'" line="170" column="36" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="." line="424" column="0" />
-        <mark key="^" line="424" column="53" />
-      </file>
       <file name="E:/Work/server/script/com/utils/helpers.py" timestamp="1560843790868" />
-      <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1560857416262" />
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1280.py" timestamp="1560776087265">
-        <mark key="'" line="46" column="113" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1560861748275" />
       <file name="E:/Work/server/script/entity/avatar_members/DebugMember.py" timestamp="1560837876813">
         <mark key="'" line="502" column="18" />
       </file>
@@ -77,13 +48,6 @@
       </file>
       <file name="E:/Work/G58SVN/tool/export_table_tool/def/huodong_beachbattle_infos.py" timestamp="1560166179468">
         <mark key="[" line="43" column="18" />
-      </file>
-      <file name="E:/Work/server/script/entity/avatar_members/ActivityMembers/SmallActivityMember.py" timestamp="1560425573449">
-        <mark key="'" line="355" column="43" />
-        <mark key="[" line="356" column="55" />
-        <mark key="]" line="356" column="53" />
-        <mark key="^" line="356" column="53" />
-        <mark key="." line="356" column="53" />
       </file>
       <file name="E:/Work/client/script/combat/logic/unit/components/trick/TrickComp_596.py" timestamp="1560754149450">
         <mark key="'" line="76" column="38" />
@@ -99,13 +63,6 @@
       </file>
       <file name="/fragment.py" timestamp="1560759223068">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1560414492039">
-        <mark key="'" line="661" column="79" />
-        <mark key="[" line="662" column="18" />
-        <mark key="]" line="663" column="4" />
-        <mark key="^" line="663" column="4" />
-        <mark key="." line="663" column="4" />
       </file>
       <file name="E:/Work/modelinfoexport/path.py" timestamp="1557280963495">
         <mark key="[" line="11" column="40" />
@@ -139,25 +96,11 @@
       <file name="E:/Work/server/script/entity/avatar_attrs/EventTriggerData.py" timestamp="1560837911676">
         <mark key="'" line="646" column="32" />
       </file>
-      <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/A148Data.py" timestamp="1560426289081">
-        <mark key="'" line="6" column="24" />
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-      </file>
       <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/A146Data.py" timestamp="1560417240972">
         <mark key="[" line="10" column="48" />
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560759559574">
         <mark key="'" line="150" column="43" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1560741659958">
-        <mark key="'" line="747" column="48" />
-        <mark key="[" line="747" column="137" />
-        <mark key="]" line="748" column="20" />
-        <mark key="^" line="748" column="20" />
-        <mark key="." line="748" column="20" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1560842470988">
         <mark key="'" line="202" column="75" />
@@ -165,13 +108,6 @@
         <mark key="]" line="1285" column="9" />
         <mark key="^" line="1285" column="9" />
         <mark key="." line="1285" column="9" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/panels/battle_herolist.py" timestamp="1560759983314">
-        <mark key="'" line="967" column="73" />
-        <mark key="[" line="968" column="41" />
-        <mark key="]" line="968" column="73" />
-        <mark key="." line="968" column="73" />
-        <mark key="^" line="968" column="73" />
       </file>
       <file name="E:/Work/server/script/entity/avatar_members/EventTriggerMember.py" timestamp="1560837903749">
         <mark key="'" line="708" column="34" />
@@ -186,46 +122,15 @@
         <mark key="^" line="1208" column="93" />
         <mark key="." line="1208" column="93" />
       </file>
-      <file name="E:/Work/client/script/entity/avatar_attrs/ActivityDatas/A148Data.py" timestamp="1560420062782">
-        <mark key="'" line="10" column="38" />
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="48" />
-        <mark key="^" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-      </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1970.py" timestamp="1560757302832">
-        <mark key="'" line="33" column="67" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="^" line="168" column="82" />
-        <mark key="." line="169" column="0" />
-      </file>
       <file name="D:/Work2/client2/script/com/base/update_mgr.py" timestamp="1560841953813" />
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1560502586965">
-        <mark key="'" line="595" column="23" />
-        <mark key="[" line="558" column="61" />
-        <mark key="]" line="558" column="60" />
-        <mark key="." line="558" column="60" />
-        <mark key="^" line="558" column="60" />
+      <file name="D:/Work2/client2/script/cocos/panels/activity_138.py" timestamp="1560861889243">
+        <mark key="'" line="120" column="21" />
       </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1281.py" timestamp="1560758365548">
         <mark key="'" line="24" column="56" />
       </file>
-      <file name="D:/Work2/client2/script/entity/ClientAvatar.py" timestamp="1560739494725">
-        <mark key="'" line="215" column="23" />
-        <mark key="[" line="215" column="37" />
-        <mark key="]" line="215" column="35" />
-        <mark key="." line="215" column="35" />
-        <mark key="^" line="215" column="35" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="27" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
-      <jump line="193" column="67" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
-      <jump line="300" column="58" filename="D:/Work2/client2/script/res_mgr/sfx_mgr.py" />
-      <jump line="679" column="0" filename="D:/Work2/client2/script/com/const.py" />
-      <jump line="1804" column="47" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="2696" column="29" filename="D:/Work2/client2/script/cutils/chelpers.py" />
       <jump line="246" column="25" filename="E:/Work/client/script/cocos/panels/hero_model.py" />
       <jump line="593" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="931" column="28" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
@@ -320,6 +225,12 @@
       <jump line="1194" column="77" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
       <jump line="1201" column="118" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
       <jump line="1184" column="36" filename="E:/Work/server/script/entity/GlobalActivityStub.py" />
+      <jump line="112" column="45" filename="D:/Work2/client2/script/cocos/panels/activity_23.py" />
+      <jump line="34" column="63" filename="D:/Work2/client2/script/cocos/panels/activity_65.py" />
+      <jump line="71" column="62" filename="D:/Work2/client2/script/cocos/panels/activity_148.py" />
+      <jump line="28" column="60" filename="D:/Work2/client2/script/cocos/panels/activity_23.py" />
+      <jump line="31" column="56" filename="D:/Work2/client2/script/cocos/panels/activity_138.py" />
+      <jump line="120" column="21" filename="D:/Work2/client2/script/cocos/panels/activity_138.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,7 +273,7 @@
         <text encoding="base64">CQlpZiBpc19jaGFuZ2VkIGFuZCBpc19hY3RpdmU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>60</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -414,8 +325,8 @@
         <entry>216</entry>
         <entry>1202</entry>
         <entry>1185</entry>
-        <entry>w</entry>
         <entry>60</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
