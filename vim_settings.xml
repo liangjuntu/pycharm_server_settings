@@ -52,7 +52,7 @@
         <mark key="^" line="58" column="103" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city_chouka.py" timestamp="1560846090745" />
+      <file name="D:/Work2/client2/script/game_scene/city_chouka.py" timestamp="1560857380303" />
       <file name="E:/Work/server/script/entity/avatar_attrs/ActivityDatas/SmallActivityData.py" timestamp="1560498716554">
         <mark key="'" line="170" column="36" />
         <mark key="[" line="424" column="0" />
@@ -61,6 +61,7 @@
         <mark key="^" line="424" column="53" />
       </file>
       <file name="E:/Work/server/script/com/utils/helpers.py" timestamp="1560843790868" />
+      <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1560857416262" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1280.py" timestamp="1560776087265">
         <mark key="'" line="46" column="113" />
         <mark key="[" line="8" column="14" />
@@ -361,7 +362,7 @@
         <text encoding="base64">CQlpZiBpc19jaGFuZ2VkIGFuZCBpc19hY3RpdmU6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>60</text>
       </register>
     </registers>
     <search>
@@ -395,7 +396,6 @@
         <entry>300</entry>
       </history-search>
       <history-cmd>
-        <entry>81</entry>
         <entry>272</entry>
         <entry>61</entry>
         <entry>206</entry>
@@ -415,6 +415,7 @@
         <entry>1202</entry>
         <entry>1185</entry>
         <entry>w</entry>
+        <entry>60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
