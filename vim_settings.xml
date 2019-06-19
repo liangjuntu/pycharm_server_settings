@@ -3,11 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/80098.txt" timestamp="1560938929869">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="E:/Work/server/script/com/utils/utils.py" timestamp="1560955272239" />
       <file name="E:/Work/server/script/entity/avatar_members/LuckyDrawMember.py" timestamp="1560943532517">
         <mark key="'" line="2682" column="30" />
       </file>
@@ -169,6 +165,9 @@
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1560912203144">
         <mark key="'" line="3209" column="35" />
       </file>
+      <file name="E:/Work/server/script/combat/base/model_scene_data.py" timestamp="1560954511316">
+        <mark key="'" line="20" column="13" />
+      </file>
       <file name="E:/Work/client/script/combat/base/data/model_data.py" timestamp="1560938599081" />
       <file name="D:/Work2/client2/script/cocos/panels/activity_138.py" timestamp="1560861889243">
         <mark key="'" line="120" column="21" />
@@ -184,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1581" column="27" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1492" column="77" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="1585" column="26" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="802" column="20" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
@@ -284,6 +282,7 @@
       <jump line="262" column="21" filename="E:/Work/client/script/cocos/panels/cg_share.py" />
       <jump line="302" column="71" filename="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" />
       <jump line="224" column="42" filename="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" />
+      <jump line="20" column="13" filename="E:/Work/server/script/combat/base/model_scene_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
