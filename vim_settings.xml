@@ -87,6 +87,13 @@
       <file name="E:/Work/client/script/combat/logic/unit/components/TrickComp.py" timestamp="1560754777235">
         <mark key="'" line="26" column="20" />
       </file>
+      <file name="D:/Work2/client2/script/combat/view/logic/events/event_base.py" timestamp="1561104721960">
+        <mark key="'" line="995" column="43" />
+        <mark key="[" line="1498" column="49" />
+        <mark key="]" line="1498" column="58" />
+        <mark key="." line="1498" column="58" />
+        <mark key="^" line="1498" column="58" />
+      </file>
       <file name="D:/Work2/client2/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560759559574">
         <mark key="'" line="150" column="43" />
       </file>
@@ -145,6 +152,7 @@
       <file name="E:/Work/client/script/cocos/panels/city.py" timestamp="1560944101446">
         <mark key="'" line="254" column="49" />
       </file>
+      <file name="D:/Work2/client2/script/game_scene/components/SoundComp.py" timestamp="1561104541640" />
       <file name="D:/Work2/client2/script/cocos/panels/activity_138.py" timestamp="1560861889243">
         <mark key="'" line="120" column="21" />
       </file>
@@ -159,6 +167,9 @@
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1281.py" timestamp="1560758365548">
         <mark key="'" line="24" column="56" />
       </file>
+      <file name="D:/Work2/client2/script/com/const.py" timestamp="1561104564169">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1560926762524">
         <mark key="'" line="221" column="43" />
       </file>
@@ -167,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1492" column="77" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
-      <jump line="1585" column="26" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
       <jump line="802" column="20" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
       <jump line="835" column="21" filename="E:/Work/client/script/debug/battle_test/battle_test.py" />
       <jump line="215" column="23" filename="D:/Work2/client2/script/entity/ClientAvatar.py" />
@@ -267,19 +276,21 @@
       <jump line="302" column="71" filename="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" />
       <jump line="224" column="42" filename="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" />
       <jump line="20" column="13" filename="E:/Work/server/script/combat/base/model_scene_data.py" />
+      <jump line="995" column="43" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
+      <jump line="0" column="0" filename="D:/Work2/client2/script/com/const.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>buff_duration</text>
+        <text>play_unit_sound</text>
       </register>
       <register name="-" type="4">
-        <text>buff_duration</text>
+        <text>play_unit_sound</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzZWxmLm1pZGRsZV9ub3JfdGltZS5zZXRTdHJpbmcoc2VsZi5URVhUXzMpCg==</text>
+        <text encoding="base64">CQkJZ2cuYmF0dGxlLnNvdW5kX2NvbXAucGxheV9wbGF5ZXJfc291bmQoY29uc3QuVW5pdFNvdW5kLkJBVFRMRV9XSU4sIFRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJKCdmeC9zY2VuZS96aHVqaWVtaWFuL3Jvb20vMTdfMTlfZHVza19yb29tLnNmeCcsICgtNjcuMzksIDI0Ljk4LCA4MiksIDAuNTIsICgwLCAwLCAwKSksCg==</text>
