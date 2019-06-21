@@ -51,7 +51,12 @@
       <file name="D:/Work2/client2/script/game_scene/city_base.py" timestamp="1560841812166">
         <mark key="'" line="14" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1130.py" timestamp="1561082542138" />
+      <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1130.py" timestamp="1561086278717">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/panels/cg_share.py" timestamp="1560908095669">
         <mark key="'" line="450" column="35" />
       </file>
@@ -265,10 +270,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>39</text>
+        <text>buff_duration</text>
       </register>
       <register name="-" type="4">
-        <text>39</text>
+        <text>buff_duration</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
