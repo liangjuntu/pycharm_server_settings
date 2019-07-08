@@ -29,12 +29,7 @@
       <file name="E:/Work/server/script/entity/avatar_members/LuckyDrawMember.py" timestamp="1560943532517">
         <mark key="'" line="2682" column="30" />
       </file>
-      <file name="E:/Work/client/script/game_scene/player_home_scene.py" timestamp="1561017773872">
-        <mark key="[" line="58" column="73" />
-        <mark key="]" line="58" column="73" />
-        <mark key="." line="58" column="73" />
-        <mark key="^" line="58" column="73" />
-      </file>
+      <file name="E:/Work/client/script/game_scene/player_home_scene.py" timestamp="1562551535149" />
       <file name="E:/G58Trunk/trunk/client/script/combat/base/data/model_data.py" timestamp="1560950226278">
         <mark key="[" line="7" column="61" />
         <mark key="]" line="7" column="66" />
@@ -72,6 +67,7 @@
       <file name="E:/Work/client/script/combat/base/model_scene_data.py" timestamp="1560955877821">
         <mark key="'" line="10" column="36" />
       </file>
+      <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562551918158" />
       <file name="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1282.py" timestamp="1560775561159">
         <mark key="'" line="153" column="45" />
       </file>
@@ -88,11 +84,11 @@
         <mark key="'" line="26" column="20" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/logic/events/event_base.py" timestamp="1561107036477">
-        <mark key="'" line="995" column="43" />
-        <mark key="[" line="1498" column="49" />
-        <mark key="]" line="1498" column="58" />
-        <mark key="." line="1498" column="58" />
-        <mark key="^" line="1498" column="58" />
+        <mark key="'" line="999" column="43" />
+        <mark key="[" line="1502" column="49" />
+        <mark key="]" line="1502" column="58" />
+        <mark key="." line="1502" column="58" />
+        <mark key="^" line="1502" column="58" />
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_members/ActivityMembers/BeachBattleMemer.py" timestamp="1560759559574">
         <mark key="'" line="150" column="43" />
@@ -152,7 +148,6 @@
       <file name="E:/Work/client/script/cocos/panels/city.py" timestamp="1560944101446">
         <mark key="'" line="254" column="49" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/components/SoundComp.py" timestamp="1561104541640" />
       <file name="D:/Work2/client2/script/cocos/panels/activity_138.py" timestamp="1560861889243">
         <mark key="'" line="120" column="21" />
       </file>
