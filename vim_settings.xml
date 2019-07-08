@@ -3,23 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1562569637485">
+      <file name="/Python Console" timestamp="1562586133754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562572802867">
-        <mark key="'" line="673" column="83" />
-        <mark key="[" line="668" column="69" />
-        <mark key="]" line="668" column="69" />
-        <mark key="." line="668" column="69" />
-        <mark key="^" line="668" column="69" />
+      <file name="D:/Work2/client2/script/com/data/cdata/furniture_room.py" timestamp="1562585933610" />
+      <file name="D:/Work2/client2/script/com/utils/helpers.py" timestamp="1562586024678">
+        <mark key="[" line="3133" column="73" />
+        <mark key="]" line="3133" column="85" />
+        <mark key="^" line="3133" column="85" />
+        <mark key="." line="3133" column="85" />
+      </file>
+      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562585999538">
+        <mark key="'" line="697" column="33" />
+        <mark key="[" line="579" column="34" />
+        <mark key="]" line="579" column="34" />
+        <mark key="^" line="587" column="41" />
+        <mark key="." line="579" column="34" />
       </file>
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1562573033024">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1562571176563">
-        <mark key="'" line="1403" column="50" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1562585176892">
+        <mark key="'" line="2552" column="41" />
         <mark key="[" line="2562" column="37" />
         <mark key="]" line="2549" column="89" />
         <mark key="^" line="2549" column="89" />
@@ -45,7 +52,7 @@
       <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1562557550175">
         <mark key="'" line="298" column="27" />
       </file>
-      <file name="D:/Work2/client2/script/cutils/chelpers.py" timestamp="1562556587122">
+      <file name="D:/Work2/client2/script/cutils/chelpers.py" timestamp="1562585356610">
         <mark key="'" line="2375" column="97" />
         <mark key="[" line="2684" column="31" />
         <mark key="]" line="2684" column="40" />
@@ -55,48 +62,22 @@
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1562574069106">
-        <mark key="'" line="174" column="58" />
-        <mark key="[" line="1257" column="21" />
-        <mark key="]" line="1257" column="26" />
-        <mark key="^" line="1257" column="26" />
-        <mark key="." line="1257" column="26" />
+      <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1562586421881">
+        <mark key="'" line="1267" column="44" />
+        <mark key="[" line="1257" column="109" />
+        <mark key="]" line="1257" column="128" />
+        <mark key="^" line="1257" column="128" />
+        <mark key="." line="1257" column="128" />
       </file>
       <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1560944274357">
-        <mark key="'" line="52" column="38" />
-        <mark key="[" line="52" column="71" />
-        <mark key="]" line="52" column="91" />
-        <mark key="^" line="52" column="91" />
-        <mark key="." line="52" column="91" />
-      </file>
-      <file name="E:/Work/server/script/combat/base/model_scene_data.py" timestamp="1560956957152">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="18" />
-        <mark key="^" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/cg_share.py" timestamp="1560944329437">
-        <mark key="'" line="263" column="21" />
-        <mark key="[" line="153" column="71" />
-        <mark key="]" line="155" column="29" />
-        <mark key="^" line="155" column="29" />
-        <mark key="." line="155" column="29" />
-      </file>
-      <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562571494722">
-        <mark key="'" line="74" column="43" />
+      <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
+        <mark key="'" line="74" column="42" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1562567582195" />
     </filemarks>
     <jumps>
-      <jump line="5779" column="0" filename="E:/Work/server/script/com/const.py" />
-      <jump line="757" column="23" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="670" column="19" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="665" column="110" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="153" column="45" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/SkillComp_1282.py" />
       <jump line="46" column="113" filename="D:/Work2/client2/script/combat/logic/unit/components/skill/PskillComp_1280.py" />
       <jump line="1925" column="55" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
       <jump line="2762" column="24" filename="D:/Work2/client2/script/cocos/panels/dialogue.py" />
@@ -190,50 +171,117 @@
       <jump line="83" column="29" filename="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" />
       <jump line="62" column="46" filename="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" />
       <jump line="174" column="58" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
-      <jump line="74" column="43" filename="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" />
       <jump line="14" column="0" filename="D:/Work2/client2/script/com/data/cdata/furniture_room.py" />
+      <jump line="2552" column="41" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="721" column="42" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="697" column="33" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="1257" column="100" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
+      <jump line="74" column="42" filename="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" />
+      <jump line="1267" column="44" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSNyZXR1cm4gW10K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0gMQ==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IC0gMQ==</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzb2NrZXRzID0gaW5mby5nZXQoJ3NvY2tldHMnLCAoKSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kYXRhLmNkYXRhLnlhbmh1YV8yMDE5X3NwcmluZ19pdGVtIGFzIFNQUklOR19ZQU5IVUFfSVRFTQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSNyZXR1cm4gW10K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCXNlbGYuaW5pdF9iaWFvcWluZ19hbmltcygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGF0YSA9IFVJX01PREVMX0RBVEEuZGF0YS5nZXQoc2VsZi5tb2RlbF9uYW1lKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlpZiBub3QgYnFwbGF5Ogo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if not is_high:
-			socket = lowsockets[i]
-			sfxpath = lowsfxpath[i]</text>
+      <register name="3" type="4">
+        <text># 夏季主城特效
+SUMMER_SFXS = [
+	# 9到17
+	[
+		# 分别是 特效路径，世界坐标，缩放，旋转
+		[],
+		[
+			('fx/scene/zhujiemian/room/9_17_rain_room.sfx', (-89, 0, 145), None, (0, 0, 0)),
+			('fx/scene/zhujiemian/room/9_17_rain_room.sfx', (100, 0, 26), None, (0, 90, 0)),
+		],
+		[
+			('fx/scene/zhujiemian/room/9_17_rainbow_01_room.sfx', (102.94, 18.85, 57.61), 0.35, (0, 270, 0)),
+			('fx/scene/zhujiemian/room/9_17_rainbow_room.sfx', (103.29, 41.43, -15.6), 0.07, (0, 90, 0)),
+		],
+	],
+	# 17到19
+	[
+		[
+			('fx/scene/zhujiemian/room/17_19_dusk_room.sfx', (90, 23.3, 9.35), 0.52, (0, 90, 0)),
+			('fx/scene/zhujiemian/room/17_19_dusk_room.sfx', (-67.39, 24.98, 82), 0.52, (0, 0, 0)),
+		],
+		[
+			('fx/scene/zhujiemian/room/17_19_rain_room.sfx', (101, 0, 29.21), None, (0, 90, 0)),
+			('fx/scene/zhujiemian/room/17_19_rain_room.sfx', (-89, 0, 93), None, (0, 0, 0)),
+			('fx/scene/zhujiemian/room/17_19_rain_haipingmian.sfx', (103.24, -10.5, 7.91), None, (0, 90, 0)),
+		],
+	],
+	# 19到21
+	[
+		[
+			('fx/scene/zhujiemian/room/19_21_rain_room.sfx', (75.93, 0, -0.52), 1.25, (0, 90, 0)),
+			('fx/scene/zhujiemian/room/19_21_rain_room.sfx', (-112.92, -3.39, 84), 1.25, (0, 0, 0)),
+		],
+		[
+			('fx/scene/zhujiemian/room/19_21_aftertherain_room.sfx', (72, 0, 5), None, (0, 90, 0)),
+			('fx/scene/zhujiemian/room/19_21_aftertherain_room.sfx', (-96.92, 0, 108.65), None, None),
+		],
+	],
+]</text>
+      </register>
+      <register name="4" type="4">
+        <text># 夏季主城特效
+SUMMER_SFXS = [
+	# 9到17
+	[
+		# sfx_path, pos, scale, rot
+		[('fx/scene/zhujiemian/9_17_hotair_fs.sfx', (0, 0, 0), None, None), ],
+		[('fx/scene/zhujiemian/9_17_rain_fs.sfx', (0, 0, 0), None, None), ],
+		[
+			('fx/scene/zhujiemian/9_17_rainbow_fs.sfx', (0, 0, 0), None, None),
+			('fx/scene/zhujiemian/9_17_rainbow_01.sfx', (-435.88, -1.7, -315.73), 1.2, None),
+		],
+	],
+	# 17到19
+	[
+		[('fx/scene/zhujiemian/17_19_dusk_fs.sfx', (0, 0, 0), None, None), ],
+		[('fx/scene/zhujiemian/17_19_rain_fs.sfx', (0, 0, 0), None, None), ],
+	],
+	# 19到21
+	[
+		[('fx/scene/zhujiemian/19_21_rain_fs.sfx', (0, 0, 0), None, None), ],
+		[
+			('fx/scene/zhujiemian/19_21_aftertherain_fs.sfx', (0, 0, 0), None, None),
+			('fx/scene/zhujiemian/19_21_aftertherain_01.sfx', (-241.23, -71.37, -668.6), None, None),
+			('fx/scene/zhujiemian/19_21_aftertherain_wuqi.sfx', (-1.49, 0, -905.72), None, None),
+		],
+	],
+]</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlyZXR1cm4gc2Z4X2luZm9zCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkjc2Z4X2luZm9zID0gWygnZngvc2NlbmUvemh1amllbWlhbi9yb29tLzlfMTdfcmFpbmJvd19yb29tLnNmeCcsICgxNDcuNzUsIC0xNS43MiwgMTIuODEpLCAwLjI4LCBOb25lKSwgXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlzZnhfaW5mb3MgPSBzbG90X3NmeF9pbmZvc1tzZWxmLnN1bW1lcl9pbmRleC0xXQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlzbG90X3NmeF9pbmZvcyA9IFNVTU1FUl9TRlhTW3NlbGYuc3VtbWVyX3Nsb3QtMV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlzZnhfaW5mb3MgPSBzbG90X3NmeF9pbmZvc1tzZWxmLnN1bW1lcl9pbmRleC0xXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -270,7 +318,6 @@
         <entry>300</entry>
       </history-search>
       <history-cmd>
-        <entry>206</entry>
         <entry>30</entry>
         <entry>184</entry>
         <entry>2632</entry>
@@ -289,6 +336,7 @@
         <entry>60</entry>
         <entry>573</entry>
         <entry>1901</entry>
+        <entry>588</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
