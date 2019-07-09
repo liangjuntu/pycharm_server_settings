@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Work/server/script/entity/avatar_members/RefreshMember.py" timestamp="1562639410528">
+        <mark key="'" line="161" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,7 +83,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1925" column="55" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
       <jump line="2762" column="24" filename="D:/Work2/client2/script/cocos/panels/dialogue.py" />
       <jump line="373" column="39" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="502" column="18" filename="E:/Work/server/script/entity/avatar_members/DebugMember.py" />
@@ -180,6 +182,7 @@
       <jump line="74" column="42" filename="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" />
       <jump line="1267" column="44" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
       <jump line="1189" column="24" filename="E:/Work/server/script/combat/logic/logic/refresh_logic.py" />
+      <jump line="161" column="35" filename="E:/Work/server/script/entity/avatar_members/RefreshMember.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -286,7 +289,7 @@ SUMMER_SFXS = [
         <text encoding="base64">CQlzZnhfaW5mb3MgPSBzbG90X3NmeF9pbmZvc1tzZWxmLnN1bW1lcl9pbmRleC0xXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>162</text>
       </register>
     </registers>
     <search>
@@ -320,7 +323,6 @@ SUMMER_SFXS = [
         <entry>300</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>184</entry>
         <entry>2632</entry>
         <entry>484</entry>
@@ -340,6 +342,7 @@ SUMMER_SFXS = [
         <entry>1901</entry>
         <entry>588</entry>
         <entry>w</entry>
+        <entry>162</entry>
       </history-cmd>
       <history-expr />
       <history-input />
