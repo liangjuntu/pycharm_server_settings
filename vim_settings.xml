@@ -12,18 +12,16 @@
       <file name="/fragment.py" timestamp="1562666122207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1562658385397" />
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1562663844836">
         <mark key="'" line="2614" column="32" />
       </file>
+      <file name="E:/Work2/f7/prog/client/res/shader/built_in/ssao/gtao.hlsl" timestamp="1562675342157" />
       <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1562664507772">
         <mark key="'" line="2138" column="56" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_model.py" timestamp="1562671676403">
         <mark key="'" line="105" column="27" />
       </file>
-      <file name="E:/Work/client/script/com/data/cdata/skin_play.py" timestamp="1562660600899" />
-      <file name="E:/Work/client/script/com/base/game_object.py" timestamp="1562665087099" />
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
       </file>
@@ -33,14 +31,12 @@
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1562664529507">
         <mark key="'" line="218" column="25" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_skin_play.py" timestamp="1562658966397" />
       <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562658719236">
         <mark key="'" line="41" column="40" />
       </file>
       <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1562663881683">
         <mark key="'" line="207" column="37" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/sfx_mgr.py" timestamp="1562658492454" />
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
       </file>
@@ -76,7 +72,6 @@
         <mark key="^" line="249" column="5" />
         <mark key="." line="249" column="5" />
       </file>
-      <file name="E:/Work/client/script/com/const.py" timestamp="1562664513435" />
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562663949852">
         <mark key="'" line="390" column="28" />
         <mark key="[" line="269" column="12" />
@@ -94,7 +89,6 @@
         <mark key="^" line="127" column="116" />
         <mark key="." line="127" column="116" />
       </file>
-      <file name="E:/Work/client/script/com/data/cdata/fs_sfx.py" timestamp="1562660126160" />
     </filemarks>
     <jumps>
       <jump line="2375" column="97" filename="D:/Work2/client2/script/cutils/chelpers.py" />
