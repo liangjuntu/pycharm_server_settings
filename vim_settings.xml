@@ -13,12 +13,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1562658385397" />
-      <file name="D:/Work2/client2/script/com/utils/helpers.py" timestamp="1562586024678">
-        <mark key="[" line="3133" column="73" />
-        <mark key="]" line="3133" column="85" />
-        <mark key="^" line="3133" column="85" />
-        <mark key="." line="3133" column="85" />
-      </file>
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1562663844836">
         <mark key="'" line="2614" column="32" />
       </file>
@@ -53,7 +47,7 @@
       <file name="E:/Work/server/script/combat/logic/logic/refresh_logic.py" timestamp="1562589132380">
         <mark key="'" line="1189" column="24" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1562671654867">
+      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1562672630517">
         <mark key="'" line="70" column="41" />
         <mark key="[" line="70" column="45" />
         <mark key="]" line="70" column="58" />
@@ -63,11 +57,11 @@
       <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1562659330829">
-        <mark key="[" line="203" column="23" />
-        <mark key="]" line="203" column="22" />
-        <mark key="^" line="203" column="22" />
-        <mark key="." line="203" column="22" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1562672753302">
+        <mark key="[" line="203" column="9" />
+        <mark key="]" line="203" column="4" />
+        <mark key="^" line="203" column="4" />
+        <mark key="." line="203" column="4" />
       </file>
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1562671099594">
         <mark key="'" line="1823" column="24" />
@@ -75,6 +69,12 @@
         <mark key="]" line="1897" column="0" />
         <mark key="." line="1897" column="0" />
         <mark key="^" line="1902" column="24" />
+      </file>
+      <file name="E:/Work/server/MobileServer/distserver/battle/BattleServer.py" timestamp="1562638767456">
+        <mark key="[" line="249" column="4" />
+        <mark key="]" line="249" column="5" />
+        <mark key="^" line="249" column="5" />
+        <mark key="." line="249" column="5" />
       </file>
       <file name="E:/Work/client/script/com/const.py" timestamp="1562664513435" />
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562663949852">
@@ -239,7 +239,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text>177</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -291,8 +291,8 @@
         <entry>588</entry>
         <entry>162</entry>
         <entry>344</entry>
-        <entry>w</entry>
         <entry>177</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
