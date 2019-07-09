@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1562587902853">
+      <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/com/data/cdata/furniture_room.py" timestamp="1562585933610" />
+      <file name="/Python Console" timestamp="1562637945549">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1562589246510">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,8 +25,12 @@
         <mark key="^" line="587" column="41" />
         <mark key="." line="579" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/combat/view/interface/combat_input.py" timestamp="1562587347090" />
-      <file name="D:/Work2/client2/script/combat/logic/interface/combat_output.py" timestamp="1562587644332" />
+      <file name="E:/Work/server/MobileServer/distserver/battle/BattleServer.py" timestamp="1562587860411">
+        <mark key="[" line="249" column="5" />
+        <mark key="]" line="249" column="0" />
+        <mark key="^" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1562585176892">
         <mark key="'" line="2552" column="41" />
         <mark key="[" line="2562" column="37" />
@@ -41,6 +47,9 @@
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
+      </file>
+      <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
+        <mark key="'" line="74" column="42" />
       </file>
       <file name="D:/Work2/client2/script/combat/view/logic/events/event_base.py" timestamp="1562569786225">
         <mark key="'" line="836" column="29" />
@@ -59,7 +68,6 @@
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
       </file>
-      <file name="E:/Work/server/script/combat/logic/interface/combat_output.py" timestamp="1562589052324" />
       <file name="E:/Work/server/script/combat/logic/logic/refresh_logic.py" timestamp="1562589132380">
         <mark key="'" line="1189" column="24" />
       </file>
@@ -70,20 +78,6 @@
         <mark key="^" line="1257" column="128" />
         <mark key="." line="1257" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562569637527">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/server/MobileServer/distserver/battle/BattleServer.py" timestamp="1562587860411">
-        <mark key="[" line="249" column="5" />
-        <mark key="]" line="249" column="0" />
-        <mark key="^" line="249" column="0" />
-        <mark key="." line="249" column="0" />
-      </file>
-      <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
-        <mark key="'" line="74" column="42" />
-      </file>
-      <file name="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" timestamp="1562587746862" />
-      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1562567582195" />
     </filemarks>
     <jumps>
       <jump line="1925" column="55" filename="E:/Work/server/script/entity/GlobalRankListStub.py" />
