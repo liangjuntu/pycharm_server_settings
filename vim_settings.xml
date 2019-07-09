@@ -20,7 +20,7 @@
         <mark key="." line="3133" column="85" />
       </file>
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1562655342588" />
-      <file name="E:/Work/client/script/com/data/cdata/skin_play.py" timestamp="1562644762123" />
+      <file name="E:/Work/client/script/com/data/cdata/skin_play.py" timestamp="1562660600899" />
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
       </file>
@@ -53,12 +53,12 @@
         <mark key="^" line="249" column="5" />
         <mark key="." line="249" column="5" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562659238486">
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562660747555">
         <mark key="'" line="632" column="25" />
-        <mark key="[" line="633" column="44" />
-        <mark key="]" line="634" column="40" />
-        <mark key="." line="634" column="40" />
-        <mark key="^" line="634" column="40" />
+        <mark key="[" line="571" column="21" />
+        <mark key="]" line="571" column="16" />
+        <mark key="." line="571" column="16" />
+        <mark key="^" line="571" column="16" />
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
@@ -70,7 +70,7 @@
         <mark key="^" line="127" column="116" />
         <mark key="." line="127" column="116" />
       </file>
-      <file name="E:/Work/client/script/com/data/cdata/fs_sfx.py" timestamp="1562658851533" />
+      <file name="E:/Work/client/script/com/data/cdata/fs_sfx.py" timestamp="1562660126160" />
     </filemarks>
     <jumps>
       <jump line="663" column="39" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -176,43 +176,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
+        <text encoding="base64">CQkJCQlhdHRhY2hfbW9kZWwud29ybGRfcG9zaXRpb24gPSBtYXRoM2QudmVjdG9yKDIyOS4xOSwgLTEuNiwgLTQ2My4yKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>cam_track.fov</text>
+        <text>*(poses[index])) if poses else pos</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kYXRhLmNkYXRhLnlhbmh1YV8yMDE5X3NwcmluZ19pdGVtIGFzIFNQUklOR19ZQU5IVUFfSVRFTQo=</text>
+        <text encoding="base64">CQkJCQlhdHRhY2hfbW9kZWwud29ybGRfcG9zaXRpb24gPSBtYXRoM2QudmVjdG9yKCoocG9zZXNbaW5kZXhdKSkgaWYgcG9zZXMgZWxzZSBwb3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
+        <text encoding="base64">CQkJCQlhdHRhY2hfbW9kZWwud29ybGRfcG9zaXRpb24gPSBtYXRoM2QudmVjdG9yKDIyOS4xOSwgLTEuNiwgLTQ2My4yKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
+        <text encoding="base64">CQkJCQlwb3Nlc1tpbmRleF0gPSBbMjI5LjE5LCAtMS42LCAtNDYzLjJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlwb3Nlc1tpbmRleF0gPSBbMjI5LjE5LCAtMS42LCAtNDYzLjJdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkjYXR0YWNoX21vZGVsLndvcmxkX3Bvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigyMjIuMjUsIC0xLjYsIC00NjMuMjEpCg==</text>
+        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlzZWxmLnBsYXlfc3RhdGUgPSBTVEFURV9GSU5BTAo=</text>
+        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkjYXR0YWNoX21vZGVsLndvcmxkX3Bvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigyMjIuMjUsIC0xLjYsIC00NjMuMjEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
