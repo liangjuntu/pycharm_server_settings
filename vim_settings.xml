@@ -6,18 +6,13 @@
       <file name="E:/Work/server/script/entity/avatar_members/RefreshMember.py" timestamp="1562639410528">
         <mark key="'" line="161" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1562642674171">
+      <file name="/Python Console" timestamp="1562654477826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1562652604774">
+      <file name="/fragment.py" timestamp="1562655144584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/com/utils/helpers.py" timestamp="1562586024678">
-        <mark key="[" line="3133" column="73" />
-        <mark key="]" line="3133" column="85" />
-        <mark key="^" line="3133" column="85" />
-        <mark key="." line="3133" column="85" />
-      </file>
+      <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1562655342588" />
       <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562585999538">
         <mark key="'" line="697" column="33" />
         <mark key="[" line="579" column="34" />
@@ -73,28 +68,32 @@
       <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1562653878073" />
       <file name="E:/Work/server/MobileServer/distserver/battle/BattleServer.py" timestamp="1562638767456">
         <mark key="[" line="249" column="4" />
         <mark key="]" line="249" column="5" />
         <mark key="^" line="249" column="5" />
         <mark key="." line="249" column="5" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562652311448">
-        <mark key="'" line="416" column="26" />
-        <mark key="[" line="163" column="52" />
-        <mark key="]" line="163" column="51" />
-        <mark key="^" line="163" column="51" />
-        <mark key="." line="163" column="51" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562655404724">
+        <mark key="'" line="533" column="46" />
+        <mark key="[" line="533" column="35" />
+        <mark key="]" line="533" column="55" />
+        <mark key="^" line="533" column="55" />
+        <mark key="." line="533" column="55" />
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
+      <file name="E:/Work/client/script/game_scene/city_model.py" timestamp="1562653860625">
+        <mark key="'" line="124" column="26" />
+        <mark key="[" line="127" column="92" />
+        <mark key="]" line="127" column="116" />
+        <mark key="^" line="127" column="116" />
+        <mark key="." line="127" column="116" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="39" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="502" column="18" filename="E:/Work/server/script/entity/avatar_members/DebugMember.py" />
-      <jump line="708" column="34" filename="E:/Work/server/script/entity/avatar_members/EventTriggerMember.py" />
-      <jump line="646" column="32" filename="E:/Work/server/script/entity/avatar_attrs/EventTriggerData.py" />
       <jump line="660" column="26" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="696" column="21" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="101" column="27" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -191,13 +190,17 @@
       <jump line="1189" column="24" filename="E:/Work/server/script/combat/logic/logic/refresh_logic.py" />
       <jump line="161" column="35" filename="E:/Work/server/script/entity/avatar_members/RefreshMember.py" />
       <jump line="414" column="26" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="170" column="28" filename="E:/Work/client/script/game_scene/city_model.py" />
+      <jump line="367" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="124" column="26" filename="E:/Work/client/script/game_scene/city_model.py" />
+      <jump line="533" column="46" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICdpZGxlX2NzXzAxJywgJ2lkbGVfY3NfMDEnLCAnaWRsZV9jc18wMSc=</text>
+        <text>cam_track.fov</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdpZGxlX2NzXzAxJywgJ2lkbGVfY3NfMDEnLCAnaWRsZV9jc18wMSc=</text>
+        <text>cam_track.fov</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
@@ -206,15 +209,18 @@
         <text encoding="base64">aW1wb3J0IGNvbS5kYXRhLmNkYXRhLnlhbmh1YV8yMDE5X3NwcmluZ19pdGVtIGFzIFNQUklOR19ZQU5IVUFfSVRFTQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzZWxmLnBsYXlfc3RhdGUgPSBTVEFURV9GSU5BTAo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzZWxmLnBsYXlfc3RhdGUgPSBTVEFURV9GSU5BTAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text># 夏季主城特效
 SUMMER_SFXS = [
 	# 9到17
@@ -255,7 +261,7 @@ SUMMER_SFXS = [
 	],
 ]</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text># 夏季主城特效
 SUMMER_SFXS = [
 	# 9到17
@@ -284,17 +290,14 @@ SUMMER_SFXS = [
 	],
 ]</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlyZXR1cm4gc2Z4X2luZm9zCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkjc2Z4X2luZm9zID0gWygnZngvc2NlbmUvemh1amllbWlhbi9yb29tLzlfMTdfcmFpbmJvd19yb29tLnNmeCcsICgxNDcuNzUsIC0xNS43MiwgMTIuODEpLCAwLjI4LCBOb25lKSwgXQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlzZnhfaW5mb3MgPSBzbG90X3NmeF9pbmZvc1tzZWxmLnN1bW1lcl9pbmRleC0xXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzbG90X3NmeF9pbmZvcyA9IFNVTU1FUl9TRlhTW3NlbGYuc3VtbWVyX3Nsb3QtMV0K</text>
+        <text encoding="base64">CQlzZnhfaW5mb3MgPSBzbG90X3NmeF9pbmZvc1tzZWxmLnN1bW1lcl9pbmRleC0xXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
