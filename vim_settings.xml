@@ -6,81 +6,59 @@
       <file name="E:/Work/server/script/entity/avatar_members/RefreshMember.py" timestamp="1562639410528">
         <mark key="'" line="161" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1562654477826">
+      <file name="/Python Console" timestamp="1562657365618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1562655144584">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1562658385397" />
+      <file name="D:/Work2/client2/script/com/utils/helpers.py" timestamp="1562586024678">
+        <mark key="[" line="3133" column="73" />
+        <mark key="]" line="3133" column="85" />
+        <mark key="^" line="3133" column="85" />
+        <mark key="." line="3133" column="85" />
+      </file>
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1562655342588" />
-      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562585999538">
-        <mark key="'" line="697" column="33" />
-        <mark key="[" line="579" column="34" />
-        <mark key="]" line="579" column="34" />
-        <mark key="^" line="587" column="41" />
-        <mark key="." line="579" column="34" />
-      </file>
       <file name="E:/Work/client/script/com/data/cdata/skin_play.py" timestamp="1562644762123" />
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1562585176892">
-        <mark key="'" line="2552" column="41" />
-        <mark key="[" line="2562" column="37" />
-        <mark key="]" line="2549" column="89" />
-        <mark key="^" line="2549" column="89" />
-        <mark key="." line="2549" column="89" />
-      </file>
-      <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1562570469727">
-        <mark key="'" line="1580" column="23" />
-        <mark key="[" line="1908" column="44" />
-        <mark key="]" line="1908" column="37" />
-        <mark key="^" line="1908" column="37" />
-        <mark key="." line="1908" column="37" />
-      </file>
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
       </file>
-      <file name="D:/Work2/client2/script/combat/view/logic/events/event_base.py" timestamp="1562569786225">
-        <mark key="'" line="836" column="29" />
-        <mark key="[" line="933" column="10" />
-        <mark key="]" line="1088" column="84" />
-        <mark key="." line="1088" column="84" />
-        <mark key="^" line="1088" column="84" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_skin_play.py" timestamp="1562658966397" />
+      <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562658719236">
+        <mark key="'" line="41" column="40" />
       </file>
-      <file name="D:/Work2/client2/script/cutils/chelpers.py" timestamp="1562585356610">
-        <mark key="'" line="2375" column="97" />
-        <mark key="[" line="2684" column="31" />
-        <mark key="]" line="2684" column="40" />
-        <mark key="." line="2684" column="40" />
-        <mark key="^" line="2684" column="40" />
-      </file>
+      <file name="E:/Work/client/script/res_mgr/sfx_mgr.py" timestamp="1562658492454" />
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
       </file>
       <file name="E:/Work/server/script/combat/logic/logic/refresh_logic.py" timestamp="1562589132380">
         <mark key="'" line="1189" column="24" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/player_home_scene.py" timestamp="1562586421881">
-        <mark key="'" line="1267" column="44" />
-        <mark key="[" line="1257" column="109" />
-        <mark key="]" line="1257" column="128" />
-        <mark key="^" line="1257" column="128" />
-        <mark key="." line="1257" column="128" />
-      </file>
       <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1562653878073" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1562659330829">
+        <mark key="[" line="203" column="23" />
+        <mark key="]" line="203" column="22" />
+        <mark key="^" line="203" column="22" />
+        <mark key="." line="203" column="22" />
+      </file>
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1562658694798">
+        <mark key="'" line="1336" column="33" />
+      </file>
       <file name="E:/Work/server/MobileServer/distserver/battle/BattleServer.py" timestamp="1562638767456">
         <mark key="[" line="249" column="4" />
         <mark key="]" line="249" column="5" />
         <mark key="^" line="249" column="5" />
         <mark key="." line="249" column="5" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562655404724">
-        <mark key="'" line="533" column="46" />
-        <mark key="[" line="533" column="35" />
-        <mark key="]" line="533" column="55" />
-        <mark key="^" line="533" column="55" />
-        <mark key="." line="533" column="55" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562659238486">
+        <mark key="'" line="632" column="25" />
+        <mark key="[" line="633" column="44" />
+        <mark key="]" line="634" column="40" />
+        <mark key="." line="634" column="40" />
+        <mark key="^" line="634" column="40" />
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
@@ -92,17 +70,9 @@
         <mark key="^" line="127" column="116" />
         <mark key="." line="127" column="116" />
       </file>
+      <file name="E:/Work/client/script/com/data/cdata/fs_sfx.py" timestamp="1562658851533" />
     </filemarks>
     <jumps>
-      <jump line="660" column="26" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="696" column="21" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="101" column="27" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="800" column="71" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="798" column="16" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="674" column="28" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="609" column="35" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="655" column="19" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="662" column="38" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="663" column="39" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="666" column="32" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="675" column="24" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -194,10 +164,19 @@
       <jump line="367" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="124" column="26" filename="E:/Work/client/script/game_scene/city_model.py" />
       <jump line="533" column="46" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="1336" column="33" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="23" column="31" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
+      <jump line="41" column="40" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
+      <jump line="582" column="13" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="631" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="583" column="16" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="634" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="632" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="524" column="8" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cam_track.fov</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
       </register>
       <register name="-" type="4">
         <text>cam_track.fov</text>
@@ -209,95 +188,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5kYXRhLmNkYXRhLnlhbmh1YV8yMDE5X3NwcmluZ19pdGVtIGFzIFNQUklOR19ZQU5IVUFfSVRFTQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzZWxmLnBsYXlfc3RhdGUgPSBTVEFURV9GSU5BTAo=</text>
+        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlnZy5leGVjX2RlbGF5KDMwMCwgc2VsZi5sZWF2ZV9zY2VuZSkK</text>
       </register>
-      <register name="5" type="4">
-        <text># 夏季主城特效
-SUMMER_SFXS = [
-	# 9到17
-	[
-		# 分别是 特效路径，世界坐标，缩放，旋转
-		[],
-		[
-			('fx/scene/zhujiemian/room/9_17_rain_room.sfx', (-89, 0, 145), None, (0, 0, 0)),
-			('fx/scene/zhujiemian/room/9_17_rain_room.sfx', (100, 0, 26), None, (0, 90, 0)),
-		],
-		[
-			('fx/scene/zhujiemian/room/9_17_rainbow_01_room.sfx', (102.94, 18.85, 57.61), 0.35, (0, 270, 0)),
-			('fx/scene/zhujiemian/room/9_17_rainbow_room.sfx', (103.29, 41.43, -15.6), 0.07, (0, 90, 0)),
-		],
-	],
-	# 17到19
-	[
-		[
-			('fx/scene/zhujiemian/room/17_19_dusk_room.sfx', (90, 23.3, 9.35), 0.52, (0, 90, 0)),
-			('fx/scene/zhujiemian/room/17_19_dusk_room.sfx', (-67.39, 24.98, 82), 0.52, (0, 0, 0)),
-		],
-		[
-			('fx/scene/zhujiemian/room/17_19_rain_room.sfx', (101, 0, 29.21), None, (0, 90, 0)),
-			('fx/scene/zhujiemian/room/17_19_rain_room.sfx', (-89, 0, 93), None, (0, 0, 0)),
-			('fx/scene/zhujiemian/room/17_19_rain_haipingmian.sfx', (103.24, -10.5, 7.91), None, (0, 90, 0)),
-		],
-	],
-	# 19到21
-	[
-		[
-			('fx/scene/zhujiemian/room/19_21_rain_room.sfx', (75.93, 0, -0.52), 1.25, (0, 90, 0)),
-			('fx/scene/zhujiemian/room/19_21_rain_room.sfx', (-112.92, -3.39, 84), 1.25, (0, 0, 0)),
-		],
-		[
-			('fx/scene/zhujiemian/room/19_21_aftertherain_room.sfx', (72, 0, 5), None, (0, 90, 0)),
-			('fx/scene/zhujiemian/room/19_21_aftertherain_room.sfx', (-96.92, 0, 108.65), None, None),
-		],
-	],
-]</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkjYXR0YWNoX21vZGVsLndvcmxkX3Bvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigyMjIuMjUsIC0xLjYsIC00NjMuMjEpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text># 夏季主城特效
-SUMMER_SFXS = [
-	# 9到17
-	[
-		# sfx_path, pos, scale, rot
-		[('fx/scene/zhujiemian/9_17_hotair_fs.sfx', (0, 0, 0), None, None), ],
-		[('fx/scene/zhujiemian/9_17_rain_fs.sfx', (0, 0, 0), None, None), ],
-		[
-			('fx/scene/zhujiemian/9_17_rainbow_fs.sfx', (0, 0, 0), None, None),
-			('fx/scene/zhujiemian/9_17_rainbow_01.sfx', (-435.88, -1.7, -315.73), 1.2, None),
-		],
-	],
-	# 17到19
-	[
-		[('fx/scene/zhujiemian/17_19_dusk_fs.sfx', (0, 0, 0), None, None), ],
-		[('fx/scene/zhujiemian/17_19_rain_fs.sfx', (0, 0, 0), None, None), ],
-	],
-	# 19到21
-	[
-		[('fx/scene/zhujiemian/19_21_rain_fs.sfx', (0, 0, 0), None, None), ],
-		[
-			('fx/scene/zhujiemian/19_21_aftertherain_fs.sfx', (0, 0, 0), None, None),
-			('fx/scene/zhujiemian/19_21_aftertherain_01.sfx', (-241.23, -71.37, -668.6), None, None),
-			('fx/scene/zhujiemian/19_21_aftertherain_wuqi.sfx', (-1.49, 0, -905.72), None, None),
-		],
-	],
-]</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc2Z4X2luZm9zCg==</text>
+        <text encoding="base64">CQlzZWxmLnBsYXlfc3RhdGUgPSBTVEFURV9GSU5BTAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkjc2Z4X2luZm9zID0gWygnZngvc2NlbmUvemh1amllbWlhbi9yb29tLzlfMTdfcmFpbmJvd19yb29tLnNmeCcsICgxNDcuNzUsIC0xNS43MiwgMTIuODEpLCAwLjI4LCBOb25lKSwgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZnhfaW5mb3MgPSBzbG90X3NmeF9pbmZvc1tzZWxmLnN1bW1lcl9pbmRleC0xXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
