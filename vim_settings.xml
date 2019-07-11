@@ -39,12 +39,13 @@
         <mark key="^" line="1402" column="34" />
         <mark key="." line="1403" column="0" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562658719236">
-        <mark key="'" line="41" column="40" />
+      <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562843154841">
+        <mark key="'" line="35" column="32" />
       </file>
       <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1562663881683">
         <mark key="'" line="207" column="37" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/sfx_mgr.py" timestamp="1562843231918" />
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
       </file>
@@ -84,12 +85,12 @@
         <mark key="^" line="249" column="5" />
         <mark key="." line="249" column="5" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562663949852">
-        <mark key="'" line="390" column="28" />
-        <mark key="[" line="269" column="12" />
-        <mark key="]" line="269" column="12" />
-        <mark key="." line="269" column="12" />
-        <mark key="^" line="269" column="12" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562843526789">
+        <mark key="'" line="644" column="24" />
+        <mark key="[" line="566" column="63" />
+        <mark key="]" line="568" column="85" />
+        <mark key="." line="568" column="85" />
+        <mark key="^" line="568" column="85" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/common_message.py" timestamp="1562811718339">
         <mark key="'" line="33" column="27" />
@@ -106,8 +107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2675" column="30" filename="E:/Work/server/script/entity/avatar_members/LuckyDrawMember.py" />
-      <jump line="2682" column="30" filename="E:/Work/server/script/entity/avatar_members/LuckyDrawMember.py" />
       <jump line="19" column="49" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="361" column="22" filename="E:/Work/client/script/cocos/panels/cg_share.py" />
       <jump line="254" column="49" filename="E:/Work/client/script/cocos/panels/city.py" />
@@ -206,10 +205,12 @@
       <jump line="105" column="29" filename="E:/Work/client/script/cocos/panels/hero_model.py" />
       <jump line="175" column="8" filename="E:/Work/client/script/game_scene/city_heroshow.py" />
       <jump line="1406" column="89" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="35" column="32" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
+      <jump line="644" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
+        <text encoding="base64">CQlmaW5hbF9zZnhzID0gc2tpbl9wbGF5X2RhdGEuZ2V0KCdmaW5hbF9zZnhzJywgW10pCg==</text>
       </register>
       <register name="-" type="4">
         <text>len</text>
@@ -218,7 +219,7 @@
         <text>300</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJc2VsZi5hdHRhY2hlc1thdHRhY2hdLnBsYXlfYW5pbWF0aW9uKGFhbmltKQo=</text>
+        <text encoding="base64">CQlmaW5hbF9zZnhzID0gc2tpbl9wbGF5X2RhdGEuZ2V0KCdmaW5hbF9zZnhzJywgW10pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
