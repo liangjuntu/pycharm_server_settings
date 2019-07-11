@@ -33,11 +33,11 @@
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1562664529507">
         <mark key="'" line="218" column="25" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" timestamp="1562817845381">
-        <mark key="[" line="1402" column="35" />
-        <mark key="]" line="1402" column="34" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" timestamp="1562840014704">
+        <mark key="[" line="1403" column="0" />
+        <mark key="]" line="1403" column="0" />
         <mark key="^" line="1402" column="34" />
-        <mark key="." line="1402" column="34" />
+        <mark key="." line="1403" column="0" />
       </file>
       <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562658719236">
         <mark key="'" line="41" column="40" />
@@ -209,7 +209,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkjIHNlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
       </register>
       <register name="-" type="4">
         <text>len</text>
@@ -221,31 +221,31 @@
         <text encoding="base64">CQkJCQkJc2VsZi5hdHRhY2hlc1thdHRhY2hdLnBsYXlfYW5pbWF0aW9uKGFhbmltKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkjIHNlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkjIHNlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJI3NlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJdHJhbnNfdGltZSA9IDAuMAo=</text>
+        <text encoding="base64">CQkJCQkJI3NlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQkJdHJhbnNfdGltZSA9IDAuMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlfcGxheV9tb2RlbCgK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSMgCXNlbGYuc3RvcCgpCg==</text>
+        <text encoding="base64">CQlfcGxheV9tb2RlbCgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSMgZGVmIG9uX3BhdXNlKHNlbGYpOgo=</text>
+        <text encoding="base64">CSMgCXNlbGYuc3RvcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSMgZGVmIG9uX3BhdXNlKHNlbGYpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
