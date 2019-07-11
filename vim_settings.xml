@@ -9,6 +9,9 @@
       <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1562812033170">
+        <mark key="'" line="199" column="50" />
+      </file>
       <file name="/Python Console" timestamp="1562745388453">
         <mark key="[" line="0" column="0" />
       </file>
@@ -19,10 +22,10 @@
         <mark key="'" line="2614" column="32" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1562672753302">
-        <mark key="[" line="203" column="9" />
-        <mark key="]" line="203" column="4" />
-        <mark key="^" line="203" column="4" />
-        <mark key="." line="203" column="4" />
+        <mark key="[" line="219" column="9" />
+        <mark key="]" line="219" column="4" />
+        <mark key="^" line="219" column="4" />
+        <mark key="." line="219" column="4" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1562664507772">
         <mark key="'" line="2138" column="56" />
@@ -30,8 +33,8 @@
       <file name="E:/Work/client/script/cocos/panels/hero_model.py" timestamp="1562671676403">
         <mark key="'" line="105" column="27" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1562745826779">
-        <mark key="'" line="1406" column="89" />
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1562812418024">
+        <mark key="'" line="1822" column="22" />
         <mark key="[" line="1327" column="8" />
         <mark key="]" line="1327" column="8" />
         <mark key="^" line="1327" column="8" />
@@ -49,6 +52,9 @@
         <mark key="]" line="269" column="12" />
         <mark key="." line="269" column="12" />
         <mark key="^" line="269" column="12" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/common_message.py" timestamp="1562811718339">
+        <mark key="'" line="33" column="27" />
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
@@ -90,11 +96,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="685" column="33" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="673" column="83" filename="D:/Work2/client2/script/game_scene/city.py" />
-      <jump line="1194" column="26" filename="D:/Work2/client2/script/cocos/panels/city.py" />
-      <jump line="300" column="63" filename="D:/Work2/client2/script/combat/logic/unit/components/SkillComp.py" />
-      <jump line="221" column="43" filename="D:/Work2/client2/script/combat/logic/unit/components/ModelComp.py" />
       <jump line="10" column="36" filename="E:/Work/client/script/combat/base/model_scene_data.py" />
       <jump line="59" column="54" filename="E:/Work/client/script/cocos/panels/card_buy.py" />
       <jump line="543" column="23" filename="E:/Work/client/script/cocos/panels/card_buy.py" />
@@ -190,6 +191,11 @@
       <jump line="1472" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1336" column="19" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1406" column="89" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="199" column="50" filename="E:/Work/client/script/cocos/panels/activity_148.py" />
+      <jump line="33" column="27" filename="E:/Work/client/script/cocos/panels/common_message.py" />
+      <jump line="1311" column="39" filename="E:/Work/client/script/com/data/cdata/message_data.py" />
+      <jump line="1776" column="20" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="1822" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
