@@ -64,6 +64,7 @@
       <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1562812033170">
         <mark key="'" line="199" column="50" />
       </file>
+      <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" timestamp="1562835983519" />
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1562672753302">
         <mark key="[" line="219" column="9" />
         <mark key="]" line="219" column="4" />
@@ -93,7 +94,6 @@
       <file name="E:/Work/client/script/cocos/panels/common_message.py" timestamp="1562811718339">
         <mark key="'" line="33" column="27" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1562831465417" />
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
@@ -104,7 +104,6 @@
         <mark key="^" line="127" column="116" />
         <mark key="." line="127" column="116" />
       </file>
-      <file name="E:/Work/client/script/cocos/ui_panel.py" timestamp="1562831912582" />
     </filemarks>
     <jumps>
       <jump line="2675" column="30" filename="E:/Work/server/script/entity/avatar_members/LuckyDrawMember.py" />
