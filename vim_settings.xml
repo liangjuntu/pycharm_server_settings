@@ -9,7 +9,7 @@
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
         <mark key="'" line="1402" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1562903485845">
+      <file name="/Python Console" timestamp="1562922343178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1562848174978">
@@ -24,6 +24,22 @@
       <file name="E:/Work/client/script/cocos/panels/hero_model.py" timestamp="1562830305891">
         <mark key="'" line="105" column="29" />
       </file>
+      <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562921137634">
+        <mark key="'" line="650" column="86" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1562922962798">
+        <mark key="'" line="3919" column="21" />
+        <mark key="[" line="2532" column="0" />
+        <mark key="]" line="2532" column="0" />
+        <mark key="." line="2532" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/city.py" timestamp="1562921241683">
+        <mark key="[" line="1142" column="35" />
+        <mark key="]" line="1142" column="35" />
+        <mark key="^" line="1142" column="35" />
+        <mark key="." line="1142" column="35" />
+      </file>
+      <file name="D:/Work2/client2/script/game_scene/city_axiliya.py" timestamp="1562921214953" />
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
       </file>
@@ -52,6 +68,7 @@
       <file name="E:/Work/server/script/combat/logic/logic/refresh_logic.py" timestamp="1562589132380">
         <mark key="'" line="1189" column="24" />
       </file>
+      <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1562923425084" />
       <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1562832692827">
         <mark key="'" line="70" column="41" />
       </file>
@@ -109,11 +126,9 @@
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
       </file>
+      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1562922380636" />
     </filemarks>
     <jumps>
-      <jump line="2550" column="38" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="2660" column="91" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="1821" column="67" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
       <jump line="1783" column="17" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
       <jump line="2562" column="45" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="298" column="27" filename="D:/Work2/client2/script/game_scene/skin_play_scene.py" />
@@ -211,10 +226,13 @@
       <jump line="1406" column="87" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="2580" column="47" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
       <jump line="294" column="62" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" />
+      <jump line="650" column="86" filename="D:/Work2/client2/script/game_scene/city.py" />
+      <jump line="2571" column="49" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="3916" column="21" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -223,34 +241,34 @@
         <text>300</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlzZWxmLmlzX3ByZWxvYWRfaWRsZV8wNSA9IEZhbHNlCg==</text>
+        <text encoding="base64">CQkJCXNmeC5kZXN0cm95KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiBzdHlwZSA9PSAncmFuc2UnOgo=</text>
+        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzZWxmLm1vZGVsLnBsYXlfYW5pbWF0aW9uKCkK</text>
+        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
+        <text encoding="base64">CQlpZiBzdHlwZSA9PSAncmFuc2UnOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZWxmLm1vZGVsLnJlZ2lzdGVyX29uX2VuZF9ldmVudCgpCg==</text>
+        <text encoding="base64">CQlzZWxmLm1vZGVsLnBsYXlfYW5pbWF0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
+        <text encoding="base64">CQlwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkjIHNlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
+        <text encoding="base64">CQlzZWxmLm1vZGVsLnJlZ2lzdGVyX29uX2VuZF9ldmVudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJI3NlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
+        <text encoding="base64">CQkJCQkjIHNlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJdHJhbnNfdGltZSA9IDAuMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -287,7 +305,6 @@
         <entry>300</entry>
       </history-search>
       <history-cmd>
-        <entry>484</entry>
         <entry>22</entry>
         <entry>511</entry>
         <entry>1811</entry>
@@ -306,6 +323,7 @@
         <entry>162</entry>
         <entry>344</entry>
         <entry>177</entry>
+        <entry>2650</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
