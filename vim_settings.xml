@@ -33,8 +33,8 @@
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1562664529507">
         <mark key="'" line="218" column="25" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" timestamp="1562847799523">
-        <mark key="'" line="1421" column="73" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" timestamp="1562897454340">
+        <mark key="'" line="1978" column="37" />
         <mark key="[" line="1338" column="16" />
         <mark key="]" line="1339" column="22" />
         <mark key="." line="1339" column="22" />
@@ -46,8 +46,6 @@
       <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1562663881683">
         <mark key="'" line="207" column="37" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/dialogue.py" timestamp="1562847364853" />
-      <file name="E:/Work/client/script/res_mgr/sfx_mgr.py" timestamp="1562843231918" />
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
       </file>
@@ -67,7 +65,9 @@
       <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1562812033170">
         <mark key="'" line="199" column="50" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" timestamp="1562835983519" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" timestamp="1562897437400">
+        <mark key="'" line="304" column="23" />
+      </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1562672753302">
         <mark key="[" line="219" column="9" />
         <mark key="]" line="219" column="4" />
@@ -107,14 +107,11 @@
         <mark key="^" line="127" column="116" />
         <mark key="." line="127" column="116" />
       </file>
+      <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
+        <mark key="'" line="318" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="19" filename="E:/Work/client/script/cocos/panels/cg_share.py" />
-      <jump line="52" column="38" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
-      <jump line="362" column="22" filename="E:/Work/client/script/cocos/panels/cg_share.py" />
-      <jump line="262" column="21" filename="E:/Work/client/script/cocos/panels/cg_share.py" />
-      <jump line="302" column="71" filename="E:/Work/client/script/combat/logic/unit/components/SkillComp.py" />
-      <jump line="224" column="42" filename="E:/Work/client/script/combat/logic/unit/components/ModelComp.py" />
       <jump line="20" column="13" filename="E:/Work/server/script/combat/base/model_scene_data.py" />
       <jump line="995" column="43" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
       <jump line="0" column="0" filename="D:/Work2/client2/script/com/const.py" />
@@ -209,6 +206,12 @@
       <jump line="1822" column="24" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
       <jump line="1408" column="73" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
       <jump line="1345" column="23" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="304" column="23" filename="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" />
+      <jump line="1933" column="20" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
+      <jump line="1978" column="37" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
+      <jump line="230" column="20" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
+      <jump line="320" column="32" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
+      <jump line="318" column="27" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
