@@ -27,11 +27,12 @@
       <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562921137634">
         <mark key="'" line="650" column="86" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1562922962798">
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1563157002387">
         <mark key="'" line="3919" column="21" />
-        <mark key="[" line="2532" column="0" />
-        <mark key="]" line="2532" column="0" />
-        <mark key="." line="2532" column="0" />
+        <mark key="[" line="1326" column="13" />
+        <mark key="]" line="1326" column="13" />
+        <mark key="." line="1326" column="13" />
+        <mark key="^" line="1326" column="13" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/city.py" timestamp="1562921241683">
         <mark key="[" line="1142" column="35" />
@@ -39,7 +40,6 @@
         <mark key="^" line="1142" column="35" />
         <mark key="." line="1142" column="35" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city_axiliya.py" timestamp="1562921214953" />
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
       </file>
@@ -67,7 +67,6 @@
       <file name="E:/Work/server/script/combat/logic/logic/refresh_logic.py" timestamp="1562589132380">
         <mark key="'" line="1189" column="24" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1562923425084" />
       <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1562832692827">
         <mark key="'" line="70" column="41" />
       </file>
@@ -125,7 +124,6 @@
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1562922380636" />
     </filemarks>
     <jumps>
       <jump line="2562" column="45" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
