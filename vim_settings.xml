@@ -9,7 +9,7 @@
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
         <mark key="'" line="1402" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1562922343178">
+      <file name="/Python Console" timestamp="1563184364377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1562848174978">
@@ -55,6 +55,7 @@
         <mark key="." line="1324" column="4" />
         <mark key="^" line="1324" column="4" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_skin_play.py" timestamp="1563185044387" />
       <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562843154841">
         <mark key="'" line="35" column="32" />
       </file>
@@ -79,14 +80,15 @@
       <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1562812033170">
         <mark key="'" line="199" column="50" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_window.py" timestamp="1563185274394" />
       <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" timestamp="1562897437400">
         <mark key="'" line="304" column="23" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1562904076994">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="111" column="14" />
-        <mark key="^" line="111" column="14" />
-        <mark key="." line="111" column="14" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1563185072108">
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+        <mark key="." line="45" column="31" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" timestamp="1562903773986">
         <mark key="'" line="2580" column="47" />
@@ -95,7 +97,8 @@
         <mark key="^" line="2569" column="18" />
         <mark key="." line="2569" column="18" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1562843526789">
+      <file name="E:/Work/client/script/cocos/panels/settlement_window_summon.py" timestamp="1563184982273" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1563184928752">
         <mark key="'" line="644" column="24" />
         <mark key="[" line="566" column="63" />
         <mark key="]" line="568" column="85" />
@@ -104,6 +107,12 @@
       </file>
       <file name="E:/Work/client/script/cocos/panels/common_message.py" timestamp="1562811718339">
         <mark key="'" line="33" column="27" />
+      </file>
+      <file name="E:/Work/client/script/cocos/ui_manager.py" timestamp="1563185411795">
+        <mark key="[" line="469" column="24" />
+        <mark key="]" line="469" column="52" />
+        <mark key="^" line="469" column="52" />
+        <mark key="." line="469" column="52" />
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
@@ -222,44 +231,44 @@
       <jump line="1419" column="93" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
+      <register name="&quot;" type="4">
+        <text>settlement_success_failure</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>settlement_success_failure</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCXNmeC5kZXN0cm95KCkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CWlmIHNlbGYucGFuZWxzLnNldHRsZW1lbnRfc3VjY2Vzc19mYWlsdXJlLnZhbGlkIFwKCQlhbmQgc2VsZi5wYW5lbHMuc2V0dGxlbWVudF9zdWNjZXNzX2ZhaWx1cmUudmlzaWJsZToKCQkJcmV0dXJu</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
+        <text encoding="base64">CQlpZiBzZWxmLnBhbmVscy5zZXR0bGVtZW50X3N1Y2Nlc3NfZmFpbHVyZS52YWxpZCBcCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiBzdHlwZSA9PSAncmFuc2UnOgo=</text>
+        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZWxmLm1vZGVsLnBsYXlfYW5pbWF0aW9uKCkK</text>
+        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
+        <text encoding="base64">CQlpZiBzdHlwZSA9PSAncmFuc2UnOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlzZWxmLm1vZGVsLnJlZ2lzdGVyX29uX2VuZF9ldmVudCgpCg==</text>
+        <text encoding="base64">CQlzZWxmLm1vZGVsLnBsYXlfYW5pbWF0aW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
+        <text encoding="base64">CQlwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkjIHNlbGYuYXR0YWNoZXNbYXR0YWNoXS5wbGF5X2FuaW1hdGlvbihhYW5pbSkK</text>
+        <text encoding="base64">CQlzZWxmLm1vZGVsLnJlZ2lzdGVyX29uX2VuZF9ldmVudCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcHJlbG9hZF9zZnhzID0gW10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
