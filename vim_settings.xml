@@ -6,6 +6,9 @@
       <file name="E:/Work/server/script/entity/avatar_members/RefreshMember.py" timestamp="1562639410528">
         <mark key="'" line="161" column="35" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1563877470729">
+        <mark key="'" line="233" column="24" />
+      </file>
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
         <mark key="'" line="1402" column="49" />
       </file>
@@ -112,8 +115,8 @@
         <mark key="^" line="133" column="15" />
         <mark key="." line="133" column="15" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1563876425935">
-        <mark key="'" line="130" column="52" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1563877454890">
+        <mark key="'" line="203" column="42" />
         <mark key="[" line="214" column="54" />
         <mark key="]" line="214" column="52" />
         <mark key="." line="214" column="52" />
@@ -140,8 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1884" column="26" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="1950" column="0" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="836" column="29" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
       <jump line="1910" column="24" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="583" column="31" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
@@ -240,6 +241,8 @@
       <jump line="158" column="49" filename="E:/Work/client/script/com/data/cdata/skin_texture_control.py" />
       <jump line="163" column="40" filename="E:/Work/client/script/res_mgr/effects/scene_adjust.py" />
       <jump line="130" column="52" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="203" column="42" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="233" column="24" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
