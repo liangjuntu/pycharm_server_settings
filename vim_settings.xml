@@ -12,11 +12,18 @@
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
         <mark key="'" line="1402" column="49" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" timestamp="1564059890385">
+        <mark key="'" line="164" column="63" />
+      </file>
+      <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust_winter.py" timestamp="1564059962433" />
       <file name="/Python Console" timestamp="1563875155351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1563875416785">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1564059485153">
+        <mark key="'" line="1264" column="45" />
       </file>
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1562663844836">
         <mark key="'" line="2614" column="32" />
@@ -34,6 +41,7 @@
       <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562921137634">
         <mark key="'" line="650" column="86" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust_sakura.py" timestamp="1564059829329" />
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1563157002387">
         <mark key="'" line="3919" column="21" />
         <mark key="[" line="1326" column="13" />
@@ -113,7 +121,6 @@
         <mark key="^" line="133" column="15" />
         <mark key="." line="133" column="15" />
       </file>
-      <file name="E:/UE4/UE4Shaders/Private/ScreenSpaceReflections.usf" timestamp="1563939246322" />
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1563881925361">
         <mark key="'" line="203" column="42" />
         <mark key="[" line="202" column="19" />
@@ -141,10 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="836" column="29" filename="D:/Work2/client2/script/combat/view/logic/events/event_base.py" />
-      <jump line="1910" column="24" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="583" column="31" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="1891" column="33" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
       <jump line="1574" column="25" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
       <jump line="1580" column="23" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
       <jump line="1403" column="50" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
@@ -241,6 +244,10 @@
       <jump line="130" column="52" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="203" column="42" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="233" column="24" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
+      <jump line="25" column="66" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
+      <jump line="1264" column="45" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="164" column="63" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
+      <jump line="19" column="28" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
