@@ -15,7 +15,6 @@
       <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" timestamp="1564059890385">
         <mark key="'" line="164" column="63" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust_winter.py" timestamp="1564059962433" />
       <file name="/Python Console" timestamp="1563875155351">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,7 +40,7 @@
       <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562921137634">
         <mark key="'" line="650" column="86" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust_sakura.py" timestamp="1564059829329" />
+      <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust_sakura.py" timestamp="1564108475359" />
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1563157002387">
         <mark key="'" line="3919" column="21" />
         <mark key="[" line="1326" column="13" />
@@ -80,6 +79,7 @@
       <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562843154841">
         <mark key="'" line="35" column="32" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/effect_mgr.py" timestamp="1564108458839" />
       <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1562663881683">
         <mark key="'" line="207" column="37" />
       </file>
