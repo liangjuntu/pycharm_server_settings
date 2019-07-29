@@ -9,7 +9,6 @@
       <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1563877470729">
         <mark key="'" line="233" column="24" />
       </file>
-      <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py.mine" timestamp="1564384020572" />
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
         <mark key="'" line="1402" column="49" />
       </file>
@@ -142,11 +141,11 @@
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
-      <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" timestamp="1564391212966">
-        <mark key="[" line="698" column="14" />
-        <mark key="]" line="883" column="57" />
+      <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" timestamp="1564409005303">
+        <mark key="[" line="700" column="25" />
+        <mark key="]" line="700" column="25" />
         <mark key="^" line="883" column="57" />
-        <mark key="." line="883" column="57" />
+        <mark key="." line="700" column="25" />
       </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
@@ -256,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>float</text>
+        <text>Float</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>Float</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
