@@ -9,6 +9,7 @@
       <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1563877470729">
         <mark key="'" line="233" column="24" />
       </file>
+      <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py.mine" timestamp="1564384020572" />
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
         <mark key="'" line="1402" column="49" />
       </file>
@@ -40,7 +41,6 @@
       <file name="D:/Work2/client2/script/game_scene/city.py" timestamp="1562921137634">
         <mark key="'" line="650" column="86" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust_sakura.py" timestamp="1564108475359" />
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1563157002387">
         <mark key="'" line="3919" column="21" />
         <mark key="[" line="1326" column="13" />
@@ -79,7 +79,6 @@
       <file name="E:/Work/client/script/res_mgr/model_mgr.py" timestamp="1562843154841">
         <mark key="'" line="35" column="32" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effect_mgr.py" timestamp="1564108458839" />
       <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1562663881683">
         <mark key="'" line="207" column="37" />
       </file>
@@ -142,6 +141,12 @@
       </file>
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
+      </file>
+      <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" timestamp="1564384854215">
+        <mark key="[" line="883" column="55" />
+        <mark key="]" line="883" column="57" />
+        <mark key="^" line="883" column="57" />
+        <mark key="." line="883" column="57" />
       </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
@@ -251,46 +256,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.5, 0)</text>
+        <text>float</text>
       </register>
       <register name="-" type="4">
-        <text>0.5, 0)</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWdnLnVpLmFjdGlvbnMuc2V0dGxlbWVudF9mdWxsc2NyZWVuX2Zhc2hpb24ubG9vcC5zdG9wKCkK</text>
+        <text encoding="base64">CQlzZWxmLnN5bmNfc3Nhbyhjb25maWdfZGF0YSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlhbmQgc2VsZi5wYW5lbHMuc2V0dGxlbWVudF9mdWxsc2NyZWVuX2Zhc2hpb24udmlzaWJsZToK</text>
+      <register name="1" type="4">
+        <text>{
+				'default': 1,
+				'id': 'SSAOType',
+				'label': 'SSAOType',
+				'type': 'Boolean'
+			},</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiBnZy51aS5hY3Rpb25zLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9mYXNoaW9uLmZhc2hpb25fb3BlbjoK</text>
+        <text encoding="base64">CQkJCSdpZCc6ICdTU0FPVGhpY2tuZXNzJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcHJpbnQoJ3NoYXJlIGlzIG51bGwnKQo=</text>
+        <text encoding="base64">CQlzZWxmLmFjdGl2ZV9zY24uc3Nhb190eXBlID0gaW50KHNlbGYuX2dldF9pdGVtX2RhdGEoY29uZmlnX2RhdGEsICdTU0FPVHlwZScpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IFwK</text>
+        <text encoding="base64">CQlzZWxmLmFjdGl2ZV9zY24uc3NyX21heF9yYXlfdHJhY2VfZGlzdGFuY2UgPSBmbG9hdChzZWxmLl9nZXRfaXRlbV9kYXRhKGNvbmZpZ19kYXRhLCAnU1NBT0ludGVuc2l0eScpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiBzZWxmLnBhbmVscy5zZXR0bGVtZW50X3N1Y2Nlc3NfZmFpbHVyZS52YWxpZCBcCg==</text>
+        <text encoding="base64">CQlhbmQgc2VsZi5wYW5lbHMuc2V0dGxlbWVudF9mdWxsc2NyZWVuX2Zhc2hpb24udmlzaWJsZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
+        <text encoding="base64">CQlpZiBnZy51aS5hY3Rpb25zLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9mYXNoaW9uLmZhc2hpb25fb3BlbjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhd2FrZV9zdGFnZSA9IDQK</text>
+        <text encoding="base64">CQkJcHJpbnQoJ3NoYXJlIGlzIG51bGwnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiBzdHlwZSA9PSAncmFuc2UnOgo=</text>
+        <text encoding="base64">IFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZWxmLm1vZGVsLnBsYXlfYW5pbWF0aW9uKCkK</text>
+        <text encoding="base64">CQlpZiBzZWxmLnBhbmVscy5zZXR0bGVtZW50X3N1Y2Nlc3NfZmFpbHVyZS52YWxpZCBcCg==</text>
       </register>
       <register name=":" type="4">
-        <text>255</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -341,9 +351,9 @@
         <entry>344</entry>
         <entry>177</entry>
         <entry>2650</entry>
-        <entry>w</entry>
         <entry>1830</entry>
         <entry>255</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
