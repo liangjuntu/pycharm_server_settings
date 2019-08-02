@@ -6,8 +6,8 @@
       <file name="E:/Work/server/script/entity/avatar_members/RefreshMember.py" timestamp="1562639410528">
         <mark key="'" line="161" column="35" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1563877470729">
-        <mark key="'" line="233" column="24" />
+      <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1564741411484">
+        <mark key="'" line="159" column="22" />
       </file>
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
         <mark key="'" line="1402" column="49" />
@@ -56,8 +56,8 @@
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1563875362117">
-        <mark key="'" line="134" column="17" />
+      <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1564740989929">
+        <mark key="'" line="161" column="42" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1562664529507">
         <mark key="'" line="218" column="25" />
@@ -119,8 +119,8 @@
         <mark key="^" line="133" column="15" />
         <mark key="." line="133" column="15" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1564740239593">
-        <mark key="'" line="203" column="42" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1564741350500">
+        <mark key="'" line="208" column="38" />
         <mark key="[" line="202" column="19" />
         <mark key="]" line="202" column="18" />
         <mark key="." line="202" column="18" />
@@ -152,14 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1574" column="25" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="1580" column="23" filename="D:/Work2/client2/script/combat/view/unit/Unit.py" />
-      <jump line="1403" column="50" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="63" column="80" filename="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" />
-      <jump line="83" column="29" filename="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" />
-      <jump line="62" column="46" filename="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" />
-      <jump line="174" column="58" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
-      <jump line="14" column="0" filename="D:/Work2/client2/script/com/data/cdata/furniture_room.py" />
       <jump line="2552" column="41" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="721" column="42" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="697" column="33" filename="D:/Work2/client2/script/game_scene/city.py" />
@@ -247,11 +239,19 @@
       <jump line="163" column="40" filename="E:/Work/client/script/res_mgr/effects/scene_adjust.py" />
       <jump line="130" column="52" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="203" column="42" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="233" column="24" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="25" column="66" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="1264" column="45" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="164" column="63" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="19" column="28" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
+      <jump line="161" column="42" filename="E:/Work/client/script/game_scene/city_base.py" />
+      <jump line="233" column="24" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
+      <jump line="77" column="33" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
+      <jump line="234" column="21" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
+      <jump line="204" column="26" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
+      <jump line="208" column="38" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="203" column="38" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
+      <jump line="159" column="22" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
+      <jump line="141" column="8" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
