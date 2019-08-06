@@ -141,12 +141,6 @@
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
-      <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" timestamp="1565085334197">
-        <mark key="[" line="823" column="70" />
-        <mark key="]" line="823" column="78" />
-        <mark key="." line="823" column="78" />
-        <mark key="^" line="823" column="78" />
-      </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
       </file>
@@ -255,7 +249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MaxRayTraceDistance</text>
+        <text>if not data.get('ssr', False):
+			self.active_scn.ssr_intensity = 0.0
+		else:
+			self.active_scn.ssr_intensity = float(self.cur_data.get('SSRIntensity', 0.0))</text>
       </register>
       <register name="-" type="4">
         <text>MaxRayTraceDistance</text>
@@ -267,13 +264,19 @@
         <text encoding="base64">CQkJc2VsZi5hY3RpdmVfc2NuLnNzYW9faW50ZW5zaXR5ID0gZmxvYXQoc2VsZi5jdXJfZGF0YVsnU1NBT0ludGVuc2l0eSddKQo=</text>
       </register>
       <register name="1" type="4">
+        <text>if not data.get('ssr', False):
+			self.active_scn.ssr_intensity = 0.0
+		else:
+			self.active_scn.ssr_intensity = float(self.cur_data.get('SSRIntensity', 0.0))</text>
+      </register>
+      <register name="2" type="4">
         <text># self.active_scn.ssr_max_step_count = int(self._get_item_data(config_data, 'SSRMaxStepCount'))
 		# self.active_scn.ssr_max_step_size_bias = int(self._get_item_data(config_data, 'SSRMaxStepSizeBias'))
 		# self.active_scn.ssr_binary_search_step_count = int(self._get_item_data(config_data, 'SSRBinarySearchStepCount'))
 		# self.active_scn.ssr_thickness = float(self._get_item_data(config_data, 'SSRThickness'))
 		# self.active_scn.ssr_distance_threshold = float(self._get_item_data(config_data, 'SSRDistanceThreshold'))</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
 				'default': 4096,
 				'id': 'SSRMaxRayTraceDistance',
@@ -324,16 +327,16 @@
 				'type': 'Integer'
 			},</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJaWYgbm90IGRhdGEuZ2V0KCdzc2FvJywgRmFsc2UpOgo=</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">CQkJaWYgbm90IGRhdGEuZ2V0KCdzc2FvJywgRmFsc2UpOgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJaWYgbm90IGRhdGEuZ2V0KCdzc2FvJywgRmFsc2UpOgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlpZiBub3QgZGF0YS5nZXQoJ3NzYW8nLCBGYWxzZSk6Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
 				'default': 1,
 				'id': 'SSAOType',
@@ -341,14 +344,11 @@
 				'type': 'Boolean'
 			},</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCSdpZCc6ICdTU0FPVGhpY2tuZXNzJywK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlzZWxmLmFjdGl2ZV9zY24uc3Nhb190eXBlID0gaW50KHNlbGYuX2dldF9pdGVtX2RhdGEoY29uZmlnX2RhdGEsICdTU0FPVHlwZScpKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZWxmLmFjdGl2ZV9zY24uc3NyX21heF9yYXlfdHJhY2VfZGlzdGFuY2UgPSBmbG9hdChzZWxmLl9nZXRfaXRlbV9kYXRhKGNvbmZpZ19kYXRhLCAnU1NBT0ludGVuc2l0eScpKQo=</text>
+        <text encoding="base64">CQlzZWxmLmFjdGl2ZV9zY24uc3Nhb190eXBlID0gaW50KHNlbGYuX2dldF9pdGVtX2RhdGEoY29uZmlnX2RhdGEsICdTU0FPVHlwZScpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
