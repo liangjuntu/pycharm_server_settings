@@ -27,8 +27,10 @@
       <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1562663844836">
         <mark key="'" line="2614" column="32" />
       </file>
-      <file name="E:/Work/client/script/game_scene/player_home_scene.py" timestamp="1565149447180">
-        <mark key="[" line="1326" column="0" />
+      <file name="E:/Work/client/script/game_scene/player_home_scene.py" timestamp="1565172087381">
+        <mark key="[" line="1331" column="89" />
+        <mark key="]" line="1331" column="89" />
+        <mark key="." line="1331" column="89" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_wardrobe.py" timestamp="1563787315576">
         <mark key="'" line="1829" column="85" />
