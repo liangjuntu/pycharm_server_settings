@@ -143,7 +143,7 @@
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/combat/view/logic/events/event_base.py" timestamp="1565250928305" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/combat/view/logic/events/event_base.py" timestamp="1565255129703" />
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
       </file>
@@ -354,7 +354,7 @@
         <text encoding="base64">CQlzZWxmLmFjdGl2ZV9zY24uc3Nhb190eXBlID0gaW50KHNlbGYuX2dldF9pdGVtX2RhdGEoY29uZmlnX2RhdGEsICdTU0FPVHlwZScpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>283</text>
       </register>
     </registers>
     <search>
@@ -388,7 +388,6 @@
         <entry>300</entry>
       </history-search>
       <history-cmd>
-        <entry>1811</entry>
         <entry>220</entry>
         <entry>247</entry>
         <entry>159</entry>
@@ -408,6 +407,7 @@
         <entry>1830</entry>
         <entry>255</entry>
         <entry>w</entry>
+        <entry>283</entry>
       </history-cmd>
       <history-expr />
       <history-input />
