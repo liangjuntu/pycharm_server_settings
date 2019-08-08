@@ -9,7 +9,7 @@
       <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1564741444636">
         <mark key="'" line="159" column="22" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" timestamp="1565248305999">
+      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" timestamp="1565250597003">
         <mark key="'" line="81" column="22" />
       </file>
       <file name="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" timestamp="1562815902569">
@@ -83,8 +83,8 @@
       <file name="E:/Work/client/script/cutils/model_hsv_skin.py" timestamp="1562663881683">
         <mark key="'" line="207" column="37" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/activity_104_settlement.py" timestamp="1565248304408">
-        <mark key="'" line="65" column="36" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/activity_104_settlement.py" timestamp="1565250907681">
+        <mark key="'" line="65" column="42" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
@@ -143,12 +143,12 @@
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
+      <file name="E:/Work/G58SVN/source/trunk/client/script/combat/view/logic/events/event_base.py" timestamp="1565250928305" />
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="697" column="33" filename="D:/Work2/client2/script/game_scene/city.py" />
       <jump line="1257" column="100" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
       <jump line="74" column="42" filename="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" />
       <jump line="1267" column="44" filename="D:/Work2/client2/script/game_scene/player_home_scene.py" />
@@ -247,7 +247,8 @@
       <jump line="159" column="22" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="141" column="8" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="81" column="22" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
-      <jump line="65" column="36" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/activity_104_settlement.py" />
+      <jump line="275" column="24" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
+      <jump line="65" column="42" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/activity_104_settlement.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
