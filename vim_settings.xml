@@ -108,12 +108,14 @@
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
+      <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" timestamp="1565681801166">
+        <mark key="'" line="808" column="19" />
+      </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="533" column="46" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="23" column="31" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="41" column="40" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="582" column="13" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -213,6 +215,7 @@
       <jump line="161" column="37" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="234" column="0" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="93" column="25" filename="E:/Work/client/script/game_scene/city_container.py" />
+      <jump line="808" column="19" filename="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
