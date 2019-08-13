@@ -62,6 +62,9 @@
       <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/activity_104_settlement.py" timestamp="1565250907681">
         <mark key="'" line="65" column="42" />
       </file>
+      <file name="E:/Work/G58SVN/source/trunk/client/script/entity/avatar_members/PveTeamMember.py" timestamp="1565689650852">
+        <mark key="'" line="173" column="39" />
+      </file>
       <file name="D:/Work2/client2/script/game_scene/awake_show.py" timestamp="1562568196835">
         <mark key="'" line="118" column="27" />
       </file>
@@ -116,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="31" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="41" column="40" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="582" column="13" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="631" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -216,6 +218,7 @@
       <jump line="234" column="0" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="93" column="25" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="808" column="19" filename="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" />
+      <jump line="173" column="39" filename="E:/Work/G58SVN/source/trunk/client/script/entity/avatar_members/PveTeamMember.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
