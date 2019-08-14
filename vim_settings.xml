@@ -47,7 +47,7 @@
       <file name="D:/Work2/client2/script/entity/avatar_members/FurnitureMember.py" timestamp="1562571400985">
         <mark key="'" line="62" column="46" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565350348983">
+      <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1562664529507">
@@ -71,6 +71,9 @@
       <file name="E:/Work/server/script/combat/logic/logic/refresh_logic.py" timestamp="1562589132380">
         <mark key="'" line="1189" column="24" />
       </file>
+      <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1565764396884">
+        <mark key="'" line="318" column="35" />
+      </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" timestamp="1565345673060">
         <mark key="'" line="297" column="65" />
       </file>
@@ -83,8 +86,8 @@
       <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" timestamp="1565256718725">
         <mark key="]" line="287" column="89" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1565351030779">
-        <mark key="'" line="161" column="37" />
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1565764113435">
+        <mark key="'" line="229" column="18" />
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="20" />
         <mark key="." line="240" column="0" />
@@ -92,11 +95,11 @@
       <file name="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" timestamp="1565345663997">
         <mark key="'" line="2552" column="51" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565350903544">
-        <mark key="'" line="93" column="25" />
+      <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
+        <mark key="'" line="216" column="53" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1565350797057">
-        <mark key="'" line="81" column="25" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1565764143678">
+        <mark key="'" line="614" column="38" />
         <mark key="[" line="137" column="28" />
         <mark key="]" line="138" column="27" />
         <mark key="." line="138" column="27" />
@@ -119,13 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="40" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
-      <jump line="582" column="13" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="631" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="583" column="16" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="634" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="632" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="524" column="8" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1409" column="75" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="2643" column="13" filename="E:/Work/client/script/cutils/chelpers.py" />
       <jump line="2139" column="37" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
@@ -212,13 +208,20 @@
       <jump line="2552" column="51" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
       <jump line="297" column="65" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" />
       <jump line="81" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
-      <jump line="241" column="31" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="149" column="30" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="161" column="37" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
       <jump line="234" column="0" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="93" column="25" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="808" column="19" filename="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" />
       <jump line="173" column="39" filename="E:/Work/G58SVN/source/trunk/client/script/entity/avatar_members/PveTeamMember.py" />
+      <jump line="608" column="56" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="241" column="27" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
+      <jump line="612" column="8" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="229" column="18" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
+      <jump line="614" column="38" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
+      <jump line="223" column="50" filename="E:/Work/client/script/game_scene/city_container.py" />
+      <jump line="318" column="35" filename="E:/Work/client/script/game_scene/city_heroshow.py" />
+      <jump line="216" column="53" filename="E:/Work/client/script/game_scene/city_container.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
