@@ -18,10 +18,10 @@
       <file name="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" timestamp="1564059890385">
         <mark key="'" line="164" column="63" />
       </file>
-      <file name="/Python Console" timestamp="1565350758255">
+      <file name="/Python Console" timestamp="1565770252747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1565350545515">
+      <file name="/fragment.py" timestamp="1565768803041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1565147511163">
@@ -66,6 +66,7 @@
       <file name="E:/Work/server/script/combat/logic/logic/refresh_logic.py" timestamp="1562589132380">
         <mark key="'" line="1189" column="24" />
       </file>
+      <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1565768644689" />
       <file name="E:/Work/client/script/game_scene/city_heroshow.py" timestamp="1565764396884">
         <mark key="'" line="318" column="35" />
       </file>
@@ -78,9 +79,6 @@
       <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1562812033170">
         <mark key="'" line="199" column="50" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" timestamp="1565256718725">
-        <mark key="]" line="287" column="89" />
-      </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1565764113435">
         <mark key="'" line="229" column="18" />
         <mark key="[" line="240" column="0" />
@@ -89,6 +87,9 @@
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" timestamp="1565345663997">
         <mark key="'" line="2552" column="51" />
+      </file>
+      <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1565769430929">
+        <mark key="'" line="239" column="37" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
@@ -106,20 +107,24 @@
       <file name="E:/Work/client/script/cocos/panels/common_message.py" timestamp="1562811718339">
         <mark key="'" line="33" column="27" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1565770281004">
+        <mark key="[" line="251" column="10" />
+        <mark key="]" line="251" column="9" />
+        <mark key="." line="251" column="9" />
+        <mark key="^" line="251" column="9" />
+      </file>
       <file name="D:/Work2/client2/script/entity/avatar_attrs/FurnitureData.py" timestamp="1562585931971">
         <mark key="'" line="74" column="42" />
       </file>
       <file name="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" timestamp="1565689610414">
         <mark key="'" line="808" column="19" />
       </file>
+      <file name="D:/Work2/client2/script/res_mgr/scene_mgr.py" timestamp="1565769844611" />
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" timestamp="1562897819155">
         <mark key="'" line="318" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1409" column="75" filename="E:/Work/client/script/cocos/ui_utils.py" />
-      <jump line="2643" column="13" filename="E:/Work/client/script/cutils/chelpers.py" />
-      <jump line="2139" column="37" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
       <jump line="194" column="48" filename="E:/Work/client/script/cutils/model_hsv_skin.py" />
       <jump line="394" column="23" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="2614" column="32" filename="E:/Work/client/script/cutils/chelpers.py" />
@@ -217,13 +222,16 @@
       <jump line="223" column="50" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="318" column="35" filename="E:/Work/client/script/game_scene/city_heroshow.py" />
       <jump line="216" column="53" filename="E:/Work/client/script/game_scene/city_container.py" />
+      <jump line="99" column="17" filename="D:/Work2/client2/script/res_mgr/scene_mgr.py" />
+      <jump line="239" column="37" filename="D:/Work2/client2/script/game_scene/city_container.py" />
+      <jump line="94" column="8" filename="D:/Work2/client2/script/res_mgr/scene_mgr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlzY2VuZS5zdG9wKCkK</text>
+        <text encoding="base64">CQlpZiBzY2VuZV9vYmo6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>for (hero_anim, attach_infos, index) in self.attachs2play.items():</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
@@ -232,86 +240,34 @@
         <text encoding="base64">CQkJc2VsZi5hY3RpdmVfc2NuLnNzYW9faW50ZW5zaXR5ID0gZmxvYXQoc2VsZi5jdXJfZGF0YVsnU1NBT0ludGVuc2l0eSddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzY2VuZS5zdG9wKCkK</text>
+        <text encoding="base64">CQlpZiBzY2VuZV9vYmo6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlnLmNpdHlfY29udGFpbmVyLnNjZW5lX21nci5hY3RpdmVfc2NuID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWF0dGFjaF9tb2RlbCwgYXR0YWNoX2FuaW0gPSBhdHRhY2hfaW5mbwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQlzZWxmLmN1cl9zY2VuZV9rZXkgPSBsYXN0X3NpbXBsZV9zY2VuZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlzY2VuZS5zdG9wKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWF0dGFjaF9tb2RlbCwgYXR0YWNoX2FuaW0gPSBhdHRhY2hfaW5mbwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJZm9yIGF0dGFjaF9pbmZvIGluIGF0dGFjaF9pbmZvczoK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>if not data.get('ssr', False):
 			self.active_scn.ssr_intensity = 0.0
 		else:
 			self.active_scn.ssr_intensity = float(self.cur_data.get('SSRIntensity', 0.0))</text>
-      </register>
-      <register name="6" type="4">
-        <text># self.active_scn.ssr_max_step_count = int(self._get_item_data(config_data, 'SSRMaxStepCount'))
-		# self.active_scn.ssr_max_step_size_bias = int(self._get_item_data(config_data, 'SSRMaxStepSizeBias'))
-		# self.active_scn.ssr_binary_search_step_count = int(self._get_item_data(config_data, 'SSRBinarySearchStepCount'))
-		# self.active_scn.ssr_thickness = float(self._get_item_data(config_data, 'SSRThickness'))
-		# self.active_scn.ssr_distance_threshold = float(self._get_item_data(config_data, 'SSRDistanceThreshold'))</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-				'default': 4096,
-				'id': 'SSRMaxRayTraceDistance',
-				'label': 'SSRMaxRayTraceDistance',
-				'range': [0, 40960],
-				'type': 'Integer'
-			},
-			{
-				'default': 32,
-				'id': 'SSRMaxStepCount',
-				'label': 'SSRMaxStepCount',
-				'range': [0, 1024],
-				'type': 'Integer'
-			},
-			{
-				'default': 2,
-				'id': 'SSRMaxStepSizeBias',
-				'label': 'SSRMaxStepSizeBias',
-				'range': [0, 100],
-				'type': 'Integer'
-			},
-			{
-				'default': 8,
-				'id': 'SSRBinarySearchStepCount',
-				'label': 'SSRBinarySearchStepCount',
-				'range': [0, 16],
-				'type': 'Integer'
-			},
-			{
-				'default': 1.0,
-				'id': 'SSRThickness',
-				'label': 'SSRThickness',
-				'range': [0.0, 2000.0],
-				'type': 'Float'
-			},
-			{
-				'default': 1.0,
-				'id': 'SSRDistanceThreshold',
-				'label': 'SSRDistanceThreshold',
-				'range': [0.0, 2000.0],
-				'type': 'Float'
-			},
-			{
-				'default': 2,
-				'id': 'SSRStartStep',
-				'label': 'SSRStartStep',
-				'range': [0, 10],
-				'type': 'Integer'
-			},</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJaWYgbm90IGRhdGEuZ2V0KCdzc2FvJywgRmFsc2UpOgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgbm90IGRhdGEuZ2V0KCdzc2FvJywgRmFsc2UpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
