@@ -31,9 +31,9 @@
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1565855315124">
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1566208571120">
         <mark key="'" line="1359" column="22" />
-        <mark key="[" line="1338" column="13" />
+        <mark key="[" line="1339" column="14" />
         <mark key="]" line="1339" column="0" />
         <mark key="." line="1339" column="0" />
       </file>
@@ -61,12 +61,10 @@
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
-      <file name="D:/Work2/client2/script/gg.py" timestamp="1566182505896" />
       <file name="D:/Work2/client2/script/cocos/panels/home_hero.py" timestamp="1565774173078">
         <mark key="'" line="381" column="37" />
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="D:/Work2/client2/script/logic/logic_main.py" timestamp="1566182970042" />
     </filemarks>
     <jumps>
       <jump line="1823" column="24" filename="E:/Work/client/script/cocos/ui_utils.py" />
