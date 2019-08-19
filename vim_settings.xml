@@ -41,6 +41,13 @@
         <mark key="." line="138" column="27" />
         <mark key="^" line="138" column="27" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1566180555802">
+        <mark key="'" line="434" column="51" />
+        <mark key="[" line="1392" column="11" />
+        <mark key="]" line="1392" column="11" />
+        <mark key="^" line="1387" column="23" />
+        <mark key="." line="1392" column="11" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1565772455764">
         <mark key="'" line="256" column="41" />
         <mark key="[" line="252" column="76" />
@@ -51,15 +58,12 @@
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
-      <file name="D:/Work2/client2/script/gg.py" timestamp="1565957163710" />
       <file name="D:/Work2/client2/script/cocos/panels/home_hero.py" timestamp="1565774173078">
         <mark key="'" line="381" column="37" />
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="D:/Work2/client2/script/logic/logic_main.py" timestamp="1565957172877" />
     </filemarks>
     <jumps>
-      <jump line="70" column="41" filename="E:/Work/client/script/game_scene/city_heroshow.py" />
       <jump line="1823" column="24" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1900" column="0" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1472" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
@@ -159,19 +163,20 @@
       <jump line="1449" column="71" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="1360" column="22" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="366" column="26" filename="D:/Work2/client2/script/game_scene/city_home.py" />
+      <jump line="434" column="51" filename="D:/Work2/client2/script/cocos/panels/debug_ui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJc2Z4LnBvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigxLCAxLCAxKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZW5hYmxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text encoding="base64">ZW5hYmxlIA==</text>
       </register>
       <register name="/" type="4">
         <text>300</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJc2Z4LnBvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigxMDAwLCAxMDAwLCAxMDAwKQo=</text>
+        <text encoding="base64">CXByaW50KCdlbmFibGUgZnhhYScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJc2Z4LnBvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigxLCAxLCAxKQo=</text>
