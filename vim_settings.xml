@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566195489107">
+        <mark key="[" line="2009" column="54" />
+      </file>
       <file name="/Dummy.txt" timestamp="1562569637527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,7 +211,7 @@
         <text encoding="base64">CQkJCXNmeC5yZW1vdmVfZnJvbV9wYXJlbnQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>2011</text>
       </register>
     </registers>
     <search>
@@ -242,7 +245,6 @@
         <entry>300</entry>
       </history-search>
       <history-cmd>
-        <entry>159</entry>
         <entry>312</entry>
         <entry>1080</entry>
         <entry>216</entry>
@@ -262,6 +264,7 @@
         <entry>242</entry>
         <entry>1377</entry>
         <entry>w</entry>
+        <entry>2011</entry>
       </history-cmd>
       <history-expr />
       <history-input />
