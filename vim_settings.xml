@@ -18,7 +18,10 @@
       <file name="/fragment.py" timestamp="1566295824482">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1566382195089" />
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1566385603395">
+        <mark key="'" line="755" column="22" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1566385489570" />
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1565769430929">
         <mark key="'" line="239" column="37" />
       </file>
@@ -69,7 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1900" column="0" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1472" column="22" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="1336" column="19" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="199" column="50" filename="E:/Work/client/script/cocos/panels/activity_148.py" />
@@ -169,6 +171,7 @@
       <jump line="366" column="26" filename="D:/Work2/client2/script/game_scene/city_home.py" />
       <jump line="434" column="51" filename="D:/Work2/client2/script/cocos/panels/debug_ui.py" />
       <jump line="1834" column="24" filename="E:/Work/client/script/cocos/ui_utils.py" />
+      <jump line="755" column="22" filename="E:/Work/client/script/game_scene/city.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
