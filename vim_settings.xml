@@ -28,6 +28,7 @@
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1566387738433">
         <mark key="'" line="755" column="22" />
       </file>
+      <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1566553782215" />
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1565769430929">
         <mark key="'" line="239" column="37" />
       </file>
@@ -54,8 +55,8 @@
         <mark key="." line="1926" column="8" />
         <mark key="^" line="1926" column="8" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1566357454145">
-        <mark key="'" line="615" column="38" />
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1566553705018">
+        <mark key="'" line="506" column="40" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="139" column="27" />
         <mark key="." line="139" column="27" />
@@ -84,7 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1336" column="19" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="199" column="50" filename="E:/Work/client/script/cocos/panels/activity_148.py" />
       <jump line="33" column="27" filename="E:/Work/client/script/cocos/panels/common_message.py" />
       <jump line="1311" column="39" filename="E:/Work/client/script/com/data/cdata/message_data.py" />
@@ -184,6 +184,7 @@
       <jump line="1834" column="24" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="755" column="22" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="2" column="0" filename="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d.py" />
+      <jump line="506" column="40" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
