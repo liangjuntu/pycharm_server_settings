@@ -19,11 +19,13 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1566812301960">
+      <file name="/Python Console" timestamp="1566813785361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1566480128555">
+      <file name="/fragment.py" timestamp="1566813775541">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1566387738433">
         <mark key="'" line="755" column="22" />
@@ -84,7 +86,7 @@
         <mark key="[" line="2009" column="54" />
       </file>
       <file name="D:/GitHub/smaa/Scripts/SearchTex.py" timestamp="1566806470043" />
-      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1566812132764" />
+      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1566814780199" />
     </filemarks>
     <jumps>
       <jump line="199" column="50" filename="E:/Work/client/script/cocos/panels/activity_148.py" />
@@ -190,10 +192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZW5hYmxlIA==</text>
+        <text>and a2 != 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW5hYmxlIA==</text>
+        <text>and a2 != 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
