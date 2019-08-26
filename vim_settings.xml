@@ -19,7 +19,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1566822109994">
+      <file name="/Python Console" timestamp="1566824467958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566819162612">
@@ -86,15 +86,15 @@
         <mark key="[" line="2009" column="54" />
       </file>
       <file name="D:/GitHub/smaa/Scripts/SearchTex.py" timestamp="1566806470043" />
-      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1566822531257">
-        <mark key="'" line="620" column="22" />
+      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1566824726934">
+        <mark key="'" line="429" column="17" />
+        <mark key="[" line="625" column="4" />
+        <mark key="]" line="625" column="4" />
+        <mark key="^" line="625" column="4" />
+        <mark key="." line="625" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1402" column="49" filename="E:/G58Trunk/trunk/client/script/cocos/ui_utils.py" />
-      <jump line="170" column="12" filename="E:/G58Trunk/trunk/client/script/combat/base/model_scene_data.py" />
-      <jump line="105" column="29" filename="E:/Work/client/script/cocos/panels/hero_model.py" />
-      <jump line="175" column="8" filename="E:/Work/client/script/game_scene/city_heroshow.py" />
       <jump line="35" column="32" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="644" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1822" column="24" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
@@ -191,6 +191,10 @@
       <jump line="593" column="9" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
       <jump line="620" column="22" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
       <jump line="519" column="4" filename="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tempfile.py" />
+      <jump line="627" column="14" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
+      <jump line="600" column="17" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
+      <jump line="577" column="20" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
+      <jump line="429" column="17" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -233,7 +237,7 @@
         <text encoding="base64">CQkJCXNmeC5yZW1vdmVfZnJvbV9wYXJlbnQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>2011</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -285,8 +289,8 @@
         <entry>283</entry>
         <entry>242</entry>
         <entry>1377</entry>
-        <entry>w</entry>
         <entry>2011</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
