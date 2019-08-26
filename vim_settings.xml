@@ -28,7 +28,6 @@
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1566387738433">
         <mark key="'" line="755" column="22" />
       </file>
-      <file name="E:/Work/client/script/cutils/chelpers.py" timestamp="1566554518858" />
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1565769430929">
         <mark key="'" line="239" column="37" />
       </file>
@@ -83,6 +82,7 @@
         <mark key="'" line="381" column="37" />
         <mark key="[" line="2009" column="54" />
       </file>
+      <file name="D:/GitHub/smaa/Scripts/SearchTex.py" timestamp="1566806470043" />
     </filemarks>
     <jumps>
       <jump line="199" column="50" filename="E:/Work/client/script/cocos/panels/activity_148.py" />
