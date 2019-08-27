@@ -9,6 +9,9 @@
       <file name="/Dummy.txt" timestamp="1566812199304">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/effects/pvehsv_adjust.py" timestamp="1566874589453">
+        <mark key="'" line="163" column="38" />
+      </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d.py" timestamp="1566479582390">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
@@ -70,6 +73,7 @@
         <mark key="^" line="1387" column="23" />
         <mark key="." line="1392" column="11" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/posteffect_mgr.py" timestamp="1566874596066" />
       <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1565772455764">
         <mark key="'" line="256" column="41" />
         <mark key="[" line="252" column="76" />
@@ -84,7 +88,7 @@
         <mark key="'" line="381" column="37" />
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1566873764241">
+      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1566874616827">
         <mark key="'" line="429" column="17" />
         <mark key="[" line="625" column="4" />
         <mark key="]" line="625" column="4" />
@@ -93,7 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="32" filename="E:/Work/client/script/res_mgr/model_mgr.py" />
       <jump line="644" column="24" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="1822" column="24" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
       <jump line="1408" column="73" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
@@ -193,6 +196,7 @@
       <jump line="600" column="17" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
       <jump line="577" column="20" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
       <jump line="429" column="17" filename="D:/GitHub/smaa/Scripts/AreaTex.py" />
+      <jump line="163" column="38" filename="E:/Work/client/script/res_mgr/effects/pvehsv_adjust.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
