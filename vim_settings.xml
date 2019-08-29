@@ -59,11 +59,11 @@
         <mark key="." line="1926" column="8" />
         <mark key="^" line="1926" column="8" />
       </file>
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1566959988086">
+      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1567061941629">
         <mark key="'" line="167" column="20" />
-        <mark key="[" line="167" column="8" />
-        <mark key="]" line="167" column="8" />
-        <mark key="." line="167" column="8" />
+        <mark key="[" line="635" column="4" />
+        <mark key="]" line="635" column="4" />
+        <mark key="." line="635" column="4" />
         <mark key="^" line="141" column="27" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1566180555802">
@@ -199,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>anim2hides = skin_play_data.get('hides', {})</text>
+        <text encoding="base64">CXNjZW5lX21vZGVsLl9wbGF5X2FuaW1hdGlvbig=</text>
       </register>
       <register name="-" type="4">
-        <text>anim2hides = skin_play_data.get('hides', {})</text>
+        <text encoding="base64">CXNjZW5lX21vZGVsLl9wbGF5X2FuaW1hdGlvbig=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
