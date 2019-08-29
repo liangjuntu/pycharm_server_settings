@@ -88,12 +88,12 @@
         <mark key="'" line="381" column="37" />
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1566874616827">
-        <mark key="'" line="429" column="17" />
-        <mark key="[" line="625" column="4" />
-        <mark key="]" line="625" column="4" />
-        <mark key="^" line="625" column="4" />
-        <mark key="." line="625" column="4" />
+      <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1567069189418">
+        <mark key="'" line="421" column="17" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="616" column="4" />
+        <mark key="." line="19" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -200,7 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CXNjZW5lX21vZGVsLl9wbGF5X2FuaW1hdGlvbig=</text>
+        <text>( 0.25,  -0.25),  #1
+                           (-0.25,   0.25),  #2
+                           ( 0.125, -0.125), #3
+                           (-0.125,  0.125)]</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CXNjZW5lX21vZGVsLl9wbGF5X2FuaW1hdGlvbig=</text>
@@ -211,32 +214,40 @@
       <register name="0" type="2">
         <text encoding="base64">CXByaW50KCdlbmFibGUgZnhhYScpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJc2Z4LnBvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigxLCAxLCAxKQo=</text>
+      <register name="1" type="4">
+        <text>( 0.25,  -0.25),  #1
+                           (-0.25,   0.25),  #2
+                           ( 0.125, -0.125), #3
+                           (-0.125,  0.125)]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>-0.25,  #1
+                            0.25,  #2
+                           -0.125, #3
+                            0.125, #4
+                           -0.375, #5
+                            0.375</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmVsb2FkX21vZGVscyA9IFsiZngvbW9kZWwvd2p6ai8xMDExNS8xMDExNS5naW0iLCAnbW9kZWwvMTAwMDEvMTAwMDEuZ2ltJ10K</text>
+        <text encoding="base64">CQkJc2Z4LnBvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigxLCAxLCAxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbW9kZWwucG9zaXRpb24gPSBtYXRoM2QudmVjdG9yKDAsIDAsIDApCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJIyBzZngudmlzaWJsZSA9IEZhbHNlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlwcmVsb2FkX21vZGVscyA9IFsiZngvbW9kZWwvd2p6ai8xMDExNS8xMDExNS5naW0iLCAnbW9kZWwvMTAwMDEvMTAwMDEuZ2ltJ10K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJbW9kZWwucG9zaXRpb24gPSBtYXRoM2QudmVjdG9yKDAsIDAsIDApCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlzZWxmLl9wcmVsb2FkX3NmeHMgPSBbXQo=</text>
+        <text encoding="base64">CQkJIyBzZngudmlzaWJsZSA9IEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXNmeC5kZXN0cm95KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXNmeC5yZW1vdmVfZnJvbV9wYXJlbnQoKQo=</text>
+        <text encoding="base64">CQlzZWxmLl9wcmVsb2FkX3NmeHMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
