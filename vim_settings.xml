@@ -6,14 +6,21 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567482954631" />
+      <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1567491630426" />
+      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567492769129">
+        <mark key="'" line="28" column="52" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+      </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/com/const.py" timestamp="1567479808560">
         <mark key="[" line="510" column="15" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1567482771140">
+      <file name="/Python Console" timestamp="1567492628250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566819162612">
@@ -105,8 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="23" filename="E:/Work/G58SVN/source/trunk/client/script/game_scene/skin_play_scene.py" />
-      <jump line="1933" column="20" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
       <jump line="1978" column="37" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
       <jump line="230" column="20" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
       <jump line="320" column="32" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
@@ -205,13 +210,12 @@
       <jump line="165" column="20" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="647" column="29" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="652" column="92" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="108" column="25" filename="E:/Work/client/script/res_mgr/effects/character_fresnel.py" />
+      <jump line="28" column="52" filename="E:/Work/client/script/res_mgr/effects/character_fresnel.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>( 0.25,  -0.25),  #1
-                           (-0.25,   0.25),  #2
-                           ( 0.125, -0.125), #3
-                           (-0.125,  0.125)]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CXNjZW5lX21vZGVsLl9wbGF5X2FuaW1hdGlvbig=</text>
@@ -219,43 +223,43 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXByaW50KCdlbmFibGUgZnhhYScpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CW1vZGVsLnNldF9leHRfdGVjaG5pcXVlX3ZhcihyZW5kZXIuRVhUX1RFQ0hfTU9USU9OX0JMVVIsICdmcmVzbmVsX2ZhYycsIGZyZXNuZWxfZmFjKQoJCQltb2RlbC5zZXRfZXh0X3RlY2huaXF1ZV92YXIocmVuZGVyLkVYVF9URUNIX01PVElPTl9CTFVSLCAnZnJlc25lbF9zdHJlbmd0aCcsIGZyZXNuZWxfc3RyZW5ndGgpCgkJCW1vZGVsLnNldF9leHRfdGVjaG5pcXVlX3ZhcihyZW5kZXIuRVhUX1RFQ0hfTU9USU9OX0JMVVIsICdjaGFuZ2VfY29sb3JfZmFjdCcsIDEuMCkKCQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF9uJywgZGF0YVsnb2Zmc2V0X24nXSkKCQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF96JywgZGF0YVsnb2Zmc2V0X3onXSkKCQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgIkNoYW5nZUNvbG9yIiwgZGF0YVsnQ2hhbmdlQ29sb3InXSk=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgIkNoYW5nZUNvbG9yIiwgZGF0YVsnQ2hhbmdlQ29sb3InXSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF96JywgZGF0YVsnb2Zmc2V0X3onXSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF9uJywgZGF0YVsnb2Zmc2V0X24nXSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2NoYW5nZV9jb2xvcl9mYWN0JywgMS4wKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2ZyZXNuZWxfc3RyZW5ndGgnLCBmcmVzbmVsX3N0cmVuZ3RoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2ZyZXNuZWxfZmFjJywgZnJlc25lbF9mYWMpCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>( 0.25,  -0.25),  #1
                            (-0.25,   0.25),  #2
                            ( 0.125, -0.125), #3
                            (-0.125,  0.125)]</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>-0.25,  #1
                             0.25,  #2
                            -0.125, #3
                             0.125, #4
                            -0.375, #5
                             0.375</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJc2Z4LnBvc2l0aW9uID0gbWF0aDNkLnZlY3RvcigxLCAxLCAxKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlwcmVsb2FkX21vZGVscyA9IFsiZngvbW9kZWwvd2p6ai8xMDExNS8xMDExNS5naW0iLCAnbW9kZWwvMTAwMDEvMTAwMDEuZ2ltJ10K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJbW9kZWwucG9zaXRpb24gPSBtYXRoM2QudmVjdG9yKDAsIDAsIDApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJIyBzZngudmlzaWJsZSA9IEZhbHNlCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlzZWxmLl9wcmVsb2FkX3NmeHMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
