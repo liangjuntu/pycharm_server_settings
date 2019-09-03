@@ -14,7 +14,7 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="12" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/com/const.py" timestamp="1567501335070">
+      <file name="E:/Work/G58SVN/source/trunk/client/script/com/const.py" timestamp="1567501898070">
         <mark key="[" line="510" column="14" />
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
@@ -33,7 +33,7 @@
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567501008435">
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567501402179">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="29" column="41" />
         <mark key="^" line="27" column="12" />
@@ -50,7 +50,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567482547742" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567501695156">
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="27" column="12" />
+      </file>
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1566295702502">
         <mark key="'" line="1359" column="22" />
         <mark key="[" line="1927" column="8" />
@@ -106,7 +111,7 @@
         <mark key="." line="252" column="79" />
         <mark key="^" line="252" column="79" />
       </file>
-      <file name="D:/Work2/client2/script/com/const.py" timestamp="1567495312139">
+      <file name="D:/Work2/client2/script/com/const.py" timestamp="1567501475029">
         <mark key="[" line="510" column="14" />
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
