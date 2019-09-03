@@ -33,8 +33,12 @@
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
       </file>
-      <file name="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" timestamp="1567504404645">
+      <file name="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" timestamp="1567504506675">
         <mark key="'" line="277" column="43" />
+        <mark key="[" line="277" column="8" />
+        <mark key="]" line="277" column="9" />
+        <mark key="^" line="277" column="9" />
+        <mark key="." line="277" column="9" />
       </file>
       <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567502511717">
         <mark key="[" line="60" column="21" />
@@ -276,7 +280,7 @@
                             0.375</text>
       </register>
       <register name=":" type="4">
-        <text>278</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -328,8 +332,8 @@
         <entry>242</entry>
         <entry>1377</entry>
         <entry>2011</entry>
-        <entry>w</entry>
         <entry>278</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
