@@ -20,7 +20,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1567493935075">
+      <file name="/Python Console" timestamp="1567496103952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566819162612">
@@ -30,6 +30,12 @@
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
+      </file>
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567496357714">
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="20" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="57" column="20" />
       </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/components/FurnitureVisitComp.py" timestamp="1567479743303" />
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1565783231626">
@@ -59,10 +65,6 @@
       </file>
       <file name="E:/Work/client/script/res_mgr/effects/pvehsv_adjust.py" timestamp="1566874589453">
         <mark key="'" line="163" column="38" />
-      </file>
-      <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d.py" timestamp="1566479582390">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
       </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
@@ -102,9 +104,10 @@
         <mark key="." line="252" column="79" />
         <mark key="^" line="252" column="79" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/panels/home_hero.py" timestamp="1565774173078">
-        <mark key="'" line="381" column="37" />
-        <mark key="[" line="2009" column="54" />
+      <file name="D:/Work2/client2/script/com/const.py" timestamp="1567495312139">
+        <mark key="[" line="510" column="14" />
+        <mark key="]" line="510" column="15" />
+        <mark key="." line="510" column="15" />
       </file>
       <file name="E:/Work/client/script/com/utils/helpers.py" timestamp="1567494010258">
         <mark key="'" line="3166" column="20" />
