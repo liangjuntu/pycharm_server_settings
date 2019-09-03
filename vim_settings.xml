@@ -6,13 +6,14 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
+      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567482954631" />
       <file name="E:/Work/G58SVN/source/trunk/client/script/com/const.py" timestamp="1567479808560">
         <mark key="[" line="510" column="15" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1566912846337">
+      <file name="/Python Console" timestamp="1567482771140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566819162612">
@@ -64,6 +65,11 @@
       </file>
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
+      </file>
+      <file name="E:/Work/client/script/com/const.py" timestamp="1567482666753">
+        <mark key="[" line="510" column="14" />
+        <mark key="]" line="510" column="15" />
+        <mark key="." line="510" column="15" />
       </file>
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1567080979667">
         <mark key="'" line="167" column="20" />
