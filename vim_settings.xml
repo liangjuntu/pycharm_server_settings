@@ -6,7 +6,6 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1567491630426" />
       <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567493719185">
         <mark key="'" line="28" column="52" />
         <mark key="[" line="27" column="12" />
@@ -33,12 +32,12 @@
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
       </file>
-      <file name="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" timestamp="1567504506675">
+      <file name="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" timestamp="1567505019785">
         <mark key="'" line="277" column="43" />
-        <mark key="[" line="277" column="8" />
-        <mark key="]" line="277" column="9" />
-        <mark key="^" line="277" column="9" />
-        <mark key="." line="277" column="9" />
+        <mark key="[" line="226" column="8" />
+        <mark key="]" line="226" column="8" />
+        <mark key="^" line="226" column="8" />
+        <mark key="." line="226" column="8" />
       </file>
       <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567502511717">
         <mark key="[" line="60" column="21" />
@@ -46,7 +45,6 @@
         <mark key="^" line="60" column="16" />
         <mark key="." line="60" column="16" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/components/FurnitureVisitComp.py" timestamp="1567479743303" />
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1565783231626">
         <mark key="'" line="188" column="14" />
         <mark key="[" line="201" column="60" />
@@ -67,7 +65,6 @@
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" timestamp="1567480884241" />
       <file name="/Dummy.txt" timestamp="1567482595362">
         <mark key="[" line="0" column="0" />
       </file>
