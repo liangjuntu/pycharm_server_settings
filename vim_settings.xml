@@ -33,6 +33,9 @@
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
       </file>
+      <file name="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" timestamp="1567504404645">
+        <mark key="'" line="277" column="43" />
+      </file>
       <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567502511717">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="60" column="16" />
@@ -123,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1402" column="57" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="183" column="4" filename="E:/Work/client/script/combat/base/model_scene_data.py" />
       <jump line="1406" column="87" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="2580" column="47" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
@@ -223,6 +225,7 @@
       <jump line="592" column="42" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="3166" column="20" filename="E:/Work/client/script/com/utils/helpers.py" />
       <jump line="11" column="132" filename="E:/Work/client/script/com/data/cdata/summer_sfx.py" />
+      <jump line="277" column="43" filename="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -273,7 +276,7 @@
                             0.375</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>278</text>
       </register>
     </registers>
     <search>
@@ -307,7 +310,6 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>312</entry>
         <entry>1080</entry>
         <entry>216</entry>
         <entry>1202</entry>
@@ -327,6 +329,7 @@
         <entry>1377</entry>
         <entry>2011</entry>
         <entry>w</entry>
+        <entry>278</entry>
       </history-cmd>
       <history-expr />
       <history-input />
