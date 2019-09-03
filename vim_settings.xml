@@ -33,11 +33,11 @@
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567501402179">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="41" />
-        <mark key="^" line="27" column="12" />
-        <mark key="." line="29" column="41" />
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567502511717">
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="60" column="16" />
+        <mark key="^" line="60" column="16" />
+        <mark key="." line="60" column="16" />
       </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/components/FurnitureVisitComp.py" timestamp="1567479743303" />
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1565783231626">
@@ -49,12 +49,6 @@
       </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567502101781">
-        <mark key="[" line="36" column="70" />
-        <mark key="]" line="36" column="70" />
-        <mark key="." line="36" column="70" />
-        <mark key="^" line="35" column="103" />
       </file>
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1566295702502">
         <mark key="'" line="1359" column="22" />
@@ -111,7 +105,7 @@
         <mark key="." line="252" column="79" />
         <mark key="^" line="252" column="79" />
       </file>
-      <file name="D:/Work2/client2/script/com/const.py" timestamp="1567501475029">
+      <file name="D:/Work2/client2/script/com/const.py" timestamp="1567502544885">
         <mark key="[" line="510" column="14" />
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
@@ -232,10 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>ChangeColor</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>ChangeColor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
