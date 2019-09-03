@@ -7,7 +7,7 @@
         <mark key="[" line="2009" column="54" />
       </file>
       <file name="E:/Work/client/script/res_mgr/effects/effect_base.py" timestamp="1567491630426" />
-      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567492769129">
+      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567493719185">
         <mark key="'" line="28" column="52" />
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="12" />
@@ -20,13 +20,16 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1567492628250">
+      <file name="/Python Console" timestamp="1567493935075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566819162612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
+        <mark key="'" line="592" column="42" />
       </file>
       <file name="E:/Work/G58SVN/source/trunk/client/script/game_scene/components/FurnitureVisitComp.py" timestamp="1567479743303" />
       <file name="D:/Work2/client2/script/combat/base/model_scene_data.py" timestamp="1565783231626">
@@ -73,7 +76,7 @@
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
-      <file name="E:/Work/client/script/com/const.py" timestamp="1567482666753">
+      <file name="E:/Work/client/script/com/const.py" timestamp="1567493726577">
         <mark key="[" line="510" column="14" />
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
@@ -103,6 +106,10 @@
         <mark key="'" line="381" column="37" />
         <mark key="[" line="2009" column="54" />
       </file>
+      <file name="E:/Work/client/script/com/utils/helpers.py" timestamp="1567494010258">
+        <mark key="'" line="3166" column="20" />
+        <mark key="[" line="3167" column="25" />
+      </file>
       <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1567069189418">
         <mark key="'" line="421" column="17" />
         <mark key="[" line="19" column="27" />
@@ -112,10 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1978" column="37" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/ui_utils.py" />
-      <jump line="230" column="20" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
-      <jump line="320" column="32" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
-      <jump line="318" column="27" filename="E:/Work/G58SVN/source/trunk/client/script/cutils/model_util.py" />
       <jump line="1402" column="57" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="183" column="4" filename="E:/Work/client/script/combat/base/model_scene_data.py" />
       <jump line="1406" column="87" filename="E:/Work/client/script/cocos/ui_utils.py" />
@@ -212,6 +215,10 @@
       <jump line="652" column="92" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="108" column="25" filename="E:/Work/client/script/res_mgr/effects/character_fresnel.py" />
       <jump line="28" column="52" filename="E:/Work/client/script/res_mgr/effects/character_fresnel.py" />
+      <jump line="610" column="53" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="592" column="42" filename="E:/Work/client/script/game_scene/city.py" />
+      <jump line="3166" column="20" filename="E:/Work/client/script/com/utils/helpers.py" />
+      <jump line="11" column="132" filename="E:/Work/client/script/com/data/cdata/summer_sfx.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
