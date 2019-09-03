@@ -50,11 +50,11 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567501695156">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="41" />
-        <mark key="^" line="27" column="12" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567502101781">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="36" column="70" />
+        <mark key="." line="36" column="70" />
+        <mark key="^" line="35" column="103" />
       </file>
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1566295702502">
         <mark key="'" line="1359" column="22" />
@@ -232,16 +232,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ChangeColor</text>
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text>ChangeColor</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJbW9kZWwuYWxsX21hdGVyaWFscy5zZXRfdmFyKCJDaGFuZ2VDb2xvciIsIGRhdGFbJ0NoYW5nZUNvbG9yJ10pCg==</text>
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgIkNoYW5nZUNvbG9yIiwgZGF0YVsnQ2hhbmdlQ29sb3InXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
