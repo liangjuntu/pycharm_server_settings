@@ -6,7 +6,7 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" timestamp="1567581665551" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" timestamp="1567582603302" />
       <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567493719185">
         <mark key="'" line="28" column="52" />
         <mark key="[" line="27" column="12" />
@@ -66,11 +66,11 @@
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/debug_ui.py" timestamp="1567581750503">
-        <mark key="[" line="1380" column="4" />
-        <mark key="]" line="1389" column="0" />
-        <mark key="^" line="1380" column="0" />
-        <mark key="." line="1389" column="0" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/debug_ui.py" timestamp="1567583084390">
+        <mark key="[" line="439" column="29" />
+        <mark key="]" line="440" column="56" />
+        <mark key="." line="440" column="56" />
+        <mark key="^" line="440" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1567482595362">
         <mark key="[" line="0" column="0" />
@@ -122,6 +122,7 @@
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
       </file>
+      <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_hsv_skin.py" timestamp="1567582678375" />
       <file name="E:/Work/client/script/com/utils/helpers.py" timestamp="1567494010258">
         <mark key="'" line="3166" column="20" />
         <mark key="[" line="3167" column="25" />
@@ -243,50 +244,49 @@
       <jump line="277" column="43" filename="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cDovL3UxLnBtLm5ldGVhc2UuY29tL3Y2L215P2lzc3VlSWQ9NDkzNTEK</text>
+      <register name="&quot;" type="4">
+        <text>self.add_func('打开SMAA', func_enable_smaa, group='programmer')
+		self.add_func('关闭SMAA', func_disable_smaa, group='programmer')</text>
       </register>
       <register name="-" type="4">
-        <text>ChangeColor</text>
+        <text>FXAA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgIkNoYW5nZUNvbG9yIiwgZGF0YVsnQ2hhbmdlQ29sb3InXSkK</text>
+      <register name="0" type="4">
+        <text>self.add_func('打开SMAA', func_enable_smaa, group='programmer')
+		self.add_func('关闭SMAA', func_disable_smaa, group='programmer')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cDovL3UxLnBtLm5ldGVhc2UuY29tL3Y2L215P2lzc3VlSWQ9NDkzNTEK</text>
+        <text encoding="base64">CQlmdW5jX2VuYWJsZV9meGFhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJlbmRlci5zZXRfcG9zdF9wcm9jZXNzX2FjdGl2ZSgic21hYSIsIEZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgIkNoYW5nZUNvbG9yIiwgZGF0YVsnQ2hhbmdlQ29sb3InXSkK</text>
+        <text encoding="base64">IyBpZiBFTkFCTEVfU1RFTmRDSUwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF96JywgZGF0YVsnb2Zmc2V0X3onXSkK</text>
+        <text encoding="base64">aHR0cDovL3UxLnBtLm5ldGVhc2UuY29tL3Y2L215P2lzc3VlSWQ9NDkzNTEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF9uJywgZGF0YVsnb2Zmc2V0X24nXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2NoYW5nZV9jb2xvcl9mYWN0JywgMS4wKQo=</text>
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgIkNoYW5nZUNvbG9yIiwgZGF0YVsnQ2hhbmdlQ29sb3InXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2ZyZXNuZWxfc3RyZW5ndGgnLCBmcmVzbmVsX3N0cmVuZ3RoKQo=</text>
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF96JywgZGF0YVsnb2Zmc2V0X3onXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2ZyZXNuZWxfZmFjJywgZnJlc25lbF9mYWMpCg==</text>
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF9uJywgZGF0YVsnb2Zmc2V0X24nXSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>( 0.25,  -0.25),  #1
-                           (-0.25,   0.25),  #2
-                           ( 0.125, -0.125), #3
-                           (-0.125,  0.125)]</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2NoYW5nZV9jb2xvcl9mYWN0JywgMS4wKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>848</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -338,8 +338,8 @@
         <entry>1377</entry>
         <entry>2011</entry>
         <entry>278</entry>
-        <entry>w</entry>
         <entry>848</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
