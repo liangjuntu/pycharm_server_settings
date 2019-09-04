@@ -6,7 +6,7 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" timestamp="1567582603302" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" timestamp="1567584450437" />
       <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567493719185">
         <mark key="'" line="28" column="52" />
         <mark key="[" line="27" column="12" />
@@ -66,12 +66,15 @@
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
-      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/debug_ui.py" timestamp="1567583084390">
-        <mark key="[" line="439" column="29" />
-        <mark key="]" line="440" column="56" />
-        <mark key="." line="440" column="56" />
-        <mark key="^" line="440" column="56" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/debug_ui.py" timestamp="1567585069504">
+        <mark key="'" line="437" column="42" />
+        <mark key="[" line="1388" column="23" />
+        <mark key="]" line="1388" column="23" />
+        <mark key="^" line="1386" column="98" />
+        <mark key="." line="1388" column="23" />
       </file>
+      <file name="E:/Work/G58SVN/source/trunk/client/script/res_mgr/effects/water_adjust.py" timestamp="1567584581328" />
+      <file name="E:/Work/G58SVN/source/trunk/client/script/combat/view/logic/events/event_shuzhiceshi.py" timestamp="1567584730981" />
       <file name="/Dummy.txt" timestamp="1567482595362">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,6 +125,7 @@
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
       </file>
+      <file name="E:/Work/G58SVN/source/trunk/client/script/combat/view/logic/events/event_base.py" timestamp="1567584296981" />
       <file name="E:/Work/G58SVN/source/trunk/client/script/cutils/model_hsv_skin.py" timestamp="1567582678375" />
       <file name="E:/Work/client/script/com/utils/helpers.py" timestamp="1567494010258">
         <mark key="'" line="3166" column="20" />
@@ -142,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="4" filename="E:/Work/client/script/combat/base/model_scene_data.py" />
       <jump line="1406" column="87" filename="E:/Work/client/script/cocos/ui_utils.py" />
       <jump line="2580" column="47" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
       <jump line="294" column="62" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" />
@@ -242,48 +245,47 @@
       <jump line="3166" column="20" filename="E:/Work/client/script/com/utils/helpers.py" />
       <jump line="11" column="132" filename="E:/Work/client/script/com/data/cdata/summer_sfx.py" />
       <jump line="277" column="43" filename="E:/Work2/f7client/script/base_scene/view/component/ModelComp.py" />
+      <jump line="437" column="42" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/debug_ui.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self.add_func('打开SMAA', func_enable_smaa, group='programmer')
-		self.add_func('关闭SMAA', func_disable_smaa, group='programmer')</text>
+        <text>stencil</text>
       </register>
       <register name="-" type="4">
-        <text>FXAA</text>
+        <text>stencil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>self.add_func('打开SMAA', func_enable_smaa, group='programmer')
-		self.add_func('关闭SMAA', func_disable_smaa, group='programmer')</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXByaW50KCdlbmFibGUgc21hYSBzdGVuY2lsJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmdW5jX2VuYWJsZV9meGFhCg==</text>
+        <text encoding="base64">CQlzZWxmLmFkZF9mdW5jKCe52LHVU01BQSBTdGVuY2lsJywgZnVuY19kaXNhYmxlX3NtYWFfc3RlbmNpbCwgZ3JvdXA9J3Byb2dyYW1tZXInKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJlbmRlci5zZXRfcG9zdF9wcm9jZXNzX2FjdGl2ZSgic21hYSIsIEZhbHNlKQo=</text>
+        <text encoding="base64">CXByaW50KCdlbmFibGUgc21hYScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpZiBFTkFCTEVfU1RFTmRDSUwK</text>
+        <text encoding="base64">CXJlbmRlci5zZXRfcG9zdF9wcm9jZXNzX2FjdGl2ZSgic21hYSIsIFRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cDovL3UxLnBtLm5ldGVhc2UuY29tL3Y2L215P2lzc3VlSWQ9NDkzNTEK</text>
+        <text encoding="base64">CWltcG9ydCByZW5kZXIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZGVmIGZ1bmNfZGlzYWJsZV9zbWFhX3N0ZW5jaWwoKToKCWltcG9ydCByZW5kZXIKCSNtYXQwID0gcmVuZGVyLmdldF9wb3N0X3Byb2Nlc3NfbWF0ZXJpYWwoInNtYWEiLCAwKQoJbWF0MSA9IHJlbmRlci5nZXRfcG9zdF9wcm9jZXNzX21hdGVyaWFsKCJzbWFhIiwgMSkKCSNtYXQwLnNldF9tYWNybygnRU5BQkxFX1NURU5DSUwnLCAnRkFMU0UnKQoJbWF0MS5zZXRfbWFjcm8oJ0VOQUJMRV9TVEVOQ0lMJywgJ0ZBTFNFJykKCSNtYXQwLnJlYnVpbGRfdGVjaCgpCgltYXQxLnJlYnVpbGRfdGVjaCgpCglwcmludCgnZGlzYWJsZSBzbWFhIHN0ZW5jaWwnKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgIkNoYW5nZUNvbG9yIiwgZGF0YVsnQ2hhbmdlQ29sb3InXSkK</text>
+        <text encoding="base64">CW1hdDEucmVidWlsZF90ZWNoKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF96JywgZGF0YVsnb2Zmc2V0X3onXSkK</text>
+        <text encoding="base64">CSNtYXQwLnJlYnVpbGRfdGVjaCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ29mZnNldF9uJywgZGF0YVsnb2Zmc2V0X24nXSkK</text>
+        <text encoding="base64">CSNtYXQwLnNldF9tYWNybygnRU5BQkxFX1NURU5DSUwnLCAnVFJVRScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbW9kZWwuc2V0X2V4dF90ZWNobmlxdWVfdmFyKHJlbmRlci5FWFRfVEVDSF9NT1RJT05fQkxVUiwgJ2NoYW5nZV9jb2xvcl9mYWN0JywgMS4wKQo=</text>
+        <text encoding="base64">CSNtYXQwID0gcmVuZGVyLmdldF9wb3N0X3Byb2Nlc3NfbWF0ZXJpYWwoInNtYWEiLCAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
