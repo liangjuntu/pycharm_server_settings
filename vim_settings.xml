@@ -118,6 +118,12 @@
         <mark key="'" line="3166" column="20" />
         <mark key="[" line="3167" column="25" />
       </file>
+      <file name="E:/Work2/f7client/script/waigua/city_maker.py" timestamp="1567563282217">
+        <mark key="[" line="848" column="8" />
+        <mark key="]" line="847" column="25" />
+        <mark key="^" line="847" column="25" />
+        <mark key="." line="847" column="25" />
+      </file>
       <file name="D:/GitHub/smaa/Scripts/AreaTex.py" timestamp="1567069189418">
         <mark key="'" line="421" column="17" />
         <mark key="[" line="19" column="27" />
@@ -277,7 +283,7 @@
                             0.375</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>848</text>
       </register>
     </registers>
     <search>
@@ -311,7 +317,6 @@
         <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>1080</entry>
         <entry>216</entry>
         <entry>1202</entry>
         <entry>1185</entry>
@@ -331,6 +336,7 @@
         <entry>2011</entry>
         <entry>278</entry>
         <entry>w</entry>
+        <entry>848</entry>
       </history-cmd>
       <history-expr />
       <history-input />
