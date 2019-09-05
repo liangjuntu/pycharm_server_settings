@@ -39,7 +39,7 @@
         <mark key="^" line="226" column="8" />
         <mark key="." line="226" column="8" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567502511717">
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567688003291">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="60" column="16" />
         <mark key="^" line="60" column="16" />
@@ -89,6 +89,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567676050395">
         <mark key="'" line="28" column="34" />
       </file>
+      <file name="D:/Work2/client2/script/res_mgr/posteffect_mgr.py" timestamp="1567687976115" />
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
         <mark key="[" line="1925" column="8" />
       </file>
