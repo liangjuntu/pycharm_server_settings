@@ -9,11 +9,11 @@
       <file name="/Python Console" timestamp="1567741275089">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567738614328">
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="60" column="16" />
-        <mark key="^" line="60" column="16" />
-        <mark key="." line="60" column="16" />
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1567750066330">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="53" />
+        <mark key="^" line="21" column="8" />
       </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
@@ -168,43 +168,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>MOTION_BLUR</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>MOTION_BLUR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlpZiBub3QgZ2cuY2l0eV9jb250YWluZXIuc2NlbmVfbWdyLmdldChzY2VuZV9vYmouc2NlbmVfaWQpOgo=</text>
+        <text encoding="base64">CQltb2RlbC5zaG93X2V4dF90ZWNobmlxdWUocmVuZGVyLkVYVF9URUNIX01PVElPTl9CTFVSLCBUcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5zY2VuZV9tZ3Iuc2V0KHNjZW5lX29iai5zY2VuZV9pZCwgTm9uZSkK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQltb2RlbC5zaG93X2V4dF90ZWNobmlxdWUocmVuZGVyLkVYVF9URUNIX01PVElPTl9CTFVSLCBUcnVlKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcHJpbnQoJ1tzZXR0bGVtZW50X2Z1bGxzY3JlZW5fZmFzaGlvbl0oZGVidWdfbGVhdmVfc2NlbmVfZXJyb3IpIGdldCBpcyBOb25lJywgc2NlbmVfb2JqLnNjZW5lX2lkKQo=</text>
+        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5zY2VuZV9tZ3Iuc2V0KHNjZW5lX29iai5zY2VuZV9pZCwgTm9uZSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzZWxmLmFkZF9mdW5jKCe52LHVU01BQSBTdGVuY2lsJywgZnVuY19kaXNhYmxlX3NtYWFfc3RlbmNpbCwgZ3JvdXA9J3Byb2dyYW1tZXInKQo=</text>
+        <text encoding="base64">CQkJcHJpbnQoJ1tzZXR0bGVtZW50X2Z1bGxzY3JlZW5fZmFzaGlvbl0oZGVidWdfbGVhdmVfc2NlbmVfZXJyb3IpIGdldCBpcyBOb25lJywgc2NlbmVfb2JqLnNjZW5lX2lkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50KCdlbmFibGUgc21hYScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJlbmRlci5zZXRfcG9zdF9wcm9jZXNzX2FjdGl2ZSgic21hYSIsIFRydWUpCg==</text>
+        <text encoding="base64">CQlzZWxmLmFkZF9mdW5jKCe52LHVU01BQSBTdGVuY2lsJywgZnVuY19kaXNhYmxlX3NtYWFfc3RlbmNpbCwgZ3JvdXA9J3Byb2dyYW1tZXInKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWltcG9ydCByZW5kZXIK</text>
+        <text encoding="base64">CXByaW50KCdlbmFibGUgc21hYScpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGVmIGZ1bmNfZGlzYWJsZV9zbWFhX3N0ZW5jaWwoKToKCWltcG9ydCByZW5kZXIKCSNtYXQwID0gcmVuZGVyLmdldF9wb3N0X3Byb2Nlc3NfbWF0ZXJpYWwoInNtYWEiLCAwKQoJbWF0MSA9IHJlbmRlci5nZXRfcG9zdF9wcm9jZXNzX21hdGVyaWFsKCJzbWFhIiwgMSkKCSNtYXQwLnNldF9tYWNybygnRU5BQkxFX1NURU5DSUwnLCAnRkFMU0UnKQoJbWF0MS5zZXRfbWFjcm8oJ0VOQUJMRV9TVEVOQ0lMJywgJ0ZBTFNFJykKCSNtYXQwLnJlYnVpbGRfdGVjaCgpCgltYXQxLnJlYnVpbGRfdGVjaCgpCglwcmludCgnZGlzYWJsZSBzbWFhIHN0ZW5jaWwnKQoK</text>
+      <register name="9" type="2">
+        <text encoding="base64">CXJlbmRlci5zZXRfcG9zdF9wcm9jZXNzX2FjdGl2ZSgic21hYSIsIFRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
