@@ -39,11 +39,11 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567739129280">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568020179063">
-        <mark key="[" line="61" column="93" />
-        <mark key="]" line="62" column="29" />
-        <mark key="." line="62" column="29" />
-        <mark key="^" line="62" column="29" />
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568021361806">
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="63" column="29" />
       </file>
       <file name="D:/Work2/client2/script/res_mgr/posteffect_mgr.py" timestamp="1568019935322" />
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
@@ -181,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MOTION_BLUR</text>
+        <text>CommonFresnelExt_ChangeColor</text>
       </register>
       <register name="-" type="4">
-        <text>MOTION_BLUR</text>
+        <text>CommonFresnelExt_ChangeColor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
