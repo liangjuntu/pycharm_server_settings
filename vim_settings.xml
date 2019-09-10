@@ -9,6 +9,49 @@
       <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567764380796">
         <mark key="[" line="57" column="20" />
       </file>
+      <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568099533556">
+        <mark key="[" line="90" column="68" />
+        <mark key="]" line="90" column="69" />
+        <mark key="." line="90" column="69" />
+        <mark key="^" line="90" column="69" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_168.py" timestamp="1568107120140">
+        <mark key="[" line="262" column="102" />
+        <mark key="]" line="262" column="108" />
+        <mark key="^" line="262" column="108" />
+        <mark key="." line="262" column="108" />
+      </file>
+      <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
+        <mark key="'" line="366" column="26" />
+      </file>
+      <file name="/Python Console" timestamp="1568109601879">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
+        <mark key="'" line="592" column="42" />
+      </file>
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568104848406">
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="30" column="50" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="63" column="29" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568108832175">
+        <mark key="'" line="510" column="28" />
+      </file>
+      <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568107241970" />
+      <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
+        <mark key="'" line="161" column="42" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
+        <mark key="'" line="108" column="71" />
+      </file>
+      <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1568095569001">
+        <mark key="'" line="390" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1567482595362">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,29 +61,8 @@
       <file name="E:/Work/client/script/cocos/panels/activity_148.py" timestamp="1567751926601">
         <mark key="'" line="236" column="59" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568099533556">
-        <mark key="[" line="90" column="68" />
-        <mark key="]" line="90" column="69" />
-        <mark key="." line="90" column="69" />
-        <mark key="^" line="90" column="69" />
-      </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/panels/activity_168.py" timestamp="1568105064054">
-        <mark key="[" line="262" column="102" />
-        <mark key="]" line="262" column="108" />
-        <mark key="^" line="262" column="108" />
-        <mark key="." line="262" column="108" />
-      </file>
-      <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
-        <mark key="'" line="366" column="26" />
-      </file>
-      <file name="/Python Console" timestamp="1567764333587">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
-        <mark key="'" line="592" column="42" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -57,17 +79,8 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567739129280">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568104848406">
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="63" column="29" />
-      </file>
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
         <mark key="[" line="1925" column="8" />
-      </file>
-      <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
@@ -79,27 +92,16 @@
         <mark key="." line="635" column="4" />
         <mark key="^" line="141" column="27" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
-        <mark key="'" line="161" column="42" />
-      </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
-        <mark key="'" line="108" column="71" />
       </file>
       <file name="D:/Work2/client2/script/com/const.py" timestamp="1567739041134">
         <mark key="[" line="510" column="14" />
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1568095569001">
-        <mark key="'" line="390" column="24" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1829" column="85" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
-      <jump line="158" column="49" filename="E:/Work/client/script/com/data/cdata/skin_texture_control.py" />
       <jump line="163" column="40" filename="E:/Work/client/script/res_mgr/effects/scene_adjust.py" />
       <jump line="130" column="52" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="203" column="42" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -198,6 +200,8 @@
       <jump line="108" column="71" filename="E:/Work/client/script/cocos/panels/hero_herolist.py" />
       <jump line="78" column="55" filename="E:/Work/client/script/cocos/panels/hero_common.py" />
       <jump line="390" column="24" filename="D:/Work2/client2/script/game_scene/skin_play_scene.py" />
+      <jump line="501" column="40" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
+      <jump line="510" column="28" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
