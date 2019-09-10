@@ -9,7 +9,12 @@
       <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567764380796">
         <mark key="[" line="57" column="20" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568096565101" />
+      <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568097394104">
+        <mark key="[" line="90" column="67" />
+        <mark key="]" line="90" column="66" />
+        <mark key="." line="90" column="66" />
+        <mark key="^" line="90" column="66" />
+      </file>
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
@@ -28,15 +33,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568096533044" />
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
-      <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1568085730163" />
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
         <mark key="'" line="108" column="71" />
       </file>
-      <file name="D:/Work2/client2/script/cutils/model_util.py" timestamp="1568084854434" />
       <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1568095569001">
         <mark key="'" line="390" column="24" />
       </file>
@@ -61,7 +63,6 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567739129280">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/posteffect_mgr.py" timestamp="1568085835428" />
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
         <mark key="[" line="1925" column="8" />
       </file>
@@ -75,7 +76,6 @@
         <mark key="." line="635" column="4" />
         <mark key="^" line="141" column="27" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1568095527999" />
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
@@ -84,7 +84,6 @@
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/city_heroshow.py" timestamp="1568095596786" />
     </filemarks>
     <jumps>
       <jump line="1829" column="85" filename="E:/Work/client/script/cocos/panels/hero_wardrobe.py" />
@@ -190,16 +189,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CommonFresnelExt_ChangeColor</text>
+        <text>tuple(self._get_item_data(data, 'shadow_light_color')))</text>
       </register>
       <register name="-" type="4">
-        <text>CommonFresnelExt_ChangeColor</text>
+        <text>tuple(self._get_item_data(data, 'shadow_light_color')))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJc2VsZi5tb2RlbC5zaG93X2V4dF90ZWNobmlxdWUocmVuZGVyLkVYVF9URUNIX01PVElPTl9CTFVSLCBGYWxzZSkK</text>
+        <text encoding="base64">CQkJCW1vZGVsLmFsbF9tYXRlcmlhbHMuc2V0X3Zhcigic2hhZG93X2xpZ2h0X2NvbG9yIiwgdHVwbGUoc2VsZi5fZ2V0X2l0ZW1fZGF0YShkYXRhLCAnc2hhZG93X2xpZ2h0X2NvbG9yJykpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
