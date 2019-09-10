@@ -27,6 +27,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/activity_168.py" timestamp="1568105064054">
+        <mark key="[" line="262" column="102" />
+        <mark key="]" line="262" column="108" />
+        <mark key="^" line="262" column="108" />
+        <mark key="." line="262" column="108" />
+      </file>
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
@@ -35,6 +41,12 @@
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
+      </file>
+      <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
+        <mark key="[" line="3855" column="29" />
+        <mark key="]" line="3859" column="8" />
+        <mark key="^" line="3859" column="8" />
+        <mark key="." line="3859" column="8" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1567754005027">
         <mark key="[" line="257" column="70" />
@@ -45,7 +57,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567739129280">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568084746802">
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568104848406">
         <mark key="[" line="30" column="50" />
         <mark key="]" line="30" column="50" />
         <mark key="." line="30" column="50" />
@@ -188,8 +200,8 @@
       <jump line="390" column="24" filename="D:/Work2/client2/script/game_scene/skin_play_scene.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tuple(self._get_item_data(data, 'shadow_light_color')))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyZW5kZXIuc2F2ZV9zY3JlZW5fdG9fZmlsZV9leChmaWxlbmFtZSwgMTMzNCwgNzUwLCB1dl94LCB1dl95LCB1dl93LCB1dl9oLCByZW5kZXIuSUZGX1BORywgVHJ1ZSwgbGFtYmRhIHJlc3VsdCwgYXJlYSA9IHNlbGYuZHJhd2luZ19hcmVhOiBfY2FwdHVyZUNiKHJlc3VsdCwgYXJlYSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>tuple(self._get_item_data(data, 'shadow_light_color')))</text>
@@ -198,24 +210,27 @@
         <text encoding="base64">XDxnZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCW1vZGVsLmFsbF9tYXRlcmlhbHMuc2V0X3Zhcigic2hhZG93X2xpZ2h0X2NvbG9yIiwgdHVwbGUoc2VsZi5fZ2V0X2l0ZW1fZGF0YShkYXRhLCAnc2hhZG93X2xpZ2h0X2NvbG9yJykpKQo=</text>
+        <text encoding="base64">CQlyZW5kZXIuc2F2ZV9zY3JlZW5fdG9fZmlsZV9leChmaWxlbmFtZSwgMTMzNCwgNzUwLCB1dl94LCB1dl95LCB1dl93LCB1dl9oLCByZW5kZXIuSUZGX1BORywgVHJ1ZSwgbGFtYmRhIHJlc3VsdCwgYXJlYSA9IHNlbGYuZHJhd2luZ19hcmVhOiBfY2FwdHVyZUNiKHJlc3VsdCwgYXJlYSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkjZ2cudWkucGFuZWxzLmhlcm9fY29tbW9uLl9vbl9jbG9zZV9jbGljaygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpbXBvcnQgZ2FtZV9zY2VuZS5jaXR5X2hlcm9zaG93IGFzIGNpdHlfaGVyb3Nob3cK</text>
+        <text encoding="base64">CQkjZ2cudWkucGFuZWxzLmhlcm9fY29tbW9uLl9vbl9jbG9zZV9jbGljaygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAK</text>
+        <text encoding="base64">CQlpbXBvcnQgZ2FtZV9zY2VuZS5jaXR5X2hlcm9zaG93IGFzIGNpdHlfaGVyb3Nob3cK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQlpZiAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlwcmludCgnW3NldHRsZW1lbnRfZnVsbHNjcmVlbl9mYXNoaW9uXShkZWJ1Z19sZWF2ZV9zY2VuZV9lcnJvcikgZ2V0IGlzIE5vbmUnLCBzY2VuZV9vYmouc2NlbmVfaWQpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if pre_active_scn:
 				gg.city_container.scene_mgr.set(scene_obj.scene_id, pre_active_scn)
 				print('[settlement_fullscreen_fashion](debug_leave_scene_error) get is None, replace with pre_active_scn', scene_obj.scene_id)
@@ -232,14 +247,11 @@
 			return
 		obj.enable_render(True)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlzZWxmLnByZV9hY3RpdmVfc2NuID0gTm9uZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlwcmVfYWN0aXZlX3NjbiA9IHNlbGYucHJlX2FjdGl2ZV9zY24K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwcmVfYWN0aXZlX3NjbiA9IHNlbGYucHJlX2FjdGl2ZV9zY24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -276,7 +288,6 @@
         <entry encoding="base64">XDxnZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>1202</entry>
         <entry>1185</entry>
         <entry>60</entry>
         <entry>573</entry>
@@ -295,6 +306,7 @@
         <entry>278</entry>
         <entry>848</entry>
         <entry>268</entry>
+        <entry>3856</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
