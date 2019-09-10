@@ -39,13 +39,13 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567739129280">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568028048142">
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568084746802">
         <mark key="[" line="30" column="50" />
         <mark key="]" line="30" column="50" />
         <mark key="." line="30" column="50" />
         <mark key="^" line="63" column="29" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/posteffect_mgr.py" timestamp="1568019935322" />
+      <file name="D:/Work2/client2/script/res_mgr/posteffect_mgr.py" timestamp="1568085835428" />
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
         <mark key="[" line="1925" column="8" />
       </file>
@@ -62,12 +62,14 @@
         <mark key="." line="635" column="4" />
         <mark key="^" line="141" column="27" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568085919915" />
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
+      <file name="D:/Work2/client2/script/combat/view/unit/Unit.py" timestamp="1568085730163" />
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
         <mark key="'" line="108" column="71" />
       </file>
@@ -76,6 +78,7 @@
         <mark key="]" line="510" column="15" />
         <mark key="." line="510" column="15" />
       </file>
+      <file name="D:/Work2/client2/script/cutils/model_util.py" timestamp="1568084854434" />
     </filemarks>
     <jumps>
       <jump line="1442" column="30" filename="E:/Work/client/script/combat/view/logic/events/event_base.py" />
