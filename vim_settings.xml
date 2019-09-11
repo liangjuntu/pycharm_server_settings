@@ -27,11 +27,16 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568194087449">
+      <file name="/Python Console" timestamp="1568202201515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
+      </file>
+      <file name="/fragment.py" timestamp="1568201134306">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568104848406">
         <mark key="[" line="30" column="50" />
@@ -45,7 +50,7 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_gis.py" timestamp="1568188174006" />
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_gis.py" timestamp="1568201658714" />
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
@@ -68,7 +73,7 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568196219354">
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568201154372">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="60" column="37" />
         <mark key="]" line="5" column="24" />
@@ -98,17 +103,17 @@
       </file>
       <file name="E:/Work/client/script/combat/base/data/model_data.py" timestamp="1568188737541" />
       <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1568172789054" />
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568195017523">
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568202196115">
         <mark key="[" line="40" column="29" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568196289340">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568202175325">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -215,43 +220,55 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljYXRjaCBlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIEFnc0luaGVyaXQ=</text>
+        <text>_replace</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CWlmIHNlbGYuc3JjX3BhdGguZW5kc3dpdGgoJy5hZ3MnKToKCQkJcmV0dXJuIEZhbHNlLCAn1K3GpLf0wre+trTtzvMn</text>
+        <text>self.src_gis_parser, self.src_anims, self.src_ags_parser, self.src_anim_dict \
+			= self.init_by_path(self.src_gis_path, self.src_ags_path)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljYXRjaCBlOgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gRmFsc2UsICe8zLPQyqew3CzOtMq1z9YnCg==</text>
+      <register name="2" type="4">
+        <text>self.src_gis_parser = GisParser(self.src_gis_path)
+		self.src_gis_parser.ReadFile()
+		self.arc_anims =
+		self.src_ags_parser = AgsParser(self.src_ags_path)
+		self.src_ags_parser.ReadFile()
+
+		self.dst_gis_parser = GisParser(self.dst_gis_path)
+		self.dst_gis_parser.ReadFile()
+
+		self.dst_ags_parser = AgsParser(self.dst_ags_path)
+		self.dst_ags_parser.ReadFile()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0a01lc3NhZ2Vib3ggaW1wb3J0ICoK</text>
+      <register name="3" type="4">
+        <text>self.src_ags_parser = AgsParser(self.src_ags_path)
+		self.src_ags_parser.ReadFile()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RTpcV29ya1xHNThTVk5cdG9vbFxleHBvcnRfbW9kZWxfbGludXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gRmFsc2UsICe8zLPQyqew3CzOtMq1z9YnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0a01lc3NhZ2Vib3ggaW1wb3J0ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IGFza29wZW5maWxlbmFtZShkZWZhdWx0ZXh0ZW5zaW9uPSIuYWdzIikK</text>
+        <text encoding="base64">RTpcV29ya1xHNThTVk5cdG9vbFxleHBvcnRfbW9kZWxfbGludXgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
