@@ -27,7 +27,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568188553706">
+      <file name="/Python Console" timestamp="1568194087449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
@@ -56,7 +56,7 @@
       <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1568095569001">
         <mark key="'" line="390" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567482595362">
+      <file name="/Dummy.txt" timestamp="1568194986434">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/res_mgr/effects/pvehsv_adjust.py" timestamp="1566874589453">
@@ -67,6 +67,13 @@
       </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568196219354">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -90,24 +97,21 @@
         <mark key="'" line="216" column="53" />
       </file>
       <file name="E:/Work/client/script/combat/base/data/model_data.py" timestamp="1568188737541" />
-      <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1567741313957">
-        <mark key="'" line="167" column="20" />
-        <mark key="[" line="635" column="4" />
-        <mark key="]" line="635" column="4" />
-        <mark key="." line="635" column="4" />
-        <mark key="^" line="141" column="27" />
-      </file>
       <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1568172789054" />
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568188501046">
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568195017523">
         <mark key="[" line="40" column="29" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568196289340">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="40" filename="E:/Work/client/script/res_mgr/effects/scene_adjust.py" />
-      <jump line="130" column="52" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="203" column="42" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="25" column="66" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="1264" column="45" filename="E:/Work/client/script/game_scene/city.py" />
@@ -206,60 +210,48 @@
       <jump line="390" column="24" filename="D:/Work2/client2/script/game_scene/skin_play_scene.py" />
       <jump line="501" column="40" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
       <jump line="510" column="28" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
+      <jump line="14" column="32" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
+      <jump line="4" column="0" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tuple(self._get_item_data(data, 'shadow_light_color')))</text>
+        <text encoding="base64">IGFzIEFnc0luaGVyaXQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlyZW5kZXIuc2F2ZV9zY3JlZW5fdG9fZmlsZV9leChmaWxlbmFtZSwgMTMzNCwgNzUwLCB1dl94LCB1dl95LCB1dl93LCB1dl9oLCByZW5kZXIuSUZGX1BORywgVHJ1ZSwgbGFtYmRhIHJlc3VsdCwgYXJlYSA9IHNlbGYuZHJhd2luZ19hcmVhOiBfY2FwdHVyZUNiKHJlc3VsdCwgYXJlYSkpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CWlmIHNlbGYuc3JjX3BhdGguZW5kc3dpdGgoJy5hZ3MnKToKCQkJcmV0dXJuIEZhbHNlLCAn1K3GpLf0wre+trTtzvMn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJcmV0dXJuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkzCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlyZXR1cm4gRmFsc2UsICe8zLPQyqew3CzOtMq1z9YnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSB0a01lc3NhZ2Vib3ggaW1wb3J0ICoK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkjZ2cudWkucGFuZWxzLmhlcm9fY29tbW9uLl9vbl9jbG9zZV9jbGljaygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpbXBvcnQgZ2FtZV9zY2VuZS5jaXR5X2hlcm9zaG93IGFzIGNpdHlfaGVyb3Nob3cK</text>
+        <text encoding="base64">RTpcV29ya1xHNThTVk5cdG9vbFxleHBvcnRfbW9kZWxfbGludXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludCgnW3NldHRsZW1lbnRfZnVsbHNjcmVlbl9mYXNoaW9uXShkZWJ1Z19sZWF2ZV9zY2VuZV9lcnJvcikgZ2V0IGlzIE5vbmUnLCBzY2VuZV9vYmouc2NlbmVfaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>if pre_active_scn:
-				gg.city_container.scene_mgr.set(scene_obj.scene_id, pre_active_scn)
-				print('[settlement_fullscreen_fashion](debug_leave_scene_error) get is None, replace with pre_active_scn', scene_obj.scene_id)
-			else:
-				print('[settlement_fullscreen_fashion](debug_leave_scene_error) get is None and pre_active_scn is None', scene_obj.scene_id)
-				return
-
-		gg.city_container.scene_mgr.active_scn = None
-		gg.city_container.scene_mgr.change_scn(scene_obj.scene_id)
-
-		obj = world.get_active_scene()
-		if not obj:
-			print('[settlement_fullscreen_fashion](debug_leave_scene_error) obj is None')
-			return
-		obj.enable_render(True)</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzZWxmLnByZV9hY3RpdmVfc2NuID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9IGFza29wZW5maWxlbmFtZShkZWZhdWx0ZXh0ZW5zaW9uPSIuYWdzIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
