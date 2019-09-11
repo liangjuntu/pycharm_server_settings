@@ -27,7 +27,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568109601879">
+      <file name="/Python Console" timestamp="1568188553706">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
@@ -45,10 +45,11 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_gis.py" timestamp="1568185799488" />
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_gis.py" timestamp="1568188174006" />
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
+      <file name="E:/Work/client/script/combat/base/model_scene_data.py" timestamp="1568187886237" />
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
         <mark key="'" line="108" column="71" />
       </file>
@@ -88,6 +89,7 @@
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
+      <file name="E:/Work/client/script/combat/base/data/model_data.py" timestamp="1568188737541" />
       <file name="E:/Work/client/script/game_scene/skin_play_scene.py" timestamp="1567741313957">
         <mark key="'" line="167" column="20" />
         <mark key="[" line="635" column="4" />
@@ -96,13 +98,11 @@
         <mark key="^" line="141" column="27" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1568172789054" />
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568188501046">
+        <mark key="[" line="40" column="29" />
+      </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
-      </file>
-      <file name="D:/Work2/client2/script/com/const.py" timestamp="1567739041134">
-        <mark key="[" line="510" column="14" />
-        <mark key="]" line="510" column="15" />
-        <mark key="." line="510" column="15" />
       </file>
     </filemarks>
     <jumps>
