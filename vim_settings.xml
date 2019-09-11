@@ -6,8 +6,11 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1567764380796">
-        <mark key="[" line="57" column="20" />
+      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1568183001581">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="62" column="20" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568099533556">
         <mark key="[" line="90" column="68" />
@@ -205,7 +208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZW5kZXIuc2F2ZV9zY3JlZW5fdG9fZmlsZV9leChmaWxlbmFtZSwgMTMzNCwgNzUwLCB1dl94LCB1dl95LCB1dl93LCB1dl9oLCByZW5kZXIuSUZGX1BORywgVHJ1ZSwgbGFtYmRhIHJlc3VsdCwgYXJlYSA9IHNlbGYuZHJhd2luZ19hcmVhOiBfY2FwdHVyZUNiKHJlc3VsdCwgYXJlYSkpCg==</text>
+        <text encoding="base64">CQkJCQkJcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
         <text>tuple(self._get_item_data(data, 'shadow_light_color')))</text>
@@ -217,24 +220,27 @@
         <text encoding="base64">CQlyZW5kZXIuc2F2ZV9zY3JlZW5fdG9fZmlsZV9leChmaWxlbmFtZSwgMTMzNCwgNzUwLCB1dl94LCB1dl95LCB1dl93LCB1dl9oLCByZW5kZXIuSUZGX1BORywgVHJ1ZSwgbGFtYmRhIHJlc3VsdCwgYXJlYSA9IHNlbGYuZHJhd2luZ19hcmVhOiBfY2FwdHVyZUNiKHJlc3VsdCwgYXJlYSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkzCg==</text>
+        <text encoding="base64">CQkJCQkJcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkjZ2cudWkucGFuZWxzLmhlcm9fY29tbW9uLl9vbl9jbG9zZV9jbGljaygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpbXBvcnQgZ2FtZV9zY2VuZS5jaXR5X2hlcm9zaG93IGFzIGNpdHlfaGVyb3Nob3cK</text>
+        <text encoding="base64">CQkjZ2cudWkucGFuZWxzLmhlcm9fY29tbW9uLl9vbl9jbG9zZV9jbGljaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAK</text>
+        <text encoding="base64">CQlpbXBvcnQgZ2FtZV9zY2VuZS5jaXR5X2hlcm9zaG93IGFzIGNpdHlfaGVyb3Nob3cK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQlpZiAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQlwcmludCgnW3NldHRsZW1lbnRfZnVsbHNjcmVlbl9mYXNoaW9uXShkZWJ1Z19sZWF2ZV9zY2VuZV9lcnJvcikgZ2V0IGlzIE5vbmUnLCBzY2VuZV9vYmouc2NlbmVfaWQpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if pre_active_scn:
 				gg.city_container.scene_mgr.set(scene_obj.scene_id, pre_active_scn)
 				print('[settlement_fullscreen_fashion](debug_leave_scene_error) get is None, replace with pre_active_scn', scene_obj.scene_id)
@@ -251,11 +257,8 @@
 			return
 		obj.enable_render(True)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlzZWxmLnByZV9hY3RpdmVfc2NuID0gTm9uZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmVfYWN0aXZlX3NjbiA9IHNlbGYucHJlX2FjdGl2ZV9zY24K</text>
+        <text encoding="base64">CQlzZWxmLnByZV9hY3RpdmVfc2NuID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
