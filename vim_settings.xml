@@ -27,7 +27,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568202201515">
+      <file name="/Python Console" timestamp="1568254820426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
@@ -50,11 +50,9 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_gis.py" timestamp="1568201658714" />
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
-      <file name="E:/Work/client/script/combat/base/model_scene_data.py" timestamp="1568187886237" />
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
         <mark key="'" line="108" column="71" />
       </file>
@@ -73,12 +71,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568201154372">
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568256342300">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+        <mark key="[" line="67" column="32" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="11" />
+        <mark key="^" line="68" column="11" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -101,19 +99,16 @@
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
-      <file name="E:/Work/client/script/combat/base/data/model_data.py" timestamp="1568188737541" />
-      <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1568172789054" />
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568202196115">
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568254298486">
         <mark key="[" line="40" column="29" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568202175325">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="38" column="36" />
-        <mark key="." line="38" column="36" />
-        <mark key="^" line="38" column="36" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568256326316">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -220,55 +215,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQljYXRjaCBlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_replace</text>
+        <text>ratio</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>self.src_gis_parser, self.src_anims, self.src_ags_parser, self.src_anim_dict \
-			= self.init_by_path(self.src_gis_path, self.src_ags_path)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJJ3NyY190aW1lJzogc3JjX3RpbWUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljYXRjaCBlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>self.src_gis_parser = GisParser(self.src_gis_path)
-		self.src_gis_parser.ReadFile()
-		self.arc_anims =
-		self.src_ags_parser = AgsParser(self.src_ags_path)
-		self.src_ags_parser.ReadFile()
-
-		self.dst_gis_parser = GisParser(self.dst_gis_path)
-		self.dst_gis_parser.ReadFile()
-
-		self.dst_ags_parser = AgsParser(self.dst_ags_path)
-		self.dst_ags_parser.ReadFile()</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>self.src_ags_parser = AgsParser(self.src_ags_path)
-		self.src_ags_parser.ReadFile()</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlpZiBldmVudF9uYW1lIG5vdCBpbiBzZWxmLmNvbXBhcmVfZGlmZlthbmltX25hbWVdOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZiBub3Qgc2VsZi5jb21wYXJlX2RpZmZbYW5pbV9uYW1lXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gRmFsc2UsICe8zLPQyqew3CzOtMq1z9YnCg==</text>
+        <text encoding="base64">CQkJZGljdF9uYW1lMmV2ZW50X3JhdGlvW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0a01lc3NhZ2Vib3ggaW1wb3J0ICoK</text>
+        <text encoding="base64">CQkJCWNvbnRpbnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RTpcV29ya1xHNThTVk5cdG9vbFxleHBvcnRfbW9kZWxfbGludXgK</text>
+        <text encoding="base64">CQlwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
