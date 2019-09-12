@@ -27,13 +27,13 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568271287990">
+      <file name="/Python Console" timestamp="1568279308137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
         <mark key="'" line="592" column="42" />
       </file>
-      <file name="/fragment.py" timestamp="1568201134306">
+      <file name="/fragment.py" timestamp="1568279489426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -47,7 +47,6 @@
       <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568121336561">
         <mark key="'" line="510" column="28" />
       </file>
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_gim.py" timestamp="1568269076088" />
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,12 +71,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568271590491">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="79" column="50" />
-        <mark key="]" line="112" column="19" />
-        <mark key="^" line="112" column="19" />
-        <mark key="." line="112" column="19" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568280932736">
+        <mark key="'" line="128" column="25" />
+        <mark key="[" line="96" column="24" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -97,25 +96,30 @@
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
         <mark key="[" line="1925" column="8" />
       </file>
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/Run.cmd" timestamp="1568281018168">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568269614019">
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568277849576">
         <mark key="[" line="40" column="29" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568271895947">
-        <mark key="'" line="85" column="26" />
-        <mark key="[" line="114" column="30" />
-        <mark key="]" line="114" column="29" />
-        <mark key="." line="114" column="29" />
-        <mark key="^" line="114" column="29" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568281129896">
+        <mark key="'" line="123" column="26" />
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="77" column="27" />
+        <mark key="." line="77" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="66" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="1264" column="45" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="164" column="63" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="19" column="28" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
@@ -215,47 +219,61 @@
       <jump line="14" column="32" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
       <jump line="4" column="0" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
       <jump line="84" column="26" filename="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" />
+      <jump line="93" column="25" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG9yIFRydWU6</text>
+        <text>if not self.src_gis_path.endswith('.gis'):
+			return False, '原皮肤gis路径错误'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIFRydWU6</text>
+        <text>clearlog.py</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBhcmVfbGFiZWwucGFjayhwYWR5PTUpCg==</text>
+      <register name="0" type="4">
+        <text>if not self.src_gis_path.endswith('.gis'):
+			return False, '原皮肤gis路径错误'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Y2QgIEM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>diff['src_len'], diff['dst_len'],
-                        diff['src_time'], diff['dst_time'], diff['src_ratio'], diff['dst_ratio'], diff['new_ratio']</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzaG93X3Flc3Rpb246Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ25ld19yYXRpbycsIHRleHQ9J8zmu7uxyMD9JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ2RzdF9yYXRpbycsIHRleHQ9J9DCxqSxyMD9JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ3NyY19yYXRpbycsIHRleHQ9J9StxqSxyMD9JykK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ2RzdF90aW1lJywgdGV4dD0n0MLGpMqxvOQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ3NyY190aW1lJywgdGV4dD0n1K3GpMqxvOQnKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLnBhY2soKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ2RzdF9sZW4nLCB0ZXh0PSfQwsak19yzpCcpCg==</text>
+      <register name="9" type="4">
+        <text>self.missing_frame = Frame(self.root)
+        self.missing_frame.pack(pady=5)
+        self.missing_label = Label(self.compare_frame, text='新皮肤缺失的')
+        self.missing_label.pack(pady=5)
+        tree = Treeview(self.missing_frame,
+                        columns=['anim_name', 'event_name'], show='headings', height=5)
+        vbar = Scrollbar(self.missing_frame, orient=&quot;vertical&quot;, command=tree.yview)
+        vbar.pack(side=RIGHT, fill=Y)
+        tree.configure(yscrollcommand=vbar.set)
+        tree.column('anim_name', width=100, anchor='w')
+        tree.column('event_name', width=100, anchor='w')
+        tree.heading('anim_name', text='动作名')
+        tree.heading('event_name', text='事件点')</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
