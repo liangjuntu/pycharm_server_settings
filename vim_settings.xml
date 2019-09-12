@@ -27,7 +27,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568254820426">
+      <file name="/Python Console" timestamp="1568258605340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
@@ -71,12 +71,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568256342300">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="67" column="32" />
-        <mark key="]" line="68" column="11" />
-        <mark key="." line="68" column="11" />
-        <mark key="^" line="68" column="11" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568259236911">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="76" column="39" />
+        <mark key="]" line="100" column="16" />
+        <mark key="." line="100" column="16" />
+        <mark key="^" line="100" column="16" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -105,10 +105,11 @@
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568256326316">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568258068949">
+        <mark key="[" line="93" column="28" />
+        <mark key="]" line="93" column="35" />
+        <mark key="." line="93" column="35" />
+        <mark key="^" line="93" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -214,44 +215,44 @@
       <jump line="4" column="0" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>grid</text>
       </register>
       <register name="-" type="4">
-        <text>ratio</text>
+        <text>grid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJJ3NyY190aW1lJzogc3JjX3RpbWUsCg==</text>
+      <register name="0" type="4">
+        <text>diff['src_time'], diff['dst_time']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmcm9tIHRraW50ZXIudHRrIGltcG9ydCBUcmVldmlldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGFyZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiBldmVudF9uYW1lIG5vdCBpbiBzZWxmLmNvbXBhcmVfZGlmZlthbmltX25hbWVdOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiBub3Qgc2VsZi5jb21wYXJlX2RpZmZbYW5pbV9uYW1lXQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmluc2VydCgnJywgJ2VuZCcsIHZhbHVlcz1saSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZGljdF9uYW1lMmV2ZW50X3JhdGlvW10K</text>
+        <text encoding="base64">ICAgICAgICDUrc7EwbS906O6aHR0cHM6IC8vIGJsb2cuY3Nkbi5uZXQgLyBzaW5hdF8yNzM4MjA0NyAvIGFydGljbGUgLyBkZXRhaWxzIC8gODAxNjE2MzcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBCWSAtIFNBCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICA0LjAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
