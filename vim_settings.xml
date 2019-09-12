@@ -27,7 +27,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568258605340">
+      <file name="/Python Console" timestamp="1568271287990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
@@ -47,6 +47,7 @@
       <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568121336561">
         <mark key="'" line="510" column="28" />
       </file>
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_gim.py" timestamp="1568269076088" />
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,12 +72,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568260429589">
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568271590491">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="86" column="7" />
-        <mark key="." line="86" column="7" />
-        <mark key="^" line="86" column="7" />
+        <mark key="[" line="79" column="50" />
+        <mark key="]" line="112" column="19" />
+        <mark key="^" line="112" column="19" />
+        <mark key="." line="112" column="19" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -99,21 +100,21 @@
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
-      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568254298486">
+      <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568269614019">
         <mark key="[" line="40" column="29" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568260204413">
-        <mark key="[" line="74" column="23" />
-        <mark key="]" line="74" column="34" />
-        <mark key="." line="74" column="34" />
-        <mark key="^" line="74" column="34" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568271895947">
+        <mark key="'" line="85" column="26" />
+        <mark key="[" line="114" column="30" />
+        <mark key="]" line="114" column="29" />
+        <mark key="." line="114" column="29" />
+        <mark key="^" line="114" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="42" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="25" column="66" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="1264" column="45" filename="E:/Work/client/script/game_scene/city.py" />
       <jump line="164" column="63" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
@@ -213,48 +214,48 @@
       <jump line="510" column="28" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
       <jump line="14" column="32" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
       <jump line="4" column="0" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
+      <jump line="84" column="26" filename="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>diff['dst_ratio'],</text>
+        <text encoding="base64">IG9yIFRydWU6</text>
       </register>
       <register name="-" type="4">
-        <text>diff['dst_ratio'],</text>
+        <text encoding="base64">IG9yIFRydWU6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmNvbHVtbignZHN0X3RpbWUnLCB3aWR0aD0xMDAsIGFuY2hvcj0ndycpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBhcmVfbGFiZWwucGFjayhwYWR5PTUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>tree.column('src_ratio', width=100, anchor='w')
-        tree.column('dst_ratio', width=100, anchor='w')</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>diff['src_len'], diff['dst_len'],
+                        diff['src_time'], diff['dst_time'], diff['src_ratio'], diff['dst_ratio'], diff['new_ratio']</text>
       </register>
-      <register name="4" type="4">
-        <text>tree.heading('src_ratio', text='原皮比例')
-        tree.heading('dst_ratio', text='新皮比例')</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ25ld19yYXRpbycsIHRleHQ9J8zmu7uxyMD9JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmcm9tIHRraW50ZXIudHRrIGltcG9ydCBUcmVldmlldwo=</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ2RzdF9yYXRpbycsIHRleHQ9J9DCxqSxyMD9JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGFyZScpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ3NyY19yYXRpbycsIHRleHQ9J9StxqSxyMD9JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ2RzdF90aW1lJywgdGV4dD0n0MLGpMqxvOQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmluc2VydCgnJywgJ2VuZCcsIHZhbHVlcz1saSkK</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ3NyY190aW1lJywgdGV4dD0n1K3GpMqxvOQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmhlYWRpbmcoJ2RzdF9sZW4nLCB0ZXh0PSfQwsak19yzpCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
