@@ -71,12 +71,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568280932736">
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568282501506">
         <mark key="'" line="128" column="25" />
-        <mark key="[" line="96" column="24" />
-        <mark key="]" line="96" column="23" />
-        <mark key="^" line="96" column="23" />
-        <mark key="." line="96" column="23" />
+        <mark key="[" line="181" column="86" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -223,11 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if not self.src_gis_path.endswith('.gis'):
-			return False, '原皮肤gis路径错误'</text>
+        <text>1024</text>
       </register>
       <register name="-" type="4">
-        <text>clearlog.py</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
