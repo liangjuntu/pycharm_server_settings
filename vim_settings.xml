@@ -71,12 +71,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568259236911">
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568260429589">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="76" column="39" />
-        <mark key="]" line="100" column="16" />
-        <mark key="." line="100" column="16" />
-        <mark key="^" line="100" column="16" />
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="86" column="7" />
+        <mark key="." line="86" column="7" />
+        <mark key="^" line="86" column="7" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -105,11 +105,11 @@
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568258068949">
-        <mark key="[" line="93" column="28" />
-        <mark key="]" line="93" column="35" />
-        <mark key="." line="93" column="35" />
-        <mark key="^" line="93" column="35" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568260204413">
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="34" />
+        <mark key="." line="74" column="34" />
+        <mark key="^" line="74" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -216,43 +216,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>grid</text>
+        <text>diff['dst_ratio'],</text>
       </register>
       <register name="-" type="4">
-        <text>grid</text>
+        <text>diff['dst_ratio'],</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>diff['src_time'], diff['dst_time']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0cmVlLmNvbHVtbignZHN0X3RpbWUnLCB3aWR0aD0xMDAsIGFuY2hvcj0ndycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIHRraW50ZXIudHRrIGltcG9ydCBUcmVldmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGFyZScpCg==</text>
+      <register name="2" type="4">
+        <text>tree.column('src_ratio', width=100, anchor='w')
+        tree.column('dst_ratio', width=100, anchor='w')</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLmluc2VydCgnJywgJ2VuZCcsIHZhbHVlcz1saSkK</text>
+      <register name="4" type="4">
+        <text>tree.heading('src_ratio', text='原皮比例')
+        tree.heading('dst_ratio', text='新皮比例')</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">IyBmcm9tIHRraW50ZXIudHRrIGltcG9ydCBUcmVldmlldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDUrc7EwbS906O6aHR0cHM6IC8vIGJsb2cuY3Nkbi5uZXQgLyBzaW5hdF8yNzM4MjA0NyAvIGFydGljbGUgLyBkZXRhaWxzIC8gODAxNjE2MzcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGFyZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCWSAtIFNBCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVlLmluc2VydCgnJywgJ2VuZCcsIHZhbHVlcz1saSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA0LjAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
