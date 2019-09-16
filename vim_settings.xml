@@ -71,12 +71,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568282501506">
-        <mark key="'" line="128" column="25" />
-        <mark key="[" line="181" column="86" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="30" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568600468634">
+        <mark key="'" line="65" column="82" />
+        <mark key="[" line="85" column="26" />
+        <mark key="]" line="86" column="11" />
+        <mark key="^" line="86" column="11" />
+        <mark key="." line="86" column="11" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -120,8 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1264" column="45" filename="E:/Work/client/script/game_scene/city.py" />
-      <jump line="164" column="63" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="19" column="28" filename="E:/Work/client/script/res_mgr/effects/hsv_adjust.py" />
       <jump line="161" column="42" filename="E:/Work/client/script/game_scene/city_base.py" />
       <jump line="233" column="24" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
@@ -220,59 +218,48 @@
       <jump line="4" column="0" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
       <jump line="84" column="26" filename="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" />
       <jump line="93" column="25" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
+      <jump line="15" column="23" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
+      <jump line="65" column="82" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1024</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBvbl9pbmhlcml0KHNlbGYpOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>compare</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>if not self.src_gis_path.endswith('.gis'):
-			return False, '原皮肤gis路径错误'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBvbl9pbmhlcml0KHNlbGYpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBhcmVfYnRuID0gQnV0dG9uKHNlbGYuYnRuX2ZyYW1lLCB0ZXh0PSe21LHIJywgY29tbWFuZD1zZWxmLm9uX2NvbXBhcmUpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y2QgIEM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICAgICAgsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obizrNfUyLvG7bW7obm1xNSttLTOxNXCo6zX8dGtCiAgICAgICAgQ0MKICAgICAgICA0LjAKICAgICAgICBCWSAtIFNBCiAgICAgICAgsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCiAgICAgICAg1K3OxMG0vdOjumh0dHBzOiAvLyBibG9nLmNzZG4ubmV0IC8gc2luYXRfMjczODIwNDcgLyBhcnRpY2xlIC8gZGV0YWlscyAvIDgwMTYxNjM3</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzaG93X3Flc3Rpb246Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2QgIEM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzaG93X3Flc3Rpb246Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmVlLnBhY2soKQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>self.missing_frame = Frame(self.root)
-        self.missing_frame.pack(pady=5)
-        self.missing_label = Label(self.compare_frame, text='新皮肤缺失的')
-        self.missing_label.pack(pady=5)
-        tree = Treeview(self.missing_frame,
-                        columns=['anim_name', 'event_name'], show='headings', height=5)
-        vbar = Scrollbar(self.missing_frame, orient=&quot;vertical&quot;, command=tree.yview)
-        vbar.pack(side=RIGHT, fill=Y)
-        tree.configure(yscrollcommand=vbar.set)
-        tree.column('anim_name', width=100, anchor='w')
-        tree.column('event_name', width=100, anchor='w')
-        tree.heading('anim_name', text='动作名')
-        tree.heading('event_name', text='事件点')</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
