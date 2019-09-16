@@ -111,12 +111,12 @@
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568617073867">
-        <mark key="'" line="68" column="25" />
-        <mark key="[" line="18" column="83" />
-        <mark key="]" line="19" column="161" />
-        <mark key="^" line="19" column="161" />
-        <mark key="." line="19" column="161" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568622307176">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -223,7 +223,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>#from parse_ags import *
+#from parse_gis import *</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
@@ -231,8 +232,9 @@
       <register name="/" type="4">
         <text>do_inherit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNrcXVlc3Rpb24odGl0bGU9J8zhyr4nLCBtZXNzYWdlPSfPyLbUscgnKQo=</text>
+      <register name="0" type="4">
+        <text>#from parse_ags import *
+#from parse_gis import *</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
