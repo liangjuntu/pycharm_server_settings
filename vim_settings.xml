@@ -27,7 +27,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568279308137">
+      <file name="/Python Console" timestamp="1568626409832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
@@ -38,17 +38,20 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568104848406">
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-        <mark key="^" line="63" column="29" />
+      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568626471735">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="61" column="29" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568121336561">
         <mark key="'" line="510" column="28" />
       </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568626608644">
+        <mark key="'" line="7544" column="34" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
@@ -120,10 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="33" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
-      <jump line="234" column="21" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
-      <jump line="204" column="26" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
-      <jump line="208" column="38" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="203" column="38" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="159" column="22" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="141" column="8" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
@@ -220,11 +219,14 @@
       <jump line="70" column="79" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
       <jump line="65" column="25" filename="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" />
       <jump line="73" column="80" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
+      <jump line="1216" column="47" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="1250" column="36" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="7359" column="24" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="7544" column="34" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#from parse_ags import *
-#from parse_gis import *</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJcHJpbnQoJ0NvbW1vbkZyZXNuZWxFeHRfQ2hhbmdlQ29sb3InLCBkYXRhWydDaGFuZ2VDb2xvciddKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICA=</text>
@@ -237,33 +239,33 @@
 #from parse_gis import *</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcHJpbnQoJ0NvbW1vbkZyZXNuZWxFeHRfQ2hhbmdlQ29sb3InLCBkYXRhWydDaGFuZ2VDb2xvciddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ld19hZ3NfcGF0aCA9IHNlbGYuZHN0X2Fnc19wYXRoLmdldCgpLnJlcGxhY2UoJy5hZ3MnLCAnX2luaGVyaXQuYWdzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ld19hZ3NfcGF0aCA9IHNlbGYuZHN0X2Fnc19wYXRoLmdldCgpLnJlcGxhY2UoJy5hZ3MnLCAnX2luaGVyaXQuYWdzJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZWxmLm5ld19hZ3NfcGF0aCA9IG5ld19hZ3NfcGF0aAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzZWxmLm5ld19hZ3NfcGF0aCA9IG5ld19hZ3NfcGF0aAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>if not self.output_path.get():
             askquestion(title='提示', message='没有输出路径')
             return</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRzdF9hZ3NfcGF0aC5zZXQoc2VsZi5uZXdfYWdzX3BhdGgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
