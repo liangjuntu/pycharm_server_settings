@@ -71,12 +71,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568600468634">
-        <mark key="'" line="65" column="82" />
-        <mark key="[" line="85" column="26" />
-        <mark key="]" line="86" column="11" />
-        <mark key="^" line="86" column="11" />
-        <mark key="." line="86" column="11" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568602340401">
+        <mark key="'" line="66" column="82" />
+        <mark key="[" line="97" column="35" />
+        <mark key="]" line="97" column="47" />
+        <mark key="^" line="97" column="47" />
+        <mark key="." line="97" column="47" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
@@ -111,12 +111,12 @@
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568281129896">
-        <mark key="'" line="123" column="26" />
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="77" column="27" />
-        <mark key="^" line="77" column="27" />
-        <mark key="." line="77" column="27" />
+      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568602000466">
+        <mark key="'" line="126" column="26" />
+        <mark key="[" line="63" column="52" />
+        <mark key="]" line="63" column="52" />
+        <mark key="^" line="63" column="52" />
+        <mark key="." line="63" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -222,44 +222,44 @@
       <jump line="65" column="82" filename="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbl9pbmhlcml0KHNlbGYpOgo=</text>
+      <register name="&quot;" type="4">
+        <text>dict_selected</text>
       </register>
       <register name="-" type="4">
-        <text>compare</text>
+        <text>dict_selected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbl9pbmhlcml0KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluaGVyaXRfYnRuLnBhY2soc2lkZT1SSUdIVCwgcGFkeD0xMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBhcmVfYnRuID0gQnV0dG9uKHNlbGYuYnRuX2ZyYW1lLCB0ZXh0PSe21LHIJywgY29tbWFuZD1zZWxmLm9uX2NvbXBhcmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICAgICAgsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obizrNfUyLvG7bW7obm1xNSttLTOxNXCo6zX8dGtCiAgICAgICAgQ0MKICAgICAgICA0LjAKICAgICAgICBCWSAtIFNBCiAgICAgICAgsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCiAgICAgICAg1K3OxMG0vdOjumh0dHBzOiAvLyBibG9nLmNzZG4ubmV0IC8gc2luYXRfMjczODIwNDcgLyBhcnRpY2xlIC8gZGV0YWlscyAvIDgwMTYxNjM3</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgKCe1pbv3JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2QgIEM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcAo=</text>
+        <text encoding="base64">CQlwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzaG93X3Flc3Rpb246Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbXBhcmVfYnRuID0gQnV0dG9uKHNlbGYuYnRuX2ZyYW1lLCB0ZXh0PSe21LHIJywgY29tbWFuZD1zZWxmLm9uX2NvbXBhcmUpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICAgICAgsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obizrNfUyLvG7bW7obm1xNSttLTOxNXCo6zX8dGtCiAgICAgICAgQ0MKICAgICAgICA0LjAKICAgICAgICBCWSAtIFNBCiAgICAgICAgsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCiAgICAgICAg1K3OxMG0vdOjumh0dHBzOiAvLyBibG9nLmNzZG4ubmV0IC8gc2luYXRfMjczODIwNDcgLyBhcnRpY2xlIC8gZGV0YWlscyAvIDgwMTYxNjM3</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Y2QgIEM6XFVzZXJzXEFkbWluaXN0cmF0b3JcRGVza3RvcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzaG93X3Flc3Rpb246Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
