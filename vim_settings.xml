@@ -44,8 +44,12 @@
         <mark key="^" line="61" column="29" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568121336561">
+      <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568713425430">
         <mark key="'" line="510" column="28" />
+        <mark key="[" line="510" column="13" />
+        <mark key="]" line="510" column="8" />
+        <mark key="^" line="510" column="8" />
+        <mark key="." line="510" column="8" />
       </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
@@ -92,13 +96,6 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/gui_inherit_ags.py" timestamp="1568616760443">
-        <mark key="'" line="73" column="80" />
-        <mark key="[" line="115" column="18" />
-        <mark key="]" line="116" column="51" />
-        <mark key="^" line="116" column="51" />
-        <mark key="." line="116" column="51" />
-      </file>
       <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
         <mark key="[" line="3855" column="29" />
         <mark key="]" line="3859" column="8" />
@@ -143,13 +140,6 @@
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_common.py" timestamp="1567753794331">
         <mark key="'" line="78" column="55" />
-      </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/inherit_ags.py" timestamp="1568622307176">
-        <mark key="'" line="72" column="25" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/common_property.py" timestamp="1568703209719" />
       <file name="E:/Work/client/script/cocos/panels/card_jiaozhi_2.py" timestamp="1568709912125">
