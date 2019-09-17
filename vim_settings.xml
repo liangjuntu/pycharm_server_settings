@@ -27,10 +27,10 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568703219010">
+      <file name="/Python Console" timestamp="1568705399067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1568705863427">
         <mark key="'" line="592" column="42" />
       </file>
       <file name="/fragment.py" timestamp="1568279489426">
@@ -58,6 +58,9 @@
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
         <mark key="'" line="108" column="71" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/city_room_danchi.py" timestamp="1568705917249">
+        <mark key="'" line="585" column="56" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1568095569001">
         <mark key="'" line="390" column="24" />
@@ -129,7 +132,6 @@
       <file name="E:/Work/client/script/cocos/panels/common_property.py" timestamp="1568703209719" />
     </filemarks>
     <jumps>
-      <jump line="141" column="8" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="81" column="22" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
       <jump line="275" column="24" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
       <jump line="65" column="42" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/activity_104_settlement.py" />
@@ -229,6 +231,7 @@
       <jump line="7544" column="34" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="115" column="24" filename="D:/Work2/client2/script/cocos/panels/duihuan_main.py" />
       <jump line="404" column="18" filename="D:/Work2/client2/script/cocos/panels/duihuan_main.py" />
+      <jump line="585" column="56" filename="E:/Work/client/script/cocos/panels/city_room_danchi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
