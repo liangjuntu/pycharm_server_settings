@@ -7,10 +7,10 @@
         <mark key="[" line="2009" column="54" />
       </file>
       <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1568183001581">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="62" column="20" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="61" column="20" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568099533556">
         <mark key="[" line="90" column="68" />
@@ -108,6 +108,9 @@
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/duihuan_main.py" timestamp="1568701905566">
+        <mark key="'" line="404" column="18" />
+      </file>
       <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568277849576">
         <mark key="[" line="40" column="29" />
       </file>
@@ -123,8 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="38" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
-      <jump line="159" column="22" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="141" column="8" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
       <jump line="81" column="22" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
       <jump line="275" column="24" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
@@ -223,6 +224,8 @@
       <jump line="1250" column="36" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="7359" column="24" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="7544" column="34" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="115" column="24" filename="D:/Work2/client2/script/cocos/panels/duihuan_main.py" />
+      <jump line="404" column="18" filename="D:/Work2/client2/script/cocos/panels/duihuan_main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
