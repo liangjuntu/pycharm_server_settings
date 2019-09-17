@@ -6,26 +6,8 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="E:/Work/client/script/res_mgr/effects/character_fresnel.py" timestamp="1568183001581">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="61" column="20" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="E:/Work/client/script/cocos/panels/activity_147.py" timestamp="1568707809931" />
-      <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568099533556">
-        <mark key="[" line="90" column="68" />
-        <mark key="]" line="90" column="69" />
-        <mark key="." line="90" column="69" />
-        <mark key="^" line="90" column="69" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/panels/activity_168.py" timestamp="1568107120140">
-        <mark key="[" line="262" column="102" />
-        <mark key="]" line="262" column="108" />
-        <mark key="^" line="262" column="108" />
-        <mark key="." line="262" column="108" />
-      </file>
-      <file name="/Python Console" timestamp="1568721524704">
+      <file name="/Python Console" timestamp="1568723405724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1568709918120">
@@ -35,18 +17,12 @@
         <mark key="^" line="1516" column="47" />
         <mark key="." line="1516" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568626471735">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="61" column="29" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568720906342">
-        <mark key="'" line="511" column="28" />
-        <mark key="[" line="394" column="32" />
-        <mark key="]" line="395" column="13" />
-        <mark key="^" line="395" column="13" />
-        <mark key="." line="395" column="13" />
+      <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568725174748">
+        <mark key="'" line="502" column="48" />
+        <mark key="[" line="396" column="18" />
+        <mark key="]" line="397" column="4" />
+        <mark key="^" line="397" column="4" />
+        <mark key="." line="397" column="4" />
       </file>
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
@@ -65,6 +41,7 @@
       <file name="E:/Work/client/script/cocos/panels/city_room_danchi.py" timestamp="1568707085322">
         <mark key="'" line="585" column="56" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1568725600508" />
       <file name="E:/Work/client/script/cocos/panels/card_leichong.py" timestamp="1568708610372">
         <mark key="'" line="219" column="33" />
         <mark key="[" line="218" column="0" />
@@ -78,18 +55,6 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568104940541">
-        <mark key="[" line="3855" column="29" />
-        <mark key="]" line="3859" column="8" />
-        <mark key="^" line="3859" column="8" />
-        <mark key="." line="3859" column="8" />
-      </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" timestamp="1567754005027">
-        <mark key="[" line="257" column="70" />
-        <mark key="]" line="256" column="8" />
-        <mark key="." line="256" column="8" />
-        <mark key="^" line="256" column="8" />
-      </file>
       <file name="E:/Work/client/script/cocos/comps/common_frame/item.py" timestamp="1568710061736">
         <mark key="[" line="361" column="40" />
         <mark key="]" line="361" column="49" />
@@ -97,20 +62,15 @@
         <mark key="." line="361" column="49" />
       </file>
       <file name="E:/Work/client/script/game_scene/city_reward_show.py" timestamp="1568709922720" />
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1568723521007">
         <mark key="[" line="1925" column="8" />
-      </file>
-      <file name="E:/Work/G58SVN/tool/model_inherit_tool/Run.cmd" timestamp="1568281018168">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
       </file>
       <file name="E:/Work/client/script/entity/avatar_members/EventTriggerMember.py" timestamp="1568709246548" />
       <file name="D:/Work2/client2/script/cocos/panels/duihuan_main.py" timestamp="1568701905566">
         <mark key="'" line="404" column="18" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_furniture.py" timestamp="1568704246678" />
+      <file name="D:/Work2/client2/script/patch/patch.py" timestamp="1568724765890" />
       <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568277849576">
         <mark key="[" line="40" column="29" />
       </file>
@@ -125,7 +85,6 @@
       <file name="E:/Work/client/script/game_scene/furniture_show_scene.py" timestamp="1568709872166" />
     </filemarks>
     <jumps>
-      <jump line="613" column="37" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="2552" column="51" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
       <jump line="297" column="65" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" />
       <jump line="81" column="25" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
@@ -225,6 +184,7 @@
       <jump line="362" column="23" filename="E:/Work/client/script/cocos/panels/card_jiaozhi.py" />
       <jump line="219" column="33" filename="E:/Work/client/script/cocos/panels/card_leichong.py" />
       <jump line="144" column="29" filename="E:/Work/client/script/cocos/panels/card_jiaozhi_2.py" />
+      <jump line="500" column="48" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -302,7 +262,6 @@
         <entry>do_inherit</entry>
       </history-search>
       <history-cmd>
-        <entry>60</entry>
         <entry>573</entry>
         <entry>1901</entry>
         <entry>588</entry>
@@ -321,6 +280,7 @@
         <entry>268</entry>
         <entry>3856</entry>
         <entry>72</entry>
+        <entry>579</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
