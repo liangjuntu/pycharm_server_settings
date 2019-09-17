@@ -12,6 +12,7 @@
         <mark key="^" line="61" column="20" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/activity_147.py" timestamp="1568707809931" />
       <file name="D:/Work2/client2/script/res_mgr/effects/scene_adjust.py" timestamp="1568099533556">
         <mark key="[" line="90" column="68" />
         <mark key="]" line="90" column="69" />
@@ -27,16 +28,15 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568705399067">
+      <file name="/Python Console" timestamp="1568709880876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1568705863427">
+      <file name="E:/Work/client/script/game_scene/city.py" timestamp="1568709918120">
         <mark key="'" line="592" column="42" />
-      </file>
-      <file name="/fragment.py" timestamp="1568279489426">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+        <mark key="[" line="1516" column="60" />
+        <mark key="]" line="1516" column="47" />
+        <mark key="^" line="1516" column="47" />
+        <mark key="." line="1516" column="47" />
       </file>
       <file name="D:/Work2/client2/script/res_mgr/effects/character_fresnel.py" timestamp="1568626471735">
         <mark key="[" line="30" column="0" />
@@ -53,17 +53,32 @@
       <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568626608644">
         <mark key="'" line="7559" column="34" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/debug_ui.py" timestamp="1568710364541" />
+      <file name="E:/Work/client/script/cocos/panels/card_jiaozhi.py" timestamp="1568708580139">
+        <mark key="'" line="362" column="23" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="^" line="360" column="59" />
+        <mark key="." line="361" column="0" />
+      </file>
       <file name="E:/Work/client/script/game_scene/city_base.py" timestamp="1565764627958">
         <mark key="'" line="161" column="42" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/hero_herolist.py" timestamp="1567753213891">
         <mark key="'" line="108" column="71" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/city_room_danchi.py" timestamp="1568705917249">
+      <file name="E:/Work/client/script/cocos/panels/city_room_danchi.py" timestamp="1568707085322">
         <mark key="'" line="585" column="56" />
       </file>
       <file name="D:/Work2/client2/script/game_scene/skin_play_scene.py" timestamp="1568095569001">
         <mark key="'" line="390" column="24" />
+      </file>
+      <file name="E:/Work/client/script/cocos/panels/card_leichong.py" timestamp="1568708610372">
+        <mark key="'" line="219" column="33" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="219" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1568194986434">
         <mark key="[" line="0" column="0" />
@@ -99,7 +114,13 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567739129280">
         <mark key="'" line="28" column="34" />
       </file>
-      <file name="E:/Work/client/script/cocos/comps/common_frame/item.py" timestamp="1568703464456" />
+      <file name="E:/Work/client/script/cocos/comps/common_frame/item.py" timestamp="1568710061736">
+        <mark key="[" line="361" column="40" />
+        <mark key="]" line="361" column="49" />
+        <mark key="^" line="361" column="49" />
+        <mark key="." line="361" column="49" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/city_reward_show.py" timestamp="1568709922720" />
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
         <mark key="[" line="1925" column="8" />
       </file>
@@ -109,6 +130,7 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
+      <file name="E:/Work/client/script/entity/avatar_members/EventTriggerMember.py" timestamp="1568709246548" />
       <file name="E:/Work/client/script/game_scene/city_container.py" timestamp="1565764609822">
         <mark key="'" line="216" column="53" />
       </file>
@@ -130,11 +152,16 @@
         <mark key="." line="8" column="23" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/common_property.py" timestamp="1568703209719" />
+      <file name="E:/Work/client/script/cocos/panels/card_jiaozhi_2.py" timestamp="1568709912125">
+        <mark key="'" line="144" column="29" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="144" column="60" />
+        <mark key="." line="145" column="0" />
+      </file>
+      <file name="E:/Work/client/script/game_scene/furniture_show_scene.py" timestamp="1568709872166" />
     </filemarks>
     <jumps>
-      <jump line="81" column="22" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
-      <jump line="275" column="24" filename="E:/Work/G58SVN/source/trunk/client/script/res_mgr/posteffect_mgr.py" />
-      <jump line="65" column="42" filename="E:/Work/G58SVN/source/trunk/client/script/cocos/panels/activity_104_settlement.py" />
       <jump line="613" column="37" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="2552" column="51" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
       <jump line="297" column="65" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen.py" />
@@ -232,13 +259,16 @@
       <jump line="115" column="24" filename="D:/Work2/client2/script/cocos/panels/duihuan_main.py" />
       <jump line="404" column="18" filename="D:/Work2/client2/script/cocos/panels/duihuan_main.py" />
       <jump line="585" column="56" filename="E:/Work/client/script/cocos/panels/city_room_danchi.py" />
+      <jump line="362" column="23" filename="E:/Work/client/script/cocos/panels/card_jiaozhi.py" />
+      <jump line="219" column="33" filename="E:/Work/client/script/cocos/panels/card_leichong.py" />
+      <jump line="144" column="29" filename="E:/Work/client/script/cocos/panels/card_jiaozhi_2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcHJpbnQoJ0NvbW1vbkZyZXNuZWxFeHRfQ2hhbmdlQ29sb3InLCBkYXRhWydDaGFuZ2VDb2xvciddKQo=</text>
+      <register name="&quot;" type="4">
+        <text>furniture</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>furniture</text>
       </register>
       <register name="/" type="4">
         <text>do_inherit</text>
@@ -248,33 +278,31 @@
 #from parse_gis import *</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcHJpbnQoJ0NvbW1vbkZyZXNuZWxFeHRfQ2hhbmdlQ29sb3InLCBkYXRhWydDaGFuZ2VDb2xvciddKQo=</text>
+        <text encoding="base64">CQkJCQlzY2VuZS5zZXRfdWlfaW5mbygoZGVjb3JhdGlvblswXSwgZGVjb3JhdGlvblsxXSwgaXRlbV9kYXRhKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ld19hZ3NfcGF0aCA9IHNlbGYuZHN0X2Fnc19wYXRoLmdldCgpLnJlcGxhY2UoJy5hZ3MnLCAnX2luaGVyaXQuYWdzJykK</text>
+        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5hZGRfc2NlbmUoY29uc3QuU0NFTkVfSEVSTywgc2NlbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQlzY2VuZSA9IENJVFlfUkVXQVJEX1NIT1cuU2NlbmUobWFwX2lkPWNvbnN0LlNDRU5FX0hFUk8sIG1haW5fdWk9Z2cudWkucGFuZWxzLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9ib251cykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzZWxmLm5ld19hZ3NfcGF0aCA9IG5ld19hZ3NfcGF0aAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2VsZi5wcm9jX2V2ZW50KCdzaG93X2RlY28nLCBzZWxmLmhlcm8sIGRlY29yYXRpb25bMV0sIHNlbGYuaXRlbWlkLCBfY2hpbGRyZW49VHJ1ZSwgX2xheWVyPWxheWVyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCWdnLnVpLnBhbmVscy5kcmVhbV9tb2RlbAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>if not self.output_path.get():
-            askquestion(title='提示', message='没有输出路径')
-            return</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJbGF5ZXIgPSBzZWxmLmFkZF9sYXllcigK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
