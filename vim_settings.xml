@@ -27,7 +27,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_home.py" timestamp="1565783177852">
         <mark key="'" line="366" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1568626409832">
+      <file name="/Python Console" timestamp="1568703219010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1567493876869">
@@ -96,6 +96,7 @@
       <file name="D:/Work2/client2/script/game_scene/city_container.py" timestamp="1567739129280">
         <mark key="'" line="28" column="34" />
       </file>
+      <file name="E:/Work/client/script/cocos/comps/common_frame/item.py" timestamp="1568703464456" />
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1566457700888">
         <mark key="[" line="1925" column="8" />
       </file>
@@ -111,6 +112,7 @@
       <file name="D:/Work2/client2/script/cocos/panels/duihuan_main.py" timestamp="1568701905566">
         <mark key="'" line="404" column="18" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_furniture.py" timestamp="1568704246678" />
       <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568277849576">
         <mark key="[" line="40" column="29" />
       </file>
@@ -124,6 +126,7 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="E:/Work/client/script/cocos/panels/common_property.py" timestamp="1568703209719" />
     </filemarks>
     <jumps>
       <jump line="141" column="8" filename="E:/Work/client/script/res_mgr/effects/effect_base.py" />
