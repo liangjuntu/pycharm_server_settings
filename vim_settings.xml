@@ -29,7 +29,7 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568805736908">
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568807159663">
         <mark key="'" line="7374" column="24" />
         <mark key="[" line="7431" column="0" />
         <mark key="]" line="7431" column="57" />
@@ -85,6 +85,9 @@
         <mark key="]" line="1197" column="0" />
         <mark key="." line="1197" column="0" />
       </file>
+      <file name="D:/Work2/client2/script/cocos/panels/debug_ui.py" timestamp="1568807172311">
+        <mark key="'" line="614" column="38" />
+      </file>
       <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568277849576">
         <mark key="[" line="40" column="29" />
       </file>
@@ -103,8 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="37" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
-      <jump line="234" column="0" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="93" column="25" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="808" column="19" filename="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" />
       <jump line="173" column="39" filename="E:/Work/G58SVN/source/trunk/client/script/entity/avatar_members/PveTeamMember.py" />
@@ -203,6 +204,8 @@
       <jump line="321" column="12" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="1217" column="38" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="7374" column="24" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="614" column="38" filename="D:/Work2/client2/script/cocos/panels/debug_ui.py" />
+      <jump line="1997" column="8" filename="D:/Work2/client2/script/cocos/panels/home_hero.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
