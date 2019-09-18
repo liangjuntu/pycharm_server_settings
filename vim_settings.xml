@@ -6,7 +6,6 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/activity_147.py" timestamp="1568707809931" />
       <file name="/Python Console" timestamp="1568723405724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,7 +16,7 @@
         <mark key="^" line="1516" column="47" />
         <mark key="." line="1516" column="47" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568725174748">
+      <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568788161502">
         <mark key="'" line="502" column="48" />
         <mark key="[" line="396" column="18" />
         <mark key="]" line="397" column="4" />
@@ -27,10 +26,12 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568722183470">
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568787500280">
         <mark key="'" line="7559" column="34" />
+        <mark key="[" line="1197" column="0" />
+        <mark key="]" line="1197" column="0" />
+        <mark key="." line="1197" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/debug_ui.py" timestamp="1568710364541" />
       <file name="E:/Work/client/script/cocos/panels/card_jiaozhi.py" timestamp="1568708580139">
         <mark key="'" line="362" column="23" />
         <mark key="[" line="361" column="0" />
@@ -41,7 +42,6 @@
       <file name="E:/Work/client/script/cocos/panels/city_room_danchi.py" timestamp="1568707085322">
         <mark key="'" line="585" column="56" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/combat.py" timestamp="1568725600508" />
       <file name="E:/Work/client/script/cocos/panels/card_leichong.py" timestamp="1568708610372">
         <mark key="'" line="219" column="33" />
         <mark key="[" line="218" column="0" />
@@ -61,20 +61,17 @@
         <mark key="^" line="361" column="49" />
         <mark key="." line="361" column="49" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_reward_show.py" timestamp="1568709922720" />
-      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1568723521007">
-        <mark key="[" line="1925" column="8" />
+      <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1568787334556">
+        <mark key="[" line="1197" column="0" />
+        <mark key="]" line="1197" column="0" />
+        <mark key="." line="1197" column="0" />
       </file>
-      <file name="E:/Work/client/script/entity/avatar_members/EventTriggerMember.py" timestamp="1568709246548" />
       <file name="D:/Work2/client2/script/cocos/panels/duihuan_main.py" timestamp="1568701905566">
         <mark key="'" line="404" column="18" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_furniture.py" timestamp="1568704246678" />
-      <file name="D:/Work2/client2/script/patch/patch.py" timestamp="1568724765890" />
       <file name="E:/Work/G58SVN/tool/export_model_linux/parse_ags.py" timestamp="1568277849576">
         <mark key="[" line="40" column="29" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/common_property.py" timestamp="1568703209719" />
       <file name="E:/Work/client/script/cocos/panels/card_jiaozhi_2.py" timestamp="1568709912125">
         <mark key="'" line="144" column="29" />
         <mark key="[" line="145" column="0" />
@@ -82,7 +79,12 @@
         <mark key="^" line="144" column="60" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="E:/Work/client/script/game_scene/furniture_show_scene.py" timestamp="1568709872166" />
+      <file name="D:/Work2/client2/script/cocos/panels/combat_buff.py" timestamp="1568788166364">
+        <mark key="[" line="153" column="114" />
+        <mark key="]" line="153" column="139" />
+        <mark key="." line="153" column="139" />
+        <mark key="^" line="153" column="139" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2552" column="51" filename="E:/Work/client/script/entity/avatar_members/HeroMgrMember.py" />
@@ -187,8 +189,8 @@
       <jump line="500" column="48" filename="D:/Work2/client2/script/cocos/panels/combat.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>furniture</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="-" type="4">
         <text>furniture</text>
@@ -201,31 +203,31 @@
 #from parse_gis import *</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlzY2VuZS5zZXRfdWlfaW5mbygoZGVjb3JhdGlvblswXSwgZGVjb3JhdGlvblsxXSwgaXRlbV9kYXRhKSkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
+        <text encoding="base64">CQlfc3BfY3JlYXRlX2VuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5hZGRfc2NlbmUoY29uc3QuU0NFTkVfSEVSTywgc2NlbmUpCg==</text>
+        <text encoding="base64">CQl1c2luZ19jID0gRmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlzY2VuZSA9IENJVFlfUkVXQVJEX1NIT1cuU2NlbmUobWFwX2lkPWNvbnN0LlNDRU5FX0hFUk8sIG1haW5fdWk9Z2cudWkucGFuZWxzLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9ib251cykK</text>
+        <text encoding="base64">CQl1c2luZ19jID0gRmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQlzY2VuZS5zZXRfdWlfaW5mbygoZGVjb3JhdGlvblswXSwgZGVjb3JhdGlvblsxXSwgaXRlbV9kYXRhKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJc2VsZi5wcm9jX2V2ZW50KCdzaG93X2RlY28nLCBzZWxmLmhlcm8sIGRlY29yYXRpb25bMV0sIHNlbGYuaXRlbWlkLCBfY2hpbGRyZW49VHJ1ZSwgX2xheWVyPWxheWVyKQo=</text>
+        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJKQo=</text>
+        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5hZGRfc2NlbmUoY29uc3QuU0NFTkVfSEVSTywgc2NlbmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWdnLnVpLnBhbmVscy5kcmVhbV9tb2RlbAo=</text>
+        <text encoding="base64">CQkJCQlzY2VuZSA9IENJVFlfUkVXQVJEX1NIT1cuU2NlbmUobWFwX2lkPWNvbnN0LlNDRU5FX0hFUk8sIG1haW5fdWk9Z2cudWkucGFuZWxzLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9ib251cykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbGF5ZXIgPSBzZWxmLmFkZF9sYXllcigK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
