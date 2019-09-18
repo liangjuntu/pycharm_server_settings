@@ -6,7 +6,7 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1568723405724">
+      <file name="/Python Console" timestamp="1568792079118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1568709918120">
@@ -15,6 +15,9 @@
         <mark key="]" line="1516" column="47" />
         <mark key="^" line="1516" column="47" />
         <mark key="." line="1516" column="47" />
+      </file>
+      <file name="/fragment.py" timestamp="1568791257635">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568788161502">
         <mark key="'" line="502" column="48" />
@@ -39,9 +42,12 @@
         <mark key="^" line="360" column="59" />
         <mark key="." line="361" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/city_room_danchi.py" timestamp="1568789530951">
+      <file name="E:/Work/client/script/cocos/panels/city_room_danchi.py" timestamp="1568792468777">
         <mark key="'" line="549" column="35" />
-        <mark key="[" line="547" column="60" />
+        <mark key="[" line="552" column="63" />
+        <mark key="]" line="553" column="4" />
+        <mark key="." line="553" column="4" />
+        <mark key="^" line="553" column="4" />
       </file>
       <file name="E:/Work/client/script/cocos/panels/card_leichong.py" timestamp="1568708610372">
         <mark key="'" line="219" column="33" />
@@ -56,13 +62,24 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap4d_utf8.py" timestamp="1566529156663">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Work/client/script/cocos/comps/common_frame/item.py" timestamp="1568710061736">
+      <file name="E:/Work/client/script/cocos/panels/settlement_fullscreen_bonus.py" timestamp="1568792526095">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="39" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="E:/Work/client/script/cocos/comps/common_frame/item.py" timestamp="1568792491602">
         <mark key="[" line="361" column="40" />
         <mark key="]" line="361" column="49" />
         <mark key="^" line="361" column="49" />
         <mark key="." line="361" column="49" />
       </file>
-      <file name="E:/Work/client/script/game_scene/city_reward_show.py" timestamp="1568789554115" />
+      <file name="E:/Work/client/script/game_scene/city_reward_show.py" timestamp="1568792509690">
+        <mark key="[" line="77" column="45" />
+        <mark key="]" line="77" column="60" />
+        <mark key="^" line="77" column="60" />
+        <mark key="." line="77" column="60" />
+      </file>
       <file name="E:/Work/client/script/cocos/ui_utils.py" timestamp="1568787334556">
         <mark key="[" line="1197" column="0" />
         <mark key="]" line="1197" column="0" />
@@ -189,44 +206,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJc2VsZi5pdGVtX2RhdGEgPSB1aV9pbmZvWzJdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>furniture</text>
+        <text>decoration</text>
       </register>
       <register name="/" type="4">
         <text>do_inherit</text>
       </register>
-      <register name="0" type="4">
-        <text>#from parse_ags import *
-#from parse_gis import *</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJc2VsZi5pdGVtX2RhdGEgPSB1aV9pbmZvWzJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlfc3BfY3JlYXRlX2VuZAo=</text>
+        <text encoding="base64">CQlzY2VuZS5zZXRfdWlfaW5mbygoc2tpbl9pZCwgTm9uZSwgaXRlbV9kYXRhKSwgQ0lUWV9SRVdBUkRfU0hPVy5TSE9XX01PREVfU0tJTikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl1c2luZ19jID0gRmFsc2UK</text>
+        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl1c2luZ19jID0gRmFsc2UK</text>
+        <text encoding="base64">CQlzY2VuZS5zZXRfdWlfaW5mbygoc2tpbl9pZCwgTm9uZSwgaXRlbV9kYXRhKSwgQ0lUWV9SRVdBUkRfU0hPVy5TSE9XX01PREVfU0tJTikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlzY2VuZS5zZXRfdWlfaW5mbygoZGVjb3JhdGlvblswXSwgZGVjb3JhdGlvblsxXSwgaXRlbV9kYXRhKSkK</text>
+        <text encoding="base64">CQkjIGdnLmNpdHlfY29udGFpbmVyLmVudGVyX2hlcm9fY2xvdGhlcyhoZXJvX2lkLHN0b3JlX2l0ZW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
+        <text encoding="base64">CQkjVE9ETyC7u7PJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlnZy5jaXR5X2NvbnRhaW5lci5hZGRfc2NlbmUoY29uc3QuU0NFTkVfSEVSTywgc2NlbmUpCg==</text>
+        <text encoding="base64">CQkjaGVyb19pZCA9IFNLSU5fREFUQS5kYXRhW3NraW5faWRdWydoZXJvJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlzY2VuZSA9IENJVFlfUkVXQVJEX1NIT1cuU2NlbmUobWFwX2lkPWNvbnN0LlNDRU5FX0hFUk8sIG1haW5fdWk9Z2cudWkucGFuZWxzLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9ib251cykK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlfc3BfY3JlYXRlX2VuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
