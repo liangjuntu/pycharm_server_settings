@@ -6,7 +6,7 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1568793647612">
+      <file name="/Python Console" timestamp="1568860700655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1568793722380">
@@ -16,7 +16,7 @@
         <mark key="^" line="1530" column="84" />
         <mark key="." line="1530" column="84" />
       </file>
-      <file name="/fragment.py" timestamp="1568791257635">
+      <file name="/fragment.py" timestamp="1568860823647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568788161502">
@@ -29,14 +29,13 @@
       <file name="E:/Papers/SMAA/MLAA/04 - Practical Morphological Antialiasing/scripts/areamap2d_utf8.py" timestamp="1566529187887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568811484206">
-        <mark key="'" line="7374" column="24" />
-        <mark key="[" line="7437" column="9" />
-        <mark key="]" line="7437" column="4" />
-        <mark key="." line="7437" column="4" />
-        <mark key="^" line="7437" column="4" />
+      <file name="D:/Work2/client2/script/cocos/ui_utils.py" timestamp="1568860781555">
+        <mark key="'" line="7374" column="26" />
+        <mark key="[" line="3876" column="32" />
+        <mark key="]" line="3877" column="15" />
+        <mark key="." line="3877" column="15" />
+        <mark key="^" line="3877" column="15" />
       </file>
-      <file name="E:/Work/client/script/cocos/panels/debug_ui.py" timestamp="1568809510849" />
       <file name="E:/Work/client/script/cocos/panels/card_jiaozhi.py" timestamp="1568708580139">
         <mark key="'" line="362" column="23" />
         <mark key="[" line="361" column="0" />
@@ -109,7 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="808" column="19" filename="E:/Work2/f7/prog/tool/art_editor/scripts/f7city/script/waigua/city_maker.py" />
       <jump line="173" column="39" filename="E:/Work/G58SVN/source/trunk/client/script/entity/avatar_members/PveTeamMember.py" />
       <jump line="608" column="56" filename="E:/Work/client/script/game_scene/skin_play_scene.py" />
       <jump line="241" column="27" filename="E:/Work/client/script/cocos/panels/settlement_fullscreen_fashion.py" />
@@ -205,14 +203,15 @@
       <jump line="548" column="35" filename="E:/Work/client/script/cocos/panels/city_room_danchi.py" />
       <jump line="321" column="12" filename="E:/Work/client/script/game_scene/city_container.py" />
       <jump line="1217" column="38" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
-      <jump line="7374" column="24" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
       <jump line="614" column="38" filename="D:/Work2/client2/script/cocos/panels/debug_ui.py" />
       <jump line="1997" column="8" filename="D:/Work2/client2/script/cocos/panels/home_hero.py" />
       <jump line="298" column="62" filename="D:/Work2/client2/script/cocos/panels/debug_ui.py" />
+      <jump line="7437" column="25" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
+      <jump line="7374" column="26" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXNlbGYubW9kZWwudXBkYXRlX3NpbXVsYXRlKHRhcmdldF9lbGFwc2UpCg==</text>
+        <text encoding="base64">CQkJCXBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>furniture</text>
@@ -224,28 +223,28 @@
         <text encoding="base64">CQkJCXNlbGYubW9kZWwudXBkYXRlX3NpbXVsYXRlKHRhcmdldF9lbGFwc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlzY2VuZSA9IENJVFlfUkVXQVJEX1NIT1cuU2NlbmUobWFwX2lkPWNvbnN0LlNDRU5FX0hFUk8sIG1haW5fdWk9Z2cudWkucGFuZWxzLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9ib251cykK</text>
+        <text encoding="base64">CQkJCXBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
+        <text encoding="base64">CQkJYnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzY2VuZS5zZXRfdWlfaW5mbygoc2tpbl9pZCwgTm9uZSwgaXRlbV9kYXRhKSwgQ0lUWV9SRVdBUkRfU0hPVy5TSE9XX01PREVfU0tJTikK</text>
+        <text encoding="base64">CQlzY2VuZSA9IENJVFlfUkVXQVJEX1NIT1cuU2NlbmUobWFwX2lkPWNvbnN0LlNDRU5FX0hFUk8sIG1haW5fdWk9Z2cudWkucGFuZWxzLnNldHRsZW1lbnRfZnVsbHNjcmVlbl9ib251cykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5hZGRfc2NlbmUoY29uc3QuU0NFTkVfSEVSTywgc2NlbmUpCg==</text>
+        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpdGVtX2RhdGEgPSBJVEVNX0RBVEEuZGF0YS5nZXQoaXRlbV9pZCwge30pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQlzY2VuZS5zZXRfdWlfaW5mbygoc2tpbl9pZCwgTm9uZSwgaXRlbV9kYXRhKSwgQ0lUWV9SRVdBUkRfU0hPVy5TSE9XX01PREVfU0tJTikK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5hZGRfc2NlbmUoY29uc3QuU0NFTkVfSEVSTywgc2NlbmUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlpdGVtX2RhdGEgPSBJVEVNX0RBVEEuZGF0YS5nZXQoaXRlbV9pZCwge30pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlnZy5jaXR5X2NvbnRhaW5lci5zd2l0Y2hfc2ltcGxlX3NjZW5lKGNvbnN0LlNDRU5FX0hFUk8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQlzY2VuZS5zZXRfdWlfaW5mbygoc2tpbl9pZCwgTm9uZSwgaXRlbV9kYXRhKSwgQ0lUWV9SRVdBUkRfU0hPVy5TSE9XX01PREVfU0tJTikK</text>
