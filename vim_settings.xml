@@ -6,7 +6,7 @@
       <file name="E:/Work/client/script/cocos/panels/home_hero.py" timestamp="1566355243037">
         <mark key="[" line="2009" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1568881152257">
+      <file name="/Python Console" timestamp="1568883827409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Work/client/script/game_scene/city.py" timestamp="1568793722380">
@@ -16,7 +16,7 @@
         <mark key="^" line="1530" column="84" />
         <mark key="." line="1530" column="84" />
       </file>
-      <file name="/fragment.py" timestamp="1568860823647">
+      <file name="/fragment.py" timestamp="1568883840632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work2/client2/script/cocos/panels/combat.py" timestamp="1568788161502">
@@ -70,7 +70,12 @@
         <mark key="^" line="61" column="65" />
         <mark key="." line="61" column="65" />
       </file>
-      <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568882596508" />
+      <file name="D:/Work2/client2/script/game_scene/components/FurnitureDesignerComp.py" timestamp="1568883852140">
+        <mark key="[" line="1425" column="76" />
+        <mark key="]" line="1425" column="74" />
+        <mark key="." line="1425" column="74" />
+        <mark key="^" line="1425" column="74" />
+      </file>
       <file name="D:/Work2/client2/script/res_mgr/posteffect_mgr.py" timestamp="1568881208161" />
       <file name="E:/Work/client/script/cocos/comps/common_frame/item.py" timestamp="1568795230678">
         <mark key="[" line="371" column="54" />
@@ -213,17 +218,17 @@
       <jump line="7374" column="26" filename="D:/Work2/client2/script/cocos/ui_utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW5kIGdnLmNvbmZpZ1sncXVhbGl0eV9sZXZlbCddID49IFFNLlF1YWxpdHlMZXZlbC5IaWdoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>furniture</text>
+        <text encoding="base64">YW5kIGdnLmNvbmZpZ1sncXVhbGl0eV9sZXZlbCddID49IFFNLlF1YWxpdHlMZXZlbC5IaWdoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>do_inherit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXNlbGYubW9kZWwudXBkYXRlX3NpbXVsYXRlKHRhcmdldF9lbGFwc2UpCg==</text>
+        <text encoding="base64">CQkJCXNlbGYubW9kZWwuc2hvd19leHRfdGVjaG5pcXVlKHJlbmRlci5FWFRfVEVDSF9TTU9PVEhfT1VUTElORSwgVHJ1ZSBhbmQgZ2cuY29uZmlnWydxdWFsaXR5X2xldmVsJ10gPj0gUU0uUXVhbGl0eUxldmVsLkhpZ2gpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlyZXR1cm4K</text>
