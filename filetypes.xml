@@ -6,6 +6,7 @@
       <mapping ext="ush" type="GLSL shader file" />
       <mapping ext="usf" type="GLSL shader file" />
       <mapping ext="tml" type="PLAIN_TEXT" />
+      <mapping pattern="quality_setting" type="Python" />
       <removed_mapping ext="usf" approved="true" type="Native" />
     </extensionMap>
   </component>
