@@ -16,7 +16,7 @@
   <tool name="Debug Messiah" description="Debug Messiah" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="cmd.exe" />
-      <option name="PARAMETERS" value="/C start F:\G67\trunk\Engine\Binaries\Win64\Game_x64h.exe --dx11 --console --start=Python --python-args=pycharm_debug" />
+      <option name="PARAMETERS" value="/C start E:\G67\trunk\Engine\Binaries\Win64\Game_x64h.exe --dx11 --console --start=Python --python-args=pycharm_debug" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
